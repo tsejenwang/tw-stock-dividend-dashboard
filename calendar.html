@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>除權息日程表 - 台股資訊儀表板</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/css/style.css" rel="stylesheet">
+</head>
+<body>
+
+<div id="site-nav"></div>
+
+<main class="container">
+  <div class="table-container">
+    <div class="d-flex flex-wrap justify-content-between align-items-center gap-2 mb-3">
+      <ul class="nav nav-pills mb-0" id="periodTabs">
+        <li class="nav-item">
+          <button class="nav-link active" data-period="upcoming" type="button">即將到來</button>
+        </li>
+        <li class="nav-item">
+          <button class="nav-link" data-period="recent" type="button">近期已發生</button>
+        </li>
+      </ul>
+
+      <div class="d-flex flex-wrap gap-2">
+        <input type="text" id="searchInput" class="form-control form-control-sm" placeholder="搜尋代號或名稱" style="width: 10rem;">
+        <select id="marketFilter" class="form-select form-select-sm" style="width: 8rem;">
+          <option value="">全部市場</option>
+          <option value="tse">上市</option>
+          <option value="otc">上櫃</option>
+        </select>
+      </div>
+    </div>
+
+    <p class="data-date-note mb-2" id="dataDateNote"></p>
+
+    <div class="table-responsive">
+      <table class="table table-hover data-table">
+        <thead class="table-dark">
+          <tr>
+            <th>除權息日</th>
+            <th>代號</th>
+            <th>名稱</th>
+            <th>市場</th>
+            <th>類別</th>
+            <th>現金股利</th>
+            <th>無償配股率(%)</th>
+          </tr>
+        </thead>
+        <tbody id="calendarBody">
+          <tr><td colspan="7" class="state-message">載入中...</td></tr>
+        </tbody>
+      </table>
+    </div>
+
+    <p class="disclaimer">
+      資料來源:證交所(TWSE)／櫃買中心(TPEx)除權除息預告表開放資料,涵蓋範圍以官方目前公告的資料為準,
+      僅供參考,實際除權息日期與金額請以公司公告為準。
+    </p>
+  </div>
+</main>
+
+<footer class="text-center mt-5 mb-4 text-muted">
+  <p>台股資訊儀表板</p>
+</footer>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+<script>window.ACTIVE_PAGE = "calendar";</script>
+<script src="assets/js/nav.js"></script>
+<script src="assets/js/data-utils.js"></script>
+<script>
+  let calendarData = null;
+  let activePeriod = "upcoming";
+
+  function applyFiltersAndRender() {
+    const tbody = document.getElementById("calendarBody");
+    if (!calendarData) return;
+
+    const keyword = document.getElementById("searchInput").value.trim();
+    const market = document.getElementById("marketFilter").value;
+    let rows = calendarData[activePeriod] || [];
+
+    if (keyword) {
+      rows = rows.filter((r) => r.code.includes(keyword) || (r.name && r.name.includes(keyword)));
+    }
+    if (market) {
+      rows = rows.filter((r) => r.market === market);
+    }
+
+    if (rows.length === 0) {
+      DataUtils.showState(tbody, "沒有符合條件的除權息資料。");
+      return;
+    }
+
+    tbody.innerHTML = rows.map((r) => `
+      <tr>
+        <td>${r.ex_date}</td>
+        <td>${DataUtils.escapeHTML(r.code)}</td>
+        <td>${DataUtils.escapeHTML(r.name)}</td>
+        <td><span class="market-badge">${DataUtils.marketLabel(r.market)}</span></td>
+        <td>${DataUtils.escapeHTML(r.type || "-")}</td>
+        <td>${r.cash_dividend != null ? r.cash_dividend : "-"}</td>
+        <td>${r.stock_dividend_ratio != null ? r.stock_dividend_ratio : "-"}</td>
+      </tr>
+    `).join("");
+  }
+
+  async function init() {
+    const tbody = document.getElementById("calendarBody");
+    try {
+      calendarData = await DataUtils.fetchJSON("data/ex_dividend_calendar.json");
+      document.getElementById("dataDateNote").textContent = `資料更新日期:${calendarData.generated_at}`;
+      applyFiltersAndRender();
+    } catch (err) {
+      console.error(err);
+      DataUtils.showState(tbody, "資料載入失敗,請確認排程是否已產生最新資料(data/ex_dividend_calendar.json)。");
+    }
+  }
+
+  document.querySelectorAll("#periodTabs button").forEach((btn) => {
+    btn.addEventListener("click", () => {
+      document.querySelectorAll("#periodTabs button").forEach((b) => b.classList.remove("active"));
+      btn.classList.add("active");
+      activePeriod = btn.dataset.period;
+      applyFiltersAndRender();
+    });
+  });
+  document.getElementById("searchInput").addEventListener("input", applyFiltersAndRender);
+  document.getElementById("marketFilter").addEventListener("change", applyFiltersAndRender);
+
+  init();
+</script>
+</body>
+</html>

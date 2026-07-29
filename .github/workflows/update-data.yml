@@ -1,0 +1,52 @@
+# 任務 07:自動化排程管線(草稿)
+#
+# 這個檔案還沒有實際推到 GitHub 執行過 —— 這個環境沒有安裝 git,repo 也還沒推上
+# GitHub(見 tasks/11-deployment.md,需要先跟需求方確認 repo 設定才能執行部署)。
+# 這裡先把 workflow 寫好放著,等任務 11 實際 push 上 GitHub 之後再驗證能否觸發成功。
+#
+# 排程時間:每個交易日(週一~五)台北時間 14:30(= UTC 06:30)執行,
+# 抓在證交所/櫃買中心下午 1:30 收盤、資料更新完成之後的時段。
+
+name: Update stock data
+
+on:
+  schedule:
+    - cron: "30 6 * * 1-5"
+  workflow_dispatch: {}  # 方便手動觸發測試
+
+permissions:
+  contents: write
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: 任務02 - 當年殖利率排行
+        run: python scripts/fetch_current_yield.py
+
+      - name: 任務03 - 5年/10年平均殖利率排行
+        run: python scripts/fetch_multi_year_yield.py
+
+      - name: 任務04 - 除權除息日程表
+        run: python scripts/fetch_ex_dividend_calendar.py
+
+      - name: 任務05 - 合理價試算(依賴任務03的輸出)
+        run: python scripts/compute_fair_value.py
+
+      - name: Commit and push updated data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          git diff --cached --quiet && echo "No data changes" && exit 0
+          git commit -m "chore: update daily stock data $(date -u +'%Y-%m-%d')"
+          git push

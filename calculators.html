@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>合理價／風險試算 - 台股資訊儀表板</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/css/style.css" rel="stylesheet">
+</head>
+<body>
+
+<div id="site-nav"></div>
+
+<main class="container">
+
+  <!-- ===== 合理價查詢 ===== -->
+  <section class="table-container">
+    <h4 class="mb-3">定存股：合理價查詢</h4>
+
+    <div class="alert alert-light border" role="alert">
+      <strong>簡易操作教學：</strong>便宜價時買進，合理價時持有，昂貴價時賣出，再依股票基本面的變化和
+      個人對殖利率的要求做調整。選擇股票時，以最近五年現金股利持續成長或保持平穩者為佳，避開現金股利
+      大起大落的股票。
+    </div>
+
+    <div class="input-group mb-3" style="max-width: 24rem;">
+      <input type="text" id="fvSearchInput" class="form-control" placeholder="輸入股票代號或名稱，例如 2330 或 台積電">
+      <button class="btn btn-primary" id="fvSearchBtn" type="button">查詢</button>
+    </div>
+    <div id="fvSearchMatches" class="mb-3"></div>
+
+    <div id="fvResult"></div>
+
+    <p class="disclaimer">
+      合理價 = 最近 5 年平均現金股利 × 20（年息 5%）／便宜價 × 16（年息 6.25%）／昂貴價 × 32（年息 3.125%）。
+      這是粗略的估算方式，不是投資建議，請自行評估公司基本面再做投資決策。
+    </p>
+  </section>
+
+  <!-- ===== 風險試算 ===== -->
+  <section class="table-container">
+    <h4 class="mb-3">定存股：風險試算</h4>
+    <p class="text-muted">
+      股票有漲有跌，當期末股價往下跌時，會使得報酬率往下掉，但因為好的定存股每年都有配息，未必會造成虧損。
+      這裡試算股價要跌到多少，投資報酬率還會是正值（打平點）。
+    </p>
+
+    <form id="riskForm" class="row g-3" style="max-width: 40rem;">
+      <div class="col-6 col-sm-3">
+        <label class="form-label" for="buyPrice">買入股價</label>
+        <input type="number" step="0.01" class="form-control" id="buyPrice" required>
+      </div>
+      <div class="col-6 col-sm-3">
+        <label class="form-label" for="endPrice">期末股價</label>
+        <input type="number" step="0.01" class="form-control" id="endPrice" required>
+      </div>
+      <div class="col-6 col-sm-3">
+        <label class="form-label" for="dividend">今年配息</label>
+        <input type="number" step="0.01" class="form-control" id="dividend" required>
+      </div>
+      <div class="col-6 col-sm-3">
+        <label class="form-label" for="years">持有年數</label>
+        <input type="number" step="0.1" class="form-control" id="years" value="1" required>
+      </div>
+      <div class="col-12">
+        <button type="submit" class="btn btn-primary">試算</button>
+      </div>
+    </form>
+
+    <div id="riskResult" class="mt-3"></div>
+
+    <p class="disclaimer">
+      投資報酬率 = (期末股價 − 買入股價 + 今年配息 × 持有年數) ÷ 買入股價 × 100%；
+      最低可容忍股價 = 買入股價 − 今年配息 × 持有年數。僅供參考的粗略試算，不是投資建議。
+    </p>
+  </section>
+
+</main>
+
+<footer class="text-center mt-5 mb-4 text-muted">
+  <p>台股資訊儀表板</p>
+</footer>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+<script>window.ACTIVE_PAGE = "calculators";</script>
+<script src="assets/js/nav.js"></script>
+<script src="assets/js/data-utils.js"></script>
+<script src="assets/js/risk.js"></script>
+<script>
+  let fairValueData = null;
+
+  async function loadFairValueData() {
+    try {
+      fairValueData = await DataUtils.fetchJSON("data/fair_value.json");
+    } catch (err) {
+      console.error(err);
+      document.getElementById("fvResult").innerHTML =
+        `<div class="state-message">合理價資料載入失敗，請確認排程是否已產生 data/fair_value.json。</div>`;
+    }
+  }
+
+  function searchFairValue() {
+    const keyword = document.getElementById("fvSearchInput").value.trim();
+    const matchesEl = document.getElementById("fvSearchMatches");
+    const resultEl = document.getElementById("fvResult");
+    matchesEl.innerHTML = "";
+    resultEl.innerHTML = "";
+    if (!fairValueData || !keyword) return;
+
+    if (fairValueData[keyword]) {
+      renderFairValue(keyword);
+      return;
+    }
+
+    const matches = Object.entries(fairValueData)
+      .filter(([code, info]) => info.name && info.name.includes(keyword))
+      .slice(0, 20);
+
+    if (matches.length === 0) {
+      DataUtils.showState(resultEl, `查無「${keyword}」的合理價資料（可能是樣本不足或代號輸入錯誤）。`);
+      return;
+    }
+    if (matches.length === 1) {
+      renderFairValue(matches[0][0]);
+      return;
+    }
+    matchesEl.innerHTML = matches.map(([code, info]) =>
+      `<button class="btn btn-outline-secondary btn-sm me-2 mb-2" data-code="${code}">${DataUtils.escapeHTML(info.name)} (${code})</button>`
+    ).join("");
+    matchesEl.querySelectorAll("button").forEach((btn) => {
+      btn.addEventListener("click", () => renderFairValue(btn.dataset.code));
+    });
+  }
+
+  function renderFairValue(code) {
+    const info = fairValueData[code];
+    const resultEl = document.getElementById("fvResult");
+    if (!info) {
+      DataUtils.showState(resultEl, "查無資料。");
+      return;
+    }
+    resultEl.innerHTML = `
+      <div class="card">
+        <div class="card-body">
+          <h5 class="card-title">${DataUtils.escapeHTML(info.name)} (${code})</h5>
+          <p class="text-muted mb-2">近 ${info.sample_years} 年平均現金股利：${info.avg_dividend_5y} 元</p>
+          <div class="row text-center">
+            <div class="col-4">
+              <div class="text-success fw-bold fs-5">${info.cheap}</div>
+              <div class="text-muted small">便宜價</div>
+            </div>
+            <div class="col-4">
+              <div class="fw-bold fs-5">${info.reasonable}</div>
+              <div class="text-muted small">合理價</div>
+            </div>
+            <div class="col-4">
+              <div class="text-danger fw-bold fs-5">${info.expensive}</div>
+              <div class="text-muted small">昂貴價</div>
+            </div>
+          </div>
+          <button class="btn btn-link mt-2 p-0" id="fillRiskFormBtn">用這檔股票的平均股利試算風險 →</button>
+        </div>
+      </div>
+    `;
+    document.getElementById("fillRiskFormBtn").addEventListener("click", () => {
+      document.getElementById("buyPrice").value = info.reasonable;
+      document.getElementById("dividend").value = info.avg_dividend_5y;
+      document.getElementById("riskForm").scrollIntoView({ behavior: "smooth" });
+    });
+  }
+
+  document.getElementById("fvSearchBtn").addEventListener("click", searchFairValue);
+  document.getElementById("fvSearchInput").addEventListener("keydown", (e) => {
+    if (e.key === "Enter") { e.preventDefault(); searchFairValue(); }
+  });
+
+  document.getElementById("riskForm").addEventListener("submit", (e) => {
+    e.preventDefault();
+    const input = {
+      buyPrice: document.getElementById("buyPrice").value,
+      endPrice: document.getElementById("endPrice").value,
+      dividend: document.getElementById("dividend").value,
+      years: document.getElementById("years").value,
+    };
+    const result = RiskCalc.calc(input);
+    const resultEl = document.getElementById("riskResult");
+    if (!result.ok) {
+      resultEl.innerHTML = `<div class="alert alert-danger">${DataUtils.escapeHTML(result.error)}</div>`;
+      return;
+    }
+    const rateClass = result.returnRate >= 0 ? "text-success" : "text-danger";
+    resultEl.innerHTML = `
+      <div class="card">
+        <div class="card-body row text-center">
+          <div class="col-6 col-sm-3 mb-2">
+            <div class="fw-bold fs-5 ${rateClass}">${result.returnRate}%</div>
+            <div class="text-muted small">投資報酬率</div>
+          </div>
+          <div class="col-6 col-sm-3 mb-2">
+            <div class="fw-bold fs-5">${result.breakevenPrice}</div>
+            <div class="text-muted small">最低可容忍股價</div>
+          </div>
+          <div class="col-6 col-sm-3 mb-2">
+            <div class="fw-bold fs-5">${result.toleratedDropAmount}</div>
+            <div class="text-muted small">可容忍下跌金額</div>
+          </div>
+          <div class="col-6 col-sm-3 mb-2">
+            <div class="fw-bold fs-5">${result.toleratedDropPct}%</div>
+            <div class="text-muted small">可容忍下跌百分比</div>
+          </div>
+        </div>
+      </div>
+      ${result.noDividendBuffer ? '<div class="alert alert-warning mt-2">今年配息為 0，沒有配息緩衝，沒有安全邊際。</div>' : ""}
+    `;
+  });
+
+  loadFairValueData();
+</script>
+</body>
+</html>

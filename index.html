@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>台股殖利率排行榜 - 台股資訊儀表板</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/css/style.css" rel="stylesheet">
+</head>
+<body>
+
+<div id="site-nav"></div>
+
+<main class="container">
+  <div class="table-container">
+    <ul class="nav nav-pills mb-3" id="rankingTabs" role="tablist">
+      <li class="nav-item" role="presentation">
+        <button class="nav-link active" data-tab="current" type="button">當年殖利率</button>
+      </li>
+      <li class="nav-item" role="presentation">
+        <button class="nav-link" data-tab="5y" type="button">近5年平均殖利率</button>
+      </li>
+      <li class="nav-item" role="presentation">
+        <button class="nav-link" data-tab="10y" type="button">近10年平均殖利率</button>
+      </li>
+    </ul>
+
+    <p class="data-date-note mb-2" id="dataDateNote"></p>
+
+    <div class="table-responsive">
+      <table class="table table-hover data-table">
+        <thead class="table-dark">
+          <tr>
+            <th>排名</th>
+            <th>代號</th>
+            <th>名稱</th>
+            <th>市場</th>
+            <th id="yieldColHeader">殖利率(%)</th>
+          </tr>
+        </thead>
+        <tbody id="rankingBody">
+          <tr><td colspan="5" class="state-message">載入中...</td></tr>
+        </tbody>
+      </table>
+    </div>
+
+    <p class="disclaimer">
+      資料來源:證交所(TWSE)／櫃買中心(TPEx)開放資料。殖利率排行僅反映歷史股利與股價,
+      不代表未來報酬,僅供參考,不是投資建議。
+    </p>
+  </div>
+</main>
+
+<footer class="text-center mt-5 mb-4 text-muted">
+  <p>台股資訊儀表板</p>
+</footer>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+<script>window.ACTIVE_PAGE = "rankings";</script>
+<script src="assets/js/nav.js"></script>
+<script src="assets/js/data-utils.js"></script>
+<script>
+  const TAB_CONFIG = {
+    current: { file: "data/current_yield_top20.json", yieldKey: "yield", header: "殖利率(%)" },
+    "5y": { file: "data/yield_5y_top20.json", yieldKey: "avg_yield", header: "近5年平均殖利率(%)" },
+    "10y": { file: "data/yield_10y_top20.json", yieldKey: "avg_yield", header: "近10年平均殖利率(%)" },
+  };
+
+  let activeTab = "current";
+
+  async function loadTab(tabKey) {
+    const cfg = TAB_CONFIG[tabKey];
+    const tbody = document.getElementById("rankingBody");
+    const dateNote = document.getElementById("dataDateNote");
+    document.getElementById("yieldColHeader").textContent = cfg.header;
+    DataUtils.showState(tbody, "載入中...");
+    dateNote.textContent = "";
+
+    try {
+      const rows = await DataUtils.fetchJSON(cfg.file);
+      if (!rows || rows.length === 0) {
+        DataUtils.showState(tbody, "目前沒有可顯示的排行資料。");
+        return;
+      }
+      tbody.innerHTML = rows.map((r, i) => `
+        <tr>
+          <td><span class="rank-badge">${i + 1}</span></td>
+          <td>${DataUtils.escapeHTML(r.code)}</td>
+          <td>${DataUtils.escapeHTML(r.name)}</td>
+          <td><span class="market-badge">${DataUtils.marketLabel(r.market)}</span></td>
+          <td class="text-success fw-bold">${r[cfg.yieldKey]}%</td>
+        </tr>
+      `).join("");
+
+      if (tabKey === "current" && rows[0] && rows[0].date) {
+        dateNote.textContent = `資料日期:${rows[0].date}`;
+      } else if (tabKey !== "current") {
+        dateNote.textContent = "資料基準:近年 6/30 附近抽樣交易日殖利率快照的平均值";
+      }
+    } catch (err) {
+      console.error(err);
+      DataUtils.showState(tbody, "資料載入失敗,請確認排程是否已產生最新資料(data/ 資料夾底下的 JSON 檔)。");
+    }
+  }
+
+  document.querySelectorAll("#rankingTabs button").forEach((btn) => {
+    btn.addEventListener("click", () => {
+      document.querySelectorAll("#rankingTabs button").forEach((b) => b.classList.remove("active"));
+      btn.classList.add("active");
+      activeTab = btn.dataset.tab;
+      loadTab(activeTab);
+    });
+  });
+
+  loadTab(activeTab);
+</script>
+</body>
+</html>

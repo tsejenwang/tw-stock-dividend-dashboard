@@ -1,0 +1,142 @@
+[
+  {
+    "code": "4930",
+    "name": "燦星網",
+    "market": "tse",
+    "avg_yield": 11.208,
+    "sample_years": 5
+  },
+  {
+    "code": "2603",
+    "name": "長榮",
+    "market": "tse",
+    "avg_yield": 11.013,
+    "sample_years": 4
+  },
+  {
+    "code": "2545",
+    "name": "皇翔",
+    "market": "tse",
+    "avg_yield": 10.266,
+    "sample_years": 5
+  },
+  {
+    "code": "3056",
+    "name": "富華新",
+    "market": "tse",
+    "avg_yield": 10.21,
+    "sample_years": 5
+  },
+  {
+    "code": "2609",
+    "name": "陽明",
+    "market": "tse",
+    "avg_yield": 9.383,
+    "sample_years": 4
+  },
+  {
+    "code": "3679",
+    "name": "新至陞",
+    "market": "tse",
+    "avg_yield": 9.19,
+    "sample_years": 5
+  },
+  {
+    "code": "2636",
+    "name": "台驊控股",
+    "market": "tse",
+    "avg_yield": 9.132,
+    "sample_years": 5
+  },
+  {
+    "code": "3211",
+    "name": "順達",
+    "market": "otc",
+    "avg_yield": 9.124,
+    "sample_years": 5
+  },
+  {
+    "code": "5609",
+    "name": "中菲行",
+    "market": "otc",
+    "avg_yield": 8.972,
+    "sample_years": 5
+  },
+  {
+    "code": "5508",
+    "name": "永信建",
+    "market": "otc",
+    "avg_yield": 8.878,
+    "sample_years": 5
+  },
+  {
+    "code": "3592",
+    "name": "瑞鼎",
+    "market": "tse",
+    "avg_yield": 8.872,
+    "sample_years": 4
+  },
+  {
+    "code": "6026",
+    "name": "福邦證",
+    "market": "otc",
+    "avg_yield": 8.694,
+    "sample_years": 5
+  },
+  {
+    "code": "6523",
+    "name": "達爾膚",
+    "market": "otc",
+    "avg_yield": 8.676,
+    "sample_years": 5
+  },
+  {
+    "code": "2020",
+    "name": "美亞",
+    "market": "tse",
+    "avg_yield": 8.646,
+    "sample_years": 5
+  },
+  {
+    "code": "4735",
+    "name": "豪展",
+    "market": "otc",
+    "avg_yield": 8.43,
+    "sample_years": 5
+  },
+  {
+    "code": "6606",
+    "name": "建德工業",
+    "market": "tse",
+    "avg_yield": 8.383,
+    "sample_years": 3
+  },
+  {
+    "code": "4440",
+    "name": "宜新實業",
+    "market": "tse",
+    "avg_yield": 8.355,
+    "sample_years": 4
+  },
+  {
+    "code": "8924",
+    "name": "大田",
+    "market": "otc",
+    "avg_yield": 8.288,
+    "sample_years": 5
+  },
+  {
+    "code": "2065",
+    "name": "世豐",
+    "market": "otc",
+    "avg_yield": 8.244,
+    "sample_years": 5
+  },
+  {
+    "code": "5519",
+    "name": "隆大",
+    "market": "tse",
+    "avg_yield": 8.144,
+    "sample_years": 5
+  }
+]
