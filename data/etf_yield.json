@@ -1,0 +1,4027 @@
+{
+  "0050": {
+    "name": "元大台灣50",
+    "years": {
+      "2025": {
+        "total_dividend": 1.035,
+        "yield": 2.143,
+        "num_payments": 2,
+        "frequency_label": "半年配",
+        "ref_price": 48.29
+      },
+      "2024": {
+        "total_dividend": 1.0,
+        "yield": 2.145,
+        "num_payments": 2,
+        "frequency_label": "半年配",
+        "ref_price": 46.612
+      },
+      "2023": {
+        "total_dividend": 1.125,
+        "yield": 3.487,
+        "num_payments": 2,
+        "frequency_label": "半年配",
+        "ref_price": 32.263
+      },
+      "2022": {
+        "total_dividend": 1.308,
+        "yield": 4.402,
+        "num_payments": 3,
+        "frequency_label": "3次配息",
+        "ref_price": 29.7
+      },
+      "2021": {
+        "total_dividend": 0.85,
+        "yield": 2.471,
+        "num_payments": 2,
+        "frequency_label": "半年配",
+        "ref_price": 34.4
+      },
+      "2020": {
+        "total_dividend": 0.9,
+        "yield": 4.04,
+        "num_payments": 2,
+        "frequency_label": "半年配",
+        "ref_price": 22.275
+      },
+      "2019": {
+        "total_dividend": 0.75,
+        "yield": 3.708,
+        "num_payments": 2,
+        "frequency_label": "半年配",
+        "ref_price": 20.225
+      },
+      "2018": {
+        "total_dividend": 0.725,
+        "yield": 3.56,
+        "num_payments": 2,
+        "frequency_label": "半年配",
+        "ref_price": 20.362
+      },
+      "2017": {
+        "total_dividend": 0.6,
+        "yield": 2.976,
+        "num_payments": 2,
+        "frequency_label": "半年配",
+        "ref_price": 20.163
+      }
+    },
+    "latest_completed_year": "2025",
+    "current_year_partial": {
+      "year": "2026",
+      "total_dividend": 1.6,
+      "yield": 1.532,
+      "num_payments": 2,
+      "frequency_label": "半年配",
+      "ref_price": 104.45
+    }
+  },
+  "0051": {
+    "name": "元大中型100",
+    "years": {
+      "2025": {
+        "total_dividend": 3.0,
+        "yield": 4.0,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 75.0
+      },
+      "2024": {
+        "total_dividend": 2.46,
+        "yield": 2.913,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 84.45
+      },
+      "2023": {
+        "total_dividend": 2.5,
+        "yield": 3.779,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 66.15
+      },
+      "2022": {
+        "total_dividend": 2.4,
+        "yield": 4.469,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 53.7
+      },
+      "2021": {
+        "total_dividend": 1.75,
+        "yield": 3.028,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 57.8
+      },
+      "2020": {
+        "total_dividend": 1.1,
+        "yield": 3.005,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 36.6
+      },
+      "2019": {
+        "total_dividend": 1.2,
+        "yield": 3.738,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 32.1
+      },
+      "2018": {
+        "total_dividend": 1.0,
+        "yield": 3.018,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 33.13
+      },
+      "2017": {
+        "total_dividend": 0.85,
+        "yield": 2.891,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 29.4
+      },
+      "2016": {
+        "total_dividend": 0.7,
+        "yield": 2.671,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 26.21
+      }
+    },
+    "latest_completed_year": "2025"
+  },
+  "0052": {
+    "name": "富邦科技",
+    "years": {
+      "2025": {
+        "total_dividend": 0.461,
+        "yield": 0.246,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 187.8
+      },
+      "2024": {
+        "total_dividend": 0.919,
+        "yield": 0.497,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 184.8
+      },
+      "2023": {
+        "total_dividend": 0.571,
+        "yield": 0.495,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 115.45
+      },
+      "2022": {
+        "total_dividend": 1.456,
+        "yield": 1.494,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 97.45
+      },
+      "2021": {
+        "total_dividend": 0.147,
+        "yield": 0.118,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 124.65
+      },
+      "2020": {
+        "total_dividend": 0.275,
+        "yield": 0.398,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 69.1
+      },
+      "2019": {
+        "total_dividend": 0.15,
+        "yield": 0.282,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 53.1
+      },
+      "2018": {
+        "total_dividend": 0.246,
+        "yield": 0.493,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 49.88
+      },
+      "2017": {
+        "total_dividend": 0.201,
+        "yield": 0.412,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 48.94
+      }
+    },
+    "latest_completed_year": "2025",
+    "current_year_partial": {
+      "year": "2026",
+      "total_dividend": 1.199,
+      "yield": 1.954,
+      "num_payments": 1,
+      "frequency_label": "年配",
+      "ref_price": 61.35
+    }
+  },
+  "0053": {
+    "name": "元大電子",
+    "years": {
+      "2025": {
+        "total_dividend": 3.0,
+        "yield": 2.928,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 102.45
+      },
+      "2024": {
+        "total_dividend": 2.0,
+        "yield": 1.964,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 101.85
+      },
+      "2023": {
+        "total_dividend": 1.9,
+        "yield": 2.859,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 66.45
+      },
+      "2022": {
+        "total_dividend": 1.71,
+        "yield": 3.024,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 56.55
+      },
+      "2021": {
+        "total_dividend": 1.7,
+        "yield": 2.558,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 66.45
+      },
+      "2020": {
+        "total_dividend": 1.3,
+        "yield": 3.13,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 41.53
+      },
+      "2019": {
+        "total_dividend": 1.5,
+        "yield": 4.41,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 34.01
+      },
+      "2018": {
+        "total_dividend": 1.1,
+        "yield": 3.1,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 35.48
+      },
+      "2017": {
+        "total_dividend": 1.15,
+        "yield": 3.221,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 35.7
+      },
+      "2016": {
+        "total_dividend": 1.0,
+        "yield": 3.344,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 29.9
+      }
+    },
+    "latest_completed_year": "2025"
+  },
+  "0055": {
+    "name": "元大MSCI金融",
+    "years": {
+      "2025": {
+        "total_dividend": 1.25,
+        "yield": 4.303,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 29.05
+      },
+      "2024": {
+        "total_dividend": 1.18,
+        "yield": 4.283,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 27.55
+      },
+      "2023": {
+        "total_dividend": 0.6,
+        "yield": 2.586,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 23.2
+      },
+      "2022": {
+        "total_dividend": 0.87,
+        "yield": 3.729,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 23.33
+      },
+      "2021": {
+        "total_dividend": 0.75,
+        "yield": 3.538,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 21.2
+      },
+      "2020": {
+        "total_dividend": 0.65,
+        "yield": 3.679,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 17.67
+      },
+      "2019": {
+        "total_dividend": 0.7,
+        "yield": 3.84,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 18.23
+      },
+      "2018": {
+        "total_dividend": 0.65,
+        "yield": 3.731,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 17.42
+      },
+      "2017": {
+        "total_dividend": 0.5,
+        "yield": 3.215,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 15.55
+      },
+      "2016": {
+        "total_dividend": 0.45,
+        "yield": 3.353,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 13.42
+      }
+    },
+    "latest_completed_year": "2025"
+  },
+  "0056": {
+    "name": "元大高股息",
+    "years": {
+      "2025": {
+        "total_dividend": 3.872,
+        "yield": 11.162,
+        "num_payments": 4,
+        "frequency_label": "季配",
+        "ref_price": 34.69
+      },
+      "2024": {
+        "total_dividend": 3.63,
+        "yield": 8.828,
+        "num_payments": 4,
+        "frequency_label": "季配",
+        "ref_price": 41.12
+      },
+      "2023": {
+        "total_dividend": 2.2,
+        "yield": 6.763,
+        "num_payments": 2,
+        "frequency_label": "半年配",
+        "ref_price": 32.53
+      },
+      "2022": {
+        "total_dividend": 2.1,
+        "yield": 7.463,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 28.14
+      },
+      "2021": {
+        "total_dividend": 1.8,
+        "yield": 5.172,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 34.8
+      },
+      "2020": {
+        "total_dividend": 1.6,
+        "yield": 5.612,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 28.51
+      },
+      "2019": {
+        "total_dividend": 1.8,
+        "yield": 6.769,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 26.59
+      },
+      "2018": {
+        "total_dividend": 1.45,
+        "yield": 5.651,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 25.66
+      },
+      "2017": {
+        "total_dividend": 0.95,
+        "yield": 3.711,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 25.6
+      },
+      "2016": {
+        "total_dividend": 1.3,
+        "yield": 5.334,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 24.37
+      }
+    },
+    "latest_completed_year": "2025",
+    "current_year_partial": {
+      "year": "2026",
+      "total_dividend": 3.216,
+      "yield": 6.208,
+      "num_payments": 3,
+      "frequency_label": "3次配息",
+      "ref_price": 51.8
+    }
+  },
+  "0057": {
+    "name": "富邦摩台",
+    "years": {
+      "2016": {
+        "total_dividend": 1.685,
+        "yield": 3.947,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 42.69
+      }
+    },
+    "latest_completed_year": "2016"
+  },
+  "006203": {
+    "name": "元大MSCI台灣",
+    "years": {
+      "2025": {
+        "total_dividend": 2.45,
+        "yield": 2.751,
+        "num_payments": 2,
+        "frequency_label": "半年配",
+        "ref_price": 89.05
+      },
+      "2024": {
+        "total_dividend": 2.7,
+        "yield": 3.047,
+        "num_payments": 2,
+        "frequency_label": "半年配",
+        "ref_price": 88.6
+      },
+      "2023": {
+        "total_dividend": 2.13,
+        "yield": 3.403,
+        "num_payments": 2,
+        "frequency_label": "半年配",
+        "ref_price": 62.6
+      },
+      "2022": {
+        "total_dividend": 2.23,
+        "yield": 3.872,
+        "num_payments": 2,
+        "frequency_label": "半年配",
+        "ref_price": 57.6
+      },
+      "2021": {
+        "total_dividend": 1.34,
+        "yield": 2.03,
+        "num_payments": 2,
+        "frequency_label": "半年配",
+        "ref_price": 66.0
+      },
+      "2020": {
+        "total_dividend": 1.68,
+        "yield": 4.002,
+        "num_payments": 2,
+        "frequency_label": "半年配",
+        "ref_price": 41.98
+      },
+      "2019": {
+        "total_dividend": 1.25,
+        "yield": 3.332,
+        "num_payments": 2,
+        "frequency_label": "半年配",
+        "ref_price": 37.51
+      },
+      "2018": {
+        "total_dividend": 1.15,
+        "yield": 3.042,
+        "num_payments": 2,
+        "frequency_label": "半年配",
+        "ref_price": 37.8
+      },
+      "2017": {
+        "total_dividend": 1.0,
+        "yield": 2.666,
+        "num_payments": 2,
+        "frequency_label": "半年配",
+        "ref_price": 37.51
+      }
+    },
+    "latest_completed_year": "2025",
+    "current_year_partial": {
+      "year": "2026",
+      "total_dividend": 3.05,
+      "yield": 1.607,
+      "num_payments": 2,
+      "frequency_label": "半年配",
+      "ref_price": 189.85
+    }
+  },
+  "006204": {
+    "name": "永豐臺灣加權",
+    "years": {
+      "2025": {
+        "total_dividend": 3.259,
+        "yield": 2.869,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 113.6
+      },
+      "2024": {
+        "total_dividend": 0.7,
+        "yield": 0.609,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 115.0
+      },
+      "2023": {
+        "total_dividend": 3.959,
+        "yield": 4.566,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 86.7
+      },
+      "2022": {
+        "total_dividend": 2.677,
+        "yield": 3.481,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 76.9
+      },
+      "2021": {
+        "total_dividend": 5.3,
+        "yield": 5.796,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 91.45
+      },
+      "2020": {
+        "total_dividend": 0.76,
+        "yield": 1.317,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 57.7
+      },
+      "2019": {
+        "total_dividend": 1.52,
+        "yield": 2.825,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 53.8
+      },
+      "2018": {
+        "total_dividend": 1.94,
+        "yield": 3.583,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 54.15
+      },
+      "2017": {
+        "total_dividend": 1.7,
+        "yield": 3.238,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 52.5
+      },
+      "2016": {
+        "total_dividend": 1.58,
+        "yield": 3.468,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 45.56
+      }
+    },
+    "latest_completed_year": "2025"
+  },
+  "006208": {
+    "name": "富邦台50",
+    "years": {
+      "2025": {
+        "total_dividend": 4.437,
+        "yield": 3.918,
+        "num_payments": 2,
+        "frequency_label": "半年配",
+        "ref_price": 113.25
+      },
+      "2024": {
+        "total_dividend": 1.683,
+        "yield": 1.541,
+        "num_payments": 2,
+        "frequency_label": "半年配",
+        "ref_price": 109.2
+      },
+      "2023": {
+        "total_dividend": 2.213,
+        "yield": 2.965,
+        "num_payments": 2,
+        "frequency_label": "半年配",
+        "ref_price": 74.65
+      },
+      "2022": {
+        "total_dividend": 2.278,
+        "yield": 3.335,
+        "num_payments": 2,
+        "frequency_label": "半年配",
+        "ref_price": 68.3
+      },
+      "2021": {
+        "total_dividend": 1.955,
+        "yield": 2.465,
+        "num_payments": 2,
+        "frequency_label": "半年配",
+        "ref_price": 79.3
+      },
+      "2020": {
+        "total_dividend": 1.62,
+        "yield": 3.176,
+        "num_payments": 2,
+        "frequency_label": "半年配",
+        "ref_price": 51.0
+      },
+      "2019": {
+        "total_dividend": 1.799,
+        "yield": 3.891,
+        "num_payments": 2,
+        "frequency_label": "半年配",
+        "ref_price": 46.24
+      },
+      "2018": {
+        "total_dividend": 2.65,
+        "yield": 5.573,
+        "num_payments": 2,
+        "frequency_label": "半年配",
+        "ref_price": 47.55
+      },
+      "2017": {
+        "total_dividend": 2.65,
+        "yield": 5.573,
+        "num_payments": 2,
+        "frequency_label": "半年配",
+        "ref_price": 47.55
+      },
+      "2016": {
+        "total_dividend": 0.043,
+        "yield": 0.11,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 39.2
+      }
+    },
+    "latest_completed_year": "2025",
+    "current_year_partial": {
+      "year": "2026",
+      "total_dividend": 4.75,
+      "yield": 1.957,
+      "num_payments": 1,
+      "frequency_label": "年配",
+      "ref_price": 242.75
+    }
+  },
+  "00660": {
+    "name": "元大歐洲50",
+    "years": {
+      "2020": {
+        "total_dividend": 0.36,
+        "yield": 1.575,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 22.85
+      },
+      "2019": {
+        "total_dividend": 0.75,
+        "yield": 2.962,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 25.32
+      }
+    },
+    "latest_completed_year": "2020"
+  },
+  "00690": {
+    "name": "兆豐藍籌30",
+    "years": {
+      "2025": {
+        "total_dividend": 2.65,
+        "yield": 7.744,
+        "num_payments": 4,
+        "frequency_label": "季配",
+        "ref_price": 34.22
+      },
+      "2024": {
+        "total_dividend": 3.45,
+        "yield": 9.661,
+        "num_payments": 4,
+        "frequency_label": "季配",
+        "ref_price": 35.71
+      },
+      "2023": {
+        "total_dividend": 2.5,
+        "yield": 9.104,
+        "num_payments": 2,
+        "frequency_label": "半年配",
+        "ref_price": 27.46
+      },
+      "2022": {
+        "total_dividend": 2.4,
+        "yield": 8.354,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 28.73
+      },
+      "2021": {
+        "total_dividend": 0.84,
+        "yield": 2.569,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 32.7
+      },
+      "2020": {
+        "total_dividend": 0.84,
+        "yield": 3.613,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 23.25
+      },
+      "2019": {
+        "total_dividend": 1.12,
+        "yield": 5.116,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 21.89
+      },
+      "2018": {
+        "total_dividend": 0.66,
+        "yield": 2.986,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 22.1
+      },
+      "2017": {
+        "total_dividend": 0.81,
+        "yield": 3.876,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 20.9
+      }
+    },
+    "latest_completed_year": "2025",
+    "current_year_partial": {
+      "year": "2026",
+      "total_dividend": 2.45,
+      "yield": 3.117,
+      "num_payments": 2,
+      "frequency_label": "半年配",
+      "ref_price": 78.6
+    }
+  },
+  "00692": {
+    "name": "富邦公司治理",
+    "years": {
+      "2025": {
+        "total_dividend": 1.88,
+        "yield": 4.228,
+        "num_payments": 2,
+        "frequency_label": "半年配",
+        "ref_price": 44.47
+      },
+      "2024": {
+        "total_dividend": 1.015,
+        "yield": 2.295,
+        "num_payments": 2,
+        "frequency_label": "半年配",
+        "ref_price": 44.22
+      },
+      "2023": {
+        "total_dividend": 1.794,
+        "yield": 5.542,
+        "num_payments": 2,
+        "frequency_label": "半年配",
+        "ref_price": 32.37
+      },
+      "2022": {
+        "total_dividend": 2.033,
+        "yield": 6.663,
+        "num_payments": 2,
+        "frequency_label": "半年配",
+        "ref_price": 30.51
+      },
+      "2021": {
+        "total_dividend": 1.97,
+        "yield": 5.534,
+        "num_payments": 2,
+        "frequency_label": "半年配",
+        "ref_price": 35.6
+      },
+      "2020": {
+        "total_dividend": 0.839,
+        "yield": 3.638,
+        "num_payments": 2,
+        "frequency_label": "半年配",
+        "ref_price": 23.06
+      },
+      "2019": {
+        "total_dividend": 0.786,
+        "yield": 3.694,
+        "num_payments": 2,
+        "frequency_label": "半年配",
+        "ref_price": 21.28
+      },
+      "2018": {
+        "total_dividend": 0.826,
+        "yield": 3.915,
+        "num_payments": 2,
+        "frequency_label": "半年配",
+        "ref_price": 21.1
+      },
+      "2017": {
+        "total_dividend": 1.141,
+        "yield": 5.454,
+        "num_payments": 2,
+        "frequency_label": "半年配",
+        "ref_price": 20.92
+      }
+    },
+    "latest_completed_year": "2025",
+    "current_year_partial": {
+      "year": "2026",
+      "total_dividend": 1.92,
+      "yield": 2.124,
+      "num_payments": 1,
+      "frequency_label": "年配",
+      "ref_price": 90.4
+    }
+  },
+  "00701": {
+    "name": "國泰股利精選30",
+    "years": {
+      "2025": {
+        "total_dividend": 3.85,
+        "yield": 13.652,
+        "num_payments": 2,
+        "frequency_label": "半年配",
+        "ref_price": 28.2
+      },
+      "2024": {
+        "total_dividend": 1.09,
+        "yield": 3.839,
+        "num_payments": 2,
+        "frequency_label": "半年配",
+        "ref_price": 28.39
+      },
+      "2023": {
+        "total_dividend": 0.86,
+        "yield": 3.441,
+        "num_payments": 2,
+        "frequency_label": "半年配",
+        "ref_price": 24.99
+      },
+      "2022": {
+        "total_dividend": 1.9,
+        "yield": 7.793,
+        "num_payments": 2,
+        "frequency_label": "半年配",
+        "ref_price": 24.38
+      },
+      "2021": {
+        "total_dividend": 0.98,
+        "yield": 4.066,
+        "num_payments": 2,
+        "frequency_label": "半年配",
+        "ref_price": 24.1
+      },
+      "2020": {
+        "total_dividend": 1.66,
+        "yield": 8.0,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 20.75
+      },
+      "2019": {
+        "total_dividend": 0.47,
+        "yield": 2.096,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 22.42
+      },
+      "2018": {
+        "total_dividend": 0.17,
+        "yield": 0.803,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 21.18
+      }
+    },
+    "latest_completed_year": "2025",
+    "current_year_partial": {
+      "year": "2026",
+      "total_dividend": 0.7,
+      "yield": 1.788,
+      "num_payments": 1,
+      "frequency_label": "年配",
+      "ref_price": 39.14
+    }
+  },
+  "00702": {
+    "name": "國泰標普低波高息",
+    "years": {
+      "2025": {
+        "total_dividend": 1.32,
+        "yield": 6.145,
+        "num_payments": 2,
+        "frequency_label": "半年配",
+        "ref_price": 21.48
+      },
+      "2024": {
+        "total_dividend": 0.96,
+        "yield": 4.104,
+        "num_payments": 2,
+        "frequency_label": "半年配",
+        "ref_price": 23.39
+      },
+      "2023": {
+        "total_dividend": 0.59,
+        "yield": 2.857,
+        "num_payments": 2,
+        "frequency_label": "半年配",
+        "ref_price": 20.65
+      },
+      "2022": {
+        "total_dividend": 0.58,
+        "yield": 2.736,
+        "num_payments": 2,
+        "frequency_label": "半年配",
+        "ref_price": 21.2
+      },
+      "2021": {
+        "total_dividend": 0.46,
+        "yield": 2.268,
+        "num_payments": 2,
+        "frequency_label": "半年配",
+        "ref_price": 20.28
+      },
+      "2020": {
+        "total_dividend": 0.44,
+        "yield": 2.778,
+        "num_payments": 2,
+        "frequency_label": "半年配",
+        "ref_price": 15.84
+      },
+      "2019": {
+        "total_dividend": 0.73,
+        "yield": 3.43,
+        "num_payments": 2,
+        "frequency_label": "半年配",
+        "ref_price": 21.28
+      },
+      "2018": {
+        "total_dividend": 0.55,
+        "yield": 2.644,
+        "num_payments": 2,
+        "frequency_label": "半年配",
+        "ref_price": 20.8
+      }
+    },
+    "latest_completed_year": "2025",
+    "current_year_partial": {
+      "year": "2026",
+      "total_dividend": 1.33,
+      "yield": 5.352,
+      "num_payments": 2,
+      "frequency_label": "半年配",
+      "ref_price": 24.85
+    }
+  },
+  "00710B": {
+    "name": "復華彭博非投等債",
+    "years": {
+      "2025": {
+        "total_dividend": 1.27,
+        "yield": 7.224,
+        "num_payments": 4,
+        "frequency_label": "季配",
+        "ref_price": 17.58
+      },
+      "2024": {
+        "total_dividend": 0.99,
+        "yield": 5.098,
+        "num_payments": 4,
+        "frequency_label": "季配",
+        "ref_price": 19.42
+      },
+      "2023": {
+        "total_dividend": 1.04,
+        "yield": 5.794,
+        "num_payments": 4,
+        "frequency_label": "季配",
+        "ref_price": 17.95
+      },
+      "2022": {
+        "total_dividend": 1.0,
+        "yield": 5.91,
+        "num_payments": 4,
+        "frequency_label": "季配",
+        "ref_price": 16.92
+      },
+      "2021": {
+        "total_dividend": 0.96,
+        "yield": 5.246,
+        "num_payments": 4,
+        "frequency_label": "季配",
+        "ref_price": 18.3
+      },
+      "2020": {
+        "total_dividend": 1.021,
+        "yield": 5.48,
+        "num_payments": 4,
+        "frequency_label": "季配",
+        "ref_price": 18.63
+      },
+      "2019": {
+        "total_dividend": 1.058,
+        "yield": 5.074,
+        "num_payments": 4,
+        "frequency_label": "季配",
+        "ref_price": 20.85
+      },
+      "2018": {
+        "total_dividend": 0.965,
+        "yield": 4.811,
+        "num_payments": 5,
+        "frequency_label": "5次配息",
+        "ref_price": 20.06
+      },
+      "2017": {
+        "total_dividend": 0.103,
+        "yield": 0.517,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 19.94
+      }
+    },
+    "latest_completed_year": "2025",
+    "current_year_partial": {
+      "year": "2026",
+      "total_dividend": 0.61,
+      "yield": 3.228,
+      "num_payments": 2,
+      "frequency_label": "半年配",
+      "ref_price": 18.9
+    }
+  },
+  "00711B": {
+    "name": "復華彭博新興債",
+    "years": {
+      "2025": {
+        "total_dividend": 0.76,
+        "yield": 5.292,
+        "num_payments": 4,
+        "frequency_label": "季配",
+        "ref_price": 14.36
+      },
+      "2024": {
+        "total_dividend": 0.78,
+        "yield": 4.736,
+        "num_payments": 4,
+        "frequency_label": "季配",
+        "ref_price": 16.47
+      },
+      "2023": {
+        "total_dividend": 0.76,
+        "yield": 4.665,
+        "num_payments": 4,
+        "frequency_label": "季配",
+        "ref_price": 16.29
+      },
+      "2022": {
+        "total_dividend": 0.73,
+        "yield": 4.632,
+        "num_payments": 4,
+        "frequency_label": "季配",
+        "ref_price": 15.76
+      },
+      "2021": {
+        "total_dividend": 0.72,
+        "yield": 3.538,
+        "num_payments": 4,
+        "frequency_label": "季配",
+        "ref_price": 20.35
+      },
+      "2020": {
+        "total_dividend": 0.9,
+        "yield": 4.123,
+        "num_payments": 4,
+        "frequency_label": "季配",
+        "ref_price": 21.83
+      },
+      "2019": {
+        "total_dividend": 0.852,
+        "yield": 3.987,
+        "num_payments": 4,
+        "frequency_label": "季配",
+        "ref_price": 21.37
+      },
+      "2018": {
+        "total_dividend": 0.945,
+        "yield": 5.024,
+        "num_payments": 5,
+        "frequency_label": "5次配息",
+        "ref_price": 18.81
+      },
+      "2017": {
+        "total_dividend": 0.084,
+        "yield": 0.421,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 19.94
+      }
+    },
+    "latest_completed_year": "2025",
+    "current_year_partial": {
+      "year": "2026",
+      "total_dividend": 0.4,
+      "yield": 2.459,
+      "num_payments": 2,
+      "frequency_label": "半年配",
+      "ref_price": 16.27
+    }
+  },
+  "00712": {
+    "name": "復華富時不動產",
+    "years": {
+      "2025": {
+        "total_dividend": 0.793,
+        "yield": 9.778,
+        "num_payments": 4,
+        "frequency_label": "季配",
+        "ref_price": 8.11
+      },
+      "2024": {
+        "total_dividend": 0.785,
+        "yield": 8.246,
+        "num_payments": 4,
+        "frequency_label": "季配",
+        "ref_price": 9.52
+      },
+      "2023": {
+        "total_dividend": 0.9,
+        "yield": 9.231,
+        "num_payments": 4,
+        "frequency_label": "季配",
+        "ref_price": 9.75
+      },
+      "2022": {
+        "total_dividend": 0.844,
+        "yield": 7.59,
+        "num_payments": 4,
+        "frequency_label": "季配",
+        "ref_price": 11.12
+      },
+      "2021": {
+        "total_dividend": 0.766,
+        "yield": 5.236,
+        "num_payments": 4,
+        "frequency_label": "季配",
+        "ref_price": 14.63
+      },
+      "2020": {
+        "total_dividend": 1.062,
+        "yield": 10.251,
+        "num_payments": 4,
+        "frequency_label": "季配",
+        "ref_price": 10.36
+      },
+      "2019": {
+        "total_dividend": 0.941,
+        "yield": 5.234,
+        "num_payments": 4,
+        "frequency_label": "季配",
+        "ref_price": 17.98
+      },
+      "2018": {
+        "total_dividend": 1.873,
+        "yield": 9.822,
+        "num_payments": 5,
+        "frequency_label": "5次配息",
+        "ref_price": 19.07
+      },
+      "2017": {
+        "total_dividend": 0.15,
+        "yield": 0.749,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 20.02
+      }
+    },
+    "latest_completed_year": "2025",
+    "current_year_partial": {
+      "year": "2026",
+      "total_dividend": 0.425,
+      "yield": 4.846,
+      "num_payments": 2,
+      "frequency_label": "半年配",
+      "ref_price": 8.77
+    }
+  },
+  "00713": {
+    "name": "元大台灣高息低波",
+    "years": {
+      "2025": {
+        "total_dividend": 4.06,
+        "yield": 8.048,
+        "num_payments": 4,
+        "frequency_label": "季配",
+        "ref_price": 50.45
+      },
+      "2024": {
+        "total_dividend": 5.28,
+        "yield": 9.143,
+        "num_payments": 4,
+        "frequency_label": "季配",
+        "ref_price": 57.75
+      },
+      "2023": {
+        "total_dividend": 3.04,
+        "yield": 6.698,
+        "num_payments": 4,
+        "frequency_label": "季配",
+        "ref_price": 45.39
+      },
+      "2022": {
+        "total_dividend": 2.9,
+        "yield": 7.082,
+        "num_payments": 2,
+        "frequency_label": "半年配",
+        "ref_price": 40.95
+      },
+      "2021": {
+        "total_dividend": 3.15,
+        "yield": 7.412,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 42.5
+      },
+      "2020": {
+        "total_dividend": 1.7,
+        "yield": 5.443,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 31.23
+      },
+      "2019": {
+        "total_dividend": 1.6,
+        "yield": 5.079,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 31.5
+      },
+      "2018": {
+        "total_dividend": 1.55,
+        "yield": 5.065,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 30.6
+      }
+    },
+    "latest_completed_year": "2025",
+    "current_year_partial": {
+      "year": "2026",
+      "total_dividend": 1.78,
+      "yield": 2.967,
+      "num_payments": 2,
+      "frequency_label": "半年配",
+      "ref_price": 60.0
+    }
+  },
+  "00714": {
+    "name": "群益道瓊美國地產",
+    "years": {
+      "2025": {
+        "total_dividend": 0.492,
+        "yield": 2.651,
+        "num_payments": 4,
+        "frequency_label": "季配",
+        "ref_price": 18.56
+      },
+      "2024": {
+        "total_dividend": 0.492,
+        "yield": 2.513,
+        "num_payments": 4,
+        "frequency_label": "季配",
+        "ref_price": 19.58
+      },
+      "2023": {
+        "total_dividend": 0.482,
+        "yield": 2.597,
+        "num_payments": 4,
+        "frequency_label": "季配",
+        "ref_price": 18.56
+      },
+      "2022": {
+        "total_dividend": 1.095,
+        "yield": 5.516,
+        "num_payments": 4,
+        "frequency_label": "季配",
+        "ref_price": 19.85
+      },
+      "2021": {
+        "total_dividend": 0.999,
+        "yield": 4.537,
+        "num_payments": 4,
+        "frequency_label": "季配",
+        "ref_price": 22.02
+      },
+      "2020": {
+        "total_dividend": 0.582,
+        "yield": 3.275,
+        "num_payments": 4,
+        "frequency_label": "季配",
+        "ref_price": 17.77
+      },
+      "2019": {
+        "total_dividend": 0.555,
+        "yield": 2.556,
+        "num_payments": 4,
+        "frequency_label": "季配",
+        "ref_price": 21.71
+      },
+      "2018": {
+        "total_dividend": 0.639,
+        "yield": 3.201,
+        "num_payments": 3,
+        "frequency_label": "3次配息",
+        "ref_price": 19.96
+      }
+    },
+    "latest_completed_year": "2025",
+    "current_year_partial": {
+      "year": "2026",
+      "total_dividend": 0.369,
+      "yield": 1.655,
+      "num_payments": 3,
+      "frequency_label": "3次配息",
+      "ref_price": 22.3
+    }
+  },
+  "00717": {
+    "name": "富邦美國特別股",
+    "years": {
+      "2025": {
+        "total_dividend": 0.612,
+        "yield": 4.457,
+        "num_payments": 4,
+        "frequency_label": "季配",
+        "ref_price": 13.73
+      },
+      "2024": {
+        "total_dividend": 0.665,
+        "yield": 4.161,
+        "num_payments": 4,
+        "frequency_label": "季配",
+        "ref_price": 15.98
+      },
+      "2023": {
+        "total_dividend": 0.63,
+        "yield": 4.312,
+        "num_payments": 4,
+        "frequency_label": "季配",
+        "ref_price": 14.61
+      },
+      "2022": {
+        "total_dividend": 0.606,
+        "yield": 4.081,
+        "num_payments": 4,
+        "frequency_label": "季配",
+        "ref_price": 14.85
+      },
+      "2021": {
+        "total_dividend": 0.608,
+        "yield": 3.564,
+        "num_payments": 4,
+        "frequency_label": "季配",
+        "ref_price": 17.06
+      },
+      "2020": {
+        "total_dividend": 0.724,
+        "yield": 4.423,
+        "num_payments": 4,
+        "frequency_label": "季配",
+        "ref_price": 16.37
+      },
+      "2019": {
+        "total_dividend": 0.899,
+        "yield": 4.52,
+        "num_payments": 4,
+        "frequency_label": "季配",
+        "ref_price": 19.89
+      },
+      "2018": {
+        "total_dividend": 0.797,
+        "yield": 3.963,
+        "num_payments": 2,
+        "frequency_label": "半年配",
+        "ref_price": 20.11
+      }
+    },
+    "latest_completed_year": "2025",
+    "current_year_partial": {
+      "year": "2026",
+      "total_dividend": 0.423,
+      "yield": 2.864,
+      "num_payments": 3,
+      "frequency_label": "3次配息",
+      "ref_price": 14.77
+    }
+  },
+  "00728": {
+    "name": "第一金工業30",
+    "years": {
+      "2025": {
+        "total_dividend": 2.233,
+        "yield": 7.372,
+        "num_payments": 4,
+        "frequency_label": "季配",
+        "ref_price": 30.29
+      },
+      "2024": {
+        "total_dividend": 2.071,
+        "yield": 6.304,
+        "num_payments": 2,
+        "frequency_label": "半年配",
+        "ref_price": 32.85
+      },
+      "2023": {
+        "total_dividend": 0.93,
+        "yield": 3.773,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 24.65
+      },
+      "2022": {
+        "total_dividend": 1.99,
+        "yield": 8.728,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 22.8
+      },
+      "2021": {
+        "total_dividend": 1.9,
+        "yield": 6.669,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 28.49
+      },
+      "2020": {
+        "total_dividend": 0.737,
+        "yield": 3.65,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 20.19
+      },
+      "2019": {
+        "total_dividend": 1.123,
+        "yield": 6.041,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 18.59
+      }
+    },
+    "latest_completed_year": "2025",
+    "current_year_partial": {
+      "year": "2026",
+      "total_dividend": 1.18,
+      "yield": 1.869,
+      "num_payments": 2,
+      "frequency_label": "半年配",
+      "ref_price": 63.15
+    }
+  },
+  "00730": {
+    "name": "富邦臺灣優質高息",
+    "years": {
+      "2025": {
+        "total_dividend": 1.266,
+        "yield": 5.791,
+        "num_payments": 12,
+        "frequency_label": "月配",
+        "ref_price": 21.86
+      },
+      "2024": {
+        "total_dividend": 1.386,
+        "yield": 5.898,
+        "num_payments": 2,
+        "frequency_label": "半年配",
+        "ref_price": 23.5
+      },
+      "2023": {
+        "total_dividend": 1.136,
+        "yield": 6.017,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 18.88
+      },
+      "2022": {
+        "total_dividend": 1.077,
+        "yield": 6.262,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 17.2
+      },
+      "2021": {
+        "total_dividend": 1.127,
+        "yield": 5.242,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 21.5
+      },
+      "2020": {
+        "total_dividend": 0.843,
+        "yield": 4.95,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 17.03
+      },
+      "2019": {
+        "total_dividend": 0.746,
+        "yield": 3.968,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 18.8
+      },
+      "2018": {
+        "total_dividend": 0.979,
+        "yield": 4.89,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 20.02
+      }
+    },
+    "latest_completed_year": "2025",
+    "current_year_partial": {
+      "year": "2026",
+      "total_dividend": 0.77,
+      "yield": 2.661,
+      "num_payments": 7,
+      "frequency_label": "7次配息",
+      "ref_price": 28.94
+    }
+  },
+  "00731": {
+    "name": "復華富時高息低波",
+    "years": {
+      "2025": {
+        "total_dividend": 2.49,
+        "yield": 3.739,
+        "num_payments": 4,
+        "frequency_label": "季配",
+        "ref_price": 66.6
+      },
+      "2024": {
+        "total_dividend": 10.35,
+        "yield": 13.303,
+        "num_payments": 4,
+        "frequency_label": "季配",
+        "ref_price": 77.8
+      },
+      "2023": {
+        "total_dividend": 2.32,
+        "yield": 3.691,
+        "num_payments": 2,
+        "frequency_label": "半年配",
+        "ref_price": 62.85
+      },
+      "2022": {
+        "total_dividend": 2.8,
+        "yield": 4.815,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 58.15
+      },
+      "2021": {
+        "total_dividend": 4.3,
+        "yield": 7.498,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 57.35
+      },
+      "2020": {
+        "total_dividend": 2.09,
+        "yield": 4.584,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 45.59
+      },
+      "2019": {
+        "total_dividend": 2.266,
+        "yield": 4.514,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 50.2
+      },
+      "2018": {
+        "total_dividend": 2.492,
+        "yield": 4.877,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 51.1
+      }
+    },
+    "latest_completed_year": "2025",
+    "current_year_partial": {
+      "year": "2026",
+      "total_dividend": 1.504,
+      "yield": 1.704,
+      "num_payments": 2,
+      "frequency_label": "半年配",
+      "ref_price": 88.25
+    }
+  },
+  "00733": {
+    "name": "臺灣中小A級動能50 ETF基金",
+    "years": {
+      "2025": {
+        "total_dividend": 1.136,
+        "yield": 2.934,
+        "num_payments": 2,
+        "frequency_label": "半年配",
+        "ref_price": 38.72
+      },
+      "2024": {
+        "total_dividend": 6.474,
+        "yield": 10.79,
+        "num_payments": 2,
+        "frequency_label": "半年配",
+        "ref_price": 60.0
+      },
+      "2023": {
+        "total_dividend": 1.314,
+        "yield": 2.741,
+        "num_payments": 2,
+        "frequency_label": "半年配",
+        "ref_price": 47.93
+      },
+      "2022": {
+        "total_dividend": 1.222,
+        "yield": 3.543,
+        "num_payments": 2,
+        "frequency_label": "半年配",
+        "ref_price": 34.49
+      },
+      "2021": {
+        "total_dividend": 2.09,
+        "yield": 4.48,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 46.65
+      },
+      "2020": {
+        "total_dividend": 0.358,
+        "yield": 1.572,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 22.77
+      },
+      "2019": {
+        "total_dividend": 0.96,
+        "yield": 5.549,
+        "num_payments": 2,
+        "frequency_label": "半年配",
+        "ref_price": 17.3
+      }
+    },
+    "latest_completed_year": "2025",
+    "current_year_partial": {
+      "year": "2026",
+      "total_dividend": 0.578,
+      "yield": 0.781,
+      "num_payments": 1,
+      "frequency_label": "年配",
+      "ref_price": 74.0
+    }
+  },
+  "00735": {
+    "name": "國泰臺韓科技",
+    "years": {
+      "2025": {
+        "total_dividend": 0.42,
+        "yield": 1.232,
+        "num_payments": 2,
+        "frequency_label": "半年配",
+        "ref_price": 34.08
+      },
+      "2024": {
+        "total_dividend": 3.83,
+        "yield": 9.848,
+        "num_payments": 2,
+        "frequency_label": "半年配",
+        "ref_price": 38.89
+      },
+      "2023": {
+        "total_dividend": 1.52,
+        "yield": 5.146,
+        "num_payments": 2,
+        "frequency_label": "半年配",
+        "ref_price": 29.54
+      },
+      "2022": {
+        "total_dividend": 1.3,
+        "yield": 5.116,
+        "num_payments": 2,
+        "frequency_label": "半年配",
+        "ref_price": 25.41
+      },
+      "2021": {
+        "total_dividend": 1.24,
+        "yield": 3.642,
+        "num_payments": 2,
+        "frequency_label": "半年配",
+        "ref_price": 34.05
+      },
+      "2020": {
+        "total_dividend": 0.38,
+        "yield": 1.799,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 21.12
+      },
+      "2019": {
+        "total_dividend": 0.68,
+        "yield": 3.81,
+        "num_payments": 2,
+        "frequency_label": "半年配",
+        "ref_price": 17.85
+      }
+    },
+    "latest_completed_year": "2025",
+    "current_year_partial": {
+      "year": "2026",
+      "total_dividend": 4.0,
+      "yield": 3.571,
+      "num_payments": 2,
+      "frequency_label": "半年配",
+      "ref_price": 112.0
+    }
+  },
+  "00736": {
+    "name": "國泰新興市場",
+    "years": {
+      "2025": {
+        "total_dividend": 0.47,
+        "yield": 1.989,
+        "num_payments": 2,
+        "frequency_label": "半年配",
+        "ref_price": 23.63
+      },
+      "2024": {
+        "total_dividend": 0.23,
+        "yield": 1.006,
+        "num_payments": 2,
+        "frequency_label": "半年配",
+        "ref_price": 22.86
+      },
+      "2023": {
+        "total_dividend": 0.32,
+        "yield": 1.602,
+        "num_payments": 2,
+        "frequency_label": "半年配",
+        "ref_price": 19.97
+      },
+      "2022": {
+        "total_dividend": 0.46,
+        "yield": 2.33,
+        "num_payments": 2,
+        "frequency_label": "半年配",
+        "ref_price": 19.74
+      },
+      "2021": {
+        "total_dividend": 0.4,
+        "yield": 1.673,
+        "num_payments": 2,
+        "frequency_label": "半年配",
+        "ref_price": 23.91
+      },
+      "2020": {
+        "total_dividend": 0.25,
+        "yield": 1.368,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 18.27
+      },
+      "2019": {
+        "total_dividend": 0.38,
+        "yield": 1.881,
+        "num_payments": 2,
+        "frequency_label": "半年配",
+        "ref_price": 20.2
+      }
+    },
+    "latest_completed_year": "2025",
+    "current_year_partial": {
+      "year": "2026",
+      "total_dividend": 0.55,
+      "yield": 1.777,
+      "num_payments": 2,
+      "frequency_label": "半年配",
+      "ref_price": 30.95
+    }
+  },
+  "00739": {
+    "name": "元大MSCI A股",
+    "years": {
+      "2025": {
+        "total_dividend": 0.9,
+        "yield": 4.339,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 20.74
+      },
+      "2024": {
+        "total_dividend": 0.5,
+        "yield": 2.435,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 20.53
+      },
+      "2022": {
+        "total_dividend": 0.19,
+        "yield": 0.73,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 26.04
+      },
+      "2020": {
+        "total_dividend": 0.5,
+        "yield": 2.3,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 21.74
+      }
+    },
+    "latest_completed_year": "2025"
+  },
+  "00770": {
+    "name": "國泰標普北美科技ETF基金",
+    "years": {
+      "2025": {
+        "total_dividend": 4.0,
+        "yield": 8.905,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 44.92
+      },
+      "2024": {
+        "total_dividend": 4.0,
+        "yield": 8.38,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 47.73
+      },
+      "2023": {
+        "total_dividend": 2.8,
+        "yield": 8.199,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 34.15
+      },
+      "2022": {
+        "total_dividend": 1.95,
+        "yield": 6.895,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 28.28
+      },
+      "2021": {
+        "total_dividend": 0.38,
+        "yield": 1.032,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 36.82
+      },
+      "2020": {
+        "total_dividend": 0.76,
+        "yield": 2.836,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 26.8
+      }
+    },
+    "latest_completed_year": "2025",
+    "current_year_partial": {
+      "year": "2026",
+      "total_dividend": 4.2,
+      "yield": 6.311,
+      "num_payments": 1,
+      "frequency_label": "年配",
+      "ref_price": 66.55
+    }
+  },
+  "00771": {
+    "name": "元大US高息特別股",
+    "years": {
+      "2025": {
+        "total_dividend": 0.86,
+        "yield": 5.776,
+        "num_payments": 4,
+        "frequency_label": "季配",
+        "ref_price": 14.89
+      },
+      "2024": {
+        "total_dividend": 0.85,
+        "yield": 4.854,
+        "num_payments": 4,
+        "frequency_label": "季配",
+        "ref_price": 17.51
+      },
+      "2023": {
+        "total_dividend": 0.73,
+        "yield": 4.554,
+        "num_payments": 4,
+        "frequency_label": "季配",
+        "ref_price": 16.03
+      },
+      "2022": {
+        "total_dividend": 0.71,
+        "yield": 4.298,
+        "num_payments": 4,
+        "frequency_label": "季配",
+        "ref_price": 16.52
+      },
+      "2021": {
+        "total_dividend": 0.72,
+        "yield": 3.738,
+        "num_payments": 4,
+        "frequency_label": "季配",
+        "ref_price": 19.26
+      },
+      "2020": {
+        "total_dividend": 0.74,
+        "yield": 3.989,
+        "num_payments": 4,
+        "frequency_label": "季配",
+        "ref_price": 18.55
+      },
+      "2019": {
+        "total_dividend": 0.25,
+        "yield": 1.224,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 20.42
+      }
+    },
+    "latest_completed_year": "2025",
+    "current_year_partial": {
+      "year": "2026",
+      "total_dividend": 0.42,
+      "yield": 2.675,
+      "num_payments": 2,
+      "frequency_label": "半年配",
+      "ref_price": 15.7
+    }
+  },
+  "00775B": {
+    "name": "台新投等債15+",
+    "years": {
+      "2025": {
+        "total_dividend": 1.51,
+        "yield": 5.101,
+        "num_payments": 4,
+        "frequency_label": "季配",
+        "ref_price": 29.6
+      },
+      "2024": {
+        "total_dividend": 1.465,
+        "yield": 4.241,
+        "num_payments": 4,
+        "frequency_label": "季配",
+        "ref_price": 34.54
+      },
+      "2023": {
+        "total_dividend": 1.36,
+        "yield": 3.993,
+        "num_payments": 4,
+        "frequency_label": "季配",
+        "ref_price": 34.06
+      },
+      "2022": {
+        "total_dividend": 1.14,
+        "yield": 3.363,
+        "num_payments": 4,
+        "frequency_label": "季配",
+        "ref_price": 33.9
+      },
+      "2021": {
+        "total_dividend": 1.185,
+        "yield": 2.805,
+        "num_payments": 4,
+        "frequency_label": "季配",
+        "ref_price": 42.25
+      },
+      "2020": {
+        "total_dividend": 1.46,
+        "yield": 3.174,
+        "num_payments": 4,
+        "frequency_label": "季配",
+        "ref_price": 46.0
+      },
+      "2019": {
+        "total_dividend": 0.515,
+        "yield": 1.168,
+        "num_payments": 3,
+        "frequency_label": "3次配息",
+        "ref_price": 44.08
+      }
+    },
+    "latest_completed_year": "2025",
+    "current_year_partial": {
+      "year": "2026",
+      "total_dividend": 0.7,
+      "yield": 2.128,
+      "num_payments": 2,
+      "frequency_label": "半年配",
+      "ref_price": 32.9
+    }
+  },
+  "00830": {
+    "name": "國泰費城半導體",
+    "years": {
+      "2025": {
+        "total_dividend": 3.96,
+        "yield": 9.586,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 41.31
+      },
+      "2024": {
+        "total_dividend": 1.51,
+        "yield": 3.035,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 49.75
+      },
+      "2023": {
+        "total_dividend": 0.12,
+        "yield": 0.366,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 32.8
+      },
+      "2022": {
+        "total_dividend": 2.8,
+        "yield": 12.211,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 22.93
+      },
+      "2021": {
+        "total_dividend": 0.32,
+        "yield": 1.097,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 29.17
+      }
+    },
+    "latest_completed_year": "2025",
+    "current_year_partial": {
+      "year": "2026",
+      "total_dividend": 9.0,
+      "yield": 9.514,
+      "num_payments": 1,
+      "frequency_label": "年配",
+      "ref_price": 94.6
+    }
+  },
+  "00850": {
+    "name": "元大臺灣ESG永續",
+    "years": {
+      "2025": {
+        "total_dividend": 2.56,
+        "yield": 5.873,
+        "num_payments": 4,
+        "frequency_label": "季配",
+        "ref_price": 43.59
+      },
+      "2024": {
+        "total_dividend": 2.24,
+        "yield": 4.869,
+        "num_payments": 4,
+        "frequency_label": "季配",
+        "ref_price": 46.01
+      },
+      "2023": {
+        "total_dividend": 1.38,
+        "yield": 4.086,
+        "num_payments": 2,
+        "frequency_label": "半年配",
+        "ref_price": 33.77
+      },
+      "2022": {
+        "total_dividend": 1.48,
+        "yield": 4.799,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 30.84
+      },
+      "2021": {
+        "total_dividend": 1.05,
+        "yield": 3.035,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 34.6
+      },
+      "2020": {
+        "total_dividend": 0.9,
+        "yield": 4.009,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 22.45
+      }
+    },
+    "latest_completed_year": "2025",
+    "current_year_partial": {
+      "year": "2026",
+      "total_dividend": 1.65,
+      "yield": 1.849,
+      "num_payments": 2,
+      "frequency_label": "半年配",
+      "ref_price": 89.25
+    }
+  },
+  "00851": {
+    "name": "台新全球AI",
+    "years": {
+      "2025": {
+        "total_dividend": 1.7,
+        "yield": 3.571,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 47.6
+      },
+      "2021": {
+        "total_dividend": 0.33,
+        "yield": 1.006,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 32.79
+      },
+      "2020": {
+        "total_dividend": 0.28,
+        "yield": 1.192,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 23.49
+      }
+    },
+    "latest_completed_year": "2025"
+  },
+  "00878": {
+    "name": "國泰永續高股息",
+    "years": {
+      "2025": {
+        "total_dividend": 1.77,
+        "yield": 8.449,
+        "num_payments": 4,
+        "frequency_label": "季配",
+        "ref_price": 20.95
+      },
+      "2024": {
+        "total_dividend": 2.01,
+        "yield": 8.485,
+        "num_payments": 4,
+        "frequency_label": "季配",
+        "ref_price": 23.69
+      },
+      "2023": {
+        "total_dividend": 1.24,
+        "yield": 6.458,
+        "num_payments": 4,
+        "frequency_label": "季配",
+        "ref_price": 19.2
+      },
+      "2022": {
+        "total_dividend": 1.18,
+        "yield": 6.933,
+        "num_payments": 4,
+        "frequency_label": "季配",
+        "ref_price": 17.02
+      },
+      "2021": {
+        "total_dividend": 0.98,
+        "yield": 5.385,
+        "num_payments": 4,
+        "frequency_label": "季配",
+        "ref_price": 18.2
+      },
+      "2020": {
+        "total_dividend": 0.05,
+        "yield": 0.333,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 15.0
+      }
+    },
+    "latest_completed_year": "2025",
+    "current_year_partial": {
+      "year": "2026",
+      "total_dividend": 1.08,
+      "yield": 3.283,
+      "num_payments": 2,
+      "frequency_label": "半年配",
+      "ref_price": 32.9
+    }
+  },
+  "00881": {
+    "name": "國泰台灣科技龍頭",
+    "years": {
+      "2025": {
+        "total_dividend": 1.3,
+        "yield": 5.474,
+        "num_payments": 2,
+        "frequency_label": "半年配",
+        "ref_price": 23.75
+      },
+      "2024": {
+        "total_dividend": 1.75,
+        "yield": 6.847,
+        "num_payments": 2,
+        "frequency_label": "半年配",
+        "ref_price": 25.56
+      },
+      "2023": {
+        "total_dividend": 0.81,
+        "yield": 4.833,
+        "num_payments": 2,
+        "frequency_label": "半年配",
+        "ref_price": 16.76
+      },
+      "2022": {
+        "total_dividend": 0.85,
+        "yield": 5.882,
+        "num_payments": 2,
+        "frequency_label": "半年配",
+        "ref_price": 14.45
+      },
+      "2021": {
+        "total_dividend": 0.54,
+        "yield": 3.051,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 17.7
+      }
+    },
+    "latest_completed_year": "2025",
+    "current_year_partial": {
+      "year": "2026",
+      "total_dividend": 2.65,
+      "yield": 5.0,
+      "num_payments": 1,
+      "frequency_label": "年配",
+      "ref_price": 53.0
+    }
+  },
+  "00882": {
+    "name": "中信中國高股息",
+    "years": {
+      "2025": {
+        "total_dividend": 1.08,
+        "yield": 8.327,
+        "num_payments": 2,
+        "frequency_label": "半年配",
+        "ref_price": 12.97
+      },
+      "2024": {
+        "total_dividend": 0.66,
+        "yield": 5.593,
+        "num_payments": 2,
+        "frequency_label": "半年配",
+        "ref_price": 11.8
+      },
+      "2023": {
+        "total_dividend": 0.7,
+        "yield": 6.029,
+        "num_payments": 2,
+        "frequency_label": "半年配",
+        "ref_price": 11.61
+      },
+      "2022": {
+        "total_dividend": 1.21,
+        "yield": 8.943,
+        "num_payments": 2,
+        "frequency_label": "半年配",
+        "ref_price": 13.53
+      },
+      "2021": {
+        "total_dividend": 0.68,
+        "yield": 4.328,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 15.71
+      }
+    },
+    "latest_completed_year": "2025",
+    "current_year_partial": {
+      "year": "2026",
+      "total_dividend": 1.0,
+      "yield": 6.752,
+      "num_payments": 2,
+      "frequency_label": "半年配",
+      "ref_price": 14.81
+    }
+  },
+  "00891": {
+    "name": "中信關鍵半導體",
+    "years": {
+      "2025": {
+        "total_dividend": 1.83,
+        "yield": 10.854,
+        "num_payments": 4,
+        "frequency_label": "季配",
+        "ref_price": 16.86
+      },
+      "2024": {
+        "total_dividend": 1.62,
+        "yield": 8.182,
+        "num_payments": 4,
+        "frequency_label": "季配",
+        "ref_price": 19.8
+      },
+      "2023": {
+        "total_dividend": 0.73,
+        "yield": 5.278,
+        "num_payments": 4,
+        "frequency_label": "季配",
+        "ref_price": 13.83
+      },
+      "2022": {
+        "total_dividend": 0.65,
+        "yield": 5.476,
+        "num_payments": 3,
+        "frequency_label": "3次配息",
+        "ref_price": 11.87
+      },
+      "2021": {
+        "total_dividend": 0.55,
+        "yield": 3.567,
+        "num_payments": 2,
+        "frequency_label": "半年配",
+        "ref_price": 15.42
+      }
+    },
+    "latest_completed_year": "2025",
+    "current_year_partial": {
+      "year": "2026",
+      "total_dividend": 2.0,
+      "yield": 5.549,
+      "num_payments": 2,
+      "frequency_label": "半年配",
+      "ref_price": 36.04
+    }
+  },
+  "00892": {
+    "name": "富邦台灣半導體",
+    "years": {
+      "2025": {
+        "total_dividend": 0.464,
+        "yield": 2.676,
+        "num_payments": 2,
+        "frequency_label": "半年配",
+        "ref_price": 17.34
+      },
+      "2024": {
+        "total_dividend": 0.385,
+        "yield": 2.17,
+        "num_payments": 2,
+        "frequency_label": "半年配",
+        "ref_price": 17.74
+      },
+      "2023": {
+        "total_dividend": 0.479,
+        "yield": 3.769,
+        "num_payments": 2,
+        "frequency_label": "半年配",
+        "ref_price": 12.71
+      },
+      "2022": {
+        "total_dividend": 0.569,
+        "yield": 4.965,
+        "num_payments": 2,
+        "frequency_label": "半年配",
+        "ref_price": 11.46
+      },
+      "2021": {
+        "total_dividend": 0.58,
+        "yield": 3.793,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 15.29
+      }
+    },
+    "latest_completed_year": "2025",
+    "current_year_partial": {
+      "year": "2026",
+      "total_dividend": 2.46,
+      "yield": 5.677,
+      "num_payments": 1,
+      "frequency_label": "年配",
+      "ref_price": 43.33
+    }
+  },
+  "00894": {
+    "name": "中信小資高價30",
+    "years": {
+      "2025": {
+        "total_dividend": 1.75,
+        "yield": 8.883,
+        "num_payments": 4,
+        "frequency_label": "季配",
+        "ref_price": 19.7
+      },
+      "2024": {
+        "total_dividend": 1.5,
+        "yield": 6.878,
+        "num_payments": 4,
+        "frequency_label": "季配",
+        "ref_price": 21.81
+      },
+      "2023": {
+        "total_dividend": 0.55,
+        "yield": 3.759,
+        "num_payments": 4,
+        "frequency_label": "季配",
+        "ref_price": 14.63
+      },
+      "2022": {
+        "total_dividend": 0.64,
+        "yield": 5.456,
+        "num_payments": 3,
+        "frequency_label": "3次配息",
+        "ref_price": 11.73
+      },
+      "2021": {
+        "total_dividend": 0.06,
+        "yield": 0.4,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 15.0
+      }
+    },
+    "latest_completed_year": "2025",
+    "current_year_partial": {
+      "year": "2026",
+      "total_dividend": 1.0,
+      "yield": 2.125,
+      "num_payments": 2,
+      "frequency_label": "半年配",
+      "ref_price": 47.06
+    }
+  },
+  "00896": {
+    "name": "中信綠能及電動車",
+    "years": {
+      "2025": {
+        "total_dividend": 1.85,
+        "yield": 11.867,
+        "num_payments": 4,
+        "frequency_label": "季配",
+        "ref_price": 15.59
+      },
+      "2024": {
+        "total_dividend": 1.51,
+        "yield": 8.18,
+        "num_payments": 4,
+        "frequency_label": "季配",
+        "ref_price": 18.46
+      },
+      "2023": {
+        "total_dividend": 0.93,
+        "yield": 5.805,
+        "num_payments": 4,
+        "frequency_label": "季配",
+        "ref_price": 16.02
+      },
+      "2022": {
+        "total_dividend": 0.405,
+        "yield": 3.061,
+        "num_payments": 3,
+        "frequency_label": "3次配息",
+        "ref_price": 13.23
+      }
+    },
+    "latest_completed_year": "2025",
+    "current_year_partial": {
+      "year": "2026",
+      "total_dividend": 1.95,
+      "yield": 7.233,
+      "num_payments": 2,
+      "frequency_label": "半年配",
+      "ref_price": 26.96
+    }
+  },
+  "00900": {
+    "name": "富邦特選高股息30",
+    "years": {
+      "2025": {
+        "total_dividend": 1.175,
+        "yield": 9.123,
+        "num_payments": 12,
+        "frequency_label": "月配",
+        "ref_price": 12.88
+      },
+      "2024": {
+        "total_dividend": 1.212,
+        "yield": 7.232,
+        "num_payments": 5,
+        "frequency_label": "5次配息",
+        "ref_price": 16.76
+      },
+      "2023": {
+        "total_dividend": 0.971,
+        "yield": 8.025,
+        "num_payments": 4,
+        "frequency_label": "季配",
+        "ref_price": 12.1
+      },
+      "2022": {
+        "total_dividend": 1.35,
+        "yield": 10.958,
+        "num_payments": 2,
+        "frequency_label": "半年配",
+        "ref_price": 12.32
+      }
+    },
+    "latest_completed_year": "2025",
+    "current_year_partial": {
+      "year": "2026",
+      "total_dividend": 0.525,
+      "yield": 2.766,
+      "num_payments": 7,
+      "frequency_label": "7次配息",
+      "ref_price": 18.98
+    }
+  },
+  "00901": {
+    "name": "永豐智能車供應鏈",
+    "years": {
+      "2025": {
+        "total_dividend": 2.6,
+        "yield": 13.0,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 20.0
+      },
+      "2024": {
+        "total_dividend": 0.9,
+        "yield": 4.206,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 21.4
+      },
+      "2023": {
+        "total_dividend": 0.628,
+        "yield": 4.376,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 14.35
+      },
+      "2022": {
+        "total_dividend": 0.543,
+        "yield": 4.465,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 12.16
+      }
+    },
+    "latest_completed_year": "2025"
+  },
+  "00904": {
+    "name": "台新臺灣半導體30",
+    "years": {
+      "2025": {
+        "total_dividend": 1.43,
+        "yield": 8.134,
+        "num_payments": 4,
+        "frequency_label": "季配",
+        "ref_price": 17.58
+      },
+      "2024": {
+        "total_dividend": 0.65,
+        "yield": 3.356,
+        "num_payments": 4,
+        "frequency_label": "季配",
+        "ref_price": 19.37
+      },
+      "2023": {
+        "total_dividend": 0.44,
+        "yield": 3.356,
+        "num_payments": 4,
+        "frequency_label": "季配",
+        "ref_price": 13.11
+      },
+      "2022": {
+        "total_dividend": 0.21,
+        "yield": 1.85,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 11.35
+      }
+    },
+    "latest_completed_year": "2025",
+    "current_year_partial": {
+      "year": "2026",
+      "total_dividend": 2.12,
+      "yield": 5.044,
+      "num_payments": 3,
+      "frequency_label": "3次配息",
+      "ref_price": 42.03
+    }
+  },
+  "00905": {
+    "name": "FT臺灣Smart",
+    "years": {
+      "2025": {
+        "total_dividend": 0.4,
+        "yield": 2.952,
+        "num_payments": 3,
+        "frequency_label": "3次配息",
+        "ref_price": 13.55
+      },
+      "2024": {
+        "total_dividend": 0.9,
+        "yield": 6.342,
+        "num_payments": 3,
+        "frequency_label": "3次配息",
+        "ref_price": 14.19
+      },
+      "2023": {
+        "total_dividend": 0.62,
+        "yield": 6.32,
+        "num_payments": 3,
+        "frequency_label": "3次配息",
+        "ref_price": 9.81
+      }
+    },
+    "latest_completed_year": "2025",
+    "current_year_partial": {
+      "year": "2026",
+      "total_dividend": 1.908,
+      "yield": 6.964,
+      "num_payments": 3,
+      "frequency_label": "3次配息",
+      "ref_price": 27.4
+    }
+  },
+  "00907": {
+    "name": "永豐優息存股",
+    "years": {
+      "2025": {
+        "total_dividend": 0.638,
+        "yield": 4.276,
+        "num_payments": 6,
+        "frequency_label": "6次配息",
+        "ref_price": 14.92
+      },
+      "2024": {
+        "total_dividend": 1.442,
+        "yield": 8.755,
+        "num_payments": 6,
+        "frequency_label": "6次配息",
+        "ref_price": 16.47
+      },
+      "2023": {
+        "total_dividend": 0.946,
+        "yield": 6.479,
+        "num_payments": 6,
+        "frequency_label": "6次配息",
+        "ref_price": 14.6
+      },
+      "2022": {
+        "total_dividend": 0.282,
+        "yield": 1.902,
+        "num_payments": 2,
+        "frequency_label": "半年配",
+        "ref_price": 14.83
+      }
+    },
+    "latest_completed_year": "2025",
+    "current_year_partial": {
+      "year": "2026",
+      "total_dividend": 0.565,
+      "yield": 3.498,
+      "num_payments": 3,
+      "frequency_label": "3次配息",
+      "ref_price": 16.15
+    }
+  },
+  "00908": {
+    "name": "富邦入息REITs+",
+    "years": {
+      "2025": {
+        "total_dividend": 0.618,
+        "yield": 4.858,
+        "num_payments": 4,
+        "frequency_label": "季配",
+        "ref_price": 12.72
+      },
+      "2024": {
+        "total_dividend": 0.644,
+        "yield": 5.261,
+        "num_payments": 4,
+        "frequency_label": "季配",
+        "ref_price": 12.24
+      },
+      "2023": {
+        "total_dividend": 0.573,
+        "yield": 4.811,
+        "num_payments": 4,
+        "frequency_label": "季配",
+        "ref_price": 11.91
+      },
+      "2022": {
+        "total_dividend": 0.225,
+        "yield": 1.536,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 14.65
+      }
+    },
+    "latest_completed_year": "2025",
+    "current_year_partial": {
+      "year": "2026",
+      "total_dividend": 0.384,
+      "yield": 2.526,
+      "num_payments": 3,
+      "frequency_label": "3次配息",
+      "ref_price": 15.2
+    }
+  },
+  "00909": {
+    "name": "國泰全球數位支付服務ETF基金",
+    "years": {
+      "2024": {
+        "total_dividend": 1.81,
+        "yield": 6.623,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 27.33
+      },
+      "2023": {
+        "total_dividend": 0.225,
+        "yield": 1.241,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 18.13
+      }
+    },
+    "latest_completed_year": "2024",
+    "current_year_partial": {
+      "year": "2026",
+      "total_dividend": 2.75,
+      "yield": 5.6,
+      "num_payments": 1,
+      "frequency_label": "年配",
+      "ref_price": 49.11
+    }
+  },
+  "00911": {
+    "name": "兆豐洲際半導體",
+    "years": {
+      "2025": {
+        "total_dividend": 0.7,
+        "yield": 2.812,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 24.89
+      },
+      "2024": {
+        "total_dividend": 2.2,
+        "yield": 7.282,
+        "num_payments": 2,
+        "frequency_label": "半年配",
+        "ref_price": 30.21
+      }
+    },
+    "latest_completed_year": "2025",
+    "current_year_partial": {
+      "year": "2026",
+      "total_dividend": 5.5,
+      "yield": 8.534,
+      "num_payments": 3,
+      "frequency_label": "3次配息",
+      "ref_price": 64.45
+    }
+  },
+  "00912": {
+    "name": "中信臺灣智慧50",
+    "years": {
+      "2025": {
+        "total_dividend": 1.05,
+        "yield": 5.738,
+        "num_payments": 4,
+        "frequency_label": "季配",
+        "ref_price": 18.3
+      },
+      "2024": {
+        "total_dividend": 1.38,
+        "yield": 7.062,
+        "num_payments": 4,
+        "frequency_label": "季配",
+        "ref_price": 19.54
+      },
+      "2023": {
+        "total_dividend": 0.87,
+        "yield": 5.675,
+        "num_payments": 4,
+        "frequency_label": "季配",
+        "ref_price": 15.33
+      },
+      "2022": {
+        "total_dividend": 0.2,
+        "yield": 1.344,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 14.88
+      }
+    },
+    "latest_completed_year": "2025",
+    "current_year_partial": {
+      "year": "2026",
+      "total_dividend": 2.4,
+      "yield": 7.162,
+      "num_payments": 3,
+      "frequency_label": "3次配息",
+      "ref_price": 33.51
+    }
+  },
+  "00913": {
+    "name": "兆豐台灣晶圓製造ETF",
+    "years": {
+      "2025": {
+        "total_dividend": 1.4,
+        "yield": 7.096,
+        "num_payments": 2,
+        "frequency_label": "半年配",
+        "ref_price": 19.73
+      },
+      "2024": {
+        "total_dividend": 1.12,
+        "yield": 4.919,
+        "num_payments": 2,
+        "frequency_label": "半年配",
+        "ref_price": 22.77
+      },
+      "2023": {
+        "total_dividend": 0.8,
+        "yield": 4.608,
+        "num_payments": 2,
+        "frequency_label": "半年配",
+        "ref_price": 17.36
+      }
+    },
+    "latest_completed_year": "2025",
+    "current_year_partial": {
+      "year": "2026",
+      "total_dividend": 1.6,
+      "yield": 3.059,
+      "num_payments": 1,
+      "frequency_label": "年配",
+      "ref_price": 52.3
+    }
+  },
+  "00915": {
+    "name": "凱基優選高股息30",
+    "years": {
+      "2025": {
+        "total_dividend": 1.35,
+        "yield": 6.027,
+        "num_payments": 4,
+        "frequency_label": "季配",
+        "ref_price": 22.4
+      },
+      "2024": {
+        "total_dividend": 3.01,
+        "yield": 10.969,
+        "num_payments": 4,
+        "frequency_label": "季配",
+        "ref_price": 27.44
+      },
+      "2023": {
+        "total_dividend": 1.69,
+        "yield": 9.245,
+        "num_payments": 4,
+        "frequency_label": "季配",
+        "ref_price": 18.28
+      }
+    },
+    "latest_completed_year": "2025",
+    "current_year_partial": {
+      "year": "2026",
+      "total_dividend": 0.83,
+      "yield": 2.586,
+      "num_payments": 2,
+      "frequency_label": "半年配",
+      "ref_price": 32.1
+    }
+  },
+  "00916": {
+    "name": "國泰全球品牌50",
+    "years": {
+      "2025": {
+        "total_dividend": 0.25,
+        "yield": 1.107,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 22.59
+      },
+      "2024": {
+        "total_dividend": 0.22,
+        "yield": 0.963,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 22.84
+      },
+      "2023": {
+        "total_dividend": 0.17,
+        "yield": 0.948,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 17.93
+      }
+    },
+    "latest_completed_year": "2025",
+    "current_year_partial": {
+      "year": "2026",
+      "total_dividend": 1.92,
+      "yield": 7.674,
+      "num_payments": 1,
+      "frequency_label": "年配",
+      "ref_price": 25.02
+    }
+  },
+  "00917": {
+    "name": "中信特選金融",
+    "years": {
+      "2025": {
+        "total_dividend": 2.0,
+        "yield": 9.425,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 21.22
+      },
+      "2024": {
+        "total_dividend": 0.29,
+        "yield": 1.49,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 19.46
+      }
+    },
+    "latest_completed_year": "2025"
+  },
+  "00918": {
+    "name": "大華優利高填息30 ETF",
+    "years": {
+      "2025": {
+        "total_dividend": 2.485,
+        "yield": 11.462,
+        "num_payments": 4,
+        "frequency_label": "季配",
+        "ref_price": 21.68
+      },
+      "2024": {
+        "total_dividend": 3.12,
+        "yield": 12.274,
+        "num_payments": 4,
+        "frequency_label": "季配",
+        "ref_price": 25.42
+      },
+      "2023": {
+        "total_dividend": 1.62,
+        "yield": 8.482,
+        "num_payments": 3,
+        "frequency_label": "3次配息",
+        "ref_price": 19.1
+      }
+    },
+    "latest_completed_year": "2025",
+    "current_year_partial": {
+      "year": "2026",
+      "total_dividend": 1.88,
+      "yield": 5.982,
+      "num_payments": 2,
+      "frequency_label": "半年配",
+      "ref_price": 31.43
+    }
+  },
+  "00919": {
+    "name": "群益台灣精選高息",
+    "years": {
+      "2025": {
+        "total_dividend": 2.52,
+        "yield": 11.667,
+        "num_payments": 4,
+        "frequency_label": "季配",
+        "ref_price": 21.6
+      },
+      "2024": {
+        "total_dividend": 2.8,
+        "yield": 10.832,
+        "num_payments": 4,
+        "frequency_label": "季配",
+        "ref_price": 25.85
+      },
+      "2023": {
+        "total_dividend": 1.63,
+        "yield": 8.503,
+        "num_payments": 3,
+        "frequency_label": "3次配息",
+        "ref_price": 19.17
+      }
+    },
+    "latest_completed_year": "2025",
+    "current_year_partial": {
+      "year": "2026",
+      "total_dividend": 1.78,
+      "yield": 6.042,
+      "num_payments": 2,
+      "frequency_label": "半年配",
+      "ref_price": 29.46
+    }
+  },
+  "00920": {
+    "name": "富邦ESG綠色電力",
+    "years": {
+      "2025": {
+        "total_dividend": 0.206,
+        "yield": 1.669,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 12.34
+      },
+      "2024": {
+        "total_dividend": 0.04,
+        "yield": 0.27,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 14.83
+      }
+    },
+    "latest_completed_year": "2025"
+  },
+  "00921": {
+    "name": "兆豐龍頭等權重",
+    "years": {
+      "2025": {
+        "total_dividend": 0.585,
+        "yield": 3.522,
+        "num_payments": 4,
+        "frequency_label": "季配",
+        "ref_price": 16.61
+      },
+      "2024": {
+        "total_dividend": 1.8,
+        "yield": 9.356,
+        "num_payments": 4,
+        "frequency_label": "季配",
+        "ref_price": 19.24
+      },
+      "2023": {
+        "total_dividend": 0.97,
+        "yield": 5.607,
+        "num_payments": 3,
+        "frequency_label": "3次配息",
+        "ref_price": 17.3
+      }
+    },
+    "latest_completed_year": "2025",
+    "current_year_partial": {
+      "year": "2026",
+      "total_dividend": 0.59,
+      "yield": 2.609,
+      "num_payments": 2,
+      "frequency_label": "半年配",
+      "ref_price": 22.61
+    }
+  },
+  "00922": {
+    "name": "國泰台灣領袖50 ETF基金",
+    "years": {
+      "2025": {
+        "total_dividend": 1.88,
+        "yield": 9.056,
+        "num_payments": 2,
+        "frequency_label": "半年配",
+        "ref_price": 20.76
+      },
+      "2024": {
+        "total_dividend": 1.38,
+        "yield": 6.298,
+        "num_payments": 2,
+        "frequency_label": "半年配",
+        "ref_price": 21.91
+      },
+      "2023": {
+        "total_dividend": 0.57,
+        "yield": 3.551,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 16.05
+      }
+    },
+    "latest_completed_year": "2025",
+    "current_year_partial": {
+      "year": "2026",
+      "total_dividend": 2.0,
+      "yield": 5.0,
+      "num_payments": 1,
+      "frequency_label": "年配",
+      "ref_price": 40.0
+    }
+  },
+  "00923": {
+    "name": "群益台ESG低碳50",
+    "years": {
+      "2025": {
+        "total_dividend": 1.693,
+        "yield": 8.031,
+        "num_payments": 2,
+        "frequency_label": "半年配",
+        "ref_price": 21.08
+      },
+      "2024": {
+        "total_dividend": 1.153,
+        "yield": 5.042,
+        "num_payments": 2,
+        "frequency_label": "半年配",
+        "ref_price": 22.87
+      },
+      "2023": {
+        "total_dividend": 0.561,
+        "yield": 3.45,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 16.26
+      }
+    },
+    "latest_completed_year": "2025",
+    "current_year_partial": {
+      "year": "2026",
+      "total_dividend": 1.71,
+      "yield": 4.092,
+      "num_payments": 1,
+      "frequency_label": "年配",
+      "ref_price": 41.79
+    }
+  },
+  "00926": {
+    "name": "凱基全球菁英55",
+    "years": {
+      "2025": {
+        "total_dividend": 1.47,
+        "yield": 7.372,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 19.94
+      },
+      "2024": {
+        "total_dividend": 1.5,
+        "yield": 6.57,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 22.83
+      },
+      "2023": {
+        "total_dividend": 0.23,
+        "yield": 1.474,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 15.6
+      }
+    },
+    "latest_completed_year": "2025"
+  },
+  "00927": {
+    "name": "群益半導體收益",
+    "years": {
+      "2025": {
+        "total_dividend": 1.18,
+        "yield": 6.872,
+        "num_payments": 4,
+        "frequency_label": "季配",
+        "ref_price": 17.17
+      },
+      "2024": {
+        "total_dividend": 1.88,
+        "yield": 8.94,
+        "num_payments": 4,
+        "frequency_label": "季配",
+        "ref_price": 21.03
+      },
+      "2023": {
+        "total_dividend": 0.44,
+        "yield": 2.874,
+        "num_payments": 2,
+        "frequency_label": "半年配",
+        "ref_price": 15.31
+      }
+    },
+    "latest_completed_year": "2025",
+    "current_year_partial": {
+      "year": "2026",
+      "total_dividend": 3.73,
+      "yield": 9.29,
+      "num_payments": 3,
+      "frequency_label": "3次配息",
+      "ref_price": 40.15
+    }
+  },
+  "00929": {
+    "name": "復華台灣科技優息",
+    "years": {
+      "2025": {
+        "total_dividend": 0.83,
+        "yield": 4.754,
+        "num_payments": 12,
+        "frequency_label": "月配",
+        "ref_price": 17.46
+      },
+      "2024": {
+        "total_dividend": 1.81,
+        "yield": 8.669,
+        "num_payments": 12,
+        "frequency_label": "月配",
+        "ref_price": 20.88
+      },
+      "2023": {
+        "total_dividend": 0.66,
+        "yield": 4.275,
+        "num_payments": 6,
+        "frequency_label": "6次配息",
+        "ref_price": 15.44
+      }
+    },
+    "latest_completed_year": "2025",
+    "current_year_partial": {
+      "year": "2026",
+      "total_dividend": 1.21,
+      "yield": 4.035,
+      "num_payments": 7,
+      "frequency_label": "7次配息",
+      "ref_price": 29.99
+    }
+  },
+  "00930": {
+    "name": "永豐ESG低碳高息",
+    "years": {
+      "2025": {
+        "total_dividend": 0.907,
+        "yield": 5.282,
+        "num_payments": 6,
+        "frequency_label": "6次配息",
+        "ref_price": 17.17
+      },
+      "2024": {
+        "total_dividend": 2.394,
+        "yield": 11.166,
+        "num_payments": 7,
+        "frequency_label": "7次配息",
+        "ref_price": 21.44
+      }
+    },
+    "latest_completed_year": "2025",
+    "current_year_partial": {
+      "year": "2026",
+      "total_dividend": 0.851,
+      "yield": 3.466,
+      "num_payments": 4,
+      "frequency_label": "季配",
+      "ref_price": 24.55
+    }
+  },
+  "00932": {
+    "name": "兆豐永續高息等權",
+    "years": {
+      "2025": {
+        "total_dividend": 0.46,
+        "yield": 3.314,
+        "num_payments": 4,
+        "frequency_label": "季配",
+        "ref_price": 13.88
+      },
+      "2024": {
+        "total_dividend": 1.69,
+        "yield": 9.322,
+        "num_payments": 3,
+        "frequency_label": "3次配息",
+        "ref_price": 18.13
+      }
+    },
+    "latest_completed_year": "2025",
+    "current_year_partial": {
+      "year": "2026",
+      "total_dividend": 0.44,
+      "yield": 2.548,
+      "num_payments": 2,
+      "frequency_label": "半年配",
+      "ref_price": 17.27
+    }
+  },
+  "00934": {
+    "name": "中信成長高股息",
+    "years": {
+      "2025": {
+        "total_dividend": 0.76,
+        "yield": 4.206,
+        "num_payments": 12,
+        "frequency_label": "月配",
+        "ref_price": 18.07
+      },
+      "2024": {
+        "total_dividend": 0.889,
+        "yield": 4.362,
+        "num_payments": 6,
+        "frequency_label": "6次配息",
+        "ref_price": 20.38
+      }
+    },
+    "latest_completed_year": "2025",
+    "current_year_partial": {
+      "year": "2026",
+      "total_dividend": 1.355,
+      "yield": 4.878,
+      "num_payments": 7,
+      "frequency_label": "7次配息",
+      "ref_price": 27.78
+    }
+  },
+  "00935": {
+    "name": "野村臺灣新科技50",
+    "years": {
+      "2025": {
+        "total_dividend": 1.35,
+        "yield": 6.27,
+        "num_payments": 2,
+        "frequency_label": "半年配",
+        "ref_price": 21.53
+      },
+      "2024": {
+        "total_dividend": 0.6,
+        "yield": 2.624,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 22.87
+      }
+    },
+    "latest_completed_year": "2025",
+    "current_year_partial": {
+      "year": "2026",
+      "total_dividend": 1.2,
+      "yield": 2.036,
+      "num_payments": 1,
+      "frequency_label": "年配",
+      "ref_price": 58.95
+    }
+  },
+  "00936": {
+    "name": "台新永續高息中小型ETF",
+    "years": {
+      "2025": {
+        "total_dividend": 0.49,
+        "yield": 3.365,
+        "num_payments": 12,
+        "frequency_label": "月配",
+        "ref_price": 14.56
+      },
+      "2024": {
+        "total_dividend": 1.1,
+        "yield": 5.952,
+        "num_payments": 9,
+        "frequency_label": "9次配息",
+        "ref_price": 18.48
+      }
+    },
+    "latest_completed_year": "2025",
+    "current_year_partial": {
+      "year": "2026",
+      "total_dividend": 0.7,
+      "yield": 3.364,
+      "num_payments": 7,
+      "frequency_label": "7次配息",
+      "ref_price": 20.81
+    }
+  },
+  "00938": {
+    "name": "凱基優選30",
+    "years": {
+      "2025": {
+        "total_dividend": 0.28,
+        "yield": 1.942,
+        "num_payments": 2,
+        "frequency_label": "半年配",
+        "ref_price": 14.42
+      }
+    },
+    "latest_completed_year": "2025",
+    "current_year_partial": {
+      "year": "2026",
+      "total_dividend": 0.42,
+      "yield": 1.737,
+      "num_payments": 2,
+      "frequency_label": "半年配",
+      "ref_price": 24.18
+    }
+  },
+  "00939": {
+    "name": "統一台灣高息動能ETF基金",
+    "years": {
+      "2025": {
+        "total_dividend": 0.66,
+        "yield": 4.79,
+        "num_payments": 11,
+        "frequency_label": "11次配息",
+        "ref_price": 13.78
+      },
+      "2024": {
+        "total_dividend": 0.491,
+        "yield": 3.306,
+        "num_payments": 8,
+        "frequency_label": "8次配息",
+        "ref_price": 14.85
+      }
+    },
+    "latest_completed_year": "2025",
+    "current_year_partial": {
+      "year": "2026",
+      "total_dividend": 0.557,
+      "yield": 2.62,
+      "num_payments": 7,
+      "frequency_label": "7次配息",
+      "ref_price": 21.26
+    }
+  },
+  "00940": {
+    "name": "元大台灣價值高息",
+    "years": {
+      "2025": {
+        "total_dividend": 0.425,
+        "yield": 4.717,
+        "num_payments": 12,
+        "frequency_label": "月配",
+        "ref_price": 9.01
+      },
+      "2024": {
+        "total_dividend": 0.28,
+        "yield": 2.753,
+        "num_payments": 6,
+        "frequency_label": "6次配息",
+        "ref_price": 10.17
+      }
+    },
+    "latest_completed_year": "2025",
+    "current_year_partial": {
+      "year": "2026",
+      "total_dividend": 0.325,
+      "yield": 2.604,
+      "num_payments": 7,
+      "frequency_label": "7次配息",
+      "ref_price": 12.48
+    }
+  },
+  "00943": {
+    "name": "兆豐電子高息等權",
+    "years": {
+      "2025": {
+        "total_dividend": 0.403,
+        "yield": 2.948,
+        "num_payments": 7,
+        "frequency_label": "7次配息",
+        "ref_price": 13.67
+      },
+      "2024": {
+        "total_dividend": 0.475,
+        "yield": 3.043,
+        "num_payments": 4,
+        "frequency_label": "季配",
+        "ref_price": 15.61
+      }
+    },
+    "latest_completed_year": "2025",
+    "current_year_partial": {
+      "year": "2026",
+      "total_dividend": 0.608,
+      "yield": 2.797,
+      "num_payments": 7,
+      "frequency_label": "7次配息",
+      "ref_price": 21.74
+    }
+  },
+  "00944": {
+    "name": "野村趨勢動能高息",
+    "years": {
+      "2025": {
+        "total_dividend": 0.614,
+        "yield": 4.401,
+        "num_payments": 11,
+        "frequency_label": "11次配息",
+        "ref_price": 13.95
+      },
+      "2024": {
+        "total_dividend": 0.348,
+        "yield": 2.283,
+        "num_payments": 6,
+        "frequency_label": "6次配息",
+        "ref_price": 15.24
+      }
+    },
+    "latest_completed_year": "2025",
+    "current_year_partial": {
+      "year": "2026",
+      "total_dividend": 0.433,
+      "yield": 1.99,
+      "num_payments": 7,
+      "frequency_label": "7次配息",
+      "ref_price": 21.76
+    }
+  },
+  "00945B": {
+    "name": "凱基美國非投等債",
+    "years": {
+      "2025": {
+        "total_dividend": 1.097,
+        "yield": 8.236,
+        "num_payments": 12,
+        "frequency_label": "月配",
+        "ref_price": 13.32
+      },
+      "2024": {
+        "total_dividend": 0.612,
+        "yield": 4.029,
+        "num_payments": 6,
+        "frequency_label": "6次配息",
+        "ref_price": 15.19
+      }
+    },
+    "latest_completed_year": "2025",
+    "current_year_partial": {
+      "year": "2026",
+      "total_dividend": 0.614,
+      "yield": 4.232,
+      "num_payments": 7,
+      "frequency_label": "7次配息",
+      "ref_price": 14.51
+    }
+  },
+  "00946": {
+    "name": "群益科技高息成長",
+    "years": {
+      "2025": {
+        "total_dividend": 0.448,
+        "yield": 4.972,
+        "num_payments": 12,
+        "frequency_label": "月配",
+        "ref_price": 9.01
+      },
+      "2024": {
+        "total_dividend": 0.27,
+        "yield": 2.516,
+        "num_payments": 5,
+        "frequency_label": "5次配息",
+        "ref_price": 10.73
+      }
+    },
+    "latest_completed_year": "2025",
+    "current_year_partial": {
+      "year": "2026",
+      "total_dividend": 0.406,
+      "yield": 2.696,
+      "num_payments": 7,
+      "frequency_label": "7次配息",
+      "ref_price": 15.06
+    }
+  },
+  "00947": {
+    "name": "台新臺灣IC設計動能ETF基金",
+    "years": {
+      "2025": {
+        "total_dividend": 0.24,
+        "yield": 1.773,
+        "num_payments": 3,
+        "frequency_label": "3次配息",
+        "ref_price": 13.54
+      }
+    },
+    "latest_completed_year": "2025",
+    "current_year_partial": {
+      "year": "2026",
+      "total_dividend": 0.54,
+      "yield": 1.408,
+      "num_payments": 3,
+      "frequency_label": "3次配息",
+      "ref_price": 38.34
+    }
+  },
+  "00951": {
+    "name": "台新日本半導體ETF",
+    "years": {
+      "2025": {
+        "total_dividend": 0.16,
+        "yield": 1.885,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 8.49
+      }
+    },
+    "latest_completed_year": "2025"
+  },
+  "00952": {
+    "name": "凱基台灣AI 50",
+    "years": {
+      "2025": {
+        "total_dividend": 0.18,
+        "yield": 1.907,
+        "num_payments": 7,
+        "frequency_label": "7次配息",
+        "ref_price": 9.44
+      }
+    },
+    "latest_completed_year": "2025",
+    "current_year_partial": {
+      "year": "2026",
+      "total_dividend": 0.54,
+      "yield": 2.961,
+      "num_payments": 7,
+      "frequency_label": "7次配息",
+      "ref_price": 18.24
+    }
+  },
+  "00953B": {
+    "name": "群益優選非投等債",
+    "years": {
+      "2025": {
+        "total_dividend": 0.79,
+        "yield": 8.788,
+        "num_payments": 12,
+        "frequency_label": "月配",
+        "ref_price": 8.99
+      },
+      "2024": {
+        "total_dividend": 0.14,
+        "yield": 1.4,
+        "num_payments": 2,
+        "frequency_label": "半年配",
+        "ref_price": 10.001
+      }
+    },
+    "latest_completed_year": "2025",
+    "current_year_partial": {
+      "year": "2026",
+      "total_dividend": 0.427,
+      "yield": 4.402,
+      "num_payments": 7,
+      "frequency_label": "7次配息",
+      "ref_price": 9.7
+    }
+  },
+  "00956": {
+    "name": "中信日經高股息",
+    "years": {
+      "2025": {
+        "total_dividend": 0.445,
+        "yield": 4.89,
+        "num_payments": 4,
+        "frequency_label": "季配",
+        "ref_price": 9.1
+      }
+    },
+    "latest_completed_year": "2025",
+    "current_year_partial": {
+      "year": "2026",
+      "total_dividend": 0.76,
+      "yield": 6.318,
+      "num_payments": 3,
+      "frequency_label": "3次配息",
+      "ref_price": 12.03
+    }
+  },
+  "00960": {
+    "name": "野村全球航運龍頭",
+    "years": {
+      "2025": {
+        "total_dividend": 0.765,
+        "yield": 5.722,
+        "num_payments": 4,
+        "frequency_label": "季配",
+        "ref_price": 13.37
+      }
+    },
+    "latest_completed_year": "2025",
+    "current_year_partial": {
+      "year": "2026",
+      "total_dividend": 0.9,
+      "yield": 5.313,
+      "num_payments": 4,
+      "frequency_label": "季配",
+      "ref_price": 16.94
+    }
+  },
+  "00961": {
+    "name": "FT臺灣永續高息",
+    "years": {
+      "2025": {
+        "total_dividend": 0.311,
+        "yield": 3.369,
+        "num_payments": 6,
+        "frequency_label": "6次配息",
+        "ref_price": 9.23
+      }
+    },
+    "latest_completed_year": "2025",
+    "current_year_partial": {
+      "year": "2026",
+      "total_dividend": 0.699,
+      "yield": 5.561,
+      "num_payments": 7,
+      "frequency_label": "7次配息",
+      "ref_price": 12.57
+    }
+  },
+  "00962": {
+    "name": "台新AI優息動能基金",
+    "years": {
+      "2025": {
+        "total_dividend": 0.15,
+        "yield": 1.601,
+        "num_payments": 6,
+        "frequency_label": "6次配息",
+        "ref_price": 9.37
+      }
+    },
+    "latest_completed_year": "2025",
+    "current_year_partial": {
+      "year": "2026",
+      "total_dividend": 0.37,
+      "yield": 2.557,
+      "num_payments": 7,
+      "frequency_label": "7次配息",
+      "ref_price": 14.47
+    }
+  },
+  "00963": {
+    "name": "中信全球高股息",
+    "years": {
+      "2025": {
+        "total_dividend": 0.591,
+        "yield": 6.012,
+        "num_payments": 11,
+        "frequency_label": "11次配息",
+        "ref_price": 9.83
+      }
+    },
+    "latest_completed_year": "2025",
+    "current_year_partial": {
+      "year": "2026",
+      "total_dividend": 0.496,
+      "yield": 3.927,
+      "num_payments": 8,
+      "frequency_label": "8次配息",
+      "ref_price": 12.63
+    }
+  },
+  "00964": {
+    "name": "中信亞太高股息",
+    "years": {
+      "2025": {
+        "total_dividend": 0.596,
+        "yield": 6.032,
+        "num_payments": 11,
+        "frequency_label": "11次配息",
+        "ref_price": 9.88
+      }
+    },
+    "latest_completed_year": "2025",
+    "current_year_partial": {
+      "year": "2026",
+      "total_dividend": 0.696,
+      "yield": 5.054,
+      "num_payments": 7,
+      "frequency_label": "7次配息",
+      "ref_price": 13.77
+    }
+  },
+  "00971": {
+    "name": "野村美國研發龍頭",
+    "years": {
+      "2025": {
+        "total_dividend": 1.0,
+        "yield": 7.294,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 13.71
+      }
+    },
+    "latest_completed_year": "2025"
+  },
+  "009802": {
+    "name": "富邦旗艦50",
+    "years": {
+      "2025": {
+        "total_dividend": 0.198,
+        "yield": 2.058,
+        "num_payments": 2,
+        "frequency_label": "半年配",
+        "ref_price": 9.62
+      }
+    },
+    "latest_completed_year": "2025",
+    "current_year_partial": {
+      "year": "2026",
+      "total_dividend": 0.29,
+      "yield": 1.561,
+      "num_payments": 2,
+      "frequency_label": "半年配",
+      "ref_price": 18.58
+    }
+  },
+  "009803": {
+    "name": "玉山市值動能50",
+    "years": {
+      "2025": {
+        "total_dividend": 0.41,
+        "yield": 3.984,
+        "num_payments": 2,
+        "frequency_label": "半年配",
+        "ref_price": 10.29
+      }
+    },
+    "latest_completed_year": "2025",
+    "current_year_partial": {
+      "year": "2026",
+      "total_dividend": 0.75,
+      "yield": 3.541,
+      "num_payments": 2,
+      "frequency_label": "半年配",
+      "ref_price": 21.18
+    }
+  },
+  "009804": {
+    "name": "聯邦台灣精彩50ETF基金",
+    "years": {
+      "2025": {
+        "total_dividend": 0.38,
+        "yield": 3.279,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 11.59
+      }
+    },
+    "latest_completed_year": "2025",
+    "current_year_partial": {
+      "year": "2026",
+      "total_dividend": 2.406,
+      "yield": 10.269,
+      "num_payments": 2,
+      "frequency_label": "半年配",
+      "ref_price": 23.43
+    }
+  },
+  "009808": {
+    "name": "華南永昌優選50",
+    "years": {
+      "2025": {
+        "total_dividend": 0.41,
+        "yield": 2.638,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 15.54
+      }
+    },
+    "latest_completed_year": "2025",
+    "current_year_partial": {
+      "year": "2026",
+      "total_dividend": 1.051,
+      "yield": 3.387,
+      "num_payments": 2,
+      "frequency_label": "半年配",
+      "ref_price": 31.03
+    }
+  },
+  "00980A": {
+    "name": "主動野村臺灣優選",
+    "years": {
+      "2025": {
+        "total_dividend": 0.328,
+        "yield": 2.908,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 11.28
+      }
+    },
+    "latest_completed_year": "2025",
+    "current_year_partial": {
+      "year": "2026",
+      "total_dividend": 0.848,
+      "yield": 3.586,
+      "num_payments": 2,
+      "frequency_label": "半年配",
+      "ref_price": 23.65
+    }
+  },
+  "00982A": {
+    "name": "主動群益台灣強棒",
+    "years": {
+      "2025": {
+        "total_dividend": 0.57,
+        "yield": 5.244,
+        "num_payments": 2,
+        "frequency_label": "半年配",
+        "ref_price": 10.87
+      }
+    },
+    "latest_completed_year": "2025",
+    "current_year_partial": {
+      "year": "2026",
+      "total_dividend": 1.017,
+      "yield": 4.3,
+      "num_payments": 2,
+      "frequency_label": "半年配",
+      "ref_price": 23.65
+    }
+  },
+  "00984A": {
+    "name": "主動安聯台灣高息",
+    "years": {
+      "2025": {
+        "total_dividend": 0.21,
+        "yield": 2.102,
+        "num_payments": 1,
+        "frequency_label": "年配",
+        "ref_price": 9.99
+      }
+    },
+    "latest_completed_year": "2025",
+    "current_year_partial": {
+      "year": "2026",
+      "total_dividend": 0.851,
+      "yield": 5.286,
+      "num_payments": 3,
+      "frequency_label": "3次配息",
+      "ref_price": 16.1
+    }
+  },
+  "00985B": {
+    "name": "群益ESG投等債0-5",
+    "years": {
+      "2025": {
+        "total_dividend": 0.096,
+        "yield": 0.96,
+        "num_payments": 2,
+        "frequency_label": "半年配",
+        "ref_price": 10.001
+      }
+    },
+    "latest_completed_year": "2025",
+    "current_year_partial": {
+      "year": "2026",
+      "total_dividend": 0.336,
+      "yield": 3.259,
+      "num_payments": 7,
+      "frequency_label": "7次配息",
+      "ref_price": 10.31
+    }
+  }
+}

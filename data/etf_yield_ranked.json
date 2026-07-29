@@ -1,0 +1,754 @@
+[
+  {
+    "code": "00701",
+    "name": "國泰股利精選30",
+    "year": "2025",
+    "total_dividend": 3.85,
+    "yield": 13.652,
+    "frequency_label": "半年配"
+  },
+  {
+    "code": "00901",
+    "name": "永豐智能車供應鏈",
+    "year": "2025",
+    "total_dividend": 2.6,
+    "yield": 13.0,
+    "frequency_label": "年配"
+  },
+  {
+    "code": "00896",
+    "name": "中信綠能及電動車",
+    "year": "2025",
+    "total_dividend": 1.85,
+    "yield": 11.867,
+    "frequency_label": "季配"
+  },
+  {
+    "code": "00919",
+    "name": "群益台灣精選高息",
+    "year": "2025",
+    "total_dividend": 2.52,
+    "yield": 11.667,
+    "frequency_label": "季配"
+  },
+  {
+    "code": "00918",
+    "name": "大華優利高填息30 ETF",
+    "year": "2025",
+    "total_dividend": 2.485,
+    "yield": 11.462,
+    "frequency_label": "季配"
+  },
+  {
+    "code": "0056",
+    "name": "元大高股息",
+    "year": "2025",
+    "total_dividend": 3.872,
+    "yield": 11.162,
+    "frequency_label": "季配"
+  },
+  {
+    "code": "00891",
+    "name": "中信關鍵半導體",
+    "year": "2025",
+    "total_dividend": 1.83,
+    "yield": 10.854,
+    "frequency_label": "季配"
+  },
+  {
+    "code": "00712",
+    "name": "復華富時不動產",
+    "year": "2025",
+    "total_dividend": 0.793,
+    "yield": 9.778,
+    "frequency_label": "季配"
+  },
+  {
+    "code": "00830",
+    "name": "國泰費城半導體",
+    "year": "2025",
+    "total_dividend": 3.96,
+    "yield": 9.586,
+    "frequency_label": "年配"
+  },
+  {
+    "code": "00917",
+    "name": "中信特選金融",
+    "year": "2025",
+    "total_dividend": 2.0,
+    "yield": 9.425,
+    "frequency_label": "年配"
+  },
+  {
+    "code": "00900",
+    "name": "富邦特選高股息30",
+    "year": "2025",
+    "total_dividend": 1.175,
+    "yield": 9.123,
+    "frequency_label": "月配"
+  },
+  {
+    "code": "00922",
+    "name": "國泰台灣領袖50 ETF基金",
+    "year": "2025",
+    "total_dividend": 1.88,
+    "yield": 9.056,
+    "frequency_label": "半年配"
+  },
+  {
+    "code": "00770",
+    "name": "國泰標普北美科技ETF基金",
+    "year": "2025",
+    "total_dividend": 4.0,
+    "yield": 8.905,
+    "frequency_label": "年配"
+  },
+  {
+    "code": "00894",
+    "name": "中信小資高價30",
+    "year": "2025",
+    "total_dividend": 1.75,
+    "yield": 8.883,
+    "frequency_label": "季配"
+  },
+  {
+    "code": "00953B",
+    "name": "群益優選非投等債",
+    "year": "2025",
+    "total_dividend": 0.79,
+    "yield": 8.788,
+    "frequency_label": "月配"
+  },
+  {
+    "code": "00878",
+    "name": "國泰永續高股息",
+    "year": "2025",
+    "total_dividend": 1.77,
+    "yield": 8.449,
+    "frequency_label": "季配"
+  },
+  {
+    "code": "00882",
+    "name": "中信中國高股息",
+    "year": "2025",
+    "total_dividend": 1.08,
+    "yield": 8.327,
+    "frequency_label": "半年配"
+  },
+  {
+    "code": "00945B",
+    "name": "凱基美國非投等債",
+    "year": "2025",
+    "total_dividend": 1.097,
+    "yield": 8.236,
+    "frequency_label": "月配"
+  },
+  {
+    "code": "00904",
+    "name": "台新臺灣半導體30",
+    "year": "2025",
+    "total_dividend": 1.43,
+    "yield": 8.134,
+    "frequency_label": "季配"
+  },
+  {
+    "code": "00713",
+    "name": "元大台灣高息低波",
+    "year": "2025",
+    "total_dividend": 4.06,
+    "yield": 8.048,
+    "frequency_label": "季配"
+  },
+  {
+    "code": "00923",
+    "name": "群益台ESG低碳50",
+    "year": "2025",
+    "total_dividend": 1.693,
+    "yield": 8.031,
+    "frequency_label": "半年配"
+  },
+  {
+    "code": "00690",
+    "name": "兆豐藍籌30",
+    "year": "2025",
+    "total_dividend": 2.65,
+    "yield": 7.744,
+    "frequency_label": "季配"
+  },
+  {
+    "code": "00728",
+    "name": "第一金工業30",
+    "year": "2025",
+    "total_dividend": 2.233,
+    "yield": 7.372,
+    "frequency_label": "季配"
+  },
+  {
+    "code": "00926",
+    "name": "凱基全球菁英55",
+    "year": "2025",
+    "total_dividend": 1.47,
+    "yield": 7.372,
+    "frequency_label": "年配"
+  },
+  {
+    "code": "00971",
+    "name": "野村美國研發龍頭",
+    "year": "2025",
+    "total_dividend": 1.0,
+    "yield": 7.294,
+    "frequency_label": "年配"
+  },
+  {
+    "code": "00710B",
+    "name": "復華彭博非投等債",
+    "year": "2025",
+    "total_dividend": 1.27,
+    "yield": 7.224,
+    "frequency_label": "季配"
+  },
+  {
+    "code": "00913",
+    "name": "兆豐台灣晶圓製造ETF",
+    "year": "2025",
+    "total_dividend": 1.4,
+    "yield": 7.096,
+    "frequency_label": "半年配"
+  },
+  {
+    "code": "00927",
+    "name": "群益半導體收益",
+    "year": "2025",
+    "total_dividend": 1.18,
+    "yield": 6.872,
+    "frequency_label": "季配"
+  },
+  {
+    "code": "00909",
+    "name": "國泰全球數位支付服務ETF基金",
+    "year": "2024",
+    "total_dividend": 1.81,
+    "yield": 6.623,
+    "frequency_label": "年配"
+  },
+  {
+    "code": "00935",
+    "name": "野村臺灣新科技50",
+    "year": "2025",
+    "total_dividend": 1.35,
+    "yield": 6.27,
+    "frequency_label": "半年配"
+  },
+  {
+    "code": "00702",
+    "name": "國泰標普低波高息",
+    "year": "2025",
+    "total_dividend": 1.32,
+    "yield": 6.145,
+    "frequency_label": "半年配"
+  },
+  {
+    "code": "00964",
+    "name": "中信亞太高股息",
+    "year": "2025",
+    "total_dividend": 0.596,
+    "yield": 6.032,
+    "frequency_label": "11次配息"
+  },
+  {
+    "code": "00915",
+    "name": "凱基優選高股息30",
+    "year": "2025",
+    "total_dividend": 1.35,
+    "yield": 6.027,
+    "frequency_label": "季配"
+  },
+  {
+    "code": "00963",
+    "name": "中信全球高股息",
+    "year": "2025",
+    "total_dividend": 0.591,
+    "yield": 6.012,
+    "frequency_label": "11次配息"
+  },
+  {
+    "code": "00850",
+    "name": "元大臺灣ESG永續",
+    "year": "2025",
+    "total_dividend": 2.56,
+    "yield": 5.873,
+    "frequency_label": "季配"
+  },
+  {
+    "code": "00730",
+    "name": "富邦臺灣優質高息",
+    "year": "2025",
+    "total_dividend": 1.266,
+    "yield": 5.791,
+    "frequency_label": "月配"
+  },
+  {
+    "code": "00771",
+    "name": "元大US高息特別股",
+    "year": "2025",
+    "total_dividend": 0.86,
+    "yield": 5.776,
+    "frequency_label": "季配"
+  },
+  {
+    "code": "00912",
+    "name": "中信臺灣智慧50",
+    "year": "2025",
+    "total_dividend": 1.05,
+    "yield": 5.738,
+    "frequency_label": "季配"
+  },
+  {
+    "code": "00960",
+    "name": "野村全球航運龍頭",
+    "year": "2025",
+    "total_dividend": 0.765,
+    "yield": 5.722,
+    "frequency_label": "季配"
+  },
+  {
+    "code": "00881",
+    "name": "國泰台灣科技龍頭",
+    "year": "2025",
+    "total_dividend": 1.3,
+    "yield": 5.474,
+    "frequency_label": "半年配"
+  },
+  {
+    "code": "00711B",
+    "name": "復華彭博新興債",
+    "year": "2025",
+    "total_dividend": 0.76,
+    "yield": 5.292,
+    "frequency_label": "季配"
+  },
+  {
+    "code": "00930",
+    "name": "永豐ESG低碳高息",
+    "year": "2025",
+    "total_dividend": 0.907,
+    "yield": 5.282,
+    "frequency_label": "6次配息"
+  },
+  {
+    "code": "00982A",
+    "name": "主動群益台灣強棒",
+    "year": "2025",
+    "total_dividend": 0.57,
+    "yield": 5.244,
+    "frequency_label": "半年配"
+  },
+  {
+    "code": "00775B",
+    "name": "台新投等債15+",
+    "year": "2025",
+    "total_dividend": 1.51,
+    "yield": 5.101,
+    "frequency_label": "季配"
+  },
+  {
+    "code": "00946",
+    "name": "群益科技高息成長",
+    "year": "2025",
+    "total_dividend": 0.448,
+    "yield": 4.972,
+    "frequency_label": "月配"
+  },
+  {
+    "code": "00956",
+    "name": "中信日經高股息",
+    "year": "2025",
+    "total_dividend": 0.445,
+    "yield": 4.89,
+    "frequency_label": "季配"
+  },
+  {
+    "code": "00908",
+    "name": "富邦入息REITs+",
+    "year": "2025",
+    "total_dividend": 0.618,
+    "yield": 4.858,
+    "frequency_label": "季配"
+  },
+  {
+    "code": "00939",
+    "name": "統一台灣高息動能ETF基金",
+    "year": "2025",
+    "total_dividend": 0.66,
+    "yield": 4.79,
+    "frequency_label": "11次配息"
+  },
+  {
+    "code": "00929",
+    "name": "復華台灣科技優息",
+    "year": "2025",
+    "total_dividend": 0.83,
+    "yield": 4.754,
+    "frequency_label": "月配"
+  },
+  {
+    "code": "00940",
+    "name": "元大台灣價值高息",
+    "year": "2025",
+    "total_dividend": 0.425,
+    "yield": 4.717,
+    "frequency_label": "月配"
+  },
+  {
+    "code": "00717",
+    "name": "富邦美國特別股",
+    "year": "2025",
+    "total_dividend": 0.612,
+    "yield": 4.457,
+    "frequency_label": "季配"
+  },
+  {
+    "code": "00944",
+    "name": "野村趨勢動能高息",
+    "year": "2025",
+    "total_dividend": 0.614,
+    "yield": 4.401,
+    "frequency_label": "11次配息"
+  },
+  {
+    "code": "00739",
+    "name": "元大MSCI A股",
+    "year": "2025",
+    "total_dividend": 0.9,
+    "yield": 4.339,
+    "frequency_label": "年配"
+  },
+  {
+    "code": "0055",
+    "name": "元大MSCI金融",
+    "year": "2025",
+    "total_dividend": 1.25,
+    "yield": 4.303,
+    "frequency_label": "年配"
+  },
+  {
+    "code": "00907",
+    "name": "永豐優息存股",
+    "year": "2025",
+    "total_dividend": 0.638,
+    "yield": 4.276,
+    "frequency_label": "6次配息"
+  },
+  {
+    "code": "00692",
+    "name": "富邦公司治理",
+    "year": "2025",
+    "total_dividend": 1.88,
+    "yield": 4.228,
+    "frequency_label": "半年配"
+  },
+  {
+    "code": "00934",
+    "name": "中信成長高股息",
+    "year": "2025",
+    "total_dividend": 0.76,
+    "yield": 4.206,
+    "frequency_label": "月配"
+  },
+  {
+    "code": "0051",
+    "name": "元大中型100",
+    "year": "2025",
+    "total_dividend": 3.0,
+    "yield": 4.0,
+    "frequency_label": "年配"
+  },
+  {
+    "code": "009803",
+    "name": "玉山市值動能50",
+    "year": "2025",
+    "total_dividend": 0.41,
+    "yield": 3.984,
+    "frequency_label": "半年配"
+  },
+  {
+    "code": "0057",
+    "name": "富邦摩台",
+    "year": "2016",
+    "total_dividend": 1.685,
+    "yield": 3.947,
+    "frequency_label": "年配"
+  },
+  {
+    "code": "006208",
+    "name": "富邦台50",
+    "year": "2025",
+    "total_dividend": 4.437,
+    "yield": 3.918,
+    "frequency_label": "半年配"
+  },
+  {
+    "code": "00731",
+    "name": "復華富時高息低波",
+    "year": "2025",
+    "total_dividend": 2.49,
+    "yield": 3.739,
+    "frequency_label": "季配"
+  },
+  {
+    "code": "00851",
+    "name": "台新全球AI",
+    "year": "2025",
+    "total_dividend": 1.7,
+    "yield": 3.571,
+    "frequency_label": "年配"
+  },
+  {
+    "code": "00921",
+    "name": "兆豐龍頭等權重",
+    "year": "2025",
+    "total_dividend": 0.585,
+    "yield": 3.522,
+    "frequency_label": "季配"
+  },
+  {
+    "code": "00961",
+    "name": "FT臺灣永續高息",
+    "year": "2025",
+    "total_dividend": 0.311,
+    "yield": 3.369,
+    "frequency_label": "6次配息"
+  },
+  {
+    "code": "00936",
+    "name": "台新永續高息中小型ETF",
+    "year": "2025",
+    "total_dividend": 0.49,
+    "yield": 3.365,
+    "frequency_label": "月配"
+  },
+  {
+    "code": "00932",
+    "name": "兆豐永續高息等權",
+    "year": "2025",
+    "total_dividend": 0.46,
+    "yield": 3.314,
+    "frequency_label": "季配"
+  },
+  {
+    "code": "009804",
+    "name": "聯邦台灣精彩50ETF基金",
+    "year": "2025",
+    "total_dividend": 0.38,
+    "yield": 3.279,
+    "frequency_label": "年配"
+  },
+  {
+    "code": "00905",
+    "name": "FT臺灣Smart",
+    "year": "2025",
+    "total_dividend": 0.4,
+    "yield": 2.952,
+    "frequency_label": "3次配息"
+  },
+  {
+    "code": "00943",
+    "name": "兆豐電子高息等權",
+    "year": "2025",
+    "total_dividend": 0.403,
+    "yield": 2.948,
+    "frequency_label": "7次配息"
+  },
+  {
+    "code": "00733",
+    "name": "臺灣中小A級動能50 ETF基金",
+    "year": "2025",
+    "total_dividend": 1.136,
+    "yield": 2.934,
+    "frequency_label": "半年配"
+  },
+  {
+    "code": "0053",
+    "name": "元大電子",
+    "year": "2025",
+    "total_dividend": 3.0,
+    "yield": 2.928,
+    "frequency_label": "年配"
+  },
+  {
+    "code": "00980A",
+    "name": "主動野村臺灣優選",
+    "year": "2025",
+    "total_dividend": 0.328,
+    "yield": 2.908,
+    "frequency_label": "年配"
+  },
+  {
+    "code": "006204",
+    "name": "永豐臺灣加權",
+    "year": "2025",
+    "total_dividend": 3.259,
+    "yield": 2.869,
+    "frequency_label": "年配"
+  },
+  {
+    "code": "00911",
+    "name": "兆豐洲際半導體",
+    "year": "2025",
+    "total_dividend": 0.7,
+    "yield": 2.812,
+    "frequency_label": "年配"
+  },
+  {
+    "code": "006203",
+    "name": "元大MSCI台灣",
+    "year": "2025",
+    "total_dividend": 2.45,
+    "yield": 2.751,
+    "frequency_label": "半年配"
+  },
+  {
+    "code": "00892",
+    "name": "富邦台灣半導體",
+    "year": "2025",
+    "total_dividend": 0.464,
+    "yield": 2.676,
+    "frequency_label": "半年配"
+  },
+  {
+    "code": "00714",
+    "name": "群益道瓊美國地產",
+    "year": "2025",
+    "total_dividend": 0.492,
+    "yield": 2.651,
+    "frequency_label": "季配"
+  },
+  {
+    "code": "009808",
+    "name": "華南永昌優選50",
+    "year": "2025",
+    "total_dividend": 0.41,
+    "yield": 2.638,
+    "frequency_label": "年配"
+  },
+  {
+    "code": "0050",
+    "name": "元大台灣50",
+    "year": "2025",
+    "total_dividend": 1.035,
+    "yield": 2.143,
+    "frequency_label": "半年配"
+  },
+  {
+    "code": "00984A",
+    "name": "主動安聯台灣高息",
+    "year": "2025",
+    "total_dividend": 0.21,
+    "yield": 2.102,
+    "frequency_label": "年配"
+  },
+  {
+    "code": "009802",
+    "name": "富邦旗艦50",
+    "year": "2025",
+    "total_dividend": 0.198,
+    "yield": 2.058,
+    "frequency_label": "半年配"
+  },
+  {
+    "code": "00736",
+    "name": "國泰新興市場",
+    "year": "2025",
+    "total_dividend": 0.47,
+    "yield": 1.989,
+    "frequency_label": "半年配"
+  },
+  {
+    "code": "00938",
+    "name": "凱基優選30",
+    "year": "2025",
+    "total_dividend": 0.28,
+    "yield": 1.942,
+    "frequency_label": "半年配"
+  },
+  {
+    "code": "00952",
+    "name": "凱基台灣AI 50",
+    "year": "2025",
+    "total_dividend": 0.18,
+    "yield": 1.907,
+    "frequency_label": "7次配息"
+  },
+  {
+    "code": "00951",
+    "name": "台新日本半導體ETF",
+    "year": "2025",
+    "total_dividend": 0.16,
+    "yield": 1.885,
+    "frequency_label": "年配"
+  },
+  {
+    "code": "00947",
+    "name": "台新臺灣IC設計動能ETF基金",
+    "year": "2025",
+    "total_dividend": 0.24,
+    "yield": 1.773,
+    "frequency_label": "3次配息"
+  },
+  {
+    "code": "00920",
+    "name": "富邦ESG綠色電力",
+    "year": "2025",
+    "total_dividend": 0.206,
+    "yield": 1.669,
+    "frequency_label": "年配"
+  },
+  {
+    "code": "00962",
+    "name": "台新AI優息動能基金",
+    "year": "2025",
+    "total_dividend": 0.15,
+    "yield": 1.601,
+    "frequency_label": "6次配息"
+  },
+  {
+    "code": "00660",
+    "name": "元大歐洲50",
+    "year": "2020",
+    "total_dividend": 0.36,
+    "yield": 1.575,
+    "frequency_label": "年配"
+  },
+  {
+    "code": "00735",
+    "name": "國泰臺韓科技",
+    "year": "2025",
+    "total_dividend": 0.42,
+    "yield": 1.232,
+    "frequency_label": "半年配"
+  },
+  {
+    "code": "00916",
+    "name": "國泰全球品牌50",
+    "year": "2025",
+    "total_dividend": 0.25,
+    "yield": 1.107,
+    "frequency_label": "年配"
+  },
+  {
+    "code": "00985B",
+    "name": "群益ESG投等債0-5",
+    "year": "2025",
+    "total_dividend": 0.096,
+    "yield": 0.96,
+    "frequency_label": "半年配"
+  },
+  {
+    "code": "0052",
+    "name": "富邦科技",
+    "year": "2025",
+    "total_dividend": 0.461,
+    "yield": 0.246,
+    "frequency_label": "年配"
+  }
+]

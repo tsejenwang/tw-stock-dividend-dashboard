@@ -3,6 +3,7 @@
 (function () {
   const PAGES = [
     { key: "rankings", href: "index.html", label: "殖利率排行榜" },
+    { key: "etf", href: "etf.html", label: "ETF殖利率查詢" },
     { key: "calendar", href: "calendar.html", label: "除權息日程表" },
     { key: "calculators", href: "calculators.html", label: "合理價／風險試算" },
   ];

@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ETF殖利率查詢 - 台股資訊儀表板</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/css/style.css" rel="stylesheet">
+</head>
+<body>
+
+<div id="site-nav"></div>
+
+<main class="container">
+
+  <!-- ===== ETF 殖利率排行榜 ===== -->
+  <section class="table-container">
+    <h4 class="mb-3">ETF 殖利率排行榜</h4>
+    <p class="data-date-note mb-2">
+      依「最近一個完整年度」殖利率由高到低排序，目前共 <span id="etfRankCount">-</span> 檔 ETF 有資料。
+    </p>
+
+    <div class="table-responsive">
+      <table class="table table-hover data-table">
+        <thead class="table-dark">
+          <tr>
+            <th>排名</th>
+            <th>代號</th>
+            <th>名稱</th>
+            <th>年度</th>
+            <th>年度總配息</th>
+            <th>殖利率(%)</th>
+            <th>配息頻率</th>
+          </tr>
+        </thead>
+        <tbody id="etfRankBody">
+          <tr><td colspan="7" class="state-message">載入中...</td></tr>
+        </tbody>
+      </table>
+    </div>
+
+    <p class="disclaimer">
+      「年度」為每檔 ETF 最近一個已經完整走完的配息年度（不是今年，因為今年可能還沒發完所有配息）。
+      殖利率計算方式：該年度所有配息加總 ÷ 該年 6 月 30 日附近參考股價，不同配息頻率（月配／季配／
+      半年配／年配）都是用年度總額計算，方便跨 ETF 比較。歷史殖利率不代表未來報酬，僅供參考，不是投資建議。
+    </p>
+  </section>
+
+  <!-- ===== 個股（單一 ETF）歷年明細查詢 ===== -->
+  <section class="table-container">
+    <h4 class="mb-3">ETF 歷年殖利率查詢</h4>
+    <p class="text-muted">輸入 ETF 代號或名稱，查看這檔 ETF 每個年度的配息與殖利率明細。</p>
+
+    <div class="input-group mb-3" style="max-width: 24rem;">
+      <input type="text" id="etfSearchInput" class="form-control" placeholder="輸入 ETF 代號或名稱，例如 0056 或 高股息">
+      <button class="btn btn-primary" id="etfSearchBtn" type="button">查詢</button>
+    </div>
+    <div id="etfSearchMatches" class="mb-3"></div>
+
+    <div id="etfDetailResult"></div>
+
+    <p class="disclaimer">
+      殖利率計算方式：該年度所有配息加總 ÷ 該年 6 月 30 日附近參考股價，不同配息頻率（月配／季配／
+      半年配／年配／N次配息）都是用年度總額計算，方便跨 ETF 比較。標示「累計中，尚未結束」的年度
+      表示今年還沒走完，配息與殖利率只是目前累計的部分數字，不能直接跟完整年度比較。
+      僅供參考，不是投資建議。
+    </p>
+  </section>
+
+</main>
+
+<footer class="text-center mt-5 mb-4 text-muted">
+  <p>台股資訊儀表板</p>
+</footer>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+<script>window.ACTIVE_PAGE = "etf";</script>
+<script src="assets/js/nav.js"></script>
+<script src="assets/js/data-utils.js"></script>
+<script>
+  // ==================== ETF 殖利率排行榜 ====================
+  async function loadEtfRanking() {
+    const tbody = document.getElementById("etfRankBody");
+    DataUtils.showState(tbody, "載入中...");
+    try {
+      const rows = await DataUtils.fetchJSON("data/etf_yield_ranked.json");
+      if (!rows || rows.length === 0) {
+        tbody.innerHTML = `<tr><td colspan="7" class="state-message">目前沒有可顯示的 ETF 殖利率資料。</td></tr>`;
+        return;
+      }
+      document.getElementById("etfRankCount").textContent = rows.length;
+      tbody.innerHTML = rows.map((r, i) => `
+        <tr>
+          <td><span class="rank-badge">${i + 1}</span></td>
+          <td>${DataUtils.escapeHTML(r.code)}</td>
+          <td>${DataUtils.escapeHTML(r.name)}</td>
+          <td>${DataUtils.escapeHTML(r.year)}</td>
+          <td>${r.total_dividend}</td>
+          <td class="text-success fw-bold">${r.yield}%</td>
+          <td>${DataUtils.escapeHTML(r.frequency_label)}</td>
+        </tr>
+      `).join("");
+    } catch (err) {
+      console.error(err);
+      tbody.innerHTML = `<tr><td colspan="7" class="state-message">資料載入失敗，請確認排程是否已產生 data/etf_yield_ranked.json。</td></tr>`;
+    }
+  }
+  loadEtfRanking();
+
+  // ==================== ETF 歷年明細查詢 ====================
+  let etfYieldData = null;
+
+  async function ensureEtfYieldLoaded() {
+    if (etfYieldData) return;
+    try {
+      etfYieldData = await DataUtils.fetchJSON("data/etf_yield.json");
+    } catch (err) {
+      console.error(err);
+      etfYieldData = {};
+    }
+  }
+
+  function searchEtf(keyword) {
+    if (etfYieldData[keyword]) {
+      return [[keyword, etfYieldData[keyword].name]];
+    }
+    return Object.entries(etfYieldData)
+      .filter(([code, info]) => code.includes(keyword) || (info.name && info.name.includes(keyword)))
+      .map(([code, info]) => [code, info.name])
+      .slice(0, 20);
+  }
+
+  async function handleEtfSearch() {
+    const keyword = document.getElementById("etfSearchInput").value.trim();
+    const matchesEl = document.getElementById("etfSearchMatches");
+    const resultEl = document.getElementById("etfDetailResult");
+    matchesEl.innerHTML = "";
+    resultEl.innerHTML = "";
+    if (!keyword) return;
+
+    await ensureEtfYieldLoaded();
+    const matches = searchEtf(keyword);
+
+    if (matches.length === 0) {
+      DataUtils.showState(resultEl, `查無「${keyword}」的 ETF 殖利率資料（可能是代號或名稱輸入錯誤）。`);
+      return;
+    }
+    if (matches.length === 1) {
+      renderEtfDetail(matches[0][0]);
+      return;
+    }
+    matchesEl.innerHTML = matches.map(([code, name]) =>
+      `<button class="btn btn-outline-secondary btn-sm me-2 mb-2" data-code="${code}">${DataUtils.escapeHTML(name)} (${code})</button>`
+    ).join("");
+    matchesEl.querySelectorAll("button").forEach((btn) => {
+      btn.addEventListener("click", () => renderEtfDetail(btn.dataset.code));
+    });
+  }
+
+  function renderEtfDetail(code) {
+    const info = etfYieldData[code];
+    const resultEl = document.getElementById("etfDetailResult");
+    if (!info) {
+      DataUtils.showState(resultEl, "查無資料。");
+      return;
+    }
+
+    const years = Object.keys(info.years).sort((a, b) => b - a);
+    const rowsHtml = years.map((y) => {
+      const yd = info.years[y];
+      return `
+        <tr>
+          <td>${DataUtils.escapeHTML(y)}</td>
+          <td>${yd.total_dividend}</td>
+          <td class="text-success fw-bold">${yd.yield}%</td>
+          <td>${DataUtils.escapeHTML(yd.frequency_label)}</td>
+          <td>${yd.ref_price}</td>
+          <td></td>
+        </tr>
+      `;
+    }).join("");
+
+    let partialHtml = "";
+    if (info.current_year_partial) {
+      const p = info.current_year_partial;
+      partialHtml = `
+        <tr class="table-warning">
+          <td>${DataUtils.escapeHTML(p.year)}</td>
+          <td>${p.total_dividend}</td>
+          <td class="fw-bold">${p.yield}%</td>
+          <td>${DataUtils.escapeHTML(p.frequency_label)}</td>
+          <td>${p.ref_price}</td>
+          <td><span class="badge text-bg-warning">累計中，尚未結束</span></td>
+        </tr>
+      `;
+    }
+
+    resultEl.innerHTML = `
+      <div class="card">
+        <div class="card-body">
+          <h5 class="card-title">${DataUtils.escapeHTML(info.name)} (${code})</h5>
+          <p class="text-muted mb-2">最近一個完整年度：${DataUtils.escapeHTML(info.latest_completed_year)}</p>
+          <div class="table-responsive">
+            <table class="table table-hover data-table">
+              <thead class="table-dark">
+                <tr>
+                  <th>年度</th>
+                  <th>年度總配息</th>
+                  <th>殖利率(%)</th>
+                  <th>配息頻率</th>
+                  <th>參考股價</th>
+                  <th>備註</th>
+                </tr>
+              </thead>
+              <tbody>
+                ${partialHtml}
+                ${rowsHtml}
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+    `;
+  }
+
+  document.getElementById("etfSearchBtn").addEventListener("click", handleEtfSearch);
+  document.getElementById("etfSearchInput").addEventListener("keydown", (e) => {
+    if (e.key === "Enter") { e.preventDefault(); handleEtfSearch(); }
+  });
+</script>
+</body>
+</html>
