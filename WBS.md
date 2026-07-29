@@ -82,24 +82,24 @@
 ## 執行進度（2026-07-29）
 
 任務 01–10 已經實際動手實作並在本機測試通過，細節見根目錄 [`README.md`](README.md)：
-- 01 專案初始化：`data/` `scripts/` `assets/` 資料夾已建立。**這台機器沒有安裝 git**，
-  `git init` 這步驟還沒執行，留給有 git 環境的人/機器接手。
+- 01 專案初始化：`data/` `scripts/` `assets/` 資料夾已建立。**git 已安裝**（winget 安裝
+  2.55.0.3），已執行 `git init` 並建立第一個 commit（`7c0eb25`），本機 repo 已就緒。
 - 02–05 資料擷取/計算腳本（`scripts/*.py`）都已實作並實際執行成功，`data/` 底下已經有
   跑出來的真實資料。過程中發現並修正兩個問題：舊版 `get_data.py` 用的 `BWIBHT_ALL`
   端點已失效（已修正為 `BWIBBU_ALL`）；歷史殖利率資料偶爾出現離譜異常值（已加合理性過濾）。
 - 04 除權息日程表的資料來源已經查證確認（見下方），不再是開放問題。
 - 06 風險試算公式已實作成 `assets/js/risk.js`，並用需求方給的範例數字驗證過。
-- 07 GitHub Actions 排程檔已寫成草稿（`.github/workflows/update-data.yml`），但**還沒有
-  實際推上 GitHub 執行過**，因為 repo 都還沒建立。
+- 07 GitHub Actions 排程檔已寫成草稿（`.github/workflows/update-data.yml`）並驗證 YAML
+  語法正確、每個步驟對應的腳本路徑都存在，但**還沒有實際推上 GitHub 執行過**，因為
+  repo 還沒推到遠端（本機 repo 已就緒,只差 remote）。
 - 08–10 三個前端頁面已完成並用 headless 瀏覽器實際測試過（分頁切換、搜尋篩選、
   合理價查詢、風險試算表單都驗證數字正確）。
 
 11（部署）、12（QA/文件/LINE 整合）還沒執行，原因見下方開放問題。
 
 ## 尚待確認的開放問題
-- [ ] 這台機器需要先安裝 git，才能執行任務 01 的 `git init` 與任務 11 的部署
-- [ ] 是否要把這個資料夾推到 GitHub、要用哪個帳號/repo 名稱、public 還是 private
-  （部署到 GitHub Pages 的前提）— 這步驟執行前會再次確認，不會自動進行
+- [ ] 是否要把這個資料夾推到 GitHub、要用哪個帳號/repo 名稱、public 還是 private、
+  由誰執行 `git push`（部署到 GitHub Pages 的前提）— 這步驟執行前會再次確認，不會自動進行
 - [ ] 任務 12：LINE 推播（`line_push.py`）還沒整合新的排行/日程/試算資料，目前只修好了
   舊版 `get_data.py` 的失效端點，維持現況可運作
 
