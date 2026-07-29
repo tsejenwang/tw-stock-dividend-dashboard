@@ -96,9 +96,8 @@ python -m http.server 8765
 
 - Repo:`https://github.com/tsejenwang/tw-stock-dividend-dashboard`(public)
 - GitHub Pages:`https://tsejenwang.github.io/tw-stock-dividend-dashboard/`(2026-07-29 上線)
-- **還沒做的**:讓 `.github/workflows/update-data.yml` 真的每天自動跑並把新資料 commit
-  回去。目前 `data/` 底下是手動跑腳本後推上去的一次性快照,不會自動更新。要驗證這件事
-  除了排程時間到了以外,也可以到 repo 的 Actions 頁籤手動觸發一次(workflow 有設定
-  `workflow_dispatch`),另外要確認 repo 的 Settings → Actions → General 裡
-  「Workflow permissions」有開「Read and write permissions」,不然 workflow 最後
-  `git push` 那步會因為權限不足失敗。
+- 自動化排程(`.github/workflows/update-data.yml`)已完整驗證:repo 的 Settings → Actions →
+  General 已開啟「Read and write permissions」,手動觸發 `workflow_dispatch` 執行成功
+  (53 秒),四支資料腳本都正確執行,最後「Commit and push updated data」步驟印出
+  `No data changes`(因為當天稍早已手動跑過同一批資料,內容相同,正確跳過不產生空 commit)。
+  排程本身設定每個交易日台北時間 14:30 自動執行,之後資料有變化時就會自動 commit + push。

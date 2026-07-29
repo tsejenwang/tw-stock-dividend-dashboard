@@ -98,14 +98,16 @@
 - 11 部署已完成：repo 推到 `github.com/tsejenwang/tw-stock-dividend-dashboard`（public），
   GitHub Pages 已開啟，正式網址 `https://tsejenwang.github.io/tw-stock-dividend-dashboard/`，
   用 headless 瀏覽器實測三個頁面的資料都正常載入。
+- 07 已完整驗證：把 repo 的 Settings → Actions → General 的「Workflow permissions」改成
+  「Read and write permissions」後，用 `workflow_dispatch` 手動觸發一次，執行成功
+  （53 秒）。「Commit and push updated data」步驟的 log 印出 `No data changes`，代表
+  `git diff --cached --quiet` 的差異判斷邏輯正確運作（因為當天稍早才手動跑過一次同一批
+  資料，內容完全相同，所以正確地跳過、沒有產生多餘的空 commit）。整條「抓資料 →
+  判斷差異 → commit → push」的管線已跑通，之後資料真的有變化時會自動更新。
 
 12（QA/文件/LINE 整合）還沒執行，原因見下方開放問題。
 
 ## 尚待確認的開放問題
-- [ ] 任務 07 收尾：`.github/workflows/update-data.yml` 還沒有實際驗證過在 GitHub 上
-  自動觸發、`git push` 回去是否成功（需要確認 repo 的 Settings → Actions → General 裡
-  「Workflow permissions」有開「Read and write permissions」，否則排程最後一步會失敗）。
-  目前線上的 `data/` 資料是手動跑腳本後推上去的一次性快照，不會自動更新。
 - [ ] 任務 12：LINE 推播（`line_push.py`）還沒整合新的排行/日程/試算資料，目前只修好了
   舊版 `get_data.py` 的失效端點，維持現況可運作
 
