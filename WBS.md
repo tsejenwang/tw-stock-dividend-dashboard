@@ -95,11 +95,17 @@
 - 08–10 三個前端頁面已完成並用 headless 瀏覽器實際測試過（分頁切換、搜尋篩選、
   合理價查詢、風險試算表單都驗證數字正確）。
 
-11（部署）、12（QA/文件/LINE 整合）還沒執行，原因見下方開放問題。
+- 11 部署已完成：repo 推到 `github.com/tsejenwang/tw-stock-dividend-dashboard`（public），
+  GitHub Pages 已開啟，正式網址 `https://tsejenwang.github.io/tw-stock-dividend-dashboard/`，
+  用 headless 瀏覽器實測三個頁面的資料都正常載入。
+
+12（QA/文件/LINE 整合）還沒執行，原因見下方開放問題。
 
 ## 尚待確認的開放問題
-- [ ] 是否要把這個資料夾推到 GitHub、要用哪個帳號/repo 名稱、public 還是 private、
-  由誰執行 `git push`（部署到 GitHub Pages 的前提）— 這步驟執行前會再次確認，不會自動進行
+- [ ] 任務 07 收尾：`.github/workflows/update-data.yml` 還沒有實際驗證過在 GitHub 上
+  自動觸發、`git push` 回去是否成功（需要確認 repo 的 Settings → Actions → General 裡
+  「Workflow permissions」有開「Read and write permissions」，否則排程最後一步會失敗）。
+  目前線上的 `data/` 資料是手動跑腳本後推上去的一次性快照，不會自動更新。
 - [ ] 任務 12：LINE 推播（`line_push.py`）還沒整合新的排行/日程/試算資料，目前只修好了
   舊版 `get_data.py` 的失效端點，維持現況可運作
 
