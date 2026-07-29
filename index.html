@@ -23,31 +23,70 @@
       <li class="nav-item" role="presentation">
         <button class="nav-link" data-tab="10y" type="button">近10年平均殖利率</button>
       </li>
+      <li class="nav-item" role="presentation">
+        <button class="nav-link" data-tab="fill-dividend" type="button">個股填息查詢</button>
+      </li>
     </ul>
 
-    <p class="data-date-note mb-2" id="dataDateNote"></p>
+    <div id="rankingPanel">
+      <p class="data-date-note mb-2" id="dataDateNote"></p>
 
-    <div class="table-responsive">
-      <table class="table table-hover data-table">
-        <thead class="table-dark">
-          <tr>
-            <th>排名</th>
-            <th>代號</th>
-            <th>名稱</th>
-            <th>市場</th>
-            <th id="yieldColHeader">殖利率(%)</th>
-          </tr>
-        </thead>
-        <tbody id="rankingBody">
-          <tr><td colspan="5" class="state-message">載入中...</td></tr>
-        </tbody>
-      </table>
+      <div class="table-responsive">
+        <table class="table table-hover data-table">
+          <thead class="table-dark">
+            <tr>
+              <th>排名</th>
+              <th>代號</th>
+              <th>名稱</th>
+              <th>市場</th>
+              <th id="yieldColHeader">殖利率(%)</th>
+            </tr>
+          </thead>
+          <tbody id="rankingBody">
+            <tr><td colspan="5" class="state-message">載入中...</td></tr>
+          </tbody>
+        </table>
+      </div>
+
+      <p class="disclaimer">
+        資料來源:證交所(TWSE)／櫃買中心(TPEx)開放資料。殖利率排行僅反映歷史股利與股價,
+        不代表未來報酬,僅供參考,不是投資建議。
+      </p>
     </div>
 
-    <p class="disclaimer">
-      資料來源:證交所(TWSE)／櫃買中心(TPEx)開放資料。殖利率排行僅反映歷史股利與股價,
-      不代表未來報酬,僅供參考,不是投資建議。
-    </p>
+    <div id="fillDividendPanel" style="display:none;">
+      <div class="input-group mb-3" style="max-width: 24rem;">
+        <input type="text" id="fdSearchInput" class="form-control" placeholder="輸入股票代號或名稱,例如 2330 或 台積電">
+        <button class="btn btn-primary" id="fdSearchBtn" type="button">查詢</button>
+      </div>
+      <div id="fdSearchMatches" class="mb-3"></div>
+      <div id="fdStatus"></div>
+
+      <div class="table-responsive" id="fdTableWrap" style="display:none;">
+        <table class="table table-hover data-table">
+          <thead class="table-dark">
+            <tr>
+              <th>年度</th>
+              <th>除息日</th>
+              <th>除息前股價</th>
+              <th>殖利率(%)</th>
+              <th>填息天數</th>
+              <th>填息後連續維持天數</th>
+            </tr>
+          </thead>
+          <tbody id="fdBody"></tbody>
+        </table>
+      </div>
+
+      <p class="disclaimer">
+        「填息天數」:從除息日起,到收盤價回到除息前收盤價以上所花的交易日數(超過 365
+        天未填息則標示逾期)。「填息後連續維持天數」:填息後收盤價連續維持在除息前股價以上
+        的交易日數,只要有一天收盤價低於除息前股價就停止累計(最多追蹤 365 天)。
+        <strong>此功能目前只支援上市(TWSE)股票</strong>,上櫃股票因資料來源不開放瀏覽器
+        跨網域查詢,暫不支援。查詢結果會存在瀏覽器本機(localStorage)一天,同一檔股票
+        當天內重複查詢不會再次呼叫外部 API。僅供參考,不是投資建議。
+      </p>
+    </div>
   </div>
 </main>
 
@@ -59,6 +98,7 @@
 <script>window.ACTIVE_PAGE = "rankings";</script>
 <script src="assets/js/nav.js"></script>
 <script src="assets/js/data-utils.js"></script>
+<script src="assets/js/fill-dividend.js"></script>
 <script>
   const TAB_CONFIG = {
     current: { file: "data/current_yield_top20.json", yieldKey: "yield", header: "殖利率(%)" },
@@ -108,11 +148,169 @@
       document.querySelectorAll("#rankingTabs button").forEach((b) => b.classList.remove("active"));
       btn.classList.add("active");
       activeTab = btn.dataset.tab;
-      loadTab(activeTab);
+
+      const rankingPanel = document.getElementById("rankingPanel");
+      const fillDividendPanel = document.getElementById("fillDividendPanel");
+      if (activeTab === "fill-dividend") {
+        rankingPanel.style.display = "none";
+        fillDividendPanel.style.display = "";
+        initFillDividendPanel();
+      } else {
+        rankingPanel.style.display = "";
+        fillDividendPanel.style.display = "none";
+        loadTab(activeTab);
+      }
     });
   });
 
   loadTab(activeTab);
+
+  // ==================== 個股填息查詢 ====================
+  let yieldHistoryRaw = null; // {year: {code: {name, market, close, yield, dividend}}}
+  let yieldHistoryLoaded = false;
+
+  async function ensureYieldHistoryLoaded() {
+    if (yieldHistoryLoaded) return;
+    try {
+      yieldHistoryRaw = await DataUtils.fetchJSON("data/yield_history_raw.json");
+    } catch (err) {
+      console.error(err);
+      yieldHistoryRaw = {};
+    }
+    yieldHistoryLoaded = true;
+  }
+
+  function findLatestSnapshotEntry(code) {
+    // 從最新到最舊找這檔代號出現的年度快照,拿 name/market 用
+    const years = Object.keys(yieldHistoryRaw).sort((a, b) => b - a);
+    for (const y of years) {
+      if (yieldHistoryRaw[y][code]) return yieldHistoryRaw[y][code];
+    }
+    return null;
+  }
+
+  function searchStockIndex(keyword) {
+    // 用最新一個年度的快照當代號/名稱對照表
+    const years = Object.keys(yieldHistoryRaw).sort((a, b) => b - a);
+    if (!years.length) return [];
+    const latest = yieldHistoryRaw[years[0]];
+    if (latest[keyword]) return [[keyword, latest[keyword].name]];
+    return Object.entries(latest)
+      .filter(([code, info]) => info.name && info.name.includes(keyword))
+      .map(([code, info]) => [code, info.name])
+      .slice(0, 20);
+  }
+
+  function initFillDividendPanel() {
+    if (document.getElementById("fdSearchBtn").dataset.bound) return;
+    document.getElementById("fdSearchBtn").dataset.bound = "1";
+
+    document.getElementById("fdSearchBtn").addEventListener("click", handleFillDividendSearch);
+    document.getElementById("fdSearchInput").addEventListener("keydown", (e) => {
+      if (e.key === "Enter") { e.preventDefault(); handleFillDividendSearch(); }
+    });
+  }
+
+  async function handleFillDividendSearch() {
+    const keyword = document.getElementById("fdSearchInput").value.trim();
+    const matchesEl = document.getElementById("fdSearchMatches");
+    const statusEl = document.getElementById("fdStatus");
+    const tableWrap = document.getElementById("fdTableWrap");
+    matchesEl.innerHTML = "";
+    statusEl.innerHTML = "";
+    tableWrap.style.display = "none";
+    if (!keyword) return;
+
+    await ensureYieldHistoryLoaded();
+    const matches = searchStockIndex(keyword);
+
+    if (matches.length === 0) {
+      statusEl.innerHTML = `<div class="state-message">查無「${DataUtils.escapeHTML(keyword)}」,請確認代號或名稱是否正確。</div>`;
+      return;
+    }
+    if (matches.length === 1) {
+      runFillDividendQuery(matches[0][0]);
+      return;
+    }
+    matchesEl.innerHTML = matches.map(([code, name]) =>
+      `<button class="btn btn-outline-secondary btn-sm me-2 mb-2" data-code="${code}">${DataUtils.escapeHTML(name)} (${code})</button>`
+    ).join("");
+    matchesEl.querySelectorAll("button").forEach((btn) => {
+      btn.addEventListener("click", () => runFillDividendQuery(btn.dataset.code));
+    });
+  }
+
+  async function runFillDividendQuery(code) {
+    const statusEl = document.getElementById("fdStatus");
+    const tableWrap = document.getElementById("fdTableWrap");
+    const body = document.getElementById("fdBody");
+    tableWrap.style.display = "none";
+
+    const snapshotEntry = findLatestSnapshotEntry(code);
+    const market = snapshotEntry ? snapshotEntry.market : null;
+    const name = snapshotEntry ? snapshotEntry.name : code;
+
+    if (market === "otc") {
+      statusEl.innerHTML = `<div class="state-message">${DataUtils.escapeHTML(name)}(${code})是上櫃股票,填息查詢功能目前只支援上市股票,無法查詢。</div>`;
+      return;
+    }
+
+    statusEl.innerHTML = `<div class="state-message">查詢中(${DataUtils.escapeHTML(name)} ${code})...首次查詢這檔股票可能需要幾秒到十幾秒,請稍候。</div>`;
+
+    let events;
+    try {
+      events = await FillDividend.getFillDividendReport(code);
+    } catch (err) {
+      console.error(err);
+      statusEl.innerHTML = `<div class="alert alert-danger">查詢失敗:${DataUtils.escapeHTML(err.message || String(err))}</div>`;
+      return;
+    }
+
+    if (!events.length) {
+      statusEl.innerHTML = `<div class="state-message">查無 ${DataUtils.escapeHTML(name)}(${code})近 10 年的除息事件紀錄。</div>`;
+      return;
+    }
+
+    statusEl.innerHTML = "";
+    tableWrap.style.display = "";
+    body.innerHTML = events.map((ev) => {
+      const year = ev.exDate.slice(0, 4);
+      const yearSnap = (yieldHistoryRaw[year] || {})[code];
+      const yieldText = yearSnap ? `${yearSnap.yield}%` : "-";
+
+      let fillText, maintainText;
+      if (ev.status === "filled") {
+        fillText = `${ev.fillDays} 天(${ev.fillDate})`;
+        if (ev.maintainCapped === true) {
+          maintainText = `${ev.maintainDays}+ 天(達 365 天上限)`;
+        } else if (ev.maintainCapped === null) {
+          maintainText = `${ev.maintainDays} 天(維持中,尚未跌破)`;
+        } else {
+          maintainText = `${ev.maintainDays} 天`;
+        }
+      } else if (ev.status === "not_filled_yet") {
+        fillText = "尚未填息";
+        maintainText = "-";
+      } else if (ev.status === "not_filled_overdue") {
+        fillText = "逾期未填息(超過365天)";
+        maintainText = "-";
+      } else {
+        fillText = "資料不足";
+        maintainText = "-";
+      }
+
+      return `
+        <tr>
+          <td>${year}</td>
+          <td>${ev.exDate}(${ev.type})</td>
+          <td>${ev.preClose}</td>
+          <td>${yieldText}</td>
+          <td>${fillText}</td>
+          <td>${maintainText}</td>
+        </tr>
+      `;
+    }).join("");
+  }
 </script>
 </body>
 </html>

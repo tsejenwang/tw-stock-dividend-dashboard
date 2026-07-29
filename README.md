@@ -1,8 +1,8 @@
 # 台股資訊儀表板
 
-可透過網頁瀏覽的台股資訊儀表板:殖利率排行(當年／近5年／近10年)、除權息日程表、
-定存股合理價查詢、定存股風險試算。完整規劃與任務拆解見 [`WBS.md`](WBS.md) 與
-[`tasks/`](tasks/) 資料夾。
+可透過網頁瀏覽的台股資訊儀表板:殖利率排行(當年／近5年／近10年)、個股填息查詢、
+除權息日程表、定存股合理價查詢、定存股風險試算。完整規劃與任務拆解見
+[`WBS.md`](WBS.md) 與 [`tasks/`](tasks/) 資料夾。
 
 **正式網址:https://tsejenwang.github.io/tw-stock-dividend-dashboard/**
 (2026-07-29 部署,已用瀏覽器實測三個頁面資料正常載入)
@@ -22,12 +22,32 @@ assets/
   js/nav.js                    共用導覽列
   js/data-utils.js             共用資料讀取/錯誤呈現小工具
   js/risk.js                   風險試算公式(任務06,純前端計算)
-index.html                  殖利率排行榜頁面(任務08)
+  js/fill-dividend.js          個股填息天數查詢(即時向 TWSE 查、localStorage 快取,詳見下方)
+index.html                  殖利率排行榜頁面(任務08)+ 個股填息查詢分頁
 calendar.html                除權息日程表頁面(任務09)
 calculators.html             合理價查詢＋風險試算頁面(任務10)
-.github/workflows/update-data.yml  自動化排程草稿(任務07,還沒推上 GitHub 執行過)
+.github/workflows/update-data.yml  自動化排程(任務07,已驗證可在 GitHub 上正常執行)
+.claude/agents/              資料/前端/維運三個角色的 subagent 定義,供之後派工使用
 get_data.py / line_push.py / run_daily_push.ps1  舊版 LINE 推播腳本(仍可用,見下方)
 ```
+
+## 個股填息查詢(index.html 第 4 分頁)
+
+查詢某檔上市股票近 10 年每次除息事件的「填息天數」與「填息後連續維持比原股價高的
+天數」,依年度顯示,同一頁面也會帶出「各股每年殖利率狀況」。
+
+- **資料來源**(瀏覽器端即時查詢,已確認支援 CORS):
+  - `www.twse.com.tw/exchangeReport/TWT49U`(除權除息計算結果表,依日期區間查詢)
+  - `www.twse.com.tw/exchangeReport/STOCK_DAY`(個股單月每日收盤價)
+  - 殖利率數字取自既有的 `data/yield_history_raw.json`(排程已產生的資料,不用另外查)
+- **只支援上市(TWSE)股票**:上櫃(TPEx)對應的 API 沒有開放跨網域(CORS)存取,瀏覽器
+  端無法直接查,查詢上櫃股票會顯示明確提示,不會顯示錯誤的資料。
+- **定義**:填息天數 = 除息日起到收盤價回到除息前收盤價以上所花的交易日數(超過 365
+  天算逾期未填息);填息後連續維持天數 = 填息後收盤價連續維持在除息前股價以上的交易日
+  數,只要有一天跌破就停止累計(最多追蹤 365 天,達上限顯示「N+ 天」)。
+- **效能與快取**:每次查詢會依序呼叫多次 API(每個除息事件抓一段每日股價),第一次
+  查某檔股票可能要 10~30 秒,查過的結果會存進瀏覽器 `localStorage`(1 天內有效),
+  同一檔股票短時間內重複查詢會直接讀快取,不會重打 API。
 
 ## 本機執行
 
