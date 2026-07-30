@@ -1217,6 +1217,15 @@
       "stock_dividend_ratio": null
     },
     {
+      "code": "9960",
+      "name": "邁達康",
+      "market": "otc",
+      "ex_date": "2026-08-06",
+      "type": "除息",
+      "cash_dividend": 1.55036921,
+      "stock_dividend_ratio": null
+    },
+    {
       "code": "1210",
       "name": "大成",
       "market": "tse",
@@ -1325,6 +1334,24 @@
       "stock_dividend_ratio": 0.02994117
     },
     {
+      "code": "7743",
+      "name": "金利食安",
+      "market": "otc",
+      "ex_date": "2026-08-10",
+      "type": "除息",
+      "cash_dividend": 0.5,
+      "stock_dividend_ratio": null
+    },
+    {
+      "code": "8421",
+      "name": "旭源",
+      "market": "otc",
+      "ex_date": "2026-08-10",
+      "type": "除權",
+      "cash_dividend": null,
+      "stock_dividend_ratio": null
+    },
+    {
       "code": "8927",
       "name": "北基",
       "market": "otc",
@@ -1421,6 +1448,24 @@
       "ex_date": "2026-08-12",
       "type": "息",
       "cash_dividend": 3.0,
+      "stock_dividend_ratio": null
+    },
+    {
+      "code": "6023",
+      "name": "元大期",
+      "market": "otc",
+      "ex_date": "2026-08-12",
+      "type": "除權",
+      "cash_dividend": null,
+      "stock_dividend_ratio": null
+    },
+    {
+      "code": "8916",
+      "name": "光隆",
+      "market": "otc",
+      "ex_date": "2026-08-12",
+      "type": "除息",
+      "cash_dividend": 3.03398441,
       "stock_dividend_ratio": null
     },
     {
