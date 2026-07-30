@@ -184,6 +184,12 @@ def build_etf_record(code: str, name: str, year_data: dict, price_near, this_yea
 
     latest_completed_year = str(max(int(y) for y in years_out.keys()))
 
+    if current_year_partial:
+        # 今年還沒配完全年次數,直接用今年至今的配息次數對照配息頻率會誤判(例如季配
+        # ETF 今年才配 2 次,會被誤標成「半年配」)。改用最近一個已完整年度的配息頻率
+        # 當代表值,才是這檔 ETF 實際的配息頻率。
+        current_year_partial["frequency_label"] = years_out[latest_completed_year]["frequency_label"]
+
     record = {
         "name": name,
         "years": years_out,

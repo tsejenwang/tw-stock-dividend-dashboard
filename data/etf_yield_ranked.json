@@ -472,20 +472,20 @@
     "frequency_label": "半年配"
   },
   {
-    "code": "0057",
-    "name": "富邦摩台",
-    "year": "2016",
-    "total_dividend": 1.685,
-    "yield": 3.947,
-    "frequency_label": "年配"
-  },
-  {
     "code": "006208",
     "name": "富邦台50",
     "year": "2025",
     "total_dividend": 4.437,
     "yield": 3.918,
     "frequency_label": "半年配"
+  },
+  {
+    "code": "0057",
+    "name": "富邦摩台",
+    "year": "2016",
+    "total_dividend": 1.685,
+    "yield": 3.915,
+    "frequency_label": "年配"
   },
   {
     "code": "00731",
