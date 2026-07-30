@@ -34,16 +34,18 @@
       <div class="table-responsive">
         <table class="table table-hover data-table">
           <thead class="table-dark">
-            <tr>
+            <tr id="rankingHeadRow">
               <th>排名</th>
               <th>代號</th>
               <th>名稱</th>
               <th>市場</th>
-              <th id="yieldColHeader">殖利率(%)</th>
+              <th>殖利率(%)</th>
+              <th>股息(元)</th>
+              <th>收盤價(元)</th>
             </tr>
           </thead>
           <tbody id="rankingBody">
-            <tr><td colspan="5" class="state-message">載入中...</td></tr>
+            <tr><td colspan="7" class="state-message">載入中...</td></tr>
           </tbody>
         </table>
       </div>
@@ -51,6 +53,8 @@
       <p class="disclaimer">
         資料來源:證交所(TWSE)／櫃買中心(TPEx)開放資料。殖利率排行僅反映歷史股利與股價,
         不代表未來報酬,僅供參考,不是投資建議。
+        上市股票的股息為「收盤價 × 殖利率」回推之估算值,上櫃股票的股息則為官方公告數字,
+        兩者計算口徑不同,數字可能有些微差異。
       </p>
     </div>
 
@@ -102,17 +106,90 @@
 <script>
   const TAB_CONFIG = {
     current: { file: "data/current_yield_top20.json", yieldKey: "yield", header: "殖利率(%)" },
-    "5y": { file: "data/yield_5y_top20.json", yieldKey: "avg_yield", header: "近5年平均殖利率(%)" },
-    "10y": { file: "data/yield_10y_top20.json", yieldKey: "avg_yield", header: "近10年平均殖利率(%)" },
+    "5y": { file: "data/yield_5y_top20.json", yieldKey: "avg_yield", header: "近5年平均殖利率(%)", detailYears: 5 },
+    "10y": { file: "data/yield_10y_top20.json", yieldKey: "avg_yield", header: "近10年平均殖利率(%)", detailYears: 10 },
   };
 
   let activeTab = "current";
 
+  // null/undefined 一律顯示「—」,數字統一取到小數點後 2 位(順便清掉浮點數誤差)。
+  function formatMoney(v) {
+    if (v === null || v === undefined) return "—";
+    const num = Number(v);
+    if (Number.isNaN(num)) return "—";
+    return num.toFixed(2);
+  }
+
+  function buildYieldDetailTableHTML(entries) {
+    if (!entries.length) {
+      return `<div class="state-message py-2 mb-0">查無可對照的歷史年度樣本資料。</div>`;
+    }
+    const rowsHtml = entries.map((e) => `
+      <tr>
+        <td>${DataUtils.escapeHTML(e.year)}</td>
+        <td>${formatMoney(e.close)}</td>
+        <td>${formatMoney(e.dividend)}</td>
+        <td>${e.yield}%</td>
+      </tr>
+    `).join("");
+    return `
+      <table class="table table-sm table-borderless mb-0 detail-table">
+        <thead>
+          <tr><th>年度</th><th>收盤價(元)</th><th>股息(元)</th><th>殖利率(%)</th></tr>
+        </thead>
+        <tbody>${rowsHtml}</tbody>
+      </table>
+    `;
+  }
+
+  // 展開/收合單一列的歷史明細。第一次展開時才去查資料並快取在 detailRow 的 dataset 上,
+  // 之後重複展開/收合不用重新計算。
+  async function toggleYieldDetail(btn, numYears) {
+    const code = btn.dataset.code;
+    const summaryRow = btn.closest("tr");
+    const detailRow = summaryRow.nextElementSibling;
+    const cell = detailRow.querySelector(".detail-cell");
+
+    const isOpen = detailRow.style.display !== "none";
+    if (isOpen) {
+      detailRow.style.display = "none";
+      btn.textContent = "▸ 明細";
+      return;
+    }
+
+    if (cell.dataset.built !== "1") {
+      btn.disabled = true;
+      const originalText = btn.textContent;
+      btn.textContent = "載入中...";
+      await ensureYieldHistoryLoaded();
+      const years = Object.keys(yieldHistoryRaw).sort((a, b) => b - a).slice(0, numYears);
+      const entries = [];
+      years.forEach((y) => {
+        const info = (yieldHistoryRaw[y] || {})[code];
+        if (info) {
+          entries.push({ year: y, close: info.close, dividend: info.dividend, yield: info.yield });
+        }
+      });
+      cell.innerHTML = buildYieldDetailTableHTML(entries);
+      cell.dataset.built = "1";
+      btn.disabled = false;
+      btn.textContent = originalText;
+    }
+    detailRow.style.display = "";
+    btn.textContent = "▾ 收合";
+  }
+
   async function loadTab(tabKey) {
     const cfg = TAB_CONFIG[tabKey];
+    const isDetailTab = tabKey === "5y" || tabKey === "10y";
     const tbody = document.getElementById("rankingBody");
     const dateNote = document.getElementById("dataDateNote");
-    document.getElementById("yieldColHeader").textContent = cfg.header;
+    const headRow = document.getElementById("rankingHeadRow");
+
+    headRow.innerHTML = isDetailTab
+      ? `<th>排名</th><th>代號</th><th>名稱</th><th>市場</th><th>${cfg.header}</th><th>明細</th>`
+      : `<th>排名</th><th>代號</th><th>名稱</th><th>市場</th><th>${cfg.header}</th><th>股息(元)</th><th>收盤價(元)</th>`;
+
     DataUtils.showState(tbody, "載入中...");
     dateNote.textContent = "";
 
@@ -122,15 +199,39 @@
         DataUtils.showState(tbody, "目前沒有可顯示的排行資料。");
         return;
       }
-      tbody.innerHTML = rows.map((r, i) => `
-        <tr>
-          <td><span class="rank-badge">${i + 1}</span></td>
-          <td>${DataUtils.escapeHTML(r.code)}</td>
-          <td>${DataUtils.escapeHTML(r.name)}</td>
-          <td><span class="market-badge">${DataUtils.marketLabel(r.market)}</span></td>
-          <td class="text-success fw-bold">${r[cfg.yieldKey]}%</td>
-        </tr>
-      `).join("");
+
+      if (isDetailTab) {
+        const numYears = cfg.detailYears;
+        tbody.innerHTML = rows.map((r, i) => `
+          <tr>
+            <td><span class="rank-badge">${i + 1}</span></td>
+            <td>${DataUtils.escapeHTML(r.code)}</td>
+            <td>${DataUtils.escapeHTML(r.name)}</td>
+            <td><span class="market-badge">${DataUtils.marketLabel(r.market)}</span></td>
+            <td class="text-success fw-bold">${r[cfg.yieldKey]}%</td>
+            <td><button type="button" class="btn btn-sm btn-outline-secondary detail-toggle-btn" data-code="${DataUtils.escapeHTML(r.code)}">▸ 明細</button></td>
+          </tr>
+          <tr class="detail-row" style="display:none">
+            <td colspan="6" class="detail-cell"></td>
+          </tr>
+        `).join("");
+
+        tbody.querySelectorAll(".detail-toggle-btn").forEach((btn) => {
+          btn.addEventListener("click", () => toggleYieldDetail(btn, numYears));
+        });
+      } else {
+        tbody.innerHTML = rows.map((r, i) => `
+          <tr>
+            <td><span class="rank-badge">${i + 1}</span></td>
+            <td>${DataUtils.escapeHTML(r.code)}</td>
+            <td>${DataUtils.escapeHTML(r.name)}</td>
+            <td><span class="market-badge">${DataUtils.marketLabel(r.market)}</span></td>
+            <td class="text-success fw-bold">${r[cfg.yieldKey]}%</td>
+            <td>${formatMoney(r.cash_dividend)}</td>
+            <td>${formatMoney(r.close)}</td>
+          </tr>
+        `).join("");
+      }
 
       if (tabKey === "current" && rows[0] && rows[0].date) {
         dateNote.textContent = `資料日期:${rows[0].date}`;

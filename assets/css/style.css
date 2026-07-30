@@ -72,6 +72,21 @@ body {
   color: #6c757d;
 }
 
+.detail-toggle-btn {
+  white-space: nowrap;
+}
+
+.detail-row td {
+  background: #f8fafd;
+  padding: 0.6rem 1rem;
+}
+
+.detail-table th,
+.detail-table td {
+  padding: 0.3rem 0.6rem;
+  font-size: 0.85rem;
+}
+
 /* 手機版:表格用較小字級與內距,避免橫向被切掉 */
 @media (max-width: 576px) {
   .table-container {

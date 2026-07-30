@@ -7,6 +7,7 @@
     "pe_ratio": 5.04,
     "pb_ratio": 3.17,
     "cash_dividend": 18.7,
+    "close": 86.1,
     "date": "2026-07-29"
   },
   {
@@ -16,8 +17,9 @@
     "yield": 15.58,
     "pe_ratio": 8.05,
     "pb_ratio": 1.17,
-    "cash_dividend": null,
-    "date": "2026-07-28"
+    "cash_dividend": 2.9992,
+    "close": 19.25,
+    "date": "2026-07-29"
   },
   {
     "code": "3489",
@@ -27,17 +29,19 @@
     "pe_ratio": null,
     "pb_ratio": 1.49,
     "cash_dividend": 3.0,
+    "close": 19.8,
     "date": "2026-07-29"
   },
   {
-    "code": "2442",
-    "name": "新美齊",
+    "code": "1436",
+    "name": "華友聯",
     "market": "tse",
-    "yield": 14.21,
-    "pe_ratio": 3.62,
-    "pb_ratio": 0.82,
-    "cash_dividend": null,
-    "date": "2026-07-28"
+    "yield": 14.19,
+    "pe_ratio": 8.28,
+    "pb_ratio": 1.27,
+    "cash_dividend": 5.0516,
+    "close": 35.6,
+    "date": "2026-07-29"
   },
   {
     "code": "3188",
@@ -47,27 +51,30 @@
     "pe_ratio": 3.74,
     "pb_ratio": 1.36,
     "cash_dividend": 3.19551547,
+    "close": 22.55,
     "date": "2026-07-29"
   },
   {
-    "code": "1436",
-    "name": "華友聯",
+    "code": "2442",
+    "name": "新美齊",
     "market": "tse",
-    "yield": 13.99,
-    "pe_ratio": 8.4,
-    "pb_ratio": 1.28,
-    "cash_dividend": null,
-    "date": "2026-07-28"
+    "yield": 14.14,
+    "pe_ratio": 3.64,
+    "pb_ratio": 0.82,
+    "cash_dividend": 2.7007,
+    "close": 19.1,
+    "date": "2026-07-29"
   },
   {
     "code": "5519",
     "name": "隆大",
     "market": "tse",
-    "yield": 13.72,
-    "pe_ratio": 5.55,
+    "yield": 13.74,
+    "pe_ratio": 5.54,
     "pb_ratio": 1.08,
-    "cash_dividend": null,
-    "date": "2026-07-28"
+    "cash_dividend": 3.7991,
+    "close": 27.65,
+    "date": "2026-07-29"
   },
   {
     "code": "1432",
@@ -76,8 +83,9 @@
     "yield": 13.33,
     "pe_ratio": 2.75,
     "pb_ratio": 1.01,
-    "cash_dividend": null,
-    "date": "2026-07-28"
+    "cash_dividend": 1.9995,
+    "close": 15.0,
+    "date": "2026-07-29"
   },
   {
     "code": "5213",
@@ -87,6 +95,7 @@
     "pe_ratio": 15.07,
     "pb_ratio": 1.09,
     "cash_dividend": 2.8,
+    "close": 21.4,
     "date": "2026-07-29"
   },
   {
@@ -97,6 +106,7 @@
     "pe_ratio": 2.25,
     "pb_ratio": 0.57,
     "cash_dividend": 5.5,
+    "close": 42.45,
     "date": "2026-07-29"
   },
   {
@@ -107,6 +117,7 @@
     "pe_ratio": 12.99,
     "pb_ratio": 1.14,
     "cash_dividend": 5.0,
+    "close": 40.4,
     "date": "2026-07-29"
   },
   {
@@ -117,6 +128,7 @@
     "pe_ratio": 5.16,
     "pb_ratio": 1.46,
     "cash_dividend": 5.00793304,
+    "close": 41.55,
     "date": "2026-07-29"
   },
   {
@@ -127,17 +139,8 @@
     "pe_ratio": 10.08,
     "pb_ratio": 1.38,
     "cash_dividend": 3.0,
+    "close": 26.5,
     "date": "2026-07-29"
-  },
-  {
-    "code": "2536",
-    "name": "宏普",
-    "market": "tse",
-    "yield": 11.17,
-    "pe_ratio": 5.41,
-    "pb_ratio": 0.47,
-    "cash_dividend": null,
-    "date": "2026-07-28"
   },
   {
     "code": "6523",
@@ -147,17 +150,30 @@
     "pe_ratio": 14.39,
     "pb_ratio": 2.99,
     "cash_dividend": 10.0,
+    "close": 89.5,
+    "date": "2026-07-29"
+  },
+  {
+    "code": "2536",
+    "name": "宏普",
+    "market": "tse",
+    "yield": 11.14,
+    "pe_ratio": 5.42,
+    "pb_ratio": 0.47,
+    "cash_dividend": 1.9996,
+    "close": 17.95,
     "date": "2026-07-29"
   },
   {
     "code": "1446",
     "name": "宏和",
     "market": "tse",
-    "yield": 10.95,
-    "pe_ratio": 8.06,
+    "yield": 10.99,
+    "pe_ratio": 8.03,
     "pb_ratio": 0.66,
-    "cash_dividend": null,
-    "date": "2026-07-28"
+    "cash_dividend": 1.5001,
+    "close": 13.65,
+    "date": "2026-07-29"
   },
   {
     "code": "4523",
@@ -167,36 +183,40 @@
     "pe_ratio": 1.03,
     "pb_ratio": 0.74,
     "cash_dividend": 2.64194037,
+    "close": 24.35,
     "date": "2026-07-29"
-  },
-  {
-    "code": "2540",
-    "name": "愛山林",
-    "market": "tse",
-    "yield": 10.73,
-    "pe_ratio": 93.17,
-    "pb_ratio": 3.22,
-    "cash_dividend": null,
-    "date": "2026-07-28"
   },
   {
     "code": "2387",
     "name": "精元",
     "market": "tse",
-    "yield": 10.57,
-    "pe_ratio": 13.28,
+    "yield": 10.64,
+    "pe_ratio": 13.19,
     "pb_ratio": 0.71,
-    "cash_dividend": null,
-    "date": "2026-07-28"
+    "cash_dividend": 4.0006,
+    "close": 37.6,
+    "date": "2026-07-29"
   },
   {
     "code": "4137",
     "name": "麗豐-KY",
     "market": "tse",
-    "yield": 10.53,
-    "pe_ratio": 12.09,
-    "pb_ratio": 1.41,
-    "cash_dividend": null,
-    "date": "2026-07-28"
+    "yield": 10.55,
+    "pe_ratio": 12.06,
+    "pb_ratio": 1.4,
+    "cash_dividend": 10.0014,
+    "close": 94.8,
+    "date": "2026-07-29"
+  },
+  {
+    "code": "6165",
+    "name": "浪凡",
+    "market": "tse",
+    "yield": 10.46,
+    "pe_ratio": 11.46,
+    "pb_ratio": 2.86,
+    "cash_dividend": 4.9999,
+    "close": 47.8,
+    "date": "2026-07-29"
   }
 ]
