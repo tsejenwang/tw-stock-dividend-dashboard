@@ -16,6 +16,21 @@ const FillDividend = (() => {
   const MAX_FILL_SEARCH_DAYS = 365; // 除息日起超過這個天數還沒填息,就標記「逾期未填息」
   const MAX_MAINTAIN_SEARCH_DAYS = 365; // 填息後最多追蹤這麼多天的連續維持天數
   const HISTORY_YEARS = 10; // TWT49U 查詢往回抓幾年
+  const MAX_LOCAL_CACHE_ENTRIES = 30; // localStorage 快取筆數上限(超過依 cachedAt 由舊到新淘汰)
+  const REMOTE_CACHE_URL = "data/fill_dividend_cache.json"; // 排程預先算好的雲端共用快取(熱門股票)
+
+  // 整份雲端快取只在頁面 session 內 fetch 一次:第一次呼叫時才真的去抓,之後都回傳
+  // 同一個已經 resolve(或 reject)的 promise。
+  let remoteCachePromise = null;
+  function loadRemoteCache() {
+    if (!remoteCachePromise) {
+      remoteCachePromise = DataUtils.fetchJSON(REMOTE_CACHE_URL).catch((e) => {
+        // 抓不到雲端快取就當作沒有,後續完全照現有邏輯(localStorage -> 即時查詢)
+        return null;
+      });
+    }
+    return remoteCachePromise;
+  }
 
   function roundToInt(n) {
     return Math.round(n);
@@ -195,12 +210,39 @@ const FillDividend = (() => {
     }
   }
 
+  // 寫入前先檢查現有筆數,超過上限就依 cachedAt 由舊到新刪掉最舊的幾筆(簡單 LRU)。
+  function evictOldestIfNeeded(excludeKey) {
+    const entries = [];
+    for (let i = 0; i < localStorage.length; i++) {
+      const key = localStorage.key(i);
+      if (!key || !key.startsWith(CACHE_PREFIX) || key === excludeKey) continue;
+      let cachedAt = 0;
+      try {
+        const parsed = JSON.parse(localStorage.getItem(key));
+        cachedAt = (parsed && parsed.cachedAt) || 0;
+      } catch (e) {
+        cachedAt = 0; // 壞掉的資料當作最舊,優先淘汰
+      }
+      entries.push({ key, cachedAt });
+    }
+    // 加上這次要寫入的新 key,超過上限的部分才需要刪除
+    const overflow = entries.length + 1 - MAX_LOCAL_CACHE_ENTRIES;
+    if (overflow <= 0) return;
+    entries.sort((a, b) => a.cachedAt - b.cachedAt); // 舊到新
+    for (let i = 0; i < overflow; i++) {
+      try {
+        localStorage.removeItem(entries[i].key);
+      } catch (e) {
+        // 忽略
+      }
+    }
+  }
+
   function writeCache(code, events) {
     try {
-      localStorage.setItem(
-        CACHE_PREFIX + code,
-        JSON.stringify({ cachedAt: Date.now(), events })
-      );
+      const key = CACHE_PREFIX + code;
+      evictOldestIfNeeded(key);
+      localStorage.setItem(key, JSON.stringify({ cachedAt: Date.now(), events }));
     } catch (e) {
       // localStorage 滿了或被瀏覽器擋掉,忽略,不影響功能
     }
@@ -215,6 +257,10 @@ const FillDividend = (() => {
    */
   async function getFillDividendReport(code, forceRefresh = false) {
     if (!forceRefresh) {
+      const remoteCache = await loadRemoteCache();
+      if (remoteCache && remoteCache.stocks && remoteCache.stocks[code]) {
+        return remoteCache.stocks[code].events;
+      }
       const cached = readCache(code);
       if (cached) return cached;
     }

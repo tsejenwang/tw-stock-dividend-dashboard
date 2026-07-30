@@ -42,6 +42,9 @@ jobs:
       - name: 任務05 - 合理價試算(依賴任務03的輸出)
         run: python scripts/compute_fair_value.py
 
+      - name: 任務07 - 個股填息查詢雲端快取(依賴任務02/03的輸出)
+        run: python scripts/fetch_fill_dividend.py
+
       - name: Commit and push updated data
         run: |
           git config user.name "github-actions[bot]"
