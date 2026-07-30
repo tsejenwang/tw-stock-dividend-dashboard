@@ -679,56 +679,6 @@
         }
       ]
     },
-    "2540": {
-      "name": "愛山林",
-      "computed_at": "2026-07-30",
-      "events": [
-        {
-          "exDate": "2025-09-30",
-          "preClose": 79.5,
-          "type": "權息",
-          "status": "not_filled_yet",
-          "fillDays": null,
-          "maintainDays": null
-        },
-        {
-          "exDate": "2024-09-12",
-          "preClose": 192.0,
-          "type": "權息",
-          "status": "not_filled_overdue",
-          "fillDays": null,
-          "maintainDays": null
-        },
-        {
-          "exDate": "2023-09-13",
-          "preClose": 98.0,
-          "type": "權息",
-          "status": "filled",
-          "fillDate": "2024-03-12",
-          "fillDays": 181,
-          "maintainDays": 2,
-          "maintainCapped": false
-        },
-        {
-          "exDate": "2022-09-19",
-          "preClose": 150.0,
-          "type": "權息",
-          "status": "not_filled_overdue",
-          "fillDays": null,
-          "maintainDays": null
-        },
-        {
-          "exDate": "2021-10-26",
-          "preClose": 90.0,
-          "type": "權息",
-          "status": "filled",
-          "fillDate": "2022-03-03",
-          "fillDays": 128,
-          "maintainDays": 137,
-          "maintainCapped": false
-        }
-      ]
-    },
     "2545": {
       "name": "皇翔",
       "computed_at": "2026-07-30",
@@ -2073,6 +2023,32 @@
         }
       ]
     },
+    "6165": {
+      "name": "浪凡",
+      "computed_at": "2026-07-30",
+      "events": [
+        {
+          "exDate": "2025-07-25",
+          "preClose": 52.6,
+          "type": "息",
+          "status": "filled",
+          "fillDate": "2025-08-01",
+          "fillDays": 7,
+          "maintainDays": 1,
+          "maintainCapped": false
+        },
+        {
+          "exDate": "2024-06-25",
+          "preClose": 40.45,
+          "type": "息",
+          "status": "filled",
+          "fillDate": "2024-10-18",
+          "fillDays": 115,
+          "maintainDays": 111,
+          "maintainCapped": false
+        }
+      ]
+    },
     "6177": {
       "name": "達麗",
       "computed_at": "2026-07-30",
@@ -2228,7 +2204,7 @@
           "status": "filled",
           "fillDate": "2025-10-17",
           "fillDays": 114,
-          "maintainDays": 188,
+          "maintainDays": 189,
           "maintainCapped": null
         },
         {
@@ -2317,6 +2293,56 @@
           "fillDate": "2016-09-06",
           "fillDays": 1,
           "maintainDays": 4,
+          "maintainCapped": false
+        }
+      ]
+    },
+    "2540": {
+      "name": "愛山林",
+      "computed_at": "2026-07-30",
+      "events": [
+        {
+          "exDate": "2025-09-30",
+          "preClose": 79.5,
+          "type": "權息",
+          "status": "not_filled_yet",
+          "fillDays": null,
+          "maintainDays": null
+        },
+        {
+          "exDate": "2024-09-12",
+          "preClose": 192.0,
+          "type": "權息",
+          "status": "not_filled_overdue",
+          "fillDays": null,
+          "maintainDays": null
+        },
+        {
+          "exDate": "2023-09-13",
+          "preClose": 98.0,
+          "type": "權息",
+          "status": "filled",
+          "fillDate": "2024-03-12",
+          "fillDays": 181,
+          "maintainDays": 2,
+          "maintainCapped": false
+        },
+        {
+          "exDate": "2022-09-19",
+          "preClose": 150.0,
+          "type": "權息",
+          "status": "not_filled_overdue",
+          "fillDays": null,
+          "maintainDays": null
+        },
+        {
+          "exDate": "2021-10-26",
+          "preClose": 90.0,
+          "type": "權息",
+          "status": "filled",
+          "fillDate": "2022-03-03",
+          "fillDays": 128,
+          "maintainDays": 137,
           "maintainCapped": false
         }
       ]
