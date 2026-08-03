@@ -1,159 +1,6 @@
 {
-  "generated_at": "2026-07-31",
+  "generated_at": "2026-08-03",
   "upcoming": [
-    {
-      "code": "00406A",
-      "name": "主動中信台灣收益",
-      "market": "tse",
-      "ex_date": "2026-07-31",
-      "type": "息",
-      "cash_dividend": 0.128,
-      "stock_dividend_ratio": null
-    },
-    {
-      "code": "00939",
-      "name": "統一台灣高息動能",
-      "market": "tse",
-      "ex_date": "2026-07-31",
-      "type": "息",
-      "cash_dividend": 0.125,
-      "stock_dividend_ratio": null
-    },
-    {
-      "code": "00984D",
-      "name": "主動聯博全球非投",
-      "market": "tse",
-      "ex_date": "2026-07-31",
-      "type": "息",
-      "cash_dividend": 0.085,
-      "stock_dividend_ratio": null
-    },
-    {
-      "code": "1532",
-      "name": "勤美",
-      "market": "tse",
-      "ex_date": "2026-07-31",
-      "type": "息",
-      "cash_dividend": 0.8,
-      "stock_dividend_ratio": null
-    },
-    {
-      "code": "2616",
-      "name": "山隆",
-      "market": "tse",
-      "ex_date": "2026-07-31",
-      "type": "息",
-      "cash_dividend": 0.3,
-      "stock_dividend_ratio": null
-    },
-    {
-      "code": "6024",
-      "name": "群益期",
-      "market": "tse",
-      "ex_date": "2026-07-31",
-      "type": "權息",
-      "cash_dividend": 2.8,
-      "stock_dividend_ratio": 0.067
-    },
-    {
-      "code": "6472",
-      "name": "保瑞",
-      "market": "tse",
-      "ex_date": "2026-07-31",
-      "type": "息",
-      "cash_dividend": 10.0,
-      "stock_dividend_ratio": null
-    },
-    {
-      "code": "8467",
-      "name": "波力-KY",
-      "market": "tse",
-      "ex_date": "2026-07-31",
-      "type": "息",
-      "cash_dividend": 3.0,
-      "stock_dividend_ratio": null
-    },
-    {
-      "code": "00950B",
-      "name": "凱基A級公司債",
-      "market": "otc",
-      "ex_date": "2026-07-31",
-      "type": "除息",
-      "cash_dividend": 0.063,
-      "stock_dividend_ratio": null
-    },
-    {
-      "code": "00959B",
-      "name": "大華投等美債15Y+",
-      "market": "otc",
-      "ex_date": "2026-07-31",
-      "type": "除息",
-      "cash_dividend": 0.048,
-      "stock_dividend_ratio": null
-    },
-    {
-      "code": "00966B",
-      "name": "統一ESG投等債15+",
-      "market": "otc",
-      "ex_date": "2026-07-31",
-      "type": "除息",
-      "cash_dividend": 0.068,
-      "stock_dividend_ratio": null
-    },
-    {
-      "code": "00983B",
-      "name": "大華優利美公債20",
-      "market": "otc",
-      "ex_date": "2026-07-31",
-      "type": "除息",
-      "cash_dividend": 0.063,
-      "stock_dividend_ratio": null
-    },
-    {
-      "code": "00984B",
-      "name": "大華優利美A債15",
-      "market": "otc",
-      "ex_date": "2026-07-31",
-      "type": "除息",
-      "cash_dividend": 0.081,
-      "stock_dividend_ratio": null
-    },
-    {
-      "code": "00986B",
-      "name": "FT金融債10+",
-      "market": "otc",
-      "ex_date": "2026-07-31",
-      "type": "除息",
-      "cash_dividend": 0.042,
-      "stock_dividend_ratio": null
-    },
-    {
-      "code": "6138",
-      "name": "茂達",
-      "market": "otc",
-      "ex_date": "2026-07-31",
-      "type": "除息",
-      "cash_dividend": 10.94800583,
-      "stock_dividend_ratio": null
-    },
-    {
-      "code": "6470",
-      "name": "宇智",
-      "market": "otc",
-      "ex_date": "2026-07-31",
-      "type": "除息",
-      "cash_dividend": 2.5,
-      "stock_dividend_ratio": null
-    },
-    {
-      "code": "8905",
-      "name": "裕國",
-      "market": "otc",
-      "ex_date": "2026-07-31",
-      "type": "除息",
-      "cash_dividend": 0.71,
-      "stock_dividend_ratio": null
-    },
     {
       "code": "1465",
       "name": "偉全",
@@ -268,7 +115,7 @@
       "market": "tse",
       "ex_date": "2026-08-04",
       "type": "息",
-      "cash_dividend": null,
+      "cash_dividend": 0.058,
       "stock_dividend_ratio": null
     },
     {
@@ -277,7 +124,7 @@
       "market": "tse",
       "ex_date": "2026-08-04",
       "type": "息",
-      "cash_dividend": null,
+      "cash_dividend": 0.061,
       "stock_dividend_ratio": null
     },
     {
@@ -286,7 +133,7 @@
       "market": "tse",
       "ex_date": "2026-08-04",
       "type": "息",
-      "cash_dividend": null,
+      "cash_dividend": 0.053,
       "stock_dividend_ratio": null
     },
     {
@@ -502,7 +349,7 @@
       "market": "tse",
       "ex_date": "2026-08-05",
       "type": "息",
-      "cash_dividend": null,
+      "cash_dividend": 0.12,
       "stock_dividend_ratio": null
     },
     {
@@ -1082,6 +929,15 @@
       "stock_dividend_ratio": null
     },
     {
+      "code": "3232",
+      "name": "昱捷",
+      "market": "otc",
+      "ex_date": "2026-08-13",
+      "type": "除息",
+      "cash_dividend": 0.5,
+      "stock_dividend_ratio": null
+    },
+    {
       "code": "6485",
       "name": "點序",
       "market": "otc",
@@ -1100,6 +956,33 @@
       "stock_dividend_ratio": null
     },
     {
+      "code": "00401A",
+      "name": "主動摩根台灣鑫收",
+      "market": "tse",
+      "ex_date": "2026-08-14",
+      "type": "息",
+      "cash_dividend": null,
+      "stock_dividend_ratio": null
+    },
+    {
+      "code": "6179",
+      "name": "亞通",
+      "market": "otc",
+      "ex_date": "2026-08-14",
+      "type": "除息",
+      "cash_dividend": 0.5,
+      "stock_dividend_ratio": null
+    },
+    {
+      "code": "1477",
+      "name": "聚陽",
+      "market": "tse",
+      "ex_date": "2026-08-17",
+      "type": "息",
+      "cash_dividend": 6.0,
+      "stock_dividend_ratio": null
+    },
+    {
       "code": "1618",
       "name": "合機",
       "market": "tse",
@@ -1109,12 +992,156 @@
       "stock_dividend_ratio": null
     },
     {
+      "code": "6282",
+      "name": "康舒",
+      "market": "tse",
+      "ex_date": "2026-08-17",
+      "type": "息",
+      "cash_dividend": 0.799933,
+      "stock_dividend_ratio": null
+    },
+    {
+      "code": "6698",
+      "name": "旭暉應材",
+      "market": "tse",
+      "ex_date": "2026-08-17",
+      "type": "權",
+      "cash_dividend": null,
+      "stock_dividend_ratio": null
+    },
+    {
+      "code": "4123",
+      "name": "晟德",
+      "market": "otc",
+      "ex_date": "2026-08-17",
+      "type": "除權息",
+      "cash_dividend": 1.74669389,
+      "stock_dividend_ratio": 0.04990554
+    },
+    {
       "code": "4432",
       "name": "銘旺實",
       "market": "otc",
       "ex_date": "2026-08-17",
       "type": "除息",
       "cash_dividend": 0.4,
+      "stock_dividend_ratio": null
+    },
+    {
+      "code": "00690",
+      "name": "兆豐藍籌30",
+      "market": "tse",
+      "ex_date": "2026-08-18",
+      "type": "息",
+      "cash_dividend": null,
+      "stock_dividend_ratio": null
+    },
+    {
+      "code": "00701",
+      "name": "國泰股利精選30",
+      "market": "tse",
+      "ex_date": "2026-08-18",
+      "type": "息",
+      "cash_dividend": null,
+      "stock_dividend_ratio": null
+    },
+    {
+      "code": "00730",
+      "name": "富邦臺灣優質高息",
+      "market": "tse",
+      "ex_date": "2026-08-18",
+      "type": "息",
+      "cash_dividend": null,
+      "stock_dividend_ratio": null
+    },
+    {
+      "code": "00878",
+      "name": "國泰永續高股息",
+      "market": "tse",
+      "ex_date": "2026-08-18",
+      "type": "息",
+      "cash_dividend": null,
+      "stock_dividend_ratio": null
+    },
+    {
+      "code": "00881",
+      "name": "國泰台灣科技龍頭",
+      "market": "tse",
+      "ex_date": "2026-08-18",
+      "type": "息",
+      "cash_dividend": null,
+      "stock_dividend_ratio": null
+    },
+    {
+      "code": "00900",
+      "name": "富邦特選高股息30",
+      "market": "tse",
+      "ex_date": "2026-08-18",
+      "type": "息",
+      "cash_dividend": null,
+      "stock_dividend_ratio": null
+    },
+    {
+      "code": "00913",
+      "name": "兆豐台灣晶圓製造",
+      "market": "tse",
+      "ex_date": "2026-08-18",
+      "type": "息",
+      "cash_dividend": null,
+      "stock_dividend_ratio": null
+    },
+    {
+      "code": "00923",
+      "name": "群益台ESG低碳50",
+      "market": "tse",
+      "ex_date": "2026-08-18",
+      "type": "息",
+      "cash_dividend": null,
+      "stock_dividend_ratio": null
+    },
+    {
+      "code": "00932",
+      "name": "兆豐永續高息等權",
+      "market": "tse",
+      "ex_date": "2026-08-18",
+      "type": "息",
+      "cash_dividend": null,
+      "stock_dividend_ratio": null
+    },
+    {
+      "code": "00943",
+      "name": "兆豐電子高息等權",
+      "market": "tse",
+      "ex_date": "2026-08-18",
+      "type": "息",
+      "cash_dividend": null,
+      "stock_dividend_ratio": null
+    },
+    {
+      "code": "00944",
+      "name": "野村趨勢動能高息",
+      "market": "tse",
+      "ex_date": "2026-08-18",
+      "type": "息",
+      "cash_dividend": null,
+      "stock_dividend_ratio": null
+    },
+    {
+      "code": "00980A",
+      "name": "主動野村臺灣優選",
+      "market": "tse",
+      "ex_date": "2026-08-18",
+      "type": "息",
+      "cash_dividend": null,
+      "stock_dividend_ratio": null
+    },
+    {
+      "code": "00982A",
+      "name": "主動群益台灣強棒",
+      "market": "tse",
+      "ex_date": "2026-08-18",
+      "type": "息",
+      "cash_dividend": null,
       "stock_dividend_ratio": null
     },
     {
@@ -1133,6 +1160,24 @@
       "ex_date": "2026-08-19",
       "type": "息",
       "cash_dividend": 7.2,
+      "stock_dividend_ratio": null
+    },
+    {
+      "code": "1714",
+      "name": "和桐",
+      "market": "tse",
+      "ex_date": "2026-08-20",
+      "type": "息",
+      "cash_dividend": 0.18,
+      "stock_dividend_ratio": null
+    },
+    {
+      "code": "4746",
+      "name": "台耀",
+      "market": "tse",
+      "ex_date": "2026-08-24",
+      "type": "息",
+      "cash_dividend": 3.0,
       "stock_dividend_ratio": null
     },
     {
@@ -1191,6 +1236,159 @@
     }
   ],
   "recent": [
+    {
+      "code": "00406A",
+      "name": "主動中信台灣收益",
+      "market": "tse",
+      "ex_date": "2026-07-31",
+      "type": "息",
+      "cash_dividend": 0.128,
+      "stock_dividend_ratio": null
+    },
+    {
+      "code": "00939",
+      "name": "統一台灣高息動能",
+      "market": "tse",
+      "ex_date": "2026-07-31",
+      "type": "息",
+      "cash_dividend": 0.125,
+      "stock_dividend_ratio": null
+    },
+    {
+      "code": "00984D",
+      "name": "主動聯博全球非投",
+      "market": "tse",
+      "ex_date": "2026-07-31",
+      "type": "息",
+      "cash_dividend": 0.085,
+      "stock_dividend_ratio": null
+    },
+    {
+      "code": "1532",
+      "name": "勤美",
+      "market": "tse",
+      "ex_date": "2026-07-31",
+      "type": "息",
+      "cash_dividend": 0.8,
+      "stock_dividend_ratio": null
+    },
+    {
+      "code": "2616",
+      "name": "山隆",
+      "market": "tse",
+      "ex_date": "2026-07-31",
+      "type": "息",
+      "cash_dividend": 0.3,
+      "stock_dividend_ratio": null
+    },
+    {
+      "code": "6024",
+      "name": "群益期",
+      "market": "tse",
+      "ex_date": "2026-07-31",
+      "type": "權息",
+      "cash_dividend": 2.8,
+      "stock_dividend_ratio": 0.067
+    },
+    {
+      "code": "6472",
+      "name": "保瑞",
+      "market": "tse",
+      "ex_date": "2026-07-31",
+      "type": "息",
+      "cash_dividend": 10.0,
+      "stock_dividend_ratio": null
+    },
+    {
+      "code": "8467",
+      "name": "波力-KY",
+      "market": "tse",
+      "ex_date": "2026-07-31",
+      "type": "息",
+      "cash_dividend": 3.0,
+      "stock_dividend_ratio": null
+    },
+    {
+      "code": "00950B",
+      "name": "凱基A級公司債",
+      "market": "otc",
+      "ex_date": "2026-07-31",
+      "type": "除息",
+      "cash_dividend": 0.063,
+      "stock_dividend_ratio": null
+    },
+    {
+      "code": "00959B",
+      "name": "大華投等美債15Y+",
+      "market": "otc",
+      "ex_date": "2026-07-31",
+      "type": "除息",
+      "cash_dividend": 0.048,
+      "stock_dividend_ratio": null
+    },
+    {
+      "code": "00966B",
+      "name": "統一ESG投等債15+",
+      "market": "otc",
+      "ex_date": "2026-07-31",
+      "type": "除息",
+      "cash_dividend": 0.068,
+      "stock_dividend_ratio": null
+    },
+    {
+      "code": "00983B",
+      "name": "大華優利美公債20",
+      "market": "otc",
+      "ex_date": "2026-07-31",
+      "type": "除息",
+      "cash_dividend": 0.063,
+      "stock_dividend_ratio": null
+    },
+    {
+      "code": "00984B",
+      "name": "大華優利美A債15",
+      "market": "otc",
+      "ex_date": "2026-07-31",
+      "type": "除息",
+      "cash_dividend": 0.081,
+      "stock_dividend_ratio": null
+    },
+    {
+      "code": "00986B",
+      "name": "FT金融債10+",
+      "market": "otc",
+      "ex_date": "2026-07-31",
+      "type": "除息",
+      "cash_dividend": 0.042,
+      "stock_dividend_ratio": null
+    },
+    {
+      "code": "6138",
+      "name": "茂達",
+      "market": "otc",
+      "ex_date": "2026-07-31",
+      "type": "除息",
+      "cash_dividend": 10.94800583,
+      "stock_dividend_ratio": null
+    },
+    {
+      "code": "6470",
+      "name": "宇智",
+      "market": "otc",
+      "ex_date": "2026-07-31",
+      "type": "除息",
+      "cash_dividend": 2.5,
+      "stock_dividend_ratio": null
+    },
+    {
+      "code": "8905",
+      "name": "裕國",
+      "market": "otc",
+      "ex_date": "2026-07-31",
+      "type": "除息",
+      "cash_dividend": 0.71,
+      "stock_dividend_ratio": null
+    },
     {
       "code": "1216",
       "name": "統一",
@@ -1498,96 +1696,6 @@
       "stock_dividend_ratio": null
     },
     {
-      "code": "1540",
-      "name": "喬福",
-      "market": "tse",
-      "ex_date": "2026-07-29",
-      "type": "息",
-      "cash_dividend": 1.0,
-      "stock_dividend_ratio": null
-    },
-    {
-      "code": "2009",
-      "name": "第一銅",
-      "market": "tse",
-      "ex_date": "2026-07-29",
-      "type": "息",
-      "cash_dividend": 0.4,
-      "stock_dividend_ratio": null
-    },
-    {
-      "code": "2402",
-      "name": "毅嘉",
-      "market": "tse",
-      "ex_date": "2026-07-29",
-      "type": "息",
-      "cash_dividend": 2.0,
-      "stock_dividend_ratio": null
-    },
-    {
-      "code": "2482",
-      "name": "連宇",
-      "market": "tse",
-      "ex_date": "2026-07-29",
-      "type": "息",
-      "cash_dividend": 0.1,
-      "stock_dividend_ratio": null
-    },
-    {
-      "code": "2836",
-      "name": "高雄銀",
-      "market": "tse",
-      "ex_date": "2026-07-29",
-      "type": "權息",
-      "cash_dividend": 0.4,
-      "stock_dividend_ratio": 0.00999999
-    },
-    {
-      "code": "4942",
-      "name": "嘉彰",
-      "market": "tse",
-      "ex_date": "2026-07-29",
-      "type": "息",
-      "cash_dividend": 2.0,
-      "stock_dividend_ratio": null
-    },
-    {
-      "code": "5871",
-      "name": "中租-KY",
-      "market": "tse",
-      "ex_date": "2026-07-29",
-      "type": "權息",
-      "cash_dividend": 5.8,
-      "stock_dividend_ratio": 0.01999999
-    },
-    {
-      "code": "5871A",
-      "name": "中租-KY甲特",
-      "market": "tse",
-      "ex_date": "2026-07-29",
-      "type": "息",
-      "cash_dividend": 4.179463,
-      "stock_dividend_ratio": null
-    },
-    {
-      "code": "6689",
-      "name": "伊雲谷",
-      "market": "tse",
-      "ex_date": "2026-07-29",
-      "type": "息",
-      "cash_dividend": 2.0,
-      "stock_dividend_ratio": null
-    },
-    {
-      "code": "6715",
-      "name": "嘉基",
-      "market": "tse",
-      "ex_date": "2026-07-29",
-      "type": "權",
-      "cash_dividend": null,
-      "stock_dividend_ratio": null
-    },
-    {
       "code": "3131",
       "name": "弘塑",
       "market": "otc",
@@ -1864,249 +1972,6 @@
       "ex_date": "2026-07-27",
       "type": "除息",
       "cash_dividend": 1.19167362,
-      "stock_dividend_ratio": null
-    },
-    {
-      "code": "2073",
-      "name": "雄順",
-      "market": "otc",
-      "ex_date": "2026-07-24",
-      "type": "除息",
-      "cash_dividend": 0.3,
-      "stock_dividend_ratio": null
-    },
-    {
-      "code": "4561",
-      "name": "健椿",
-      "market": "otc",
-      "ex_date": "2026-07-24",
-      "type": "除息",
-      "cash_dividend": 0.2,
-      "stock_dividend_ratio": null
-    },
-    {
-      "code": "5263",
-      "name": "智崴",
-      "market": "otc",
-      "ex_date": "2026-07-24",
-      "type": "除權",
-      "cash_dividend": null,
-      "stock_dividend_ratio": null
-    },
-    {
-      "code": "5488",
-      "name": "松普",
-      "market": "otc",
-      "ex_date": "2026-07-24",
-      "type": "除息",
-      "cash_dividend": 0.06,
-      "stock_dividend_ratio": null
-    },
-    {
-      "code": "6435",
-      "name": "大中",
-      "market": "otc",
-      "ex_date": "2026-07-24",
-      "type": "除息",
-      "cash_dividend": 7.5,
-      "stock_dividend_ratio": null
-    },
-    {
-      "code": "8050",
-      "name": "廣積",
-      "market": "otc",
-      "ex_date": "2026-07-24",
-      "type": "除息",
-      "cash_dividend": 2.14765656,
-      "stock_dividend_ratio": null
-    },
-    {
-      "code": "2745",
-      "name": "五福",
-      "market": "otc",
-      "ex_date": "2026-07-23",
-      "type": "除息",
-      "cash_dividend": 7.5,
-      "stock_dividend_ratio": null
-    },
-    {
-      "code": "3088",
-      "name": "艾訊",
-      "market": "otc",
-      "ex_date": "2026-07-23",
-      "type": "除息",
-      "cash_dividend": 2.93044459,
-      "stock_dividend_ratio": null
-    },
-    {
-      "code": "3206",
-      "name": "志豐",
-      "market": "otc",
-      "ex_date": "2026-07-23",
-      "type": "除息",
-      "cash_dividend": 1.5,
-      "stock_dividend_ratio": null
-    },
-    {
-      "code": "3219",
-      "name": "倚強科",
-      "market": "otc",
-      "ex_date": "2026-07-23",
-      "type": "除息",
-      "cash_dividend": 1.359535,
-      "stock_dividend_ratio": null
-    },
-    {
-      "code": "3444",
-      "name": "利機",
-      "market": "otc",
-      "ex_date": "2026-07-23",
-      "type": "除息",
-      "cash_dividend": 1.8,
-      "stock_dividend_ratio": null
-    },
-    {
-      "code": "3491",
-      "name": "昇達科",
-      "market": "otc",
-      "ex_date": "2026-07-23",
-      "type": "除息",
-      "cash_dividend": 6.8,
-      "stock_dividend_ratio": null
-    },
-    {
-      "code": "4129",
-      "name": "聯合",
-      "market": "otc",
-      "ex_date": "2026-07-23",
-      "type": "除息",
-      "cash_dividend": 4.5,
-      "stock_dividend_ratio": null
-    },
-    {
-      "code": "4933",
-      "name": "友輝",
-      "market": "otc",
-      "ex_date": "2026-07-23",
-      "type": "除息",
-      "cash_dividend": 2.88744052,
-      "stock_dividend_ratio": null
-    },
-    {
-      "code": "5483",
-      "name": "中美晶",
-      "market": "otc",
-      "ex_date": "2026-07-23",
-      "type": "除息",
-      "cash_dividend": 2.5,
-      "stock_dividend_ratio": null
-    },
-    {
-      "code": "6290",
-      "name": "良維",
-      "market": "otc",
-      "ex_date": "2026-07-23",
-      "type": "除息",
-      "cash_dividend": 6.192344,
-      "stock_dividend_ratio": null
-    },
-    {
-      "code": "6506",
-      "name": "雙邦",
-      "market": "otc",
-      "ex_date": "2026-07-23",
-      "type": "除息",
-      "cash_dividend": 1.0,
-      "stock_dividend_ratio": null
-    },
-    {
-      "code": "8048",
-      "name": "德勝",
-      "market": "otc",
-      "ex_date": "2026-07-23",
-      "type": "除權息",
-      "cash_dividend": 2.0,
-      "stock_dividend_ratio": 0.02999999
-    },
-    {
-      "code": "8942",
-      "name": "森鉅",
-      "market": "otc",
-      "ex_date": "2026-07-23",
-      "type": "除息",
-      "cash_dividend": 1.0,
-      "stock_dividend_ratio": null
-    },
-    {
-      "code": "3402",
-      "name": "漢科",
-      "market": "otc",
-      "ex_date": "2026-07-22",
-      "type": "除息",
-      "cash_dividend": 6.0,
-      "stock_dividend_ratio": null
-    },
-    {
-      "code": "4506",
-      "name": "崇友",
-      "market": "otc",
-      "ex_date": "2026-07-22",
-      "type": "除息",
-      "cash_dividend": 5.3,
-      "stock_dividend_ratio": null
-    },
-    {
-      "code": "5439",
-      "name": "高技",
-      "market": "otc",
-      "ex_date": "2026-07-22",
-      "type": "除息",
-      "cash_dividend": 7.19992263,
-      "stock_dividend_ratio": null
-    },
-    {
-      "code": "5508",
-      "name": "永信建",
-      "market": "otc",
-      "ex_date": "2026-07-22",
-      "type": "除息",
-      "cash_dividend": 2.77637,
-      "stock_dividend_ratio": null
-    },
-    {
-      "code": "6231",
-      "name": "系微",
-      "market": "otc",
-      "ex_date": "2026-07-22",
-      "type": "除息",
-      "cash_dividend": 5.7,
-      "stock_dividend_ratio": null
-    },
-    {
-      "code": "6244",
-      "name": "茂迪",
-      "market": "otc",
-      "ex_date": "2026-07-22",
-      "type": "除息",
-      "cash_dividend": 0.14,
-      "stock_dividend_ratio": null
-    },
-    {
-      "code": "6275",
-      "name": "元山",
-      "market": "otc",
-      "ex_date": "2026-07-22",
-      "type": "除息",
-      "cash_dividend": 1.99201364,
-      "stock_dividend_ratio": null
-    },
-    {
-      "code": "6904",
-      "name": "伯鑫",
-      "market": "otc",
-      "ex_date": "2026-07-22",
-      "type": "除息",
-      "cash_dividend": 5.0,
       "stock_dividend_ratio": null
     }
   ]
