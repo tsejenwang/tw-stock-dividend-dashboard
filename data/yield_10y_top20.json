@@ -14,13 +14,6 @@
     "sample_years": 4
   },
   {
-    "code": "6298",
-    "name": "崴強",
-    "market": "otc",
-    "avg_yield": 8.43,
-    "sample_years": 3
-  },
-  {
     "code": "6606",
     "name": "建德工業",
     "market": "tse",
@@ -46,27 +39,6 @@
     "name": "新至陞",
     "market": "tse",
     "avg_yield": 8.216,
-    "sample_years": 10
-  },
-  {
-    "code": "5508",
-    "name": "永信建",
-    "market": "otc",
-    "avg_yield": 8.131,
-    "sample_years": 10
-  },
-  {
-    "code": "3211",
-    "name": "順達",
-    "market": "otc",
-    "avg_yield": 8.02,
-    "sample_years": 10
-  },
-  {
-    "code": "5015",
-    "name": "華祺",
-    "market": "otc",
-    "avg_yield": 8.002,
     "sample_years": 10
   },
   {
@@ -98,32 +70,11 @@
     "sample_years": 10
   },
   {
-    "code": "6186",
-    "name": "新潤",
-    "market": "otc",
-    "avg_yield": 7.712,
-    "sample_years": 10
-  },
-  {
-    "code": "2636",
-    "name": "台驊控股",
-    "market": "tse",
-    "avg_yield": 7.677,
-    "sample_years": 10
-  },
-  {
     "code": "6177",
     "name": "達麗",
     "market": "tse",
     "avg_yield": 7.654,
     "sample_years": 10
-  },
-  {
-    "code": "3299",
-    "name": "帛漢",
-    "market": "otc",
-    "avg_yield": 7.63,
-    "sample_years": 3
   },
   {
     "code": "5522",
@@ -133,10 +84,59 @@
     "sample_years": 10
   },
   {
-    "code": "2065",
-    "name": "世豐",
-    "market": "otc",
-    "avg_yield": 7.561,
+    "code": "2636",
+    "name": "台驊控股",
+    "market": "tse",
+    "avg_yield": 7.544,
     "sample_years": 9
+  },
+  {
+    "code": "6176",
+    "name": "瑞儀",
+    "market": "tse",
+    "avg_yield": 7.502,
+    "sample_years": 10
+  },
+  {
+    "code": "1808",
+    "name": "潤隆",
+    "market": "tse",
+    "avg_yield": 7.487,
+    "sample_years": 10
+  },
+  {
+    "code": "2597",
+    "name": "潤弘",
+    "market": "tse",
+    "avg_yield": 7.486,
+    "sample_years": 10
+  },
+  {
+    "code": "1341",
+    "name": "富林-KY",
+    "market": "tse",
+    "avg_yield": 7.434,
+    "sample_years": 7
+  },
+  {
+    "code": "2404",
+    "name": "漢唐",
+    "market": "tse",
+    "avg_yield": 7.402,
+    "sample_years": 10
+  },
+  {
+    "code": "2542",
+    "name": "興富發",
+    "market": "tse",
+    "avg_yield": 7.375,
+    "sample_years": 10
+  },
+  {
+    "code": "3028",
+    "name": "增你強",
+    "market": "tse",
+    "avg_yield": 7.371,
+    "sample_years": 10
   }
 ]
