@@ -14,6 +14,13 @@
     "sample_years": 4
   },
   {
+    "code": "6298",
+    "name": "崴強",
+    "market": "otc",
+    "avg_yield": 8.43,
+    "sample_years": 3
+  },
+  {
     "code": "6606",
     "name": "建德工業",
     "market": "tse",
@@ -39,6 +46,27 @@
     "name": "新至陞",
     "market": "tse",
     "avg_yield": 8.216,
+    "sample_years": 10
+  },
+  {
+    "code": "5508",
+    "name": "永信建",
+    "market": "otc",
+    "avg_yield": 8.131,
+    "sample_years": 10
+  },
+  {
+    "code": "3211",
+    "name": "順達",
+    "market": "otc",
+    "avg_yield": 8.02,
+    "sample_years": 10
+  },
+  {
+    "code": "5015",
+    "name": "華祺",
+    "market": "otc",
+    "avg_yield": 8.002,
     "sample_years": 10
   },
   {
@@ -70,11 +98,32 @@
     "sample_years": 10
   },
   {
+    "code": "6186",
+    "name": "新潤",
+    "market": "otc",
+    "avg_yield": 7.712,
+    "sample_years": 10
+  },
+  {
+    "code": "2636",
+    "name": "台驊控股",
+    "market": "tse",
+    "avg_yield": 7.677,
+    "sample_years": 10
+  },
+  {
     "code": "6177",
     "name": "達麗",
     "market": "tse",
     "avg_yield": 7.654,
     "sample_years": 10
+  },
+  {
+    "code": "3299",
+    "name": "帛漢",
+    "market": "otc",
+    "avg_yield": 7.63,
+    "sample_years": 3
   },
   {
     "code": "5522",
@@ -84,17 +133,31 @@
     "sample_years": 10
   },
   {
-    "code": "2636",
-    "name": "台驊控股",
-    "market": "tse",
-    "avg_yield": 7.544,
+    "code": "2065",
+    "name": "世豐",
+    "market": "otc",
+    "avg_yield": 7.561,
     "sample_years": 9
+  },
+  {
+    "code": "5609",
+    "name": "中菲行",
+    "market": "otc",
+    "avg_yield": 7.523,
+    "sample_years": 10
   },
   {
     "code": "6176",
     "name": "瑞儀",
     "market": "tse",
     "avg_yield": 7.502,
+    "sample_years": 10
+  },
+  {
+    "code": "8049",
+    "name": "晶采",
+    "market": "otc",
+    "avg_yield": 7.491,
     "sample_years": 10
   },
   {
@@ -105,10 +168,31 @@
     "sample_years": 10
   },
   {
+    "code": "6292",
+    "name": "迅德",
+    "market": "otc",
+    "avg_yield": 7.487,
+    "sample_years": 10
+  },
+  {
     "code": "2597",
     "name": "潤弘",
     "market": "tse",
     "avg_yield": 7.486,
+    "sample_years": 10
+  },
+  {
+    "code": "6266",
+    "name": "泰詠",
+    "market": "otc",
+    "avg_yield": 7.472,
+    "sample_years": 10
+  },
+  {
+    "code": "6123",
+    "name": "上奇",
+    "market": "otc",
+    "avg_yield": 7.448,
     "sample_years": 10
   },
   {
@@ -140,11 +224,60 @@
     "sample_years": 10
   },
   {
+    "code": "2916",
+    "name": "滿心",
+    "market": "otc",
+    "avg_yield": 7.268,
+    "sample_years": 10
+  },
+  {
+    "code": "6486",
+    "name": "互動",
+    "market": "otc",
+    "avg_yield": 7.268,
+    "sample_years": 9
+  },
+  {
+    "code": "6294",
+    "name": "智基",
+    "market": "otc",
+    "avg_yield": 7.227,
+    "sample_years": 10
+  },
+  {
+    "code": "6151",
+    "name": "晉倫",
+    "market": "otc",
+    "avg_yield": 7.216,
+    "sample_years": 10
+  },
+  {
     "code": "3209",
     "name": "全科",
     "market": "tse",
     "avg_yield": 7.2,
     "sample_years": 10
+  },
+  {
+    "code": "5864",
+    "name": "致和證",
+    "market": "otc",
+    "avg_yield": 7.191,
+    "sample_years": 8
+  },
+  {
+    "code": "5604",
+    "name": "中連",
+    "market": "otc",
+    "avg_yield": 7.185,
+    "sample_years": 10
+  },
+  {
+    "code": "6613",
+    "name": "朋億*",
+    "market": "otc",
+    "avg_yield": 7.18,
+    "sample_years": 8
   },
   {
     "code": "6189",
@@ -154,9 +287,37 @@
     "sample_years": 10
   },
   {
+    "code": "5356",
+    "name": "協益",
+    "market": "otc",
+    "avg_yield": 7.113,
+    "sample_years": 10
+  },
+  {
+    "code": "3213",
+    "name": "茂訊",
+    "market": "otc",
+    "avg_yield": 7.111,
+    "sample_years": 10
+  },
+  {
+    "code": "5236",
+    "name": "凌陽創新",
+    "market": "otc",
+    "avg_yield": 7.1,
+    "sample_years": 4
+  },
+  {
     "code": "6201",
     "name": "亞弘電",
     "market": "tse",
+    "avg_yield": 7.088,
+    "sample_years": 10
+  },
+  {
+    "code": "6026",
+    "name": "福邦證",
+    "market": "otc",
     "avg_yield": 7.088,
     "sample_years": 10
   },
@@ -166,6 +327,34 @@
     "market": "tse",
     "avg_yield": 7.081,
     "sample_years": 10
+  },
+  {
+    "code": "8941",
+    "name": "關中",
+    "market": "otc",
+    "avg_yield": 7.079,
+    "sample_years": 10
+  },
+  {
+    "code": "4707",
+    "name": "磐亞",
+    "market": "otc",
+    "avg_yield": 7.034,
+    "sample_years": 10
+  },
+  {
+    "code": "5410",
+    "name": "國眾",
+    "market": "otc",
+    "avg_yield": 7.028,
+    "sample_years": 10
+  },
+  {
+    "code": "8342",
+    "name": "益張",
+    "market": "otc",
+    "avg_yield": 7.006,
+    "sample_years": 8
   },
   {
     "code": "5283",
@@ -196,10 +385,31 @@
     "sample_years": 10
   },
   {
+    "code": "4987",
+    "name": "科誠",
+    "market": "otc",
+    "avg_yield": 6.906,
+    "sample_years": 10
+  },
+  {
+    "code": "4974",
+    "name": "亞泰",
+    "market": "otc",
+    "avg_yield": 6.888,
+    "sample_years": 10
+  },
+  {
     "code": "5519",
     "name": "隆大",
     "market": "tse",
     "avg_yield": 6.881,
+    "sample_years": 10
+  },
+  {
+    "code": "3567",
+    "name": "逸昌",
+    "market": "otc",
+    "avg_yield": 6.872,
     "sample_years": 10
   },
   {
@@ -231,6 +441,20 @@
     "sample_years": 10
   },
   {
+    "code": "8916",
+    "name": "光隆",
+    "market": "otc",
+    "avg_yield": 6.82,
+    "sample_years": 10
+  },
+  {
+    "code": "4550",
+    "name": "長佳",
+    "market": "otc",
+    "avg_yield": 6.805,
+    "sample_years": 10
+  },
+  {
     "code": "6115",
     "name": "鎰勝",
     "market": "tse",
@@ -245,10 +469,24 @@
     "sample_years": 10
   },
   {
+    "code": "8401",
+    "name": "白紗科",
+    "market": "otc",
+    "avg_yield": 6.774,
+    "sample_years": 10
+  },
+  {
     "code": "2546",
     "name": "根基",
     "market": "tse",
     "avg_yield": 6.763,
+    "sample_years": 10
+  },
+  {
+    "code": "2063",
+    "name": "世鎧",
+    "market": "otc",
+    "avg_yield": 6.743,
     "sample_years": 10
   },
   {
@@ -273,10 +511,38 @@
     "sample_years": 10
   },
   {
+    "code": "5209",
+    "name": "新鼎",
+    "market": "otc",
+    "avg_yield": 6.704,
+    "sample_years": 10
+  },
+  {
     "code": "6216",
     "name": "居易",
     "market": "tse",
     "avg_yield": 6.701,
+    "sample_years": 10
+  },
+  {
+    "code": "3402",
+    "name": "漢科",
+    "market": "otc",
+    "avg_yield": 6.697,
+    "sample_years": 10
+  },
+  {
+    "code": "8424",
+    "name": "惠普",
+    "market": "otc",
+    "avg_yield": 6.695,
+    "sample_years": 10
+  },
+  {
+    "code": "5403",
+    "name": "中菲",
+    "market": "otc",
+    "avg_yield": 6.694,
     "sample_years": 10
   },
   {
@@ -301,10 +567,24 @@
     "sample_years": 10
   },
   {
+    "code": "4527",
+    "name": "方土霖",
+    "market": "otc",
+    "avg_yield": 6.647,
+    "sample_years": 10
+  },
+  {
     "code": "4952",
     "name": "凌通",
     "market": "tse",
     "avg_yield": 6.636,
+    "sample_years": 10
+  },
+  {
+    "code": "4995",
+    "name": "晶達",
+    "market": "otc",
+    "avg_yield": 6.633,
     "sample_years": 10
   },
   {
@@ -313,6 +593,27 @@
     "market": "tse",
     "avg_yield": 6.63,
     "sample_years": 6
+  },
+  {
+    "code": "5536",
+    "name": "聖暉*",
+    "market": "otc",
+    "avg_yield": 6.615,
+    "sample_years": 10
+  },
+  {
+    "code": "8924",
+    "name": "大田",
+    "market": "otc",
+    "avg_yield": 6.601,
+    "sample_years": 10
+  },
+  {
+    "code": "6195",
+    "name": "詩肯",
+    "market": "otc",
+    "avg_yield": 6.589,
+    "sample_years": 10
   },
   {
     "code": "5534",
@@ -347,6 +648,13 @@
     "name": "永新-KY",
     "market": "tse",
     "avg_yield": 6.566,
+    "sample_years": 10
+  },
+  {
+    "code": "8942",
+    "name": "森鉅",
+    "market": "otc",
+    "avg_yield": 6.557,
     "sample_years": 10
   },
   {
@@ -413,6 +721,13 @@
     "sample_years": 10
   },
   {
+    "code": "4305",
+    "name": "世坤",
+    "market": "otc",
+    "avg_yield": 6.425,
+    "sample_years": 10
+  },
+  {
     "code": "2357",
     "name": "華碩",
     "market": "tse",
@@ -425,6 +740,13 @@
     "market": "tse",
     "avg_yield": 6.404,
     "sample_years": 7
+  },
+  {
+    "code": "6261",
+    "name": "久元",
+    "market": "otc",
+    "avg_yield": 6.404,
+    "sample_years": 10
   },
   {
     "code": "8213",
@@ -441,6 +763,13 @@
     "sample_years": 10
   },
   {
+    "code": "4972",
+    "name": "湯石照明",
+    "market": "otc",
+    "avg_yield": 6.387,
+    "sample_years": 10
+  },
+  {
     "code": "6655",
     "name": "科定",
     "market": "tse",
@@ -448,11 +777,25 @@
     "sample_years": 7
   },
   {
+    "code": "6494",
+    "name": "九齊",
+    "market": "otc",
+    "avg_yield": 6.371,
+    "sample_years": 10
+  },
+  {
     "code": "2480",
     "name": "敦陽科",
     "market": "tse",
     "avg_yield": 6.369,
     "sample_years": 10
+  },
+  {
+    "code": "4420",
+    "name": "光明",
+    "market": "otc",
+    "avg_yield": 6.355,
+    "sample_years": 8
   },
   {
     "code": "6005",
@@ -466,6 +809,20 @@
     "name": "創見",
     "market": "tse",
     "avg_yield": 6.352,
+    "sample_years": 10
+  },
+  {
+    "code": "5213",
+    "name": "亞昕",
+    "market": "otc",
+    "avg_yield": 6.346,
+    "sample_years": 10
+  },
+  {
+    "code": "3455",
+    "name": "由田",
+    "market": "otc",
+    "avg_yield": 6.342,
     "sample_years": 10
   },
   {
@@ -490,6 +847,13 @@
     "sample_years": 10
   },
   {
+    "code": "8435",
+    "name": "鉅邁",
+    "market": "otc",
+    "avg_yield": 6.309,
+    "sample_years": 10
+  },
+  {
     "code": "2108",
     "name": "南帝",
     "market": "tse",
@@ -508,6 +872,20 @@
     "name": "燦星網",
     "market": "tse",
     "avg_yield": 6.3,
+    "sample_years": 10
+  },
+  {
+    "code": "5878",
+    "name": "台名",
+    "market": "otc",
+    "avg_yield": 6.297,
+    "sample_years": 10
+  },
+  {
+    "code": "2596",
+    "name": "綠意",
+    "market": "otc",
+    "avg_yield": 6.292,
     "sample_years": 10
   },
   {
@@ -532,10 +910,31 @@
     "sample_years": 10
   },
   {
+    "code": "4735",
+    "name": "豪展",
+    "market": "otc",
+    "avg_yield": 6.242,
+    "sample_years": 10
+  },
+  {
     "code": "2855",
     "name": "統一證",
     "market": "tse",
     "avg_yield": 6.238,
+    "sample_years": 10
+  },
+  {
+    "code": "6147",
+    "name": "頎邦",
+    "market": "otc",
+    "avg_yield": 6.237,
+    "sample_years": 10
+  },
+  {
+    "code": "6161",
+    "name": "捷波",
+    "market": "otc",
+    "avg_yield": 6.235,
     "sample_years": 10
   },
   {
@@ -574,6 +973,20 @@
     "sample_years": 10
   },
   {
+    "code": "8048",
+    "name": "德勝",
+    "market": "otc",
+    "avg_yield": 6.181,
+    "sample_years": 10
+  },
+  {
+    "code": "6577",
+    "name": "勁豐",
+    "market": "otc",
+    "avg_yield": 6.177,
+    "sample_years": 9
+  },
+  {
     "code": "3501",
     "name": "維熹",
     "market": "tse",
@@ -588,10 +1001,45 @@
     "sample_years": 10
   },
   {
+    "code": "6263",
+    "name": "普萊德",
+    "market": "otc",
+    "avg_yield": 6.163,
+    "sample_years": 10
+  },
+  {
+    "code": "6523",
+    "name": "達爾膚",
+    "market": "otc",
+    "avg_yield": 6.161,
+    "sample_years": 9
+  },
+  {
+    "code": "5371",
+    "name": "中光電",
+    "market": "otc",
+    "avg_yield": 6.16,
+    "sample_years": 10
+  },
+  {
     "code": "1712",
     "name": "興農",
     "market": "tse",
     "avg_yield": 6.15,
+    "sample_years": 10
+  },
+  {
+    "code": "6703",
+    "name": "軒郁",
+    "market": "otc",
+    "avg_yield": 6.144,
+    "sample_years": 5
+  },
+  {
+    "code": "2643",
+    "name": "捷迅",
+    "market": "otc",
+    "avg_yield": 6.143,
     "sample_years": 10
   },
   {
@@ -609,6 +1057,20 @@
     "sample_years": 10
   },
   {
+    "code": "3556",
+    "name": "禾瑞亞",
+    "market": "otc",
+    "avg_yield": 6.11,
+    "sample_years": 10
+  },
+  {
+    "code": "6121",
+    "name": "新普",
+    "market": "otc",
+    "avg_yield": 6.108,
+    "sample_years": 10
+  },
+  {
     "code": "2812",
     "name": "台中銀",
     "market": "tse",
@@ -620,6 +1082,20 @@
     "name": "慧洋-KY",
     "market": "tse",
     "avg_yield": 6.096,
+    "sample_years": 10
+  },
+  {
+    "code": "3388",
+    "name": "崇越電",
+    "market": "otc",
+    "avg_yield": 6.095,
+    "sample_years": 10
+  },
+  {
+    "code": "3537",
+    "name": "堡達",
+    "market": "otc",
+    "avg_yield": 6.087,
     "sample_years": 10
   },
   {
@@ -644,11 +1120,32 @@
     "sample_years": 10
   },
   {
+    "code": "4138",
+    "name": "曜亞",
+    "market": "otc",
+    "avg_yield": 6.074,
+    "sample_years": 10
+  },
+  {
+    "code": "4933",
+    "name": "友輝",
+    "market": "otc",
+    "avg_yield": 6.073,
+    "sample_years": 10
+  },
+  {
     "code": "9924",
     "name": "福興",
     "market": "tse",
     "avg_yield": 6.067,
     "sample_years": 10
+  },
+  {
+    "code": "1787",
+    "name": "福盈科",
+    "market": "otc",
+    "avg_yield": 6.065,
+    "sample_years": 4
   },
   {
     "code": "1615",
@@ -658,11 +1155,32 @@
     "sample_years": 10
   },
   {
+    "code": "5016",
+    "name": "松和",
+    "market": "otc",
+    "avg_yield": 6.057,
+    "sample_years": 10
+  },
+  {
+    "code": "6651",
+    "name": "全宇昕",
+    "market": "otc",
+    "avg_yield": 6.048,
+    "sample_years": 5
+  },
+  {
     "code": "6790",
     "name": "永豐實",
     "market": "tse",
     "avg_yield": 6.04,
     "sample_years": 4
+  },
+  {
+    "code": "6270",
+    "name": "倍微",
+    "market": "otc",
+    "avg_yield": 6.04,
+    "sample_years": 10
   },
   {
     "code": "3706",
@@ -672,10 +1190,45 @@
     "sample_years": 10
   },
   {
+    "code": "6024",
+    "name": "群益期",
+    "market": "tse",
+    "avg_yield": 6.028,
+    "sample_years": 10
+  },
+  {
+    "code": "3206",
+    "name": "志豐",
+    "market": "otc",
+    "avg_yield": 6.021,
+    "sample_years": 10
+  },
+  {
+    "code": "4417",
+    "name": "金洲",
+    "market": "otc",
+    "avg_yield": 6.018,
+    "sample_years": 10
+  },
+  {
+    "code": "5315",
+    "name": "光聯",
+    "market": "otc",
+    "avg_yield": 6.011,
+    "sample_years": 10
+  },
+  {
     "code": "2348",
     "name": "海悅",
     "market": "tse",
     "avg_yield": 6.007,
+    "sample_years": 10
+  },
+  {
+    "code": "8433",
+    "name": "弘帆",
+    "market": "otc",
+    "avg_yield": 6.006,
     "sample_years": 10
   },
   {
@@ -700,10 +1253,38 @@
     "sample_years": 10
   },
   {
+    "code": "8066",
+    "name": "來思達",
+    "market": "otc",
+    "avg_yield": 5.987,
+    "sample_years": 10
+  },
+  {
     "code": "1558",
     "name": "伸興",
     "market": "tse",
     "avg_yield": 5.986,
+    "sample_years": 10
+  },
+  {
+    "code": "4923",
+    "name": "力士",
+    "market": "otc",
+    "avg_yield": 5.985,
+    "sample_years": 4
+  },
+  {
+    "code": "8913",
+    "name": "全銓",
+    "market": "otc",
+    "avg_yield": 5.98,
+    "sample_years": 3
+  },
+  {
+    "code": "3526",
+    "name": "凡甲",
+    "market": "otc",
+    "avg_yield": 5.977,
     "sample_years": 10
   },
   {
@@ -728,6 +1309,20 @@
     "sample_years": 10
   },
   {
+    "code": "1593",
+    "name": "祺驊",
+    "market": "otc",
+    "avg_yield": 5.968,
+    "sample_years": 10
+  },
+  {
+    "code": "3078",
+    "name": "僑威",
+    "market": "otc",
+    "avg_yield": 5.966,
+    "sample_years": 10
+  },
+  {
     "code": "3030",
     "name": "德律",
     "market": "tse",
@@ -735,11 +1330,11 @@
     "sample_years": 10
   },
   {
-    "code": "6024",
-    "name": "群益期",
-    "market": "tse",
-    "avg_yield": 5.95,
-    "sample_years": 8
+    "code": "6470",
+    "name": "宇智",
+    "market": "otc",
+    "avg_yield": 5.951,
+    "sample_years": 10
   },
   {
     "code": "4942",
@@ -784,10 +1379,31 @@
     "sample_years": 10
   },
   {
+    "code": "6506",
+    "name": "雙邦",
+    "market": "otc",
+    "avg_yield": 5.9,
+    "sample_years": 10
+  },
+  {
     "code": "2527",
     "name": "宏璟",
     "market": "tse",
     "avg_yield": 5.882,
+    "sample_years": 10
+  },
+  {
+    "code": "1580",
+    "name": "新麥",
+    "market": "otc",
+    "avg_yield": 5.876,
+    "sample_years": 10
+  },
+  {
+    "code": "5520",
+    "name": "力泰",
+    "market": "otc",
+    "avg_yield": 5.876,
     "sample_years": 10
   },
   {
@@ -801,6 +1417,13 @@
     "code": "2393",
     "name": "億光",
     "market": "tse",
+    "avg_yield": 5.87,
+    "sample_years": 10
+  },
+  {
+    "code": "3088",
+    "name": "艾訊",
+    "market": "otc",
     "avg_yield": 5.87,
     "sample_years": 10
   },
@@ -854,6 +1477,13 @@
     "sample_years": 10
   },
   {
+    "code": "5820",
+    "name": "日盛金",
+    "market": "otc",
+    "avg_yield": 5.821,
+    "sample_years": 7
+  },
+  {
     "code": "2204",
     "name": "中華",
     "market": "tse",
@@ -868,6 +1498,27 @@
     "sample_years": 10
   },
   {
+    "code": "6629",
+    "name": "泰金-KY",
+    "market": "otc",
+    "avg_yield": 5.806,
+    "sample_years": 7
+  },
+  {
+    "code": "4568",
+    "name": "科際精密",
+    "market": "otc",
+    "avg_yield": 5.8,
+    "sample_years": 7
+  },
+  {
+    "code": "8416",
+    "name": "實威",
+    "market": "otc",
+    "avg_yield": 5.791,
+    "sample_years": 10
+  },
+  {
     "code": "2450",
     "name": "神腦",
     "market": "tse",
@@ -879,6 +1530,27 @@
     "name": "友通",
     "market": "tse",
     "avg_yield": 5.784,
+    "sample_years": 10
+  },
+  {
+    "code": "3303",
+    "name": "岱稜",
+    "market": "otc",
+    "avg_yield": 5.784,
+    "sample_years": 10
+  },
+  {
+    "code": "2221",
+    "name": "大甲",
+    "market": "otc",
+    "avg_yield": 5.777,
+    "sample_years": 10
+  },
+  {
+    "code": "3684",
+    "name": "榮昌",
+    "market": "otc",
+    "avg_yield": 5.762,
     "sample_years": 10
   },
   {
@@ -910,6 +1582,20 @@
     "sample_years": 10
   },
   {
+    "code": "3217",
+    "name": "優群",
+    "market": "otc",
+    "avg_yield": 5.736,
+    "sample_years": 10
+  },
+  {
+    "code": "8938",
+    "name": "明安",
+    "market": "otc",
+    "avg_yield": 5.735,
+    "sample_years": 10
+  },
+  {
     "code": "2015",
     "name": "豐興",
     "market": "tse",
@@ -917,10 +1603,38 @@
     "sample_years": 10
   },
   {
+    "code": "4736",
+    "name": "泰博",
+    "market": "tse",
+    "avg_yield": 5.731,
+    "sample_years": 10
+  },
+  {
+    "code": "8446",
+    "name": "華研",
+    "market": "otc",
+    "avg_yield": 5.73,
+    "sample_years": 10
+  },
+  {
     "code": "2538",
     "name": "基泰",
     "market": "tse",
     "avg_yield": 5.729,
+    "sample_years": 10
+  },
+  {
+    "code": "5312",
+    "name": "寶島科",
+    "market": "otc",
+    "avg_yield": 5.725,
+    "sample_years": 10
+  },
+  {
+    "code": "8091",
+    "name": "翔名",
+    "market": "otc",
+    "avg_yield": 5.722,
     "sample_years": 10
   },
   {
@@ -938,6 +1652,13 @@
     "sample_years": 4
   },
   {
+    "code": "8074",
+    "name": "鉅橡",
+    "market": "otc",
+    "avg_yield": 5.718,
+    "sample_years": 10
+  },
+  {
     "code": "2439",
     "name": "美律",
     "market": "tse",
@@ -948,6 +1669,20 @@
     "code": "9940",
     "name": "信義",
     "market": "tse",
+    "avg_yield": 5.713,
+    "sample_years": 10
+  },
+  {
+    "code": "6204",
+    "name": "艾華",
+    "market": "otc",
+    "avg_yield": 5.713,
+    "sample_years": 9
+  },
+  {
+    "code": "8928",
+    "name": "鉅明",
+    "market": "otc",
     "avg_yield": 5.713,
     "sample_years": 10
   },
@@ -971,6 +1706,13 @@
     "market": "tse",
     "avg_yield": 5.704,
     "sample_years": 10
+  },
+  {
+    "code": "5220",
+    "name": "萬達光電",
+    "market": "otc",
+    "avg_yield": 5.701,
+    "sample_years": 8
   },
   {
     "code": "5515",
@@ -1008,6 +1750,20 @@
     "sample_years": 10
   },
   {
+    "code": "6203",
+    "name": "海韻電",
+    "market": "otc",
+    "avg_yield": 5.675,
+    "sample_years": 10
+  },
+  {
+    "code": "8930",
+    "name": "青鋼",
+    "market": "otc",
+    "avg_yield": 5.675,
+    "sample_years": 10
+  },
+  {
     "code": "1704",
     "name": "榮化",
     "market": "tse",
@@ -1029,11 +1785,32 @@
     "sample_years": 10
   },
   {
+    "code": "6761",
+    "name": "穩得",
+    "market": "otc",
+    "avg_yield": 5.665,
+    "sample_years": 4
+  },
+  {
     "code": "9946",
     "name": "三發地產",
     "market": "tse",
     "avg_yield": 5.66,
     "sample_years": 10
+  },
+  {
+    "code": "6158",
+    "name": "禾昌",
+    "market": "otc",
+    "avg_yield": 5.66,
+    "sample_years": 10
+  },
+  {
+    "code": "6728",
+    "name": "上洋",
+    "market": "otc",
+    "avg_yield": 5.656,
+    "sample_years": 5
   },
   {
     "code": "6184",
@@ -1050,9 +1827,23 @@
     "sample_years": 10
   },
   {
+    "code": "6207",
+    "name": "雷科",
+    "market": "otc",
+    "avg_yield": 5.636,
+    "sample_years": 10
+  },
+  {
     "code": "1452",
     "name": "宏益",
     "market": "tse",
+    "avg_yield": 5.631,
+    "sample_years": 10
+  },
+  {
+    "code": "6210",
+    "name": "慶生",
+    "market": "otc",
     "avg_yield": 5.631,
     "sample_years": 10
   },
@@ -1064,11 +1855,39 @@
     "sample_years": 10
   },
   {
+    "code": "8383",
+    "name": "千附",
+    "market": "otc",
+    "avg_yield": 5.61,
+    "sample_years": 10
+  },
+  {
     "code": "9911",
     "name": "櫻花",
     "market": "tse",
     "avg_yield": 5.597,
     "sample_years": 10
+  },
+  {
+    "code": "6023",
+    "name": "元大期",
+    "market": "otc",
+    "avg_yield": 5.596,
+    "sample_years": 10
+  },
+  {
+    "code": "6016",
+    "name": "康和證",
+    "market": "otc",
+    "avg_yield": 5.576,
+    "sample_years": 10
+  },
+  {
+    "code": "8284",
+    "name": "三竹",
+    "market": "otc",
+    "avg_yield": 5.57,
+    "sample_years": 6
   },
   {
     "code": "1817",
@@ -1099,6 +1918,13 @@
     "sample_years": 9
   },
   {
+    "code": "8083",
+    "name": "瑞穎",
+    "market": "otc",
+    "avg_yield": 5.549,
+    "sample_years": 10
+  },
+  {
     "code": "2034",
     "name": "允強",
     "market": "tse",
@@ -1106,10 +1932,24 @@
     "sample_years": 10
   },
   {
+    "code": "4580",
+    "name": "捷流閥業",
+    "market": "otc",
+    "avg_yield": 5.537,
+    "sample_years": 6
+  },
+  {
     "code": "5434",
     "name": "崇越",
     "market": "tse",
     "avg_yield": 5.534,
+    "sample_years": 10
+  },
+  {
+    "code": "5493",
+    "name": "三聯",
+    "market": "otc",
+    "avg_yield": 5.533,
     "sample_years": 10
   },
   {
@@ -1134,6 +1974,13 @@
     "sample_years": 10
   },
   {
+    "code": "6664",
+    "name": "群翊",
+    "market": "otc",
+    "avg_yield": 5.524,
+    "sample_years": 7
+  },
+  {
     "code": "4581",
     "name": "光隆精密-KY",
     "market": "tse",
@@ -1148,6 +1995,20 @@
     "sample_years": 5
   },
   {
+    "code": "8109",
+    "name": "博大",
+    "market": "otc",
+    "avg_yield": 5.515,
+    "sample_years": 10
+  },
+  {
+    "code": "6721",
+    "name": "信實",
+    "market": "otc",
+    "avg_yield": 5.513,
+    "sample_years": 4
+  },
+  {
     "code": "2114",
     "name": "鑫永銓",
     "market": "tse",
@@ -1159,6 +2020,13 @@
     "name": "展宇",
     "market": "tse",
     "avg_yield": 5.506,
+    "sample_years": 10
+  },
+  {
+    "code": "5511",
+    "name": "德昌",
+    "market": "otc",
+    "avg_yield": 5.499,
     "sample_years": 10
   },
   {
@@ -1176,10 +2044,24 @@
     "sample_years": 9
   },
   {
+    "code": "3264",
+    "name": "欣銓",
+    "market": "otc",
+    "avg_yield": 5.462,
+    "sample_years": 10
+  },
+  {
     "code": "1229",
     "name": "聯華",
     "market": "tse",
     "avg_yield": 5.461,
+    "sample_years": 10
+  },
+  {
+    "code": "6227",
+    "name": "茂綸",
+    "market": "otc",
+    "avg_yield": 5.451,
     "sample_years": 10
   },
   {
@@ -1190,6 +2072,13 @@
     "sample_years": 10
   },
   {
+    "code": "6508",
+    "name": "惠光",
+    "market": "otc",
+    "avg_yield": 5.438,
+    "sample_years": 10
+  },
+  {
     "code": "2382",
     "name": "廣達",
     "market": "tse",
@@ -1197,10 +2086,38 @@
     "sample_years": 10
   },
   {
+    "code": "5287",
+    "name": "數字",
+    "market": "otc",
+    "avg_yield": 5.432,
+    "sample_years": 10
+  },
+  {
+    "code": "6590",
+    "name": "普鴻",
+    "market": "otc",
+    "avg_yield": 5.429,
+    "sample_years": 7
+  },
+  {
     "code": "2376",
     "name": "技嘉",
     "market": "tse",
     "avg_yield": 5.426,
+    "sample_years": 10
+  },
+  {
+    "code": "4973",
+    "name": "廣穎",
+    "market": "otc",
+    "avg_yield": 5.423,
+    "sample_years": 10
+  },
+  {
+    "code": "5603",
+    "name": "陸海",
+    "market": "otc",
+    "avg_yield": 5.414,
     "sample_years": 10
   },
   {
@@ -1225,6 +2142,20 @@
     "sample_years": 10
   },
   {
+    "code": "3093",
+    "name": "港建*",
+    "market": "otc",
+    "avg_yield": 5.386,
+    "sample_years": 10
+  },
+  {
+    "code": "3118",
+    "name": "進階",
+    "market": "otc",
+    "avg_yield": 5.385,
+    "sample_years": 10
+  },
+  {
     "code": "3231",
     "name": "緯創",
     "market": "tse",
@@ -1236,6 +2167,13 @@
     "name": "晶華",
     "market": "tse",
     "avg_yield": 5.381,
+    "sample_years": 10
+  },
+  {
+    "code": "3646",
+    "name": "艾恩特",
+    "market": "otc",
+    "avg_yield": 5.371,
     "sample_years": 10
   },
   {
@@ -1260,10 +2198,38 @@
     "sample_years": 5
   },
   {
+    "code": "3479",
+    "name": "安勤",
+    "market": "otc",
+    "avg_yield": 5.339,
+    "sample_years": 10
+  },
+  {
+    "code": "3114",
+    "name": "好德",
+    "market": "otc",
+    "avg_yield": 5.335,
+    "sample_years": 10
+  },
+  {
+    "code": "8032",
+    "name": "光菱",
+    "market": "otc",
+    "avg_yield": 5.331,
+    "sample_years": 10
+  },
+  {
     "code": "9945",
     "name": "潤泰新",
     "market": "tse",
     "avg_yield": 5.326,
+    "sample_years": 10
+  },
+  {
+    "code": "3570",
+    "name": "大塚",
+    "market": "otc",
+    "avg_yield": 5.319,
     "sample_years": 10
   },
   {
@@ -1288,11 +2254,25 @@
     "sample_years": 10
   },
   {
+    "code": "6457",
+    "name": "紘康",
+    "market": "otc",
+    "avg_yield": 5.314,
+    "sample_years": 9
+  },
+  {
     "code": "1305",
     "name": "華夏",
     "market": "tse",
     "avg_yield": 5.313,
     "sample_years": 10
+  },
+  {
+    "code": "3147",
+    "name": "大綜",
+    "market": "otc",
+    "avg_yield": 5.309,
+    "sample_years": 8
   },
   {
     "code": "9933",
@@ -1323,10 +2303,24 @@
     "sample_years": 10
   },
   {
+    "code": "8155",
+    "name": "博智",
+    "market": "otc",
+    "avg_yield": 5.273,
+    "sample_years": 10
+  },
+  {
     "code": "2891",
     "name": "中信金",
     "market": "tse",
     "avg_yield": 5.272,
+    "sample_years": 10
+  },
+  {
+    "code": "6154",
+    "name": "順發",
+    "market": "otc",
+    "avg_yield": 5.266,
     "sample_years": 10
   },
   {
@@ -1337,6 +2331,13 @@
     "sample_years": 10
   },
   {
+    "code": "6514",
+    "name": "芮特-KY",
+    "market": "otc",
+    "avg_yield": 5.241,
+    "sample_years": 9
+  },
+  {
     "code": "2211",
     "name": "長榮鋼",
     "market": "tse",
@@ -1344,10 +2345,31 @@
     "sample_years": 5
   },
   {
+    "code": "2235",
+    "name": "謚源",
+    "market": "otc",
+    "avg_yield": 5.224,
+    "sample_years": 10
+  },
+  {
     "code": "1612",
     "name": "宏泰",
     "market": "tse",
     "avg_yield": 5.221,
+    "sample_years": 10
+  },
+  {
+    "code": "3531",
+    "name": "先益",
+    "market": "otc",
+    "avg_yield": 5.219,
+    "sample_years": 10
+  },
+  {
+    "code": "1788",
+    "name": "杏昌",
+    "market": "otc",
+    "avg_yield": 5.213,
     "sample_years": 10
   },
   {
@@ -1365,6 +2387,13 @@
     "sample_years": 10
   },
   {
+    "code": "8050",
+    "name": "廣積",
+    "market": "otc",
+    "avg_yield": 5.201,
+    "sample_years": 10
+  },
+  {
     "code": "2892",
     "name": "第一金",
     "market": "tse",
@@ -1376,6 +2405,27 @@
     "name": "茂順",
     "market": "tse",
     "avg_yield": 5.198,
+    "sample_years": 10
+  },
+  {
+    "code": "4754",
+    "name": "國碳科",
+    "market": "otc",
+    "avg_yield": 5.196,
+    "sample_years": 9
+  },
+  {
+    "code": "3310",
+    "name": "佳穎",
+    "market": "otc",
+    "avg_yield": 5.193,
+    "sample_years": 10
+  },
+  {
+    "code": "2640",
+    "name": "大車隊",
+    "market": "otc",
+    "avg_yield": 5.184,
     "sample_years": 10
   },
   {
@@ -1421,6 +2471,13 @@
     "sample_years": 10
   },
   {
+    "code": "3484",
+    "name": "崧騰",
+    "market": "otc",
+    "avg_yield": 5.145,
+    "sample_years": 10
+  },
+  {
     "code": "8367",
     "name": "建新國際",
     "market": "tse",
@@ -1435,6 +2492,20 @@
     "sample_years": 10
   },
   {
+    "code": "6138",
+    "name": "茂達",
+    "market": "otc",
+    "avg_yield": 5.138,
+    "sample_years": 10
+  },
+  {
+    "code": "6803",
+    "name": "崑鼎",
+    "market": "otc",
+    "avg_yield": 5.13,
+    "sample_years": 10
+  },
+  {
     "code": "2303",
     "name": "聯電",
     "market": "tse",
@@ -1442,10 +2513,31 @@
     "sample_years": 10
   },
   {
+    "code": "6220",
+    "name": "岳豐",
+    "market": "otc",
+    "avg_yield": 5.125,
+    "sample_years": 10
+  },
+  {
     "code": "2820",
     "name": "華票",
     "market": "tse",
     "avg_yield": 5.123,
+    "sample_years": 10
+  },
+  {
+    "code": "6180",
+    "name": "橘子",
+    "market": "otc",
+    "avg_yield": 5.115,
+    "sample_years": 10
+  },
+  {
+    "code": "8905",
+    "name": "裕國",
+    "market": "otc",
+    "avg_yield": 5.114,
     "sample_years": 10
   },
   {
@@ -1526,11 +2618,25 @@
     "sample_years": 10
   },
   {
+    "code": "3426",
+    "name": "台興",
+    "market": "otc",
+    "avg_yield": 5.042,
+    "sample_years": 9
+  },
+  {
     "code": "2832",
     "name": "台產",
     "market": "tse",
     "avg_yield": 5.036,
     "sample_years": 10
+  },
+  {
+    "code": "6732",
+    "name": "昇佳電子",
+    "market": "otc",
+    "avg_yield": 5.025,
+    "sample_years": 6
   },
   {
     "code": "5538",
@@ -1545,6 +2651,20 @@
     "market": "tse",
     "avg_yield": 5.018,
     "sample_years": 10
+  },
+  {
+    "code": "3357",
+    "name": "臺慶科",
+    "market": "otc",
+    "avg_yield": 5.018,
+    "sample_years": 5
+  },
+  {
+    "code": "4767",
+    "name": "誠泰科技",
+    "market": "otc",
+    "avg_yield": 5.013,
+    "sample_years": 7
   },
   {
     "code": "5234",
@@ -1603,6 +2723,13 @@
     "sample_years": 10
   },
   {
+    "code": "6432",
+    "name": "今展科",
+    "market": "otc",
+    "avg_yield": 4.991,
+    "sample_years": 10
+  },
+  {
     "code": "3515",
     "name": "華擎",
     "market": "tse",
@@ -1645,6 +2772,13 @@
     "sample_years": 10
   },
   {
+    "code": "6570",
+    "name": "維田",
+    "market": "otc",
+    "avg_yield": 4.98,
+    "sample_years": 8
+  },
+  {
     "code": "6192",
     "name": "巨路",
     "market": "tse",
@@ -1664,6 +2798,13 @@
     "market": "tse",
     "avg_yield": 4.966,
     "sample_years": 10
+  },
+  {
+    "code": "6530",
+    "name": "創威",
+    "market": "otc",
+    "avg_yield": 4.966,
+    "sample_years": 8
   },
   {
     "code": "2915",
@@ -1694,6 +2835,27 @@
     "sample_years": 10
   },
   {
+    "code": "5443",
+    "name": "均豪",
+    "market": "otc",
+    "avg_yield": 4.939,
+    "sample_years": 10
+  },
+  {
+    "code": "6143",
+    "name": "振曜",
+    "market": "otc",
+    "avg_yield": 4.939,
+    "sample_years": 10
+  },
+  {
+    "code": "8923",
+    "name": "時報",
+    "market": "otc",
+    "avg_yield": 4.933,
+    "sample_years": 10
+  },
+  {
     "code": "4552",
     "name": "力達-KY",
     "market": "tse",
@@ -1708,11 +2870,32 @@
     "sample_years": 10
   },
   {
+    "code": "3611",
+    "name": "鼎翰",
+    "market": "otc",
+    "avg_yield": 4.921,
+    "sample_years": 10
+  },
+  {
     "code": "2387",
     "name": "精元",
     "market": "tse",
     "avg_yield": 4.908,
     "sample_years": 10
+  },
+  {
+    "code": "5299",
+    "name": "杰力",
+    "market": "otc",
+    "avg_yield": 4.908,
+    "sample_years": 8
+  },
+  {
+    "code": "6662",
+    "name": "樂斯科",
+    "market": "otc",
+    "avg_yield": 4.893,
+    "sample_years": 7
   },
   {
     "code": "2885",
@@ -1722,9 +2905,23 @@
     "sample_years": 10
   },
   {
+    "code": "3171",
+    "name": "炎洲流通",
+    "market": "otc",
+    "avg_yield": 4.885,
+    "sample_years": 10
+  },
+  {
     "code": "5225",
     "name": "東科-KY",
     "market": "tse",
+    "avg_yield": 4.876,
+    "sample_years": 10
+  },
+  {
+    "code": "5439",
+    "name": "高技",
+    "market": "otc",
     "avg_yield": 4.876,
     "sample_years": 10
   },
@@ -1743,6 +2940,20 @@
     "sample_years": 10
   },
   {
+    "code": "6596",
+    "name": "寬宏藝術",
+    "market": "otc",
+    "avg_yield": 4.87,
+    "sample_years": 8
+  },
+  {
+    "code": "3546",
+    "name": "宇峻",
+    "market": "otc",
+    "avg_yield": 4.869,
+    "sample_years": 10
+  },
+  {
     "code": "1540",
     "name": "喬福",
     "market": "tse",
@@ -1754,6 +2965,13 @@
     "name": "黑松",
     "market": "tse",
     "avg_yield": 4.862,
+    "sample_years": 10
+  },
+  {
+    "code": "1570",
+    "name": "力肯",
+    "market": "otc",
+    "avg_yield": 4.858,
     "sample_years": 10
   },
   {
@@ -1771,6 +2989,13 @@
     "sample_years": 10
   },
   {
+    "code": "5438",
+    "name": "東友",
+    "market": "otc",
+    "avg_yield": 4.851,
+    "sample_years": 10
+  },
+  {
     "code": "5007",
     "name": "三星",
     "market": "tse",
@@ -1778,11 +3003,25 @@
     "sample_years": 10
   },
   {
-    "code": "6438",
-    "name": "迅得",
-    "market": "tse",
-    "avg_yield": 4.836,
-    "sample_years": 5
+    "code": "2752",
+    "name": "豆府",
+    "market": "otc",
+    "avg_yield": 4.845,
+    "sample_years": 6
+  },
+  {
+    "code": "6248",
+    "name": "沛波",
+    "market": "otc",
+    "avg_yield": 4.845,
+    "sample_years": 10
+  },
+  {
+    "code": "4207",
+    "name": "環泰",
+    "market": "otc",
+    "avg_yield": 4.84,
+    "sample_years": 10
   },
   {
     "code": "2477",
@@ -1806,10 +3045,52 @@
     "sample_years": 10
   },
   {
+    "code": "9962",
+    "name": "有益",
+    "market": "otc",
+    "avg_yield": 4.818,
+    "sample_years": 10
+  },
+  {
+    "code": "5212",
+    "name": "凌網",
+    "market": "otc",
+    "avg_yield": 4.815,
+    "sample_years": 10
+  },
+  {
+    "code": "8299",
+    "name": "群聯",
+    "market": "otc",
+    "avg_yield": 4.809,
+    "sample_years": 10
+  },
+  {
+    "code": "8415",
+    "name": "大國鋼",
+    "market": "otc",
+    "avg_yield": 4.806,
+    "sample_years": 9
+  },
+  {
     "code": "1708",
     "name": "東鹼",
     "market": "tse",
     "avg_yield": 4.805,
+    "sample_years": 10
+  },
+  {
+    "code": "3430",
+    "name": "奇鈦科",
+    "market": "otc",
+    "avg_yield": 4.803,
+    "sample_years": 3
+  },
+  {
+    "code": "6245",
+    "name": "立端",
+    "market": "otc",
+    "avg_yield": 4.801,
     "sample_years": 10
   },
   {
@@ -1818,6 +3099,13 @@
     "market": "tse",
     "avg_yield": 4.796,
     "sample_years": 7
+  },
+  {
+    "code": "4741",
+    "name": "泓瀚",
+    "market": "otc",
+    "avg_yield": 4.796,
+    "sample_years": 8
   },
   {
     "code": "2496",
@@ -1834,11 +3122,25 @@
     "sample_years": 10
   },
   {
+    "code": "8182",
+    "name": "加高",
+    "market": "otc",
+    "avg_yield": 4.765,
+    "sample_years": 10
+  },
+  {
     "code": "2883",
     "name": "凱基金",
     "market": "tse",
     "avg_yield": 4.763,
     "sample_years": 10
+  },
+  {
+    "code": "6546",
+    "name": "正基",
+    "market": "otc",
+    "avg_yield": 4.763,
+    "sample_years": 4
   },
   {
     "code": "3596",
@@ -1911,6 +3213,13 @@
     "sample_years": 10
   },
   {
+    "code": "1264",
+    "name": "德麥",
+    "market": "otc",
+    "avg_yield": 4.738,
+    "sample_years": 10
+  },
+  {
     "code": "2453",
     "name": "凌群",
     "market": "tse",
@@ -1918,10 +3227,24 @@
     "sample_years": 10
   },
   {
+    "code": "6221",
+    "name": "晉泰",
+    "market": "otc",
+    "avg_yield": 4.733,
+    "sample_years": 10
+  },
+  {
     "code": "2606",
     "name": "裕民",
     "market": "tse",
     "avg_yield": 4.732,
+    "sample_years": 10
+  },
+  {
+    "code": "5206",
+    "name": "坤悅",
+    "market": "otc",
+    "avg_yield": 4.725,
     "sample_years": 10
   },
   {
@@ -1953,6 +3276,13 @@
     "sample_years": 10
   },
   {
+    "code": "4711",
+    "name": "永純",
+    "market": "otc",
+    "avg_yield": 4.68,
+    "sample_years": 10
+  },
+  {
     "code": "1731",
     "name": "美吾華",
     "market": "tse",
@@ -1970,6 +3300,13 @@
     "code": "1527",
     "name": "鑽全",
     "market": "tse",
+    "avg_yield": 4.667,
+    "sample_years": 10
+  },
+  {
+    "code": "3293",
+    "name": "鈊象",
+    "market": "otc",
     "avg_yield": 4.667,
     "sample_years": 10
   },
@@ -1995,6 +3332,13 @@
     "sample_years": 10
   },
   {
+    "code": "2732",
+    "name": "六角",
+    "market": "otc",
+    "avg_yield": 4.656,
+    "sample_years": 10
+  },
+  {
     "code": "1726",
     "name": "永記",
     "market": "tse",
@@ -2009,11 +3353,11 @@
     "sample_years": 10
   },
   {
-    "code": "5306",
-    "name": "桂盟",
-    "market": "tse",
-    "avg_yield": 4.653,
-    "sample_years": 4
+    "code": "6290",
+    "name": "良維",
+    "market": "otc",
+    "avg_yield": 4.654,
+    "sample_years": 10
   },
   {
     "code": "1530",
@@ -2021,6 +3365,13 @@
     "market": "tse",
     "avg_yield": 4.65,
     "sample_years": 10
+  },
+  {
+    "code": "6716",
+    "name": "應廣",
+    "market": "otc",
+    "avg_yield": 4.643,
+    "sample_years": 6
   },
   {
     "code": "5305",
@@ -2051,6 +3402,20 @@
     "sample_years": 10
   },
   {
+    "code": "4506",
+    "name": "崇友",
+    "market": "otc",
+    "avg_yield": 4.635,
+    "sample_years": 10
+  },
+  {
+    "code": "5478",
+    "name": "智冠",
+    "market": "otc",
+    "avg_yield": 4.634,
+    "sample_years": 10
+  },
+  {
     "code": "9934",
     "name": "成霖",
     "market": "tse",
@@ -2063,6 +3428,13 @@
     "market": "tse",
     "avg_yield": 4.63,
     "sample_years": 10
+  },
+  {
+    "code": "3597",
+    "name": "映興",
+    "market": "otc",
+    "avg_yield": 4.628,
+    "sample_years": 6
   },
   {
     "code": "1434",
@@ -2079,10 +3451,38 @@
     "sample_years": 8
   },
   {
+    "code": "6438",
+    "name": "迅得",
+    "market": "tse",
+    "avg_yield": 4.614,
+    "sample_years": 9
+  },
+  {
+    "code": "4126",
+    "name": "太醫",
+    "market": "otc",
+    "avg_yield": 4.611,
+    "sample_years": 10
+  },
+  {
+    "code": "6179",
+    "name": "亞通",
+    "market": "otc",
+    "avg_yield": 4.608,
+    "sample_years": 10
+  },
+  {
     "code": "1522",
     "name": "堤維西",
     "market": "tse",
     "avg_yield": 4.607,
+    "sample_years": 10
+  },
+  {
+    "code": "5289",
+    "name": "宜鼎",
+    "market": "otc",
+    "avg_yield": 4.604,
     "sample_years": 10
   },
   {
@@ -2096,6 +3496,13 @@
     "code": "2852",
     "name": "第一保",
     "market": "tse",
+    "avg_yield": 4.594,
+    "sample_years": 10
+  },
+  {
+    "code": "5483",
+    "name": "中美晶",
+    "market": "otc",
     "avg_yield": 4.594,
     "sample_years": 10
   },
@@ -2114,6 +3521,34 @@
     "sample_years": 10
   },
   {
+    "code": "1565",
+    "name": "精華",
+    "market": "otc",
+    "avg_yield": 4.589,
+    "sample_years": 10
+  },
+  {
+    "code": "6435",
+    "name": "大中",
+    "market": "otc",
+    "avg_yield": 4.587,
+    "sample_years": 10
+  },
+  {
+    "code": "8099",
+    "name": "大世科",
+    "market": "otc",
+    "avg_yield": 4.586,
+    "sample_years": 10
+  },
+  {
+    "code": "8349",
+    "name": "恒耀",
+    "market": "otc",
+    "avg_yield": 4.586,
+    "sample_years": 10
+  },
+  {
     "code": "2432",
     "name": "倚天酷碁-創",
     "market": "tse",
@@ -2121,11 +3556,32 @@
     "sample_years": 3
   },
   {
+    "code": "2233",
+    "name": "宇隆",
+    "market": "tse",
+    "avg_yield": 4.571,
+    "sample_years": 10
+  },
+  {
     "code": "4560",
     "name": "強信-KY",
     "market": "tse",
     "avg_yield": 4.567,
     "sample_years": 9
+  },
+  {
+    "code": "6640",
+    "name": "均華",
+    "market": "otc",
+    "avg_yield": 4.563,
+    "sample_years": 7
+  },
+  {
+    "code": "4103",
+    "name": "百略",
+    "market": "otc",
+    "avg_yield": 4.563,
+    "sample_years": 3
   },
   {
     "code": "4935",
@@ -2156,6 +3612,27 @@
     "sample_years": 10
   },
   {
+    "code": "1599",
+    "name": "宏佳騰",
+    "market": "otc",
+    "avg_yield": 4.552,
+    "sample_years": 10
+  },
+  {
+    "code": "3563",
+    "name": "牧德",
+    "market": "tse",
+    "avg_yield": 4.549,
+    "sample_years": 10
+  },
+  {
+    "code": "4549",
+    "name": "桓達",
+    "market": "otc",
+    "avg_yield": 4.548,
+    "sample_years": 10
+  },
+  {
     "code": "2461",
     "name": "光群雷",
     "market": "tse",
@@ -2166,6 +3643,13 @@
     "code": "1535",
     "name": "中宇",
     "market": "tse",
+    "avg_yield": 4.531,
+    "sample_years": 10
+  },
+  {
+    "code": "4105",
+    "name": "東洋",
+    "market": "otc",
     "avg_yield": 4.531,
     "sample_years": 10
   },
@@ -2181,6 +3665,13 @@
     "name": "百容",
     "market": "tse",
     "avg_yield": 4.526,
+    "sample_years": 10
+  },
+  {
+    "code": "3373",
+    "name": "熱映",
+    "market": "otc",
+    "avg_yield": 4.525,
     "sample_years": 10
   },
   {
@@ -2209,6 +3700,20 @@
     "name": "南僑",
     "market": "tse",
     "avg_yield": 4.515,
+    "sample_years": 10
+  },
+  {
+    "code": "4535",
+    "name": "至興",
+    "market": "otc",
+    "avg_yield": 4.513,
+    "sample_years": 10
+  },
+  {
+    "code": "5347",
+    "name": "世界",
+    "market": "otc",
+    "avg_yield": 4.513,
     "sample_years": 10
   },
   {
@@ -2261,6 +3766,20 @@
     "sample_years": 10
   },
   {
+    "code": "3444",
+    "name": "利機",
+    "market": "otc",
+    "avg_yield": 4.484,
+    "sample_years": 10
+  },
+  {
+    "code": "6538",
+    "name": "倉和",
+    "market": "otc",
+    "avg_yield": 4.48,
+    "sample_years": 9
+  },
+  {
     "code": "2379",
     "name": "瑞昱",
     "market": "tse",
@@ -2275,6 +3794,27 @@
     "sample_years": 6
   },
   {
+    "code": "5474",
+    "name": "聰泰",
+    "market": "otc",
+    "avg_yield": 4.473,
+    "sample_years": 10
+  },
+  {
+    "code": "6846",
+    "name": "綠茵",
+    "market": "otc",
+    "avg_yield": 4.47,
+    "sample_years": 3
+  },
+  {
+    "code": "6104",
+    "name": "創惟",
+    "market": "otc",
+    "avg_yield": 4.469,
+    "sample_years": 10
+  },
+  {
     "code": "3305",
     "name": "昇貿",
     "market": "tse",
@@ -2282,10 +3822,38 @@
     "sample_years": 10
   },
   {
+    "code": "8423",
+    "name": "保綠-KY",
+    "market": "otc",
+    "avg_yield": 4.467,
+    "sample_years": 10
+  },
+  {
+    "code": "8088",
+    "name": "品安",
+    "market": "otc",
+    "avg_yield": 4.464,
+    "sample_years": 10
+  },
+  {
     "code": "2228",
     "name": "劍麟",
     "market": "tse",
     "avg_yield": 4.463,
+    "sample_years": 10
+  },
+  {
+    "code": "3541",
+    "name": "西柏",
+    "market": "otc",
+    "avg_yield": 4.46,
+    "sample_years": 10
+  },
+  {
+    "code": "3628",
+    "name": "盈正",
+    "market": "otc",
+    "avg_yield": 4.46,
     "sample_years": 10
   },
   {
@@ -2299,6 +3867,13 @@
     "code": "2504",
     "name": "國產",
     "market": "tse",
+    "avg_yield": 4.456,
+    "sample_years": 10
+  },
+  {
+    "code": "3265",
+    "name": "台星科",
+    "market": "otc",
     "avg_yield": 4.456,
     "sample_years": 10
   },
@@ -2317,11 +3892,32 @@
     "sample_years": 10
   },
   {
+    "code": "5353",
+    "name": "台林",
+    "market": "otc",
+    "avg_yield": 4.451,
+    "sample_years": 10
+  },
+  {
+    "code": "9951",
+    "name": "皇田",
+    "market": "otc",
+    "avg_yield": 4.451,
+    "sample_years": 10
+  },
+  {
     "code": "9939",
     "name": "宏全",
     "market": "tse",
     "avg_yield": 4.449,
     "sample_years": 10
+  },
+  {
+    "code": "2937",
+    "name": "集雅社",
+    "market": "otc",
+    "avg_yield": 4.449,
+    "sample_years": 9
   },
   {
     "code": "3031",
@@ -2338,11 +3934,32 @@
     "sample_years": 10
   },
   {
+    "code": "6642",
+    "name": "富致",
+    "market": "otc",
+    "avg_yield": 4.445,
+    "sample_years": 6
+  },
+  {
+    "code": "1240",
+    "name": "茂生農經",
+    "market": "otc",
+    "avg_yield": 4.441,
+    "sample_years": 7
+  },
+  {
     "code": "3045",
     "name": "台灣大",
     "market": "tse",
     "avg_yield": 4.44,
     "sample_years": 10
+  },
+  {
+    "code": "1566",
+    "name": "捷邦",
+    "market": "otc",
+    "avg_yield": 4.44,
+    "sample_years": 4
   },
   {
     "code": "1722",
@@ -2357,13 +3974,6 @@
     "market": "tse",
     "avg_yield": 4.433,
     "sample_years": 10
-  },
-  {
-    "code": "3563",
-    "name": "牧德",
-    "market": "tse",
-    "avg_yield": 4.43,
-    "sample_years": 7
   },
   {
     "code": "6579",
@@ -2387,10 +3997,24 @@
     "sample_years": 10
   },
   {
+    "code": "6727",
+    "name": "亞泰金屬",
+    "market": "otc",
+    "avg_yield": 4.406,
+    "sample_years": 5
+  },
+  {
     "code": "1737",
     "name": "臺鹽",
     "market": "tse",
     "avg_yield": 4.405,
+    "sample_years": 10
+  },
+  {
+    "code": "6171",
+    "name": "大城地產",
+    "market": "otc",
+    "avg_yield": 4.401,
     "sample_years": 10
   },
   {
@@ -2422,6 +4046,13 @@
     "sample_years": 10
   },
   {
+    "code": "3689",
+    "name": "湧德",
+    "market": "otc",
+    "avg_yield": 4.389,
+    "sample_years": 10
+  },
+  {
     "code": "3543",
     "name": "州巧",
     "market": "tse",
@@ -2450,6 +4081,20 @@
     "sample_years": 10
   },
   {
+    "code": "6218",
+    "name": "豪勉",
+    "market": "otc",
+    "avg_yield": 4.36,
+    "sample_years": 10
+  },
+  {
+    "code": "5102",
+    "name": "富強",
+    "market": "otc",
+    "avg_yield": 4.357,
+    "sample_years": 7
+  },
+  {
     "code": "1720",
     "name": "生達",
     "market": "tse",
@@ -2462,6 +4107,13 @@
     "market": "tse",
     "avg_yield": 4.35,
     "sample_years": 10
+  },
+  {
+    "code": "6556",
+    "name": "勝品",
+    "market": "otc",
+    "avg_yield": 4.349,
+    "sample_years": 8
   },
   {
     "code": "2409",
@@ -2478,6 +4130,13 @@
     "sample_years": 10
   },
   {
+    "code": "6125",
+    "name": "廣運",
+    "market": "otc",
+    "avg_yield": 4.337,
+    "sample_years": 10
+  },
+  {
     "code": "8466",
     "name": "美吉吉-KY",
     "market": "tse",
@@ -2485,11 +4144,25 @@
     "sample_years": 9
   },
   {
+    "code": "3227",
+    "name": "原相",
+    "market": "otc",
+    "avg_yield": 4.334,
+    "sample_years": 10
+  },
+  {
     "code": "8114",
     "name": "振樺電",
     "market": "tse",
     "avg_yield": 4.329,
     "sample_years": 10
+  },
+  {
+    "code": "1268",
+    "name": "漢來美食",
+    "market": "otc",
+    "avg_yield": 4.329,
+    "sample_years": 8
   },
   {
     "code": "3052",
@@ -2506,11 +4179,32 @@
     "sample_years": 10
   },
   {
+    "code": "5278",
+    "name": "尚凡*",
+    "market": "otc",
+    "avg_yield": 4.326,
+    "sample_years": 10
+  },
+  {
+    "code": "8420",
+    "name": "明揚",
+    "market": "otc",
+    "avg_yield": 4.326,
+    "sample_years": 9
+  },
+  {
     "code": "3607",
     "name": "谷崧",
     "market": "tse",
     "avg_yield": 4.323,
     "sample_years": 10
+  },
+  {
+    "code": "6667",
+    "name": "信紘科",
+    "market": "otc",
+    "avg_yield": 4.32,
+    "sample_years": 7
   },
   {
     "code": "5706",
@@ -2527,10 +4221,24 @@
     "sample_years": 10
   },
   {
+    "code": "5464",
+    "name": "霖宏",
+    "market": "otc",
+    "avg_yield": 4.318,
+    "sample_years": 10
+  },
+  {
     "code": "1773",
     "name": "勝一",
     "market": "tse",
     "avg_yield": 4.314,
+    "sample_years": 10
+  },
+  {
+    "code": "3071",
+    "name": "協禧",
+    "market": "otc",
+    "avg_yield": 4.311,
     "sample_years": 10
   },
   {
@@ -2545,6 +4253,13 @@
     "name": "虹冠電",
     "market": "tse",
     "avg_yield": 4.308,
+    "sample_years": 10
+  },
+  {
+    "code": "3169",
+    "name": "亞信",
+    "market": "otc",
+    "avg_yield": 4.303,
     "sample_years": 10
   },
   {
@@ -2590,6 +4305,13 @@
     "sample_years": 10
   },
   {
+    "code": "6788",
+    "name": "華景電",
+    "market": "otc",
+    "avg_yield": 4.29,
+    "sample_years": 4
+  },
+  {
     "code": "1338",
     "name": "廣華-KY",
     "market": "tse",
@@ -2618,11 +4340,39 @@
     "sample_years": 10
   },
   {
+    "code": "2729",
+    "name": "瓦城",
+    "market": "otc",
+    "avg_yield": 4.277,
+    "sample_years": 10
+  },
+  {
     "code": "1108",
     "name": "幸福",
     "market": "tse",
     "avg_yield": 4.276,
     "sample_years": 10
+  },
+  {
+    "code": "6242",
+    "name": "立康",
+    "market": "otc",
+    "avg_yield": 4.273,
+    "sample_years": 10
+  },
+  {
+    "code": "3580",
+    "name": "友威科",
+    "market": "otc",
+    "avg_yield": 4.272,
+    "sample_years": 10
+  },
+  {
+    "code": "6697",
+    "name": "東捷資訊",
+    "market": "otc",
+    "avg_yield": 4.272,
+    "sample_years": 6
   },
   {
     "code": "1301",
@@ -2632,9 +4382,51 @@
     "sample_years": 10
   },
   {
+    "code": "3131",
+    "name": "弘塑",
+    "market": "otc",
+    "avg_yield": 4.27,
+    "sample_years": 10
+  },
+  {
+    "code": "6208",
+    "name": "日揚",
+    "market": "otc",
+    "avg_yield": 4.268,
+    "sample_years": 10
+  },
+  {
+    "code": "5480",
+    "name": "統盟",
+    "market": "otc",
+    "avg_yield": 4.267,
+    "sample_years": 3
+  },
+  {
+    "code": "5489",
+    "name": "彩富",
+    "market": "otc",
+    "avg_yield": 4.266,
+    "sample_years": 10
+  },
+  {
+    "code": "6855",
+    "name": "數泓科",
+    "market": "otc",
+    "avg_yield": 4.263,
+    "sample_years": 3
+  },
+  {
     "code": "6464",
     "name": "台數科",
     "market": "tse",
+    "avg_yield": 4.26,
+    "sample_years": 10
+  },
+  {
+    "code": "6411",
+    "name": "晶焱",
+    "market": "otc",
     "avg_yield": 4.26,
     "sample_years": 10
   },
@@ -2660,10 +4452,24 @@
     "sample_years": 10
   },
   {
+    "code": "5425",
+    "name": "台半",
+    "market": "otc",
+    "avg_yield": 4.245,
+    "sample_years": 10
+  },
+  {
     "code": "1326",
     "name": "台化",
     "market": "tse",
     "avg_yield": 4.244,
+    "sample_years": 10
+  },
+  {
+    "code": "8354",
+    "name": "冠好",
+    "market": "otc",
+    "avg_yield": 4.243,
     "sample_years": 10
   },
   {
@@ -2702,11 +4508,11 @@
     "sample_years": 10
   },
   {
-    "code": "1752",
-    "name": "南光",
-    "market": "tse",
-    "avg_yield": 4.215,
-    "sample_years": 4
+    "code": "4951",
+    "name": "精拓科",
+    "market": "otc",
+    "avg_yield": 4.22,
+    "sample_years": 3
   },
   {
     "code": "1583",
@@ -2723,17 +4529,31 @@
     "sample_years": 3
   },
   {
-    "code": "2233",
-    "name": "宇隆",
-    "market": "tse",
-    "avg_yield": 4.207,
-    "sample_years": 6
+    "code": "2064",
+    "name": "晉椿",
+    "market": "otc",
+    "avg_yield": 4.209,
+    "sample_years": 10
+  },
+  {
+    "code": "6188",
+    "name": "廣明",
+    "market": "otc",
+    "avg_yield": 4.201,
+    "sample_years": 10
   },
   {
     "code": "2849",
     "name": "安泰銀",
     "market": "tse",
     "avg_yield": 4.199,
+    "sample_years": 10
+  },
+  {
+    "code": "4953",
+    "name": "緯致",
+    "market": "otc",
+    "avg_yield": 4.196,
     "sample_years": 10
   },
   {
@@ -2758,10 +4578,24 @@
     "sample_years": 10
   },
   {
+    "code": "6274",
+    "name": "台燿",
+    "market": "otc",
+    "avg_yield": 4.184,
+    "sample_years": 10
+  },
+  {
     "code": "2206",
     "name": "三陽工業",
     "market": "tse",
     "avg_yield": 4.176,
+    "sample_years": 10
+  },
+  {
+    "code": "6185",
+    "name": "幃翔",
+    "market": "otc",
+    "avg_yield": 4.175,
     "sample_years": 10
   },
   {
@@ -2772,11 +4606,25 @@
     "sample_years": 9
   },
   {
+    "code": "3332",
+    "name": "幸康",
+    "market": "otc",
+    "avg_yield": 4.17,
+    "sample_years": 10
+  },
+  {
     "code": "4755",
     "name": "三福化",
     "market": "tse",
     "avg_yield": 4.163,
     "sample_years": 10
+  },
+  {
+    "code": "2070",
+    "name": "精湛",
+    "market": "otc",
+    "avg_yield": 4.161,
+    "sample_years": 7
   },
   {
     "code": "2428",
@@ -2786,11 +4634,32 @@
     "sample_years": 10
   },
   {
+    "code": "6616",
+    "name": "特昇-KY",
+    "market": "otc",
+    "avg_yield": 4.155,
+    "sample_years": 8
+  },
+  {
     "code": "2317",
     "name": "鴻海",
     "market": "tse",
     "avg_yield": 4.15,
     "sample_years": 10
+  },
+  {
+    "code": "1595",
+    "name": "川寶",
+    "market": "otc",
+    "avg_yield": 4.15,
+    "sample_years": 10
+  },
+  {
+    "code": "3709",
+    "name": "鑫聯大投控",
+    "market": "otc",
+    "avg_yield": 4.145,
+    "sample_years": 8
   },
   {
     "code": "6155",
@@ -2804,6 +4673,13 @@
     "name": "川飛",
     "market": "tse",
     "avg_yield": 4.142,
+    "sample_years": 10
+  },
+  {
+    "code": "3260",
+    "name": "威剛",
+    "market": "otc",
+    "avg_yield": 4.136,
     "sample_years": 10
   },
   {
@@ -2828,6 +4704,34 @@
     "sample_years": 10
   },
   {
+    "code": "8410",
+    "name": "森田",
+    "market": "otc",
+    "avg_yield": 4.129,
+    "sample_years": 10
+  },
+  {
+    "code": "6829",
+    "name": "千附精密",
+    "market": "otc",
+    "avg_yield": 4.115,
+    "sample_years": 4
+  },
+  {
+    "code": "3323",
+    "name": "加百裕",
+    "market": "otc",
+    "avg_yield": 4.114,
+    "sample_years": 10
+  },
+  {
+    "code": "3558",
+    "name": "神準",
+    "market": "otc",
+    "avg_yield": 4.113,
+    "sample_years": 10
+  },
+  {
     "code": "4438",
     "name": "廣越",
     "market": "tse",
@@ -2842,11 +4746,60 @@
     "sample_years": 10
   },
   {
+    "code": "6229",
+    "name": "研通",
+    "market": "otc",
+    "avg_yield": 4.107,
+    "sample_years": 10
+  },
+  {
+    "code": "6279",
+    "name": "胡連",
+    "market": "otc",
+    "avg_yield": 4.094,
+    "sample_years": 10
+  },
+  {
+    "code": "6146",
+    "name": "耕興",
+    "market": "otc",
+    "avg_yield": 4.093,
+    "sample_years": 10
+  },
+  {
+    "code": "6532",
+    "name": "瑞耘",
+    "market": "otc",
+    "avg_yield": 4.086,
+    "sample_years": 9
+  },
+  {
+    "code": "6174",
+    "name": "安碁",
+    "market": "otc",
+    "avg_yield": 4.083,
+    "sample_years": 10
+  },
+  {
+    "code": "2756",
+    "name": "聯發國際",
+    "market": "otc",
+    "avg_yield": 4.08,
+    "sample_years": 4
+  },
+  {
     "code": "3050",
     "name": "鈺德",
     "market": "tse",
     "avg_yield": 4.078,
     "sample_years": 10
+  },
+  {
+    "code": "6574",
+    "name": "霈方",
+    "market": "otc",
+    "avg_yield": 4.078,
+    "sample_years": 8
   },
   {
     "code": "2856",
@@ -2856,10 +4809,52 @@
     "sample_years": 3
   },
   {
+    "code": "6560",
+    "name": "欣普羅",
+    "market": "otc",
+    "avg_yield": 4.074,
+    "sample_years": 9
+  },
+  {
+    "code": "3360",
+    "name": "尚立",
+    "market": "otc",
+    "avg_yield": 4.067,
+    "sample_years": 10
+  },
+  {
+    "code": "5512",
+    "name": "力麒",
+    "market": "otc",
+    "avg_yield": 4.066,
+    "sample_years": 10
+  },
+  {
+    "code": "4538",
+    "name": "大詠城",
+    "market": "otc",
+    "avg_yield": 4.064,
+    "sample_years": 7
+  },
+  {
     "code": "5469",
     "name": "瀚宇博",
     "market": "tse",
     "avg_yield": 4.055,
+    "sample_years": 10
+  },
+  {
+    "code": "6609",
+    "name": "瀧澤科",
+    "market": "otc",
+    "avg_yield": 4.052,
+    "sample_years": 10
+  },
+  {
+    "code": "8042",
+    "name": "金山電",
+    "market": "otc",
+    "avg_yield": 4.047,
     "sample_years": 10
   },
   {
@@ -2884,6 +4879,13 @@
     "sample_years": 6
   },
   {
+    "code": "8089",
+    "name": "康全電訊",
+    "market": "otc",
+    "avg_yield": 4.034,
+    "sample_years": 5
+  },
+  {
     "code": "2412",
     "name": "中華電",
     "market": "tse",
@@ -2905,11 +4907,60 @@
     "sample_years": 10
   },
   {
+    "code": "3144",
+    "name": "新揚科",
+    "market": "otc",
+    "avg_yield": 4.023,
+    "sample_years": 6
+  },
+  {
+    "code": "6488",
+    "name": "環球晶",
+    "market": "otc",
+    "avg_yield": 4.019,
+    "sample_years": 10
+  },
+  {
+    "code": "5201",
+    "name": "凱衛",
+    "market": "otc",
+    "avg_yield": 4.018,
+    "sample_years": 10
+  },
+  {
+    "code": "8358",
+    "name": "金居",
+    "market": "otc",
+    "avg_yield": 4.014,
+    "sample_years": 10
+  },
+  {
     "code": "8438",
     "name": "昶昕",
     "market": "tse",
     "avg_yield": 4.01,
     "sample_years": 4
+  },
+  {
+    "code": "3551",
+    "name": "世禾",
+    "market": "otc",
+    "avg_yield": 4.008,
+    "sample_years": 10
+  },
+  {
+    "code": "8931",
+    "name": "大汽電",
+    "market": "otc",
+    "avg_yield": 4.008,
+    "sample_years": 10
+  },
+  {
+    "code": "4706",
+    "name": "大恭",
+    "market": "otc",
+    "avg_yield": 4.006,
+    "sample_years": 10
   },
   {
     "code": "9904",
@@ -2954,6 +5005,13 @@
     "sample_years": 10
   },
   {
+    "code": "2066",
+    "name": "世德",
+    "market": "otc",
+    "avg_yield": 3.966,
+    "sample_years": 10
+  },
+  {
     "code": "4906",
     "name": "正文",
     "market": "tse",
@@ -2965,6 +5023,27 @@
     "name": "關貿",
     "market": "tse",
     "avg_yield": 3.964,
+    "sample_years": 10
+  },
+  {
+    "code": "3548",
+    "name": "兆利",
+    "market": "otc",
+    "avg_yield": 3.963,
+    "sample_years": 10
+  },
+  {
+    "code": "5284",
+    "name": "jpp-KY",
+    "market": "tse",
+    "avg_yield": 3.958,
+    "sample_years": 10
+  },
+  {
+    "code": "8240",
+    "name": "華宏",
+    "market": "otc",
+    "avg_yield": 3.955,
     "sample_years": 10
   },
   {
@@ -2982,6 +5061,20 @@
     "sample_years": 10
   },
   {
+    "code": "4747",
+    "name": "強生",
+    "market": "otc",
+    "avg_yield": 3.945,
+    "sample_years": 10
+  },
+  {
+    "code": "6735",
+    "name": "美達科技",
+    "market": "otc",
+    "avg_yield": 3.945,
+    "sample_years": 4
+  },
+  {
     "code": "2374",
     "name": "佳能",
     "market": "tse",
@@ -2989,10 +5082,31 @@
     "sample_years": 10
   },
   {
+    "code": "6569",
+    "name": "醫揚",
+    "market": "otc",
+    "avg_yield": 3.926,
+    "sample_years": 9
+  },
+  {
+    "code": "1777",
+    "name": "生泰",
+    "market": "otc",
+    "avg_yield": 3.921,
+    "sample_years": 10
+  },
+  {
     "code": "2383",
     "name": "台光電",
     "market": "tse",
     "avg_yield": 3.909,
+    "sample_years": 10
+  },
+  {
+    "code": "6190",
+    "name": "萬泰科",
+    "market": "otc",
+    "avg_yield": 3.904,
     "sample_years": 10
   },
   {
@@ -3010,10 +5124,38 @@
     "sample_years": 10
   },
   {
+    "code": "5009",
+    "name": "榮剛",
+    "market": "otc",
+    "avg_yield": 3.898,
+    "sample_years": 10
+  },
+  {
     "code": "3376",
     "name": "新日興",
     "market": "tse",
     "avg_yield": 3.896,
+    "sample_years": 10
+  },
+  {
+    "code": "8107",
+    "name": "大億金茂",
+    "market": "otc",
+    "avg_yield": 3.89,
+    "sample_years": 10
+  },
+  {
+    "code": "4401",
+    "name": "東隆興",
+    "market": "otc",
+    "avg_yield": 3.887,
+    "sample_years": 10
+  },
+  {
+    "code": "8255",
+    "name": "朋程",
+    "market": "otc",
+    "avg_yield": 3.887,
     "sample_years": 10
   },
   {
@@ -3024,10 +5166,45 @@
     "sample_years": 10
   },
   {
+    "code": "1752",
+    "name": "南光",
+    "market": "tse",
+    "avg_yield": 3.883,
+    "sample_years": 10
+  },
+  {
     "code": "2809",
     "name": "京城銀",
     "market": "tse",
     "avg_yield": 3.88,
+    "sample_years": 10
+  },
+  {
+    "code": "3581",
+    "name": "博磊",
+    "market": "otc",
+    "avg_yield": 3.876,
+    "sample_years": 10
+  },
+  {
+    "code": "3092",
+    "name": "鴻碩",
+    "market": "tse",
+    "avg_yield": 3.874,
+    "sample_years": 10
+  },
+  {
+    "code": "6194",
+    "name": "育富",
+    "market": "otc",
+    "avg_yield": 3.87,
+    "sample_years": 10
+  },
+  {
+    "code": "8064",
+    "name": "東捷",
+    "market": "otc",
+    "avg_yield": 3.865,
     "sample_years": 10
   },
   {
@@ -3038,18 +5215,18 @@
     "sample_years": 10
   },
   {
+    "code": "3527",
+    "name": "聚積",
+    "market": "otc",
+    "avg_yield": 3.864,
+    "sample_years": 10
+  },
+  {
     "code": "1723",
     "name": "中碳",
     "market": "tse",
     "avg_yield": 3.861,
     "sample_years": 10
-  },
-  {
-    "code": "5284",
-    "name": "jpp-KY",
-    "market": "tse",
-    "avg_yield": 3.861,
-    "sample_years": 9
   },
   {
     "code": "2105",
@@ -3080,11 +5257,39 @@
     "sample_years": 7
   },
   {
+    "code": "6238",
+    "name": "勝麗",
+    "market": "otc",
+    "avg_yield": 3.85,
+    "sample_years": 4
+  },
+  {
     "code": "6592",
     "name": "和潤企業",
     "market": "tse",
     "avg_yield": 3.843,
     "sample_years": 6
+  },
+  {
+    "code": "9960",
+    "name": "邁達康",
+    "market": "otc",
+    "avg_yield": 3.84,
+    "sample_years": 10
+  },
+  {
+    "code": "6187",
+    "name": "萬潤",
+    "market": "otc",
+    "avg_yield": 3.839,
+    "sample_years": 10
+  },
+  {
+    "code": "4745",
+    "name": "合富-KY",
+    "market": "otc",
+    "avg_yield": 3.838,
+    "sample_years": 10
   },
   {
     "code": "3669",
@@ -3108,6 +5313,27 @@
     "sample_years": 10
   },
   {
+    "code": "6212",
+    "name": "理銘",
+    "market": "otc",
+    "avg_yield": 3.816,
+    "sample_years": 10
+  },
+  {
+    "code": "4433",
+    "name": "興采",
+    "market": "otc",
+    "avg_yield": 3.815,
+    "sample_years": 10
+  },
+  {
+    "code": "6843",
+    "name": "進典",
+    "market": "otc",
+    "avg_yield": 3.81,
+    "sample_years": 3
+  },
+  {
     "code": "4763",
     "name": "材料*-KY",
     "market": "tse",
@@ -3122,11 +5348,25 @@
     "sample_years": 10
   },
   {
+    "code": "4907",
+    "name": "富宇",
+    "market": "otc",
+    "avg_yield": 3.802,
+    "sample_years": 10
+  },
+  {
     "code": "1617",
     "name": "榮星",
     "market": "tse",
     "avg_yield": 3.789,
     "sample_years": 10
+  },
+  {
+    "code": "3428",
+    "name": "光燿科",
+    "market": "otc",
+    "avg_yield": 3.787,
+    "sample_years": 3
   },
   {
     "code": "1325",
@@ -3143,6 +5383,13 @@
     "sample_years": 10
   },
   {
+    "code": "6275",
+    "name": "元山",
+    "market": "otc",
+    "avg_yield": 3.774,
+    "sample_years": 10
+  },
+  {
     "code": "1304",
     "name": "台聚",
     "market": "tse",
@@ -3154,6 +5401,20 @@
     "name": "葡萄王",
     "market": "tse",
     "avg_yield": 3.772,
+    "sample_years": 10
+  },
+  {
+    "code": "5490",
+    "name": "同亨",
+    "market": "otc",
+    "avg_yield": 3.772,
+    "sample_years": 10
+  },
+  {
+    "code": "6219",
+    "name": "富旺",
+    "market": "otc",
+    "avg_yield": 3.769,
     "sample_years": 10
   },
   {
@@ -3192,6 +5453,13 @@
     "sample_years": 10
   },
   {
+    "code": "4947",
+    "name": "昂寶-KY",
+    "market": "otc",
+    "avg_yield": 3.74,
+    "sample_years": 4
+  },
+  {
     "code": "2419",
     "name": "仲琦",
     "market": "tse",
@@ -3206,6 +5474,13 @@
     "sample_years": 9
   },
   {
+    "code": "6747",
+    "name": "亨泰光",
+    "market": "otc",
+    "avg_yield": 3.738,
+    "sample_years": 5
+  },
+  {
     "code": "2313",
     "name": "華通",
     "market": "tse",
@@ -3213,11 +5488,39 @@
     "sample_years": 10
   },
   {
+    "code": "3491",
+    "name": "昇達科",
+    "market": "otc",
+    "avg_yield": 3.736,
+    "sample_years": 10
+  },
+  {
+    "code": "6804",
+    "name": "明係",
+    "market": "otc",
+    "avg_yield": 3.73,
+    "sample_years": 4
+  },
+  {
+    "code": "4584",
+    "name": "君帆",
+    "market": "otc",
+    "avg_yield": 3.717,
+    "sample_years": 3
+  },
+  {
     "code": "3338",
     "name": "泰碩",
     "market": "tse",
     "avg_yield": 3.714,
     "sample_years": 10
+  },
+  {
+    "code": "6821",
+    "name": "聯寶",
+    "market": "otc",
+    "avg_yield": 3.713,
+    "sample_years": 3
   },
   {
     "code": "1515",
@@ -3253,6 +5556,34 @@
     "market": "tse",
     "avg_yield": 3.708,
     "sample_years": 10
+  },
+  {
+    "code": "5306",
+    "name": "桂盟",
+    "market": "tse",
+    "avg_yield": 3.702,
+    "sample_years": 10
+  },
+  {
+    "code": "3587",
+    "name": "閎康",
+    "market": "otc",
+    "avg_yield": 3.698,
+    "sample_years": 10
+  },
+  {
+    "code": "8111",
+    "name": "立碁",
+    "market": "otc",
+    "avg_yield": 3.698,
+    "sample_years": 10
+  },
+  {
+    "code": "4760",
+    "name": "勤凱",
+    "market": "otc",
+    "avg_yield": 3.693,
+    "sample_years": 7
   },
   {
     "code": "9938",
@@ -3304,9 +5635,37 @@
     "sample_years": 10
   },
   {
+    "code": "3492",
+    "name": "長盛",
+    "market": "otc",
+    "avg_yield": 3.673,
+    "sample_years": 10
+  },
+  {
+    "code": "4945",
+    "name": "陞達科技",
+    "market": "otc",
+    "avg_yield": 3.67,
+    "sample_years": 5
+  },
+  {
+    "code": "5386",
+    "name": "青雲",
+    "market": "otc",
+    "avg_yield": 3.669,
+    "sample_years": 10
+  },
+  {
     "code": "4919",
     "name": "新唐",
     "market": "tse",
+    "avg_yield": 3.668,
+    "sample_years": 10
+  },
+  {
+    "code": "3624",
+    "name": "光頡",
+    "market": "otc",
     "avg_yield": 3.668,
     "sample_years": 10
   },
@@ -3325,6 +5684,13 @@
     "sample_years": 10
   },
   {
+    "code": "1259",
+    "name": "安心",
+    "market": "otc",
+    "avg_yield": 3.664,
+    "sample_years": 10
+  },
+  {
     "code": "5264",
     "name": "鎧勝-KY",
     "market": "tse",
@@ -3339,10 +5705,38 @@
     "sample_years": 10
   },
   {
+    "code": "4908",
+    "name": "前鼎",
+    "market": "otc",
+    "avg_yield": 3.652,
+    "sample_years": 10
+  },
+  {
     "code": "1227",
     "name": "佳格",
     "market": "tse",
     "avg_yield": 3.643,
+    "sample_years": 10
+  },
+  {
+    "code": "3512",
+    "name": "皇龍",
+    "market": "otc",
+    "avg_yield": 3.643,
+    "sample_years": 10
+  },
+  {
+    "code": "5223",
+    "name": "安力-KY",
+    "market": "otc",
+    "avg_yield": 3.643,
+    "sample_years": 7
+  },
+  {
+    "code": "6234",
+    "name": "高僑",
+    "market": "otc",
+    "avg_yield": 3.642,
     "sample_years": 10
   },
   {
@@ -3353,6 +5747,20 @@
     "sample_years": 4
   },
   {
+    "code": "3390",
+    "name": "旭軟",
+    "market": "otc",
+    "avg_yield": 3.635,
+    "sample_years": 10
+  },
+  {
+    "code": "6175",
+    "name": "立敦",
+    "market": "otc",
+    "avg_yield": 3.623,
+    "sample_years": 10
+  },
+  {
     "code": "1907",
     "name": "永豐餘",
     "market": "tse",
@@ -3360,9 +5768,37 @@
     "sample_years": 10
   },
   {
+    "code": "4183",
+    "name": "福永生技",
+    "market": "otc",
+    "avg_yield": 3.618,
+    "sample_years": 9
+  },
+  {
+    "code": "6874",
+    "name": "倍力",
+    "market": "otc",
+    "avg_yield": 3.607,
+    "sample_years": 3
+  },
+  {
+    "code": "8289",
+    "name": "泰藝",
+    "market": "otc",
+    "avg_yield": 3.603,
+    "sample_years": 10
+  },
+  {
     "code": "8215",
     "name": "明基材",
     "market": "tse",
+    "avg_yield": 3.596,
+    "sample_years": 10
+  },
+  {
+    "code": "1813",
+    "name": "寶利徠",
+    "market": "otc",
     "avg_yield": 3.596,
     "sample_years": 10
   },
@@ -3378,6 +5814,34 @@
     "name": "錩泰",
     "market": "tse",
     "avg_yield": 3.589,
+    "sample_years": 10
+  },
+  {
+    "code": "5904",
+    "name": "寶雅",
+    "market": "otc",
+    "avg_yield": 3.589,
+    "sample_years": 10
+  },
+  {
+    "code": "3226",
+    "name": "龍鋒",
+    "market": "otc",
+    "avg_yield": 3.583,
+    "sample_years": 10
+  },
+  {
+    "code": "6752",
+    "name": "叡揚",
+    "market": "otc",
+    "avg_yield": 3.582,
+    "sample_years": 5
+  },
+  {
+    "code": "4714",
+    "name": "永捷",
+    "market": "otc",
+    "avg_yield": 3.581,
     "sample_years": 10
   },
   {
@@ -3409,10 +5873,24 @@
     "sample_years": 10
   },
   {
+    "code": "4175",
+    "name": "杏一",
+    "market": "otc",
+    "avg_yield": 3.571,
+    "sample_years": 10
+  },
+  {
     "code": "8341",
     "name": "日友",
     "market": "tse",
     "avg_yield": 3.569,
+    "sample_years": 10
+  },
+  {
+    "code": "6126",
+    "name": "信音",
+    "market": "otc",
+    "avg_yield": 3.564,
     "sample_years": 10
   },
   {
@@ -3421,6 +5899,20 @@
     "market": "tse",
     "avg_yield": 3.563,
     "sample_years": 10
+  },
+  {
+    "code": "8426",
+    "name": "紅木-KY",
+    "market": "otc",
+    "avg_yield": 3.561,
+    "sample_years": 10
+  },
+  {
+    "code": "6548",
+    "name": "長科*",
+    "market": "otc",
+    "avg_yield": 3.56,
+    "sample_years": 9
   },
   {
     "code": "2236",
@@ -3451,6 +5943,41 @@
     "sample_years": 10
   },
   {
+    "code": "6170",
+    "name": "統振",
+    "market": "otc",
+    "avg_yield": 3.545,
+    "sample_years": 10
+  },
+  {
+    "code": "6680",
+    "name": "鑫創電子",
+    "market": "otc",
+    "avg_yield": 3.543,
+    "sample_years": 6
+  },
+  {
+    "code": "3221",
+    "name": "台嘉碩",
+    "market": "otc",
+    "avg_yield": 3.542,
+    "sample_years": 10
+  },
+  {
+    "code": "8069",
+    "name": "元太",
+    "market": "otc",
+    "avg_yield": 3.542,
+    "sample_years": 10
+  },
+  {
+    "code": "6114",
+    "name": "久威",
+    "market": "otc",
+    "avg_yield": 3.538,
+    "sample_years": 10
+  },
+  {
     "code": "4989",
     "name": "榮科",
     "market": "tse",
@@ -3458,10 +5985,24 @@
     "sample_years": 8
   },
   {
+    "code": "2755",
+    "name": "揚秦",
+    "market": "otc",
+    "avg_yield": 3.53,
+    "sample_years": 5
+  },
+  {
     "code": "1526",
     "name": "日馳",
     "market": "tse",
     "avg_yield": 3.524,
+    "sample_years": 10
+  },
+  {
+    "code": "3623",
+    "name": "富晶通",
+    "market": "otc",
+    "avg_yield": 3.52,
     "sample_years": 10
   },
   {
@@ -3479,10 +6020,31 @@
     "sample_years": 10
   },
   {
+    "code": "4114",
+    "name": "健喬",
+    "market": "otc",
+    "avg_yield": 3.515,
+    "sample_years": 10
+  },
+  {
     "code": "4737",
     "name": "華廣",
     "market": "tse",
     "avg_yield": 3.513,
+    "sample_years": 10
+  },
+  {
+    "code": "4111",
+    "name": "濟生",
+    "market": "otc",
+    "avg_yield": 3.509,
+    "sample_years": 10
+  },
+  {
+    "code": "4205",
+    "name": "中華食",
+    "market": "otc",
+    "avg_yield": 3.508,
     "sample_years": 10
   },
   {
@@ -3528,6 +6090,13 @@
     "sample_years": 10
   },
   {
+    "code": "6418",
+    "name": "詠昇",
+    "market": "otc",
+    "avg_yield": 3.489,
+    "sample_years": 7
+  },
+  {
     "code": "4807",
     "name": "日成-KY",
     "market": "tse",
@@ -3549,6 +6118,20 @@
     "sample_years": 10
   },
   {
+    "code": "8390",
+    "name": "金益鼎",
+    "market": "otc",
+    "avg_yield": 3.469,
+    "sample_years": 10
+  },
+  {
+    "code": "5276",
+    "name": "達輝-KY",
+    "market": "otc",
+    "avg_yield": 3.465,
+    "sample_years": 10
+  },
+  {
     "code": "3708",
     "name": "上緯投控",
     "market": "tse",
@@ -3556,11 +6139,53 @@
     "sample_years": 9
   },
   {
+    "code": "4163",
+    "name": "鐿鈦",
+    "market": "otc",
+    "avg_yield": 3.463,
+    "sample_years": 10
+  },
+  {
     "code": "2250",
     "name": "IKKA-KY",
     "market": "tse",
     "avg_yield": 3.458,
     "sample_years": 5
+  },
+  {
+    "code": "8436",
+    "name": "大江",
+    "market": "otc",
+    "avg_yield": 3.453,
+    "sample_years": 10
+  },
+  {
+    "code": "5465",
+    "name": "富驊",
+    "market": "otc",
+    "avg_yield": 3.448,
+    "sample_years": 10
+  },
+  {
+    "code": "4542",
+    "name": "科嶠",
+    "market": "otc",
+    "avg_yield": 3.443,
+    "sample_years": 10
+  },
+  {
+    "code": "8054",
+    "name": "安國",
+    "market": "otc",
+    "avg_yield": 3.441,
+    "sample_years": 10
+  },
+  {
+    "code": "6594",
+    "name": "展匯科",
+    "market": "otc",
+    "avg_yield": 3.437,
+    "sample_years": 6
   },
   {
     "code": "2002",
@@ -3591,6 +6216,27 @@
     "sample_years": 10
   },
   {
+    "code": "6462",
+    "name": "神盾",
+    "market": "otc",
+    "avg_yield": 3.41,
+    "sample_years": 10
+  },
+  {
+    "code": "6015",
+    "name": "宏遠證",
+    "market": "otc",
+    "avg_yield": 3.408,
+    "sample_years": 10
+  },
+  {
+    "code": "6527",
+    "name": "明達醫",
+    "market": "otc",
+    "avg_yield": 3.403,
+    "sample_years": 6
+  },
+  {
     "code": "3094",
     "name": "聯傑",
     "market": "tse",
@@ -3605,10 +6251,38 @@
     "sample_years": 10
   },
   {
+    "code": "4931",
+    "name": "新盛力",
+    "market": "otc",
+    "avg_yield": 3.385,
+    "sample_years": 6
+  },
+  {
+    "code": "4430",
+    "name": "耀億",
+    "market": "otc",
+    "avg_yield": 3.376,
+    "sample_years": 10
+  },
+  {
+    "code": "6791",
+    "name": "虎門科技",
+    "market": "otc",
+    "avg_yield": 3.37,
+    "sample_years": 3
+  },
+  {
     "code": "2492",
     "name": "華新科",
     "market": "tse",
     "avg_yield": 3.368,
+    "sample_years": 10
+  },
+  {
+    "code": "4716",
+    "name": "大立",
+    "market": "otc",
+    "avg_yield": 3.367,
     "sample_years": 10
   },
   {
@@ -3624,6 +6298,13 @@
     "market": "tse",
     "avg_yield": 3.362,
     "sample_years": 8
+  },
+  {
+    "code": "8437",
+    "name": "大地-KY",
+    "market": "otc",
+    "avg_yield": 3.362,
+    "sample_years": 10
   },
   {
     "code": "2316",
@@ -3654,6 +6335,27 @@
     "sample_years": 10
   },
   {
+    "code": "4528",
+    "name": "江興鍛",
+    "market": "otc",
+    "avg_yield": 3.358,
+    "sample_years": 10
+  },
+  {
+    "code": "6811",
+    "name": "宏碁資訊",
+    "market": "otc",
+    "avg_yield": 3.357,
+    "sample_years": 3
+  },
+  {
+    "code": "1336",
+    "name": "台翰",
+    "market": "otc",
+    "avg_yield": 3.355,
+    "sample_years": 10
+  },
+  {
     "code": "4190",
     "name": "佐登-KY",
     "market": "tse",
@@ -3661,9 +6363,30 @@
     "sample_years": 10
   },
   {
+    "code": "8234",
+    "name": "新漢",
+    "market": "otc",
+    "avg_yield": 3.351,
+    "sample_years": 10
+  },
+  {
     "code": "2489",
     "name": "瑞軒",
     "market": "tse",
+    "avg_yield": 3.35,
+    "sample_years": 10
+  },
+  {
+    "code": "4107",
+    "name": "邦特",
+    "market": "otc",
+    "avg_yield": 3.35,
+    "sample_years": 10
+  },
+  {
+    "code": "6148",
+    "name": "驊宏資",
+    "market": "otc",
     "avg_yield": 3.35,
     "sample_years": 10
   },
@@ -3696,11 +6419,60 @@
     "sample_years": 10
   },
   {
+    "code": "4744",
+    "name": "皇將",
+    "market": "otc",
+    "avg_yield": 3.341,
+    "sample_years": 7
+  },
+  {
     "code": "8464",
     "name": "億豐",
     "market": "tse",
     "avg_yield": 3.334,
     "sample_years": 10
+  },
+  {
+    "code": "3152",
+    "name": "璟德",
+    "market": "otc",
+    "avg_yield": 3.334,
+    "sample_years": 10
+  },
+  {
+    "code": "8043",
+    "name": "蜜望實",
+    "market": "otc",
+    "avg_yield": 3.334,
+    "sample_years": 10
+  },
+  {
+    "code": "6654",
+    "name": "天正國際",
+    "market": "otc",
+    "avg_yield": 3.331,
+    "sample_years": 7
+  },
+  {
+    "code": "5230",
+    "name": "雷笛克光學",
+    "market": "otc",
+    "avg_yield": 3.318,
+    "sample_years": 10
+  },
+  {
+    "code": "6751",
+    "name": "智聯服務",
+    "market": "otc",
+    "avg_yield": 3.318,
+    "sample_years": 5
+  },
+  {
+    "code": "6763",
+    "name": "綠界科技*",
+    "market": "otc",
+    "avg_yield": 3.318,
+    "sample_years": 4
   },
   {
     "code": "4927",
@@ -3724,6 +6496,13 @@
     "sample_years": 10
   },
   {
+    "code": "3483",
+    "name": "力致",
+    "market": "otc",
+    "avg_yield": 3.3,
+    "sample_years": 10
+  },
+  {
     "code": "1256",
     "name": "鮮活果汁-KY",
     "market": "tse",
@@ -3738,11 +6517,25 @@
     "sample_years": 10
   },
   {
+    "code": "4173",
+    "name": "久裕",
+    "market": "otc",
+    "avg_yield": 3.294,
+    "sample_years": 10
+  },
+  {
     "code": "1568",
     "name": "倉佑",
     "market": "tse",
     "avg_yield": 3.284,
     "sample_years": 10
+  },
+  {
+    "code": "2073",
+    "name": "雄順",
+    "market": "otc",
+    "avg_yield": 3.283,
+    "sample_years": 3
   },
   {
     "code": "4583",
@@ -3766,6 +6559,20 @@
     "sample_years": 8
   },
   {
+    "code": "3272",
+    "name": "東碩",
+    "market": "otc",
+    "avg_yield": 3.266,
+    "sample_years": 10
+  },
+  {
+    "code": "4558",
+    "name": "寶緯",
+    "market": "otc",
+    "avg_yield": 3.262,
+    "sample_years": 4
+  },
+  {
     "code": "2351",
     "name": "順德",
     "market": "tse",
@@ -3780,6 +6587,13 @@
     "sample_years": 10
   },
   {
+    "code": "3236",
+    "name": "千如",
+    "market": "otc",
+    "avg_yield": 3.254,
+    "sample_years": 10
+  },
+  {
     "code": "6666",
     "name": "羅麗芬-KY",
     "market": "tse",
@@ -3791,6 +6605,27 @@
     "name": "強茂",
     "market": "tse",
     "avg_yield": 3.251,
+    "sample_years": 10
+  },
+  {
+    "code": "5487",
+    "name": "通泰",
+    "market": "otc",
+    "avg_yield": 3.249,
+    "sample_years": 10
+  },
+  {
+    "code": "4721",
+    "name": "美琪瑪",
+    "market": "otc",
+    "avg_yield": 3.244,
+    "sample_years": 10
+  },
+  {
+    "code": "3540",
+    "name": "曜越",
+    "market": "otc",
+    "avg_yield": 3.243,
     "sample_years": 10
   },
   {
@@ -3815,6 +6650,13 @@
     "sample_years": 10
   },
   {
+    "code": "8472",
+    "name": "夠麻吉",
+    "market": "otc",
+    "avg_yield": 3.229,
+    "sample_years": 10
+  },
+  {
     "code": "1608",
     "name": "華榮",
     "market": "tse",
@@ -3836,10 +6678,24 @@
     "sample_years": 10
   },
   {
+    "code": "6231",
+    "name": "系微",
+    "market": "otc",
+    "avg_yield": 3.215,
+    "sample_years": 10
+  },
+  {
     "code": "1525",
     "name": "江申",
     "market": "tse",
     "avg_yield": 3.206,
+    "sample_years": 10
+  },
+  {
+    "code": "5245",
+    "name": "智晶",
+    "market": "otc",
+    "avg_yield": 3.204,
     "sample_years": 10
   },
   {
@@ -3848,6 +6704,27 @@
     "market": "tse",
     "avg_yield": 3.203,
     "sample_years": 10
+  },
+  {
+    "code": "3577",
+    "name": "泓格",
+    "market": "otc",
+    "avg_yield": 3.202,
+    "sample_years": 10
+  },
+  {
+    "code": "4303",
+    "name": "信立",
+    "market": "otc",
+    "avg_yield": 3.201,
+    "sample_years": 9
+  },
+  {
+    "code": "6568",
+    "name": "宏觀",
+    "market": "otc",
+    "avg_yield": 3.193,
+    "sample_years": 9
   },
   {
     "code": "1618",
@@ -3899,6 +6776,13 @@
     "sample_years": 10
   },
   {
+    "code": "6496",
+    "name": "科懋",
+    "market": "otc",
+    "avg_yield": 3.177,
+    "sample_years": 10
+  },
+  {
     "code": "6669",
     "name": "緯穎",
     "market": "tse",
@@ -3906,9 +6790,23 @@
     "sample_years": 7
   },
   {
+    "code": "6217",
+    "name": "中探針",
+    "market": "otc",
+    "avg_yield": 3.172,
+    "sample_years": 10
+  },
+  {
     "code": "2816",
     "name": "旺旺保",
     "market": "tse",
+    "avg_yield": 3.157,
+    "sample_years": 10
+  },
+  {
+    "code": "6173",
+    "name": "信昌電",
+    "market": "otc",
     "avg_yield": 3.157,
     "sample_years": 10
   },
@@ -3920,11 +6818,25 @@
     "sample_years": 10
   },
   {
+    "code": "6020",
+    "name": "大展證",
+    "market": "otc",
+    "avg_yield": 3.137,
+    "sample_years": 10
+  },
+  {
     "code": "1714",
     "name": "和桐",
     "market": "tse",
     "avg_yield": 3.136,
     "sample_years": 10
+  },
+  {
+    "code": "6425",
+    "name": "易發",
+    "market": "otc",
+    "avg_yield": 3.131,
+    "sample_years": 7
   },
   {
     "code": "1598",
@@ -3939,6 +6851,20 @@
     "market": "tse",
     "avg_yield": 3.124,
     "sample_years": 10
+  },
+  {
+    "code": "8432",
+    "name": "東生華",
+    "market": "otc",
+    "avg_yield": 3.115,
+    "sample_years": 10
+  },
+  {
+    "code": "8287",
+    "name": "英格爾",
+    "market": "otc",
+    "avg_yield": 3.115,
+    "sample_years": 4
   },
   {
     "code": "3481",
@@ -3983,6 +6909,13 @@
     "sample_years": 9
   },
   {
+    "code": "5291",
+    "name": "邑昇",
+    "market": "otc",
+    "avg_yield": 3.087,
+    "sample_years": 10
+  },
+  {
     "code": "6168",
     "name": "宏齊",
     "market": "tse",
@@ -3990,10 +6923,45 @@
     "sample_years": 10
   },
   {
+    "code": "8908",
+    "name": "欣雄",
+    "market": "otc",
+    "avg_yield": 3.084,
+    "sample_years": 10
+  },
+  {
     "code": "1474",
     "name": "弘裕",
     "market": "tse",
     "avg_yield": 3.082,
+    "sample_years": 10
+  },
+  {
+    "code": "8917",
+    "name": "欣泰",
+    "market": "otc",
+    "avg_yield": 3.077,
+    "sample_years": 10
+  },
+  {
+    "code": "8147",
+    "name": "正淩",
+    "market": "otc",
+    "avg_yield": 3.07,
+    "sample_years": 10
+  },
+  {
+    "code": "1569",
+    "name": "濱川",
+    "market": "otc",
+    "avg_yield": 3.068,
+    "sample_years": 10
+  },
+  {
+    "code": "4533",
+    "name": "協易機",
+    "market": "otc",
+    "avg_yield": 3.068,
     "sample_years": 10
   },
   {
@@ -4025,10 +6993,24 @@
     "sample_years": 10
   },
   {
+    "code": "8921",
+    "name": "沈氏",
+    "market": "otc",
+    "avg_yield": 3.044,
+    "sample_years": 10
+  },
+  {
     "code": "1470",
     "name": "大統新創",
     "market": "tse",
     "avg_yield": 3.038,
+    "sample_years": 10
+  },
+  {
+    "code": "6603",
+    "name": "富強鑫",
+    "market": "otc",
+    "avg_yield": 3.027,
     "sample_years": 10
   },
   {
@@ -4053,9 +7035,37 @@
     "sample_years": 10
   },
   {
+    "code": "3675",
+    "name": "德微",
+    "market": "otc",
+    "avg_yield": 3.017,
+    "sample_years": 10
+  },
+  {
+    "code": "5903",
+    "name": "全家",
+    "market": "otc",
+    "avg_yield": 3.015,
+    "sample_years": 10
+  },
+  {
+    "code": "6690",
+    "name": "安碁資訊",
+    "market": "otc",
+    "avg_yield": 3.015,
+    "sample_years": 6
+  },
+  {
     "code": "2701",
     "name": "萬企",
     "market": "tse",
+    "avg_yield": 3.013,
+    "sample_years": 10
+  },
+  {
+    "code": "6223",
+    "name": "旺矽",
+    "market": "otc",
     "avg_yield": 3.013,
     "sample_years": 10
   },
@@ -4088,10 +7098,24 @@
     "sample_years": 10
   },
   {
+    "code": "6156",
+    "name": "松上",
+    "market": "otc",
+    "avg_yield": 2.994,
+    "sample_years": 10
+  },
+  {
     "code": "1309",
     "name": "台達化",
     "market": "tse",
     "avg_yield": 2.993,
+    "sample_years": 10
+  },
+  {
+    "code": "6509",
+    "name": "聚和",
+    "market": "otc",
+    "avg_yield": 2.991,
     "sample_years": 10
   },
   {
@@ -4102,10 +7126,24 @@
     "sample_years": 10
   },
   {
+    "code": "6578",
+    "name": "達邦蛋白",
+    "market": "otc",
+    "avg_yield": 2.984,
+    "sample_years": 7
+  },
+  {
     "code": "4720",
     "name": "德淵",
     "market": "tse",
     "avg_yield": 2.982,
+    "sample_years": 10
+  },
+  {
+    "code": "3306",
+    "name": "鼎天",
+    "market": "otc",
+    "avg_yield": 2.979,
     "sample_years": 10
   },
   {
@@ -4114,6 +7152,13 @@
     "market": "tse",
     "avg_yield": 2.977,
     "sample_years": 10
+  },
+  {
+    "code": "6865",
+    "name": "偉康科技",
+    "market": "otc",
+    "avg_yield": 2.977,
+    "sample_years": 3
   },
   {
     "code": "2013",
@@ -4134,6 +7179,13 @@
     "name": "儒鴻",
     "market": "tse",
     "avg_yield": 2.953,
+    "sample_years": 10
+  },
+  {
+    "code": "4116",
+    "name": "明基醫",
+    "market": "otc",
+    "avg_yield": 2.951,
     "sample_years": 10
   },
   {
@@ -4165,10 +7217,38 @@
     "sample_years": 8
   },
   {
+    "code": "6561",
+    "name": "是方",
+    "market": "otc",
+    "avg_yield": 2.935,
+    "sample_years": 8
+  },
+  {
     "code": "2923",
     "name": "鼎固-KY",
     "market": "tse",
     "avg_yield": 2.927,
+    "sample_years": 10
+  },
+  {
+    "code": "3218",
+    "name": "大學光",
+    "market": "otc",
+    "avg_yield": 2.919,
+    "sample_years": 10
+  },
+  {
+    "code": "4909",
+    "name": "新復興",
+    "market": "otc",
+    "avg_yield": 2.914,
+    "sample_years": 10
+  },
+  {
+    "code": "8403",
+    "name": "盛弘",
+    "market": "otc",
+    "avg_yield": 2.911,
     "sample_years": 10
   },
   {
@@ -4177,6 +7257,13 @@
     "market": "tse",
     "avg_yield": 2.9,
     "sample_years": 7
+  },
+  {
+    "code": "5514",
+    "name": "三豐",
+    "market": "otc",
+    "avg_yield": 2.9,
+    "sample_years": 10
   },
   {
     "code": "4551",
@@ -4190,6 +7277,13 @@
     "name": "智邦",
     "market": "tse",
     "avg_yield": 2.892,
+    "sample_years": 10
+  },
+  {
+    "code": "3441",
+    "name": "聯一光",
+    "market": "otc",
+    "avg_yield": 2.89,
     "sample_years": 10
   },
   {
@@ -4214,11 +7308,39 @@
     "sample_years": 10
   },
   {
+    "code": "4803",
+    "name": "VHQ-KY",
+    "market": "otc",
+    "avg_yield": 2.883,
+    "sample_years": 6
+  },
+  {
     "code": "3715",
     "name": "定穎投控",
     "market": "tse",
     "avg_yield": 2.88,
     "sample_years": 3
+  },
+  {
+    "code": "3290",
+    "name": "東浦",
+    "market": "otc",
+    "avg_yield": 2.878,
+    "sample_years": 10
+  },
+  {
+    "code": "3289",
+    "name": "宜特",
+    "market": "otc",
+    "avg_yield": 2.869,
+    "sample_years": 10
+  },
+  {
+    "code": "3490",
+    "name": "單井",
+    "market": "otc",
+    "avg_yield": 2.867,
+    "sample_years": 10
   },
   {
     "code": "8454",
@@ -4231,6 +7353,13 @@
     "code": "2547",
     "name": "日勝生",
     "market": "tse",
+    "avg_yield": 2.86,
+    "sample_years": 10
+  },
+  {
+    "code": "4432",
+    "name": "銘旺實",
+    "market": "otc",
     "avg_yield": 2.86,
     "sample_years": 10
   },
@@ -4259,6 +7388,13 @@
     "code": "3189",
     "name": "景碩",
     "market": "tse",
+    "avg_yield": 2.848,
+    "sample_years": 10
+  },
+  {
+    "code": "6485",
+    "name": "點序",
+    "market": "otc",
     "avg_yield": 2.848,
     "sample_years": 10
   },
@@ -4312,6 +7448,20 @@
     "sample_years": 10
   },
   {
+    "code": "6122",
+    "name": "擎邦",
+    "market": "otc",
+    "avg_yield": 2.801,
+    "sample_years": 10
+  },
+  {
+    "code": "5014",
+    "name": "建錩",
+    "market": "otc",
+    "avg_yield": 2.793,
+    "sample_years": 10
+  },
+  {
     "code": "8404",
     "name": "百和興業-KY",
     "market": "tse",
@@ -4333,6 +7483,13 @@
     "sample_years": 10
   },
   {
+    "code": "8462",
+    "name": "柏文",
+    "market": "tse",
+    "avg_yield": 2.783,
+    "sample_years": 10
+  },
+  {
     "code": "1727",
     "name": "中華化",
     "market": "tse",
@@ -4347,10 +7504,24 @@
     "sample_years": 10
   },
   {
+    "code": "3188",
+    "name": "鑫龍騰",
+    "market": "otc",
+    "avg_yield": 2.772,
+    "sample_years": 10
+  },
+  {
     "code": "6116",
     "name": "彩晶",
     "market": "tse",
     "avg_yield": 2.763,
+    "sample_years": 10
+  },
+  {
+    "code": "5523",
+    "name": "豐謙",
+    "market": "otc",
+    "avg_yield": 2.761,
     "sample_years": 10
   },
   {
@@ -4359,6 +7530,13 @@
     "market": "tse",
     "avg_yield": 2.757,
     "sample_years": 3
+  },
+  {
+    "code": "3163",
+    "name": "波若威",
+    "market": "otc",
+    "avg_yield": 2.757,
+    "sample_years": 10
   },
   {
     "code": "1340",
@@ -4382,6 +7560,13 @@
     "sample_years": 10
   },
   {
+    "code": "5013",
+    "name": "強新",
+    "market": "otc",
+    "avg_yield": 2.747,
+    "sample_years": 10
+  },
+  {
     "code": "2308",
     "name": "台達電",
     "market": "tse",
@@ -4393,6 +7578,27 @@
     "name": "氣立",
     "market": "tse",
     "avg_yield": 2.744,
+    "sample_years": 10
+  },
+  {
+    "code": "3285",
+    "name": "微端",
+    "market": "otc",
+    "avg_yield": 2.743,
+    "sample_years": 10
+  },
+  {
+    "code": "5530",
+    "name": "龍巖",
+    "market": "otc",
+    "avg_yield": 2.74,
+    "sample_years": 10
+  },
+  {
+    "code": "4939",
+    "name": "亞電",
+    "market": "otc",
+    "avg_yield": 2.739,
     "sample_years": 10
   },
   {
@@ -4424,6 +7630,13 @@
     "sample_years": 5
   },
   {
+    "code": "2926",
+    "name": "誠品生活",
+    "market": "otc",
+    "avg_yield": 2.731,
+    "sample_years": 10
+  },
+  {
     "code": "1503",
     "name": "士電",
     "market": "tse",
@@ -4435,6 +7648,20 @@
     "name": "高力",
     "market": "tse",
     "avg_yield": 2.721,
+    "sample_years": 10
+  },
+  {
+    "code": "3128",
+    "name": "昇銳",
+    "market": "otc",
+    "avg_yield": 2.716,
+    "sample_years": 10
+  },
+  {
+    "code": "3284",
+    "name": "太普高",
+    "market": "otc",
+    "avg_yield": 2.716,
     "sample_years": 10
   },
   {
@@ -4452,6 +7679,13 @@
     "sample_years": 10
   },
   {
+    "code": "4123",
+    "name": "晟德",
+    "market": "otc",
+    "avg_yield": 2.711,
+    "sample_years": 10
+  },
+  {
     "code": "4564",
     "name": "元翎",
     "market": "tse",
@@ -4466,6 +7700,13 @@
     "sample_years": 10
   },
   {
+    "code": "6109",
+    "name": "亞元",
+    "market": "otc",
+    "avg_yield": 2.703,
+    "sample_years": 10
+  },
+  {
     "code": "9914",
     "name": "美利達",
     "market": "tse",
@@ -4473,11 +7714,25 @@
     "sample_years": 10
   },
   {
+    "code": "8440",
+    "name": "綠電",
+    "market": "otc",
+    "avg_yield": 2.695,
+    "sample_years": 8
+  },
+  {
     "code": "2337",
     "name": "旺宏",
     "market": "tse",
     "avg_yield": 2.693,
     "sample_years": 10
+  },
+  {
+    "code": "2947",
+    "name": "振宇五金",
+    "market": "otc",
+    "avg_yield": 2.687,
+    "sample_years": 4
   },
   {
     "code": "3432",
@@ -4490,6 +7745,13 @@
     "code": "2723",
     "name": "美食-KY",
     "market": "tse",
+    "avg_yield": 2.68,
+    "sample_years": 10
+  },
+  {
+    "code": "5704",
+    "name": "老爺知",
+    "market": "otc",
     "avg_yield": 2.68,
     "sample_years": 10
   },
@@ -4522,11 +7784,25 @@
     "sample_years": 10
   },
   {
+    "code": "4561",
+    "name": "健椿",
+    "market": "otc",
+    "avg_yield": 2.659,
+    "sample_years": 8
+  },
+  {
     "code": "3346",
     "name": "麗清",
     "market": "tse",
     "avg_yield": 2.65,
     "sample_years": 9
+  },
+  {
+    "code": "5011",
+    "name": "久陽",
+    "market": "otc",
+    "avg_yield": 2.649,
+    "sample_years": 10
   },
   {
     "code": "8046",
@@ -4540,6 +7816,13 @@
     "name": "大立光",
     "market": "tse",
     "avg_yield": 2.636,
+    "sample_years": 10
+  },
+  {
+    "code": "4416",
+    "name": "三圓",
+    "market": "otc",
+    "avg_yield": 2.629,
     "sample_years": 10
   },
   {
@@ -4578,6 +7861,13 @@
     "sample_years": 3
   },
   {
+    "code": "6284",
+    "name": "佳邦",
+    "market": "otc",
+    "avg_yield": 2.602,
+    "sample_years": 10
+  },
+  {
     "code": "2330",
     "name": "台積電",
     "market": "tse",
@@ -4585,11 +7875,25 @@
     "sample_years": 10
   },
   {
+    "code": "6693",
+    "name": "廣閎科",
+    "market": "otc",
+    "avg_yield": 2.598,
+    "sample_years": 4
+  },
+  {
     "code": "1517",
     "name": "利奇",
     "market": "tse",
     "avg_yield": 2.595,
     "sample_years": 10
+  },
+  {
+    "code": "8279",
+    "name": "生展",
+    "market": "otc",
+    "avg_yield": 2.593,
+    "sample_years": 9
   },
   {
     "code": "6164",
@@ -4606,6 +7910,34 @@
     "sample_years": 10
   },
   {
+    "code": "4577",
+    "name": "達航科技",
+    "market": "otc",
+    "avg_yield": 2.585,
+    "sample_years": 4
+  },
+  {
+    "code": "4120",
+    "name": "友華",
+    "market": "otc",
+    "avg_yield": 2.579,
+    "sample_years": 10
+  },
+  {
+    "code": "8929",
+    "name": "富堡",
+    "market": "otc",
+    "avg_yield": 2.579,
+    "sample_years": 10
+  },
+  {
+    "code": "6684",
+    "name": "安格",
+    "market": "otc",
+    "avg_yield": 2.577,
+    "sample_years": 4
+  },
+  {
     "code": "2369",
     "name": "菱生",
     "market": "tse",
@@ -4618,6 +7950,13 @@
     "market": "tse",
     "avg_yield": 2.575,
     "sample_years": 4
+  },
+  {
+    "code": "6021",
+    "name": "美好證",
+    "market": "otc",
+    "avg_yield": 2.573,
+    "sample_years": 10
   },
   {
     "code": "2344",
@@ -4634,6 +7973,13 @@
     "sample_years": 9
   },
   {
+    "code": "4129",
+    "name": "聯合",
+    "market": "otc",
+    "avg_yield": 2.564,
+    "sample_years": 10
+  },
+  {
     "code": "1440",
     "name": "南紡",
     "market": "tse",
@@ -4643,6 +7989,13 @@
   {
     "code": "3060",
     "name": "銘異",
+    "market": "tse",
+    "avg_yield": 2.553,
+    "sample_years": 10
+  },
+  {
+    "code": "4739",
+    "name": "康普",
     "market": "tse",
     "avg_yield": 2.553,
     "sample_years": 10
@@ -4690,6 +8043,20 @@
     "sample_years": 10
   },
   {
+    "code": "3489",
+    "name": "森寶",
+    "market": "otc",
+    "avg_yield": 2.508,
+    "sample_years": 10
+  },
+  {
+    "code": "4113",
+    "name": "聯上",
+    "market": "otc",
+    "avg_yield": 2.507,
+    "sample_years": 10
+  },
+  {
     "code": "1312",
     "name": "國喬",
     "market": "tse",
@@ -4702,6 +8069,34 @@
     "market": "tse",
     "avg_yield": 2.491,
     "sample_years": 10
+  },
+  {
+    "code": "4543",
+    "name": "萬在",
+    "market": "otc",
+    "avg_yield": 2.489,
+    "sample_years": 10
+  },
+  {
+    "code": "4162",
+    "name": "智擎",
+    "market": "otc",
+    "avg_yield": 2.488,
+    "sample_years": 10
+  },
+  {
+    "code": "6712",
+    "name": "長聖",
+    "market": "otc",
+    "avg_yield": 2.486,
+    "sample_years": 5
+  },
+  {
+    "code": "4768",
+    "name": "晶呈科技",
+    "market": "otc",
+    "avg_yield": 2.485,
+    "sample_years": 4
   },
   {
     "code": "3025",
@@ -4718,10 +8113,59 @@
     "sample_years": 10
   },
   {
+    "code": "8406",
+    "name": "金可-KY",
+    "market": "otc",
+    "avg_yield": 2.482,
+    "sample_years": 6
+  },
+  {
+    "code": "6683",
+    "name": "雍智科技",
+    "market": "otc",
+    "avg_yield": 2.479,
+    "sample_years": 7
+  },
+  {
+    "code": "5516",
+    "name": "雙喜",
+    "market": "otc",
+    "avg_yield": 2.476,
+    "sample_years": 10
+  },
+  {
     "code": "2231",
     "name": "為升",
     "market": "tse",
     "avg_yield": 2.473,
+    "sample_years": 10
+  },
+  {
+    "code": "6182",
+    "name": "合晶",
+    "market": "otc",
+    "avg_yield": 2.472,
+    "sample_years": 10
+  },
+  {
+    "code": "8086",
+    "name": "宏捷科",
+    "market": "otc",
+    "avg_yield": 2.471,
+    "sample_years": 10
+  },
+  {
+    "code": "7402",
+    "name": "邑錡",
+    "market": "otc",
+    "avg_yield": 2.468,
+    "sample_years": 10
+  },
+  {
+    "code": "3663",
+    "name": "鑫科",
+    "market": "otc",
+    "avg_yield": 2.467,
     "sample_years": 10
   },
   {
@@ -4760,11 +8204,18 @@
     "sample_years": 10
   },
   {
-    "code": "8462",
-    "name": "柏文",
-    "market": "tse",
+    "code": "4905",
+    "name": "台聯電",
+    "market": "otc",
     "avg_yield": 2.451,
-    "sample_years": 7
+    "sample_years": 10
+  },
+  {
+    "code": "8024",
+    "name": "佑華",
+    "market": "otc",
+    "avg_yield": 2.446,
+    "sample_years": 10
   },
   {
     "code": "1710",
@@ -4802,10 +8253,38 @@
     "sample_years": 10
   },
   {
+    "code": "5460",
+    "name": "同協",
+    "market": "otc",
+    "avg_yield": 2.417,
+    "sample_years": 10
+  },
+  {
+    "code": "8076",
+    "name": "伍豐",
+    "market": "otc",
+    "avg_yield": 2.417,
+    "sample_years": 10
+  },
+  {
     "code": "9935",
     "name": "慶豐富",
     "market": "tse",
     "avg_yield": 2.416,
+    "sample_years": 10
+  },
+  {
+    "code": "4510",
+    "name": "高鋒",
+    "market": "otc",
+    "avg_yield": 2.415,
+    "sample_years": 10
+  },
+  {
+    "code": "4728",
+    "name": "雙美",
+    "market": "otc",
+    "avg_yield": 2.415,
     "sample_years": 10
   },
   {
@@ -4837,6 +8316,13 @@
     "sample_years": 10
   },
   {
+    "code": "6624",
+    "name": "萬年清",
+    "market": "otc",
+    "avg_yield": 2.386,
+    "sample_years": 7
+  },
+  {
     "code": "6830",
     "name": "汎銓",
     "market": "tse",
@@ -4855,6 +8341,20 @@
     "name": "淘帝-KY",
     "market": "tse",
     "avg_yield": 2.371,
+    "sample_years": 10
+  },
+  {
+    "code": "3693",
+    "name": "營邦",
+    "market": "otc",
+    "avg_yield": 2.371,
+    "sample_years": 10
+  },
+  {
+    "code": "3363",
+    "name": "上詮",
+    "market": "otc",
+    "avg_yield": 2.369,
     "sample_years": 10
   },
   {
@@ -4879,6 +8379,20 @@
     "sample_years": 7
   },
   {
+    "code": "6593",
+    "name": "台灣銘板",
+    "market": "otc",
+    "avg_yield": 2.361,
+    "sample_years": 8
+  },
+  {
+    "code": "6417",
+    "name": "韋僑",
+    "market": "otc",
+    "avg_yield": 2.358,
+    "sample_years": 10
+  },
+  {
     "code": "1711",
     "name": "永光",
     "market": "tse",
@@ -4898,6 +8412,13 @@
     "market": "tse",
     "avg_yield": 2.352,
     "sample_years": 10
+  },
+  {
+    "code": "5255",
+    "name": "美桀",
+    "market": "otc",
+    "avg_yield": 2.35,
+    "sample_years": 3
   },
   {
     "code": "8427",
@@ -4921,6 +8442,20 @@
     "sample_years": 10
   },
   {
+    "code": "1815",
+    "name": "富喬",
+    "market": "otc",
+    "avg_yield": 2.335,
+    "sample_years": 10
+  },
+  {
+    "code": "6615",
+    "name": "慧智",
+    "market": "otc",
+    "avg_yield": 2.334,
+    "sample_years": 8
+  },
+  {
     "code": "3645",
     "name": "達邁",
     "market": "tse",
@@ -4928,10 +8463,24 @@
     "sample_years": 10
   },
   {
+    "code": "6469",
+    "name": "大樹",
+    "market": "otc",
+    "avg_yield": 2.326,
+    "sample_years": 10
+  },
+  {
     "code": "2239",
     "name": "英利-KY",
     "market": "tse",
     "avg_yield": 2.322,
+    "sample_years": 10
+  },
+  {
+    "code": "8183",
+    "name": "精星",
+    "market": "otc",
+    "avg_yield": 2.318,
     "sample_years": 10
   },
   {
@@ -4949,11 +8498,39 @@
     "sample_years": 5
   },
   {
-    "code": "4739",
-    "name": "康普",
+    "code": "3652",
+    "name": "精聯",
     "market": "tse",
-    "avg_yield": 2.304,
-    "sample_years": 8
+    "avg_yield": 2.31,
+    "sample_years": 10
+  },
+  {
+    "code": "5426",
+    "name": "振發",
+    "market": "otc",
+    "avg_yield": 2.309,
+    "sample_years": 10
+  },
+  {
+    "code": "6679",
+    "name": "鈺太",
+    "market": "otc",
+    "avg_yield": 2.307,
+    "sample_years": 7
+  },
+  {
+    "code": "7556",
+    "name": "意德士",
+    "market": "otc",
+    "avg_yield": 2.302,
+    "sample_years": 5
+  },
+  {
+    "code": "3434",
+    "name": "哲固",
+    "market": "otc",
+    "avg_yield": 2.301,
+    "sample_years": 10
   },
   {
     "code": "5607",
@@ -4970,6 +8547,13 @@
     "sample_years": 10
   },
   {
+    "code": "8071",
+    "name": "能率網通",
+    "market": "otc",
+    "avg_yield": 2.292,
+    "sample_years": 10
+  },
+  {
     "code": "6133",
     "name": "金橋",
     "market": "tse",
@@ -4977,10 +8561,24 @@
     "sample_years": 10
   },
   {
+    "code": "6150",
+    "name": "撼訊",
+    "market": "otc",
+    "avg_yield": 2.281,
+    "sample_years": 10
+  },
+  {
     "code": "6166",
     "name": "凌華",
     "market": "tse",
     "avg_yield": 2.279,
+    "sample_years": 10
+  },
+  {
+    "code": "6426",
+    "name": "統新",
+    "market": "tse",
+    "avg_yield": 2.269,
     "sample_years": 10
   },
   {
@@ -4998,6 +8596,20 @@
     "sample_years": 10
   },
   {
+    "code": "4554",
+    "name": "橙的",
+    "market": "otc",
+    "avg_yield": 2.259,
+    "sample_years": 9
+  },
+  {
+    "code": "1785",
+    "name": "光洋科",
+    "market": "otc",
+    "avg_yield": 2.25,
+    "sample_years": 9
+  },
+  {
     "code": "4144",
     "name": "康聯-KY",
     "market": "tse",
@@ -5005,11 +8617,11 @@
     "sample_years": 5
   },
   {
-    "code": "6426",
-    "name": "統新",
-    "market": "tse",
-    "avg_yield": 2.248,
-    "sample_years": 5
+    "code": "5317",
+    "name": "凱美",
+    "market": "otc",
+    "avg_yield": 2.245,
+    "sample_years": 4
   },
   {
     "code": "6405",
@@ -5024,6 +8636,13 @@
     "market": "tse",
     "avg_yield": 2.232,
     "sample_years": 10
+  },
+  {
+    "code": "2745",
+    "name": "五福",
+    "market": "otc",
+    "avg_yield": 2.232,
+    "sample_years": 8
   },
   {
     "code": "2540",
@@ -5047,10 +8666,38 @@
     "sample_years": 9
   },
   {
+    "code": "3564",
+    "name": "其陽",
+    "market": "otc",
+    "avg_yield": 2.215,
+    "sample_years": 10
+  },
+  {
     "code": "3037",
     "name": "欣興",
     "market": "tse",
     "avg_yield": 2.214,
+    "sample_years": 10
+  },
+  {
+    "code": "3324",
+    "name": "雙鴻",
+    "market": "otc",
+    "avg_yield": 2.213,
+    "sample_years": 10
+  },
+  {
+    "code": "4153",
+    "name": "鈺緯",
+    "market": "otc",
+    "avg_yield": 2.211,
+    "sample_years": 10
+  },
+  {
+    "code": "6276",
+    "name": "安鈦克",
+    "market": "otc",
+    "avg_yield": 2.211,
     "sample_years": 10
   },
   {
@@ -5082,10 +8729,24 @@
     "sample_years": 6
   },
   {
+    "code": "4966",
+    "name": "譜瑞-KY",
+    "market": "otc",
+    "avg_yield": 2.181,
+    "sample_years": 10
+  },
+  {
     "code": "6230",
     "name": "尼得科超眾",
     "market": "tse",
     "avg_yield": 2.177,
+    "sample_years": 10
+  },
+  {
+    "code": "2726",
+    "name": "雅茗-KY",
+    "market": "otc",
+    "avg_yield": 2.165,
     "sample_years": 10
   },
   {
@@ -5129,6 +8790,13 @@
     "market": "tse",
     "avg_yield": 2.15,
     "sample_years": 8
+  },
+  {
+    "code": "2641",
+    "name": "正德",
+    "market": "otc",
+    "avg_yield": 2.132,
+    "sample_years": 10
   },
   {
     "code": "3138",
@@ -5187,10 +8855,45 @@
     "sample_years": 3
   },
   {
+    "code": "8421",
+    "name": "旭源",
+    "market": "otc",
+    "avg_yield": 2.104,
+    "sample_years": 10
+  },
+  {
+    "code": "8096",
+    "name": "擎亞",
+    "market": "otc",
+    "avg_yield": 2.103,
+    "sample_years": 10
+  },
+  {
     "code": "9944",
     "name": "新麗",
     "market": "tse",
     "avg_yield": 2.101,
+    "sample_years": 10
+  },
+  {
+    "code": "3105",
+    "name": "穩懋",
+    "market": "otc",
+    "avg_yield": 2.101,
+    "sample_years": 10
+  },
+  {
+    "code": "3672",
+    "name": "康聯訊",
+    "market": "otc",
+    "avg_yield": 2.101,
+    "sample_years": 10
+  },
+  {
+    "code": "5452",
+    "name": "佶優",
+    "market": "otc",
+    "avg_yield": 2.1,
     "sample_years": 10
   },
   {
@@ -5229,6 +8932,13 @@
     "sample_years": 3
   },
   {
+    "code": "8477",
+    "name": "創業家",
+    "market": "otc",
+    "avg_yield": 2.047,
+    "sample_years": 9
+  },
+  {
     "code": "2936",
     "name": "客思達-KY",
     "market": "tse",
@@ -5243,10 +8953,31 @@
     "sample_years": 10
   },
   {
+    "code": "8034",
+    "name": "榮群",
+    "market": "otc",
+    "avg_yield": 2.021,
+    "sample_years": 10
+  },
+  {
     "code": "2028",
     "name": "威致",
     "market": "tse",
     "avg_yield": 2.018,
+    "sample_years": 10
+  },
+  {
+    "code": "4121",
+    "name": "優盛",
+    "market": "otc",
+    "avg_yield": 2.018,
+    "sample_years": 10
+  },
+  {
+    "code": "1597",
+    "name": "直得",
+    "market": "tse",
+    "avg_yield": 2.017,
     "sample_years": 10
   },
   {
@@ -5257,9 +8988,23 @@
     "sample_years": 5
   },
   {
+    "code": "5905",
+    "name": "南仁湖",
+    "market": "otc",
+    "avg_yield": 2.013,
+    "sample_years": 10
+  },
+  {
     "code": "2323",
     "name": "中環",
     "market": "tse",
+    "avg_yield": 2.006,
+    "sample_years": 10
+  },
+  {
+    "code": "3354",
+    "name": "律勝",
+    "market": "otc",
     "avg_yield": 2.006,
     "sample_years": 10
   },
@@ -5269,6 +9014,13 @@
     "market": "tse",
     "avg_yield": 2.003,
     "sample_years": 3
+  },
+  {
+    "code": "3141",
+    "name": "晶宏",
+    "market": "otc",
+    "avg_yield": 1.996,
+    "sample_years": 10
   },
   {
     "code": "2506",
@@ -5285,10 +9037,31 @@
     "sample_years": 10
   },
   {
+    "code": "5543",
+    "name": "桓鼎-KY",
+    "market": "otc",
+    "avg_yield": 1.99,
+    "sample_years": 10
+  },
+  {
+    "code": "6840",
+    "name": "東研信超",
+    "market": "otc",
+    "avg_yield": 1.99,
+    "sample_years": 3
+  },
+  {
     "code": "2365",
     "name": "昆盈",
     "market": "tse",
     "avg_yield": 1.977,
+    "sample_years": 10
+  },
+  {
+    "code": "3666",
+    "name": "光耀",
+    "market": "otc",
+    "avg_yield": 1.975,
     "sample_years": 10
   },
   {
@@ -5313,6 +9086,41 @@
     "sample_years": 4
   },
   {
+    "code": "5349",
+    "name": "先豐",
+    "market": "otc",
+    "avg_yield": 1.968,
+    "sample_years": 5
+  },
+  {
+    "code": "8936",
+    "name": "國統",
+    "market": "otc",
+    "avg_yield": 1.966,
+    "sample_years": 10
+  },
+  {
+    "code": "3317",
+    "name": "尼克森",
+    "market": "otc",
+    "avg_yield": 1.961,
+    "sample_years": 10
+  },
+  {
+    "code": "3178",
+    "name": "公準",
+    "market": "otc",
+    "avg_yield": 1.96,
+    "sample_years": 7
+  },
+  {
+    "code": "8927",
+    "name": "北基",
+    "market": "otc",
+    "avg_yield": 1.947,
+    "sample_years": 10
+  },
+  {
     "code": "2543",
     "name": "皇昌",
     "market": "tse",
@@ -5331,6 +9139,20 @@
     "name": "傳奇",
     "market": "tse",
     "avg_yield": 1.942,
+    "sample_years": 10
+  },
+  {
+    "code": "6472",
+    "name": "保瑞",
+    "market": "tse",
+    "avg_yield": 1.937,
+    "sample_years": 9
+  },
+  {
+    "code": "4541",
+    "name": "晟田",
+    "market": "otc",
+    "avg_yield": 1.93,
     "sample_years": 10
   },
   {
@@ -5369,6 +9191,20 @@
     "sample_years": 10
   },
   {
+    "code": "5392",
+    "name": "能率",
+    "market": "otc",
+    "avg_yield": 1.894,
+    "sample_years": 10
+  },
+  {
+    "code": "5272",
+    "name": "笙科",
+    "market": "otc",
+    "avg_yield": 1.891,
+    "sample_years": 10
+  },
+  {
     "code": "1201",
     "name": "味全",
     "market": "tse",
@@ -5395,6 +9231,20 @@
     "market": "tse",
     "avg_yield": 1.88,
     "sample_years": 3
+  },
+  {
+    "code": "3081",
+    "name": "聯亞",
+    "market": "otc",
+    "avg_yield": 1.879,
+    "sample_years": 10
+  },
+  {
+    "code": "3465",
+    "name": "進泰電子",
+    "market": "otc",
+    "avg_yield": 1.872,
+    "sample_years": 10
   },
   {
     "code": "6288",
@@ -5425,13 +9275,6 @@
     "sample_years": 10
   },
   {
-    "code": "1597",
-    "name": "直得",
-    "market": "tse",
-    "avg_yield": 1.836,
-    "sample_years": 5
-  },
-  {
     "code": "1626",
     "name": "艾美特-KY",
     "market": "tse",
@@ -5444,6 +9287,34 @@
     "market": "tse",
     "avg_yield": 1.83,
     "sample_years": 10
+  },
+  {
+    "code": "6859",
+    "name": "伯特光",
+    "market": "otc",
+    "avg_yield": 1.827,
+    "sample_years": 3
+  },
+  {
+    "code": "2743",
+    "name": "山富",
+    "market": "otc",
+    "avg_yield": 1.825,
+    "sample_years": 6
+  },
+  {
+    "code": "1591",
+    "name": "駿吉-KY",
+    "market": "otc",
+    "avg_yield": 1.817,
+    "sample_years": 10
+  },
+  {
+    "code": "6516",
+    "name": "勤崴國際",
+    "market": "otc",
+    "avg_yield": 1.816,
+    "sample_years": 7
   },
   {
     "code": "1446",
@@ -5467,6 +9338,13 @@
     "sample_years": 10
   },
   {
+    "code": "4971",
+    "name": "IET-KY",
+    "market": "otc",
+    "avg_yield": 1.802,
+    "sample_years": 10
+  },
+  {
     "code": "6796",
     "name": "晉弘",
     "market": "tse",
@@ -5478,6 +9356,27 @@
     "name": "寶一",
     "market": "tse",
     "avg_yield": 1.79,
+    "sample_years": 10
+  },
+  {
+    "code": "3349",
+    "name": "寶德",
+    "market": "otc",
+    "avg_yield": 1.78,
+    "sample_years": 4
+  },
+  {
+    "code": "6517",
+    "name": "保勝光學",
+    "market": "otc",
+    "avg_yield": 1.773,
+    "sample_years": 3
+  },
+  {
+    "code": "6482",
+    "name": "弘煜科",
+    "market": "otc",
+    "avg_yield": 1.765,
     "sample_years": 10
   },
   {
@@ -5495,11 +9394,53 @@
     "sample_years": 9
   },
   {
+    "code": "6246",
+    "name": "臺龍",
+    "market": "otc",
+    "avg_yield": 1.749,
+    "sample_years": 10
+  },
+  {
+    "code": "5274",
+    "name": "信驊",
+    "market": "otc",
+    "avg_yield": 1.742,
+    "sample_years": 10
+  },
+  {
+    "code": "6441",
+    "name": "廣錠",
+    "market": "otc",
+    "avg_yield": 1.74,
+    "sample_years": 8
+  },
+  {
+    "code": "4161",
+    "name": "聿新科",
+    "market": "otc",
+    "avg_yield": 1.726,
+    "sample_years": 10
+  },
+  {
     "code": "3714",
     "name": "富采",
     "market": "tse",
     "avg_yield": 1.72,
     "sample_years": 5
+  },
+  {
+    "code": "4171",
+    "name": "瑞基",
+    "market": "otc",
+    "avg_yield": 1.72,
+    "sample_years": 10
+  },
+  {
+    "code": "5211",
+    "name": "蒙恬",
+    "market": "otc",
+    "avg_yield": 1.712,
+    "sample_years": 10
   },
   {
     "code": "1423",
@@ -5509,9 +9450,23 @@
     "sample_years": 10
   },
   {
+    "code": "3438",
+    "name": "類比科",
+    "market": "otc",
+    "avg_yield": 1.697,
+    "sample_years": 10
+  },
+  {
     "code": "1802",
     "name": "台玻",
     "market": "tse",
+    "avg_yield": 1.692,
+    "sample_years": 10
+  },
+  {
+    "code": "5457",
+    "name": "宣德",
+    "market": "otc",
     "avg_yield": 1.692,
     "sample_years": 10
   },
@@ -5530,11 +9485,32 @@
     "sample_years": 4
   },
   {
+    "code": "4556",
+    "name": "旭然",
+    "market": "otc",
+    "avg_yield": 1.688,
+    "sample_years": 10
+  },
+  {
     "code": "5269",
     "name": "祥碩",
     "market": "tse",
     "avg_yield": 1.67,
     "sample_years": 10
+  },
+  {
+    "code": "4130",
+    "name": "健亞",
+    "market": "otc",
+    "avg_yield": 1.67,
+    "sample_years": 10
+  },
+  {
+    "code": "8476",
+    "name": "台境*",
+    "market": "tse",
+    "avg_yield": 1.66,
+    "sample_years": 9
   },
   {
     "code": "1528",
@@ -5548,6 +9524,48 @@
     "name": "勝德",
     "market": "tse",
     "avg_yield": 1.647,
+    "sample_years": 10
+  },
+  {
+    "code": "6160",
+    "name": "欣技",
+    "market": "otc",
+    "avg_yield": 1.633,
+    "sample_years": 10
+  },
+  {
+    "code": "3325",
+    "name": "旭品",
+    "market": "otc",
+    "avg_yield": 1.632,
+    "sample_years": 10
+  },
+  {
+    "code": "5281",
+    "name": "大峽谷-KY",
+    "market": "otc",
+    "avg_yield": 1.629,
+    "sample_years": 8
+  },
+  {
+    "code": "6643",
+    "name": "M31",
+    "market": "otc",
+    "avg_yield": 1.616,
+    "sample_years": 7
+  },
+  {
+    "code": "5902",
+    "name": "德記",
+    "market": "otc",
+    "avg_yield": 1.614,
+    "sample_years": 10
+  },
+  {
+    "code": "3552",
+    "name": "同致",
+    "market": "otc",
+    "avg_yield": 1.611,
     "sample_years": 10
   },
   {
@@ -5565,10 +9583,31 @@
     "sample_years": 10
   },
   {
+    "code": "6111",
+    "name": "光聚晶電",
+    "market": "otc",
+    "avg_yield": 1.595,
+    "sample_years": 10
+  },
+  {
+    "code": "6823",
+    "name": "濾能",
+    "market": "otc",
+    "avg_yield": 1.595,
+    "sample_years": 4
+  },
+  {
     "code": "3013",
     "name": "晟銘電",
     "market": "tse",
     "avg_yield": 1.592,
+    "sample_years": 10
+  },
+  {
+    "code": "3691",
+    "name": "碩禾",
+    "market": "otc",
+    "avg_yield": 1.59,
     "sample_years": 10
   },
   {
@@ -5600,9 +9639,23 @@
     "sample_years": 10
   },
   {
+    "code": "3294",
+    "name": "英濟",
+    "market": "otc",
+    "avg_yield": 1.572,
+    "sample_years": 10
+  },
+  {
     "code": "2425",
     "name": "承啟",
     "market": "tse",
+    "avg_yield": 1.569,
+    "sample_years": 10
+  },
+  {
+    "code": "5251",
+    "name": "天鉞電",
+    "market": "otc",
     "avg_yield": 1.569,
     "sample_years": 10
   },
@@ -5619,13 +9672,6 @@
     "market": "tse",
     "avg_yield": 1.552,
     "sample_years": 10
-  },
-  {
-    "code": "3652",
-    "name": "精聯",
-    "market": "tse",
-    "avg_yield": 1.543,
-    "sample_years": 3
   },
   {
     "code": "2867",
@@ -5656,6 +9702,20 @@
     "sample_years": 10
   },
   {
+    "code": "2928",
+    "name": "紅馬-KY",
+    "market": "otc",
+    "avg_yield": 1.527,
+    "sample_years": 6
+  },
+  {
+    "code": "6877",
+    "name": "鏵友益",
+    "market": "otc",
+    "avg_yield": 1.517,
+    "sample_years": 3
+  },
+  {
     "code": "2399",
     "name": "映泰",
     "market": "tse",
@@ -5666,6 +9726,13 @@
     "code": "3024",
     "name": "憶聲",
     "market": "tse",
+    "avg_yield": 1.512,
+    "sample_years": 10
+  },
+  {
+    "code": "6465",
+    "name": "威潤",
+    "market": "otc",
     "avg_yield": 1.512,
     "sample_years": 10
   },
@@ -5681,6 +9748,27 @@
     "name": "亞德客-KY",
     "market": "tse",
     "avg_yield": 1.503,
+    "sample_years": 10
+  },
+  {
+    "code": "6259",
+    "name": "百徽",
+    "market": "otc",
+    "avg_yield": 1.497,
+    "sample_years": 10
+  },
+  {
+    "code": "5263",
+    "name": "智崴",
+    "market": "otc",
+    "avg_yield": 1.496,
+    "sample_years": 10
+  },
+  {
+    "code": "3122",
+    "name": "笙泉",
+    "market": "otc",
+    "avg_yield": 1.494,
     "sample_years": 10
   },
   {
@@ -5712,6 +9800,13 @@
     "sample_years": 10
   },
   {
+    "code": "4563",
+    "name": "百德",
+    "market": "otc",
+    "avg_yield": 1.48,
+    "sample_years": 7
+  },
+  {
     "code": "1810",
     "name": "和成",
     "market": "tse",
@@ -5724,6 +9819,13 @@
     "market": "tse",
     "avg_yield": 1.479,
     "sample_years": 7
+  },
+  {
+    "code": "4513",
+    "name": "福裕",
+    "market": "otc",
+    "avg_yield": 1.469,
+    "sample_years": 10
   },
   {
     "code": "8411",
@@ -5740,10 +9842,24 @@
     "sample_years": 10
   },
   {
+    "code": "6510",
+    "name": "精測",
+    "market": "otc",
+    "avg_yield": 1.457,
+    "sample_years": 10
+  },
+  {
     "code": "1417",
     "name": "嘉裕",
     "market": "tse",
     "avg_yield": 1.454,
+    "sample_years": 10
+  },
+  {
+    "code": "6140",
+    "name": "訊達",
+    "market": "otc",
+    "avg_yield": 1.446,
     "sample_years": 10
   },
   {
@@ -5754,10 +9870,31 @@
     "sample_years": 10
   },
   {
+    "code": "6163",
+    "name": "華電網",
+    "market": "otc",
+    "avg_yield": 1.438,
+    "sample_years": 10
+  },
+  {
     "code": "2722",
     "name": "夏都",
     "market": "tse",
     "avg_yield": 1.429,
+    "sample_years": 10
+  },
+  {
+    "code": "5202",
+    "name": "力新",
+    "market": "otc",
+    "avg_yield": 1.424,
+    "sample_years": 10
+  },
+  {
+    "code": "3511",
+    "name": "矽瑪",
+    "market": "otc",
+    "avg_yield": 1.417,
     "sample_years": 10
   },
   {
@@ -5789,6 +9926,13 @@
     "sample_years": 10
   },
   {
+    "code": "6661",
+    "name": "威健生技",
+    "market": "otc",
+    "avg_yield": 1.408,
+    "sample_years": 5
+  },
+  {
     "code": "2497",
     "name": "怡利電",
     "market": "tse",
@@ -5796,11 +9940,53 @@
     "sample_years": 10
   },
   {
+    "code": "2718",
+    "name": "全心投控",
+    "market": "otc",
+    "avg_yield": 1.404,
+    "sample_years": 10
+  },
+  {
+    "code": "4160",
+    "name": "訊聯基因",
+    "market": "otc",
+    "avg_yield": 1.403,
+    "sample_years": 10
+  },
+  {
+    "code": "6841",
+    "name": "長佳智能",
+    "market": "otc",
+    "avg_yield": 1.403,
+    "sample_years": 3
+  },
+  {
     "code": "6153",
     "name": "嘉聯益",
     "market": "tse",
     "avg_yield": 1.399,
     "sample_years": 10
+  },
+  {
+    "code": "6762",
+    "name": "達亞",
+    "market": "otc",
+    "avg_yield": 1.396,
+    "sample_years": 5
+  },
+  {
+    "code": "3232",
+    "name": "昱捷",
+    "market": "otc",
+    "avg_yield": 1.393,
+    "sample_years": 10
+  },
+  {
+    "code": "8489",
+    "name": "三貝德",
+    "market": "otc",
+    "avg_yield": 1.387,
+    "sample_years": 9
   },
   {
     "code": "3518",
@@ -5817,6 +10003,20 @@
     "sample_years": 5
   },
   {
+    "code": "6512",
+    "name": "啟發電",
+    "market": "otc",
+    "avg_yield": 1.381,
+    "sample_years": 10
+  },
+  {
+    "code": "3297",
+    "name": "杭特",
+    "market": "otc",
+    "avg_yield": 1.379,
+    "sample_years": 10
+  },
+  {
     "code": "2014",
     "name": "中鴻",
     "market": "tse",
@@ -5824,9 +10024,37 @@
     "sample_years": 10
   },
   {
+    "code": "3680",
+    "name": "家登",
+    "market": "otc",
+    "avg_yield": 1.365,
+    "sample_years": 10
+  },
+  {
+    "code": "3529",
+    "name": "力旺",
+    "market": "otc",
+    "avg_yield": 1.36,
+    "sample_years": 10
+  },
+  {
+    "code": "5488",
+    "name": "松普",
+    "market": "otc",
+    "avg_yield": 1.353,
+    "sample_years": 10
+  },
+  {
     "code": "2528",
     "name": "皇普",
     "market": "tse",
+    "avg_yield": 1.349,
+    "sample_years": 10
+  },
+  {
+    "code": "8176",
+    "name": "智捷",
+    "market": "otc",
     "avg_yield": 1.349,
     "sample_years": 10
   },
@@ -5852,11 +10080,39 @@
     "sample_years": 10
   },
   {
+    "code": "6542",
+    "name": "隆中",
+    "market": "otc",
+    "avg_yield": 1.337,
+    "sample_years": 9
+  },
+  {
+    "code": "6291",
+    "name": "沛亨",
+    "market": "otc",
+    "avg_yield": 1.328,
+    "sample_years": 10
+  },
+  {
+    "code": "1258",
+    "name": "其祥-KY",
+    "market": "otc",
+    "avg_yield": 1.317,
+    "sample_years": 7
+  },
+  {
     "code": "4968",
     "name": "立積",
     "market": "tse",
     "avg_yield": 1.314,
     "sample_years": 10
+  },
+  {
+    "code": "1796",
+    "name": "金穎生技",
+    "market": "otc",
+    "avg_yield": 1.311,
+    "sample_years": 8
   },
   {
     "code": "1262",
@@ -5873,6 +10129,13 @@
     "sample_years": 10
   },
   {
+    "code": "3594",
+    "name": "磐儀",
+    "market": "otc",
+    "avg_yield": 1.296,
+    "sample_years": 10
+  },
+  {
     "code": "5608",
     "name": "四維航",
     "market": "tse",
@@ -5885,6 +10148,13 @@
     "market": "tse",
     "avg_yield": 1.286,
     "sample_years": 5
+  },
+  {
+    "code": "3276",
+    "name": "宇環",
+    "market": "otc",
+    "avg_yield": 1.27,
+    "sample_years": 10
   },
   {
     "code": "2033",
@@ -5929,6 +10199,13 @@
     "sample_years": 10
   },
   {
+    "code": "3615",
+    "name": "安可",
+    "market": "otc",
+    "avg_yield": 1.243,
+    "sample_years": 10
+  },
+  {
     "code": "1475",
     "name": "業旺",
     "market": "tse",
@@ -5940,6 +10217,20 @@
     "name": "三晃",
     "market": "tse",
     "avg_yield": 1.237,
+    "sample_years": 10
+  },
+  {
+    "code": "2230",
+    "name": "泰茂",
+    "market": "otc",
+    "avg_yield": 1.226,
+    "sample_years": 10
+  },
+  {
+    "code": "8047",
+    "name": "星雲",
+    "market": "otc",
+    "avg_yield": 1.225,
     "sample_years": 10
   },
   {
@@ -5957,6 +10248,27 @@
     "sample_years": 10
   },
   {
+    "code": "8444",
+    "name": "綠河-KY",
+    "market": "otc",
+    "avg_yield": 1.203,
+    "sample_years": 10
+  },
+  {
+    "code": "5328",
+    "name": "華容",
+    "market": "otc",
+    "avg_yield": 1.194,
+    "sample_years": 10
+  },
+  {
+    "code": "3625",
+    "name": "西勝",
+    "market": "otc",
+    "avg_yield": 1.176,
+    "sample_years": 10
+  },
+  {
     "code": "4562",
     "name": "穎漢",
     "market": "tse",
@@ -5964,10 +10276,24 @@
     "sample_years": 8
   },
   {
+    "code": "2736",
+    "name": "富野",
+    "market": "otc",
+    "avg_yield": 1.162,
+    "sample_years": 10
+  },
+  {
     "code": "2913",
     "name": "農林",
     "market": "tse",
     "avg_yield": 1.159,
+    "sample_years": 10
+  },
+  {
+    "code": "8027",
+    "name": "鈦昇",
+    "market": "otc",
+    "avg_yield": 1.153,
     "sample_years": 10
   },
   {
@@ -5985,6 +10311,34 @@
     "sample_years": 10
   },
   {
+    "code": "1586",
+    "name": "和勤",
+    "market": "otc",
+    "avg_yield": 1.141,
+    "sample_years": 10
+  },
+  {
+    "code": "5450",
+    "name": "南良",
+    "market": "otc",
+    "avg_yield": 1.137,
+    "sample_years": 10
+  },
+  {
+    "code": "5481",
+    "name": "新華",
+    "market": "otc",
+    "avg_yield": 1.134,
+    "sample_years": 9
+  },
+  {
+    "code": "3374",
+    "name": "精材",
+    "market": "otc",
+    "avg_yield": 1.133,
+    "sample_years": 10
+  },
+  {
     "code": "1217",
     "name": "愛之味",
     "market": "tse",
@@ -5992,17 +10346,24 @@
     "sample_years": 10
   },
   {
-    "code": "1795",
-    "name": "美時",
-    "market": "tse",
+    "code": "6247",
+    "name": "淇譽電",
+    "market": "otc",
     "avg_yield": 1.127,
-    "sample_years": 6
+    "sample_years": 7
   },
   {
     "code": "2368",
     "name": "金像電",
     "market": "tse",
     "avg_yield": 1.125,
+    "sample_years": 10
+  },
+  {
+    "code": "5601",
+    "name": "台聯櫃",
+    "market": "otc",
+    "avg_yield": 1.123,
     "sample_years": 10
   },
   {
@@ -6013,10 +10374,31 @@
     "sample_years": 10
   },
   {
+    "code": "3498",
+    "name": "陽程",
+    "market": "otc",
+    "avg_yield": 1.119,
+    "sample_years": 10
+  },
+  {
     "code": "3311",
     "name": "閎暉",
     "market": "tse",
     "avg_yield": 1.108,
+    "sample_years": 10
+  },
+  {
+    "code": "4804",
+    "name": "大略-KY",
+    "market": "otc",
+    "avg_yield": 1.106,
+    "sample_years": 10
+  },
+  {
+    "code": "3372",
+    "name": "典範",
+    "market": "otc",
+    "avg_yield": 1.102,
     "sample_years": 10
   },
   {
@@ -6034,6 +10416,20 @@
     "sample_years": 3
   },
   {
+    "code": "4102",
+    "name": "永日",
+    "market": "otc",
+    "avg_yield": 1.072,
+    "sample_years": 10
+  },
+  {
+    "code": "5498",
+    "name": "凱崴",
+    "market": "otc",
+    "avg_yield": 1.072,
+    "sample_years": 10
+  },
+  {
     "code": "6243",
     "name": "迅杰",
     "market": "tse",
@@ -6041,10 +10437,24 @@
     "sample_years": 10
   },
   {
+    "code": "3322",
+    "name": "建舜電",
+    "market": "otc",
+    "avg_yield": 1.068,
+    "sample_years": 10
+  },
+  {
     "code": "3661",
     "name": "世芯-KY",
     "market": "tse",
     "avg_yield": 1.066,
+    "sample_years": 10
+  },
+  {
+    "code": "6237",
+    "name": "驊訊",
+    "market": "otc",
+    "avg_yield": 1.046,
     "sample_years": 10
   },
   {
@@ -6069,6 +10479,20 @@
     "sample_years": 10
   },
   {
+    "code": "1584",
+    "name": "精剛",
+    "market": "otc",
+    "avg_yield": 1.029,
+    "sample_years": 10
+  },
+  {
+    "code": "6167",
+    "name": "久正",
+    "market": "otc",
+    "avg_yield": 1.023,
+    "sample_years": 10
+  },
+  {
     "code": "3049",
     "name": "精金",
     "market": "tse",
@@ -6090,6 +10514,13 @@
     "sample_years": 10
   },
   {
+    "code": "3234",
+    "name": "光環",
+    "market": "otc",
+    "avg_yield": 0.956,
+    "sample_years": 10
+  },
+  {
     "code": "6117",
     "name": "迎廣",
     "market": "tse",
@@ -6097,11 +10528,32 @@
     "sample_years": 10
   },
   {
+    "code": "6499",
+    "name": "益安",
+    "market": "otc",
+    "avg_yield": 0.944,
+    "sample_years": 9
+  },
+  {
     "code": "5531",
     "name": "鄉林",
     "market": "tse",
     "avg_yield": 0.943,
     "sample_years": 10
+  },
+  {
+    "code": "4950",
+    "name": "金耘國際",
+    "market": "otc",
+    "avg_yield": 0.934,
+    "sample_years": 9
+  },
+  {
+    "code": "6588",
+    "name": "東典光電",
+    "market": "otc",
+    "avg_yield": 0.93,
+    "sample_years": 5
   },
   {
     "code": "1902",
@@ -6118,11 +10570,53 @@
     "sample_years": 9
   },
   {
+    "code": "6584",
+    "name": "南俊國際",
+    "market": "otc",
+    "avg_yield": 0.907,
+    "sample_years": 3
+  },
+  {
+    "code": "4139",
+    "name": "馬光-KY",
+    "market": "otc",
+    "avg_yield": 0.903,
+    "sample_years": 10
+  },
+  {
     "code": "2712",
     "name": "遠雄來",
     "market": "tse",
     "avg_yield": 0.901,
     "sample_years": 10
+  },
+  {
+    "code": "4534",
+    "name": "慶騰",
+    "market": "otc",
+    "avg_yield": 0.897,
+    "sample_years": 10
+  },
+  {
+    "code": "5228",
+    "name": "鈺鎧",
+    "market": "otc",
+    "avg_yield": 0.895,
+    "sample_years": 4
+  },
+  {
+    "code": "8227",
+    "name": "巨有科技",
+    "market": "otc",
+    "avg_yield": 0.893,
+    "sample_years": 3
+  },
+  {
+    "code": "2754",
+    "name": "亞洲藏壽司",
+    "market": "otc",
+    "avg_yield": 0.892,
+    "sample_years": 5
   },
   {
     "code": "1213",
@@ -6132,10 +10626,38 @@
     "sample_years": 9
   },
   {
+    "code": "6708",
+    "name": "天擎",
+    "market": "otc",
+    "avg_yield": 0.887,
+    "sample_years": 3
+  },
+  {
     "code": "3321",
     "name": "同泰",
     "market": "tse",
     "avg_yield": 0.883,
+    "sample_years": 10
+  },
+  {
+    "code": "8933",
+    "name": "愛地雅",
+    "market": "otc",
+    "avg_yield": 0.881,
+    "sample_years": 10
+  },
+  {
+    "code": "4991",
+    "name": "環宇-KY",
+    "market": "otc",
+    "avg_yield": 0.877,
+    "sample_years": 10
+  },
+  {
+    "code": "3466",
+    "name": "德晉",
+    "market": "otc",
+    "avg_yield": 0.864,
     "sample_years": 10
   },
   {
@@ -6167,6 +10689,20 @@
     "sample_years": 3
   },
   {
+    "code": "3205",
+    "name": "佰研",
+    "market": "otc",
+    "avg_yield": 0.835,
+    "sample_years": 10
+  },
+  {
+    "code": "4729",
+    "name": "熒茂",
+    "market": "otc",
+    "avg_yield": 0.831,
+    "sample_years": 10
+  },
+  {
     "code": "2008",
     "name": "高興昌",
     "market": "tse",
@@ -6174,11 +10710,11 @@
     "sample_years": 10
   },
   {
-    "code": "3092",
-    "name": "鴻碩",
-    "market": "tse",
+    "code": "1784",
+    "name": "訊聯",
+    "market": "otc",
     "avg_yield": 0.826,
-    "sample_years": 5
+    "sample_years": 10
   },
   {
     "code": "2516",
@@ -6202,11 +10738,46 @@
     "sample_years": 10
   },
   {
+    "code": "4979",
+    "name": "華星光",
+    "market": "otc",
+    "avg_yield": 0.808,
+    "sample_years": 10
+  },
+  {
+    "code": "8431",
+    "name": "匯鑽科",
+    "market": "otc",
+    "avg_yield": 0.807,
+    "sample_years": 10
+  },
+  {
+    "code": "3219",
+    "name": "倚強科",
+    "market": "otc",
+    "avg_yield": 0.805,
+    "sample_years": 8
+  },
+  {
+    "code": "3499",
+    "name": "環天科",
+    "market": "otc",
+    "avg_yield": 0.803,
+    "sample_years": 10
+  },
+  {
     "code": "6558",
     "name": "興能高",
     "market": "tse",
     "avg_yield": 0.797,
     "sample_years": 7
+  },
+  {
+    "code": "5364",
+    "name": "力麗店",
+    "market": "otc",
+    "avg_yield": 0.797,
+    "sample_years": 10
   },
   {
     "code": "6209",
@@ -6230,10 +10801,52 @@
     "sample_years": 10
   },
   {
+    "code": "1742",
+    "name": "台蠟",
+    "market": "otc",
+    "avg_yield": 0.782,
+    "sample_years": 10
+  },
+  {
     "code": "1805",
     "name": "寶徠",
     "market": "tse",
     "avg_yield": 0.781,
+    "sample_years": 10
+  },
+  {
+    "code": "6741",
+    "name": "91APP*-KY",
+    "market": "otc",
+    "avg_yield": 0.78,
+    "sample_years": 5
+  },
+  {
+    "code": "3516",
+    "name": "亞帝歐",
+    "market": "otc",
+    "avg_yield": 0.776,
+    "sample_years": 10
+  },
+  {
+    "code": "4109",
+    "name": "加捷生醫",
+    "market": "otc",
+    "avg_yield": 0.771,
+    "sample_years": 10
+  },
+  {
+    "code": "6265",
+    "name": "方土昶",
+    "market": "otc",
+    "avg_yield": 0.76,
+    "sample_years": 10
+  },
+  {
+    "code": "3268",
+    "name": "海德威",
+    "market": "otc",
+    "avg_yield": 0.734,
     "sample_years": 10
   },
   {
@@ -6251,6 +10864,13 @@
     "sample_years": 4
   },
   {
+    "code": "6419",
+    "name": "京晨科",
+    "market": "otc",
+    "avg_yield": 0.725,
+    "sample_years": 10
+  },
+  {
     "code": "2390",
     "name": "云辰",
     "market": "tse",
@@ -6265,10 +10885,31 @@
     "sample_years": 6
   },
   {
+    "code": "4429",
+    "name": "聚紡",
+    "market": "otc",
+    "avg_yield": 0.717,
+    "sample_years": 6
+  },
+  {
+    "code": "8450",
+    "name": "霹靂",
+    "market": "otc",
+    "avg_yield": 0.714,
+    "sample_years": 10
+  },
+  {
     "code": "1321",
     "name": "大洋",
     "market": "tse",
     "avg_yield": 0.696,
+    "sample_years": 10
+  },
+  {
+    "code": "3609",
+    "name": "三一東林",
+    "market": "otc",
+    "avg_yield": 0.695,
     "sample_years": 10
   },
   {
@@ -6279,10 +10920,52 @@
     "sample_years": 10
   },
   {
+    "code": "4413",
+    "name": "飛寶企業",
+    "market": "otc",
+    "avg_yield": 0.694,
+    "sample_years": 9
+  },
+  {
     "code": "1459",
     "name": "聯發",
     "market": "tse",
     "avg_yield": 0.688,
+    "sample_years": 10
+  },
+  {
+    "code": "5432",
+    "name": "新門",
+    "market": "otc",
+    "avg_yield": 0.688,
+    "sample_years": 10
+  },
+  {
+    "code": "5321",
+    "name": "美而快",
+    "market": "otc",
+    "avg_yield": 0.686,
+    "sample_years": 10
+  },
+  {
+    "code": "9950",
+    "name": "萬國通",
+    "market": "otc",
+    "avg_yield": 0.684,
+    "sample_years": 10
+  },
+  {
+    "code": "1795",
+    "name": "美時",
+    "market": "tse",
+    "avg_yield": 0.676,
+    "sample_years": 10
+  },
+  {
+    "code": "8044",
+    "name": "網家",
+    "market": "otc",
+    "avg_yield": 0.667,
     "sample_years": 10
   },
   {
@@ -6300,11 +10983,25 @@
     "sample_years": 5
   },
   {
+    "code": "6612",
+    "name": "奈米醫材",
+    "market": "otc",
+    "avg_yield": 0.659,
+    "sample_years": 7
+  },
+  {
     "code": "6251",
     "name": "定穎",
     "market": "tse",
     "avg_yield": 0.659,
     "sample_years": 7
+  },
+  {
+    "code": "8059",
+    "name": "凱碩",
+    "market": "otc",
+    "avg_yield": 0.645,
+    "sample_years": 10
   },
   {
     "code": "4141",
@@ -6314,6 +11011,20 @@
     "sample_years": 6
   },
   {
+    "code": "3687",
+    "name": "歐買尬",
+    "market": "otc",
+    "avg_yield": 0.636,
+    "sample_years": 10
+  },
+  {
+    "code": "4128",
+    "name": "中天",
+    "market": "otc",
+    "avg_yield": 0.635,
+    "sample_years": 10
+  },
+  {
     "code": "6668",
     "name": "中揚光",
     "market": "tse",
@@ -6321,9 +11032,23 @@
     "sample_years": 7
   },
   {
+    "code": "3379",
+    "name": "彬台",
+    "market": "otc",
+    "avg_yield": 0.626,
+    "sample_years": 10
+  },
+  {
     "code": "1472",
     "name": "三洋實業",
     "market": "tse",
+    "avg_yield": 0.622,
+    "sample_years": 10
+  },
+  {
+    "code": "3086",
+    "name": "華義*",
+    "market": "otc",
     "avg_yield": 0.622,
     "sample_years": 10
   },
@@ -6335,11 +11060,32 @@
     "sample_years": 10
   },
   {
+    "code": "3287",
+    "name": "廣寰科",
+    "market": "otc",
+    "avg_yield": 0.61,
+    "sample_years": 10
+  },
+  {
+    "code": "4502",
+    "name": "健信",
+    "market": "otc",
+    "avg_yield": 0.608,
+    "sample_years": 10
+  },
+  {
     "code": "8105",
     "name": "凌巨",
     "market": "tse",
     "avg_yield": 0.599,
     "sample_years": 10
+  },
+  {
+    "code": "4806",
+    "name": "桂田文創",
+    "market": "otc",
+    "avg_yield": 0.597,
+    "sample_years": 9
   },
   {
     "code": "2465",
@@ -6356,11 +11102,46 @@
     "sample_years": 10
   },
   {
+    "code": "6244",
+    "name": "茂迪",
+    "market": "otc",
+    "avg_yield": 0.561,
+    "sample_years": 10
+  },
+  {
+    "code": "4167",
+    "name": "松瑞藥",
+    "market": "otc",
+    "avg_yield": 0.55,
+    "sample_years": 10
+  },
+  {
+    "code": "2061",
+    "name": "風青",
+    "market": "otc",
+    "avg_yield": 0.549,
+    "sample_years": 10
+  },
+  {
     "code": "6573",
     "name": "虹揚-KY",
     "market": "tse",
     "avg_yield": 0.534,
     "sample_years": 8
+  },
+  {
+    "code": "6113",
+    "name": "亞矽",
+    "market": "otc",
+    "avg_yield": 0.531,
+    "sample_years": 10
+  },
+  {
+    "code": "8040",
+    "name": "九暘",
+    "market": "otc",
+    "avg_yield": 0.53,
+    "sample_years": 10
   },
   {
     "code": "4576",
@@ -6370,11 +11151,39 @@
     "sample_years": 6
   },
   {
+    "code": "8932",
+    "name": "智通*",
+    "market": "otc",
+    "avg_yield": 0.514,
+    "sample_years": 10
+  },
+  {
+    "code": "4911",
+    "name": "德英",
+    "market": "otc",
+    "avg_yield": 0.497,
+    "sample_years": 10
+  },
+  {
     "code": "2358",
     "name": "廷鑫",
     "market": "tse",
     "avg_yield": 0.497,
     "sample_years": 8
+  },
+  {
+    "code": "8077",
+    "name": "洛碁",
+    "market": "otc",
+    "avg_yield": 0.491,
+    "sample_years": 10
+  },
+  {
+    "code": "3252",
+    "name": "海灣",
+    "market": "otc",
+    "avg_yield": 0.487,
+    "sample_years": 10
   },
   {
     "code": "2499",
@@ -6419,6 +11228,20 @@
     "sample_years": 10
   },
   {
+    "code": "3362",
+    "name": "先進光",
+    "market": "otc",
+    "avg_yield": 0.446,
+    "sample_years": 10
+  },
+  {
+    "code": "3685",
+    "name": "元創精密",
+    "market": "otc",
+    "avg_yield": 0.432,
+    "sample_years": 10
+  },
+  {
     "code": "1467",
     "name": "南緯",
     "market": "tse",
@@ -6447,6 +11270,48 @@
     "sample_years": 6
   },
   {
+    "code": "8097",
+    "name": "常珵",
+    "market": "otc",
+    "avg_yield": 0.401,
+    "sample_years": 10
+  },
+  {
+    "code": "6233",
+    "name": "旺玖",
+    "market": "otc",
+    "avg_yield": 0.4,
+    "sample_years": 10
+  },
+  {
+    "code": "5309",
+    "name": "系統電",
+    "market": "otc",
+    "avg_yield": 0.39,
+    "sample_years": 10
+  },
+  {
+    "code": "6199",
+    "name": "天品",
+    "market": "otc",
+    "avg_yield": 0.387,
+    "sample_years": 10
+  },
+  {
+    "code": "5398",
+    "name": "慕康生醫",
+    "market": "otc",
+    "avg_yield": 0.385,
+    "sample_years": 10
+  },
+  {
+    "code": "5703",
+    "name": "亞都",
+    "market": "otc",
+    "avg_yield": 0.384,
+    "sample_years": 10
+  },
+  {
     "code": "2486",
     "name": "一詮",
     "market": "tse",
@@ -6458,6 +11323,13 @@
     "name": "盛達",
     "market": "tse",
     "avg_yield": 0.383,
+    "sample_years": 10
+  },
+  {
+    "code": "2740",
+    "name": "華軒",
+    "market": "otc",
+    "avg_yield": 0.369,
     "sample_years": 10
   },
   {
@@ -6503,6 +11375,20 @@
     "sample_years": 10
   },
   {
+    "code": "3555",
+    "name": "博士旺",
+    "market": "otc",
+    "avg_yield": 0.341,
+    "sample_years": 10
+  },
+  {
+    "code": "8906",
+    "name": "花王",
+    "market": "otc",
+    "avg_yield": 0.34,
+    "sample_years": 10
+  },
+  {
     "code": "1438",
     "name": "三地開發",
     "market": "tse",
@@ -6517,10 +11403,87 @@
     "sample_years": 10
   },
   {
+    "code": "2067",
+    "name": "嘉鋼",
+    "market": "otc",
+    "avg_yield": 0.327,
+    "sample_years": 10
+  },
+  {
+    "code": "5345",
+    "name": "馥鴻",
+    "market": "otc",
+    "avg_yield": 0.327,
+    "sample_years": 10
+  },
+  {
+    "code": "8087",
+    "name": "麗升能源",
+    "market": "otc",
+    "avg_yield": 0.323,
+    "sample_years": 10
+  },
+  {
+    "code": "8937",
+    "name": "合騏*",
+    "market": "otc",
+    "avg_yield": 0.306,
+    "sample_years": 10
+  },
+  {
+    "code": "6547",
+    "name": "高端疫苗",
+    "market": "otc",
+    "avg_yield": 0.305,
+    "sample_years": 8
+  },
+  {
+    "code": "6129",
+    "name": "普誠",
+    "market": "otc",
+    "avg_yield": 0.3,
+    "sample_years": 10
+  },
+  {
     "code": "4934",
     "name": "太極",
     "market": "tse",
     "avg_yield": 0.293,
+    "sample_years": 10
+  },
+  {
+    "code": "3520",
+    "name": "華盈",
+    "market": "otc",
+    "avg_yield": 0.285,
+    "sample_years": 10
+  },
+  {
+    "code": "8171",
+    "name": "天宇",
+    "market": "otc",
+    "avg_yield": 0.284,
+    "sample_years": 10
+  },
+  {
+    "code": "8455",
+    "name": "大拓-KY",
+    "market": "otc",
+    "avg_yield": 0.284,
+    "sample_years": 10
+  },
+  {
+    "code": "4127",
+    "name": "天良",
+    "market": "otc",
+    "avg_yield": 0.283,
+    "sample_years": 10
+  },
+  {
+    "code": "4523",
+    "name": "永彰",
+    "market": "otc",
+    "avg_yield": 0.281,
     "sample_years": 10
   },
   {
@@ -6538,6 +11501,20 @@
     "sample_years": 10
   },
   {
+    "code": "5351",
+    "name": "鈺創",
+    "market": "otc",
+    "avg_yield": 0.274,
+    "sample_years": 10
+  },
+  {
+    "code": "2734",
+    "name": "易飛網",
+    "market": "otc",
+    "avg_yield": 0.272,
+    "sample_years": 10
+  },
+  {
     "code": "6533",
     "name": "晶心科",
     "market": "tse",
@@ -6549,6 +11526,13 @@
     "name": "立萬利",
     "market": "tse",
     "avg_yield": 0.26,
+    "sample_years": 10
+  },
+  {
+    "code": "8935",
+    "name": "邦泰",
+    "market": "otc",
+    "avg_yield": 0.239,
     "sample_years": 10
   },
   {
@@ -6566,10 +11550,24 @@
     "sample_years": 10
   },
   {
+    "code": "3707",
+    "name": "漢磊",
+    "market": "otc",
+    "avg_yield": 0.225,
+    "sample_years": 10
+  },
+  {
     "code": "3504",
     "name": "揚明光",
     "market": "tse",
     "avg_yield": 0.222,
+    "sample_years": 10
+  },
+  {
+    "code": "3207",
+    "name": "耀勝",
+    "market": "otc",
+    "avg_yield": 0.219,
     "sample_years": 10
   },
   {
@@ -6601,10 +11599,31 @@
     "sample_years": 10
   },
   {
+    "code": "6127",
+    "name": "九豪",
+    "market": "otc",
+    "avg_yield": 0.197,
+    "sample_years": 10
+  },
+  {
+    "code": "4503",
+    "name": "金雨",
+    "market": "otc",
+    "avg_yield": 0.195,
+    "sample_years": 10
+  },
+  {
     "code": "2314",
     "name": "台揚",
     "market": "tse",
     "avg_yield": 0.191,
+    "sample_years": 10
+  },
+  {
+    "code": "2924",
+    "name": "宏太-KY",
+    "market": "otc",
+    "avg_yield": 0.188,
     "sample_years": 10
   },
   {
@@ -6622,6 +11641,20 @@
     "sample_years": 10
   },
   {
+    "code": "6130",
+    "name": "上亞科技",
+    "market": "otc",
+    "avg_yield": 0.171,
+    "sample_years": 10
+  },
+  {
+    "code": "3202",
+    "name": "樺晟",
+    "market": "otc",
+    "avg_yield": 0.167,
+    "sample_years": 9
+  },
+  {
     "code": "1449",
     "name": "佳和",
     "market": "tse",
@@ -6636,10 +11669,94 @@
     "sample_years": 10
   },
   {
+    "code": "5301",
+    "name": "寶得利",
+    "market": "otc",
+    "avg_yield": 0.154,
+    "sample_years": 10
+  },
+  {
+    "code": "8418",
+    "name": "捷必勝-KY",
+    "market": "otc",
+    "avg_yield": 0.154,
+    "sample_years": 8
+  },
+  {
     "code": "3018",
     "name": "隆銘綠能",
     "market": "tse",
     "avg_yield": 0.15,
+    "sample_years": 10
+  },
+  {
+    "code": "6134",
+    "name": "萬旭",
+    "market": "otc",
+    "avg_yield": 0.144,
+    "sample_years": 10
+  },
+  {
+    "code": "8085",
+    "name": "福華",
+    "market": "otc",
+    "avg_yield": 0.134,
+    "sample_years": 10
+  },
+  {
+    "code": "4946",
+    "name": "辣椒",
+    "market": "otc",
+    "avg_yield": 0.128,
+    "sample_years": 10
+  },
+  {
+    "code": "3073",
+    "name": "天方能源",
+    "market": "otc",
+    "avg_yield": 0.123,
+    "sample_years": 10
+  },
+  {
+    "code": "3162",
+    "name": "精確",
+    "market": "otc",
+    "avg_yield": 0.121,
+    "sample_years": 9
+  },
+  {
+    "code": "4903",
+    "name": "聯光通",
+    "market": "otc",
+    "avg_yield": 0.116,
+    "sample_years": 10
+  },
+  {
+    "code": "5310",
+    "name": "天剛",
+    "market": "otc",
+    "avg_yield": 0.116,
+    "sample_years": 10
+  },
+  {
+    "code": "6404",
+    "name": "通訊-KY",
+    "market": "otc",
+    "avg_yield": 0.115,
+    "sample_years": 8
+  },
+  {
+    "code": "6118",
+    "name": "建達",
+    "market": "otc",
+    "avg_yield": 0.113,
+    "sample_years": 10
+  },
+  {
+    "code": "3230",
+    "name": "錦明",
+    "market": "otc",
+    "avg_yield": 0.109,
     "sample_years": 10
   },
   {
@@ -6650,11 +11767,32 @@
     "sample_years": 10
   },
   {
+    "code": "4743",
+    "name": "合一",
+    "market": "otc",
+    "avg_yield": 0.098,
+    "sample_years": 10
+  },
+  {
     "code": "4142",
     "name": "國光生",
     "market": "tse",
     "avg_yield": 0.093,
     "sample_years": 10
+  },
+  {
+    "code": "5314",
+    "name": "世紀*",
+    "market": "otc",
+    "avg_yield": 0.087,
+    "sample_years": 10
+  },
+  {
+    "code": "6649",
+    "name": "台生材",
+    "market": "otc",
+    "avg_yield": 0.07,
+    "sample_years": 7
   },
   {
     "code": "2466",
@@ -6668,6 +11806,48 @@
     "name": "聯合再生",
     "market": "tse",
     "avg_yield": 0.051,
+    "sample_years": 10
+  },
+  {
+    "code": "8084",
+    "name": "巨虹",
+    "market": "otc",
+    "avg_yield": 0.051,
+    "sample_years": 10
+  },
+  {
+    "code": "5340",
+    "name": "建榮",
+    "market": "otc",
+    "avg_yield": 0.045,
+    "sample_years": 10
+  },
+  {
+    "code": "6446",
+    "name": "藥華藥",
+    "market": "tse",
+    "avg_yield": 0.044,
+    "sample_years": 9
+  },
+  {
+    "code": "6103",
+    "name": "合邦",
+    "market": "otc",
+    "avg_yield": 0.04,
+    "sample_years": 10
+  },
+  {
+    "code": "6101",
+    "name": "寬魚國際",
+    "market": "otc",
+    "avg_yield": 0.037,
+    "sample_years": 10
+  },
+  {
+    "code": "3228",
+    "name": "金麗科",
+    "market": "otc",
+    "avg_yield": 0.025,
     "sample_years": 10
   },
   {
@@ -7035,6 +12215,650 @@
     "sample_years": 10
   },
   {
+    "code": "1781",
+    "name": "合世",
+    "market": "otc",
+    "avg_yield": 0.0,
+    "sample_years": 10
+  },
+  {
+    "code": "1799",
+    "name": "易威",
+    "market": "otc",
+    "avg_yield": 0.0,
+    "sample_years": 10
+  },
+  {
+    "code": "2035",
+    "name": "唐榮",
+    "market": "otc",
+    "avg_yield": 0.0,
+    "sample_years": 10
+  },
+  {
+    "code": "2719",
+    "name": "燦星旅",
+    "market": "otc",
+    "avg_yield": 0.0,
+    "sample_years": 10
+  },
+  {
+    "code": "2724",
+    "name": "藝舍-KY",
+    "market": "otc",
+    "avg_yield": 0.0,
+    "sample_years": 10
+  },
+  {
+    "code": "3064",
+    "name": "泰偉",
+    "market": "otc",
+    "avg_yield": 0.0,
+    "sample_years": 10
+  },
+  {
+    "code": "3066",
+    "name": "李洲",
+    "market": "otc",
+    "avg_yield": 0.0,
+    "sample_years": 10
+  },
+  {
+    "code": "3067",
+    "name": "全域",
+    "market": "otc",
+    "avg_yield": 0.0,
+    "sample_years": 10
+  },
+  {
+    "code": "3083",
+    "name": "網龍",
+    "market": "otc",
+    "avg_yield": 0.0,
+    "sample_years": 10
+  },
+  {
+    "code": "3085",
+    "name": "新零售",
+    "market": "otc",
+    "avg_yield": 0.0,
+    "sample_years": 9
+  },
+  {
+    "code": "3095",
+    "name": "及成",
+    "market": "otc",
+    "avg_yield": 0.0,
+    "sample_years": 10
+  },
+  {
+    "code": "3115",
+    "name": "富榮綱",
+    "market": "otc",
+    "avg_yield": 0.0,
+    "sample_years": 10
+  },
+  {
+    "code": "3176",
+    "name": "基亞",
+    "market": "otc",
+    "avg_yield": 0.0,
+    "sample_years": 10
+  },
+  {
+    "code": "3191",
+    "name": "雲嘉南",
+    "market": "otc",
+    "avg_yield": 0.0,
+    "sample_years": 10
+  },
+  {
+    "code": "3224",
+    "name": "三顧",
+    "market": "otc",
+    "avg_yield": 0.0,
+    "sample_years": 10
+  },
+  {
+    "code": "3259",
+    "name": "鑫創",
+    "market": "otc",
+    "avg_yield": 0.0,
+    "sample_years": 10
+  },
+  {
+    "code": "3288",
+    "name": "點晶",
+    "market": "otc",
+    "avg_yield": 0.0,
+    "sample_years": 10
+  },
+  {
+    "code": "3313",
+    "name": "斐成",
+    "market": "otc",
+    "avg_yield": 0.0,
+    "sample_years": 10
+  },
+  {
+    "code": "3339",
+    "name": "泰谷",
+    "market": "otc",
+    "avg_yield": 0.0,
+    "sample_years": 10
+  },
+  {
+    "code": "3508",
+    "name": "位速",
+    "market": "otc",
+    "avg_yield": 0.0,
+    "sample_years": 10
+  },
+  {
+    "code": "3521",
+    "name": "台鋼建設",
+    "market": "otc",
+    "avg_yield": 0.0,
+    "sample_years": 10
+  },
+  {
+    "code": "3522",
+    "name": "御嵿",
+    "market": "otc",
+    "avg_yield": 0.0,
+    "sample_years": 10
+  },
+  {
+    "code": "3523",
+    "name": "迎輝",
+    "market": "otc",
+    "avg_yield": 0.0,
+    "sample_years": 10
+  },
+  {
+    "code": "3629",
+    "name": "地心引力",
+    "market": "otc",
+    "avg_yield": 0.0,
+    "sample_years": 10
+  },
+  {
+    "code": "3630",
+    "name": "新鉅科",
+    "market": "otc",
+    "avg_yield": 0.0,
+    "sample_years": 10
+  },
+  {
+    "code": "3631",
+    "name": "晟楠",
+    "market": "otc",
+    "avg_yield": 0.0,
+    "sample_years": 10
+  },
+  {
+    "code": "3632",
+    "name": "研勤",
+    "market": "otc",
+    "avg_yield": 0.0,
+    "sample_years": 10
+  },
+  {
+    "code": "3664",
+    "name": "安瑞-KY",
+    "market": "otc",
+    "avg_yield": 0.0,
+    "sample_years": 10
+  },
+  {
+    "code": "3710",
+    "name": "連展投控",
+    "market": "otc",
+    "avg_yield": 0.0,
+    "sample_years": 8
+  },
+  {
+    "code": "3713",
+    "name": "新晶投控",
+    "market": "otc",
+    "avg_yield": 0.0,
+    "sample_years": 5
+  },
+  {
+    "code": "4131",
+    "name": "浩泰",
+    "market": "otc",
+    "avg_yield": 0.0,
+    "sample_years": 10
+  },
+  {
+    "code": "4147",
+    "name": "中裕",
+    "market": "otc",
+    "avg_yield": 0.0,
+    "sample_years": 10
+  },
+  {
+    "code": "4154",
+    "name": "樂威科-KY",
+    "market": "otc",
+    "avg_yield": 0.0,
+    "sample_years": 10
+  },
+  {
+    "code": "4157",
+    "name": "太景*-KY",
+    "market": "otc",
+    "avg_yield": 0.0,
+    "sample_years": 10
+  },
+  {
+    "code": "4168",
+    "name": "醣聯",
+    "market": "otc",
+    "avg_yield": 0.0,
+    "sample_years": 10
+  },
+  {
+    "code": "4174",
+    "name": "浩鼎",
+    "market": "otc",
+    "avg_yield": 0.0,
+    "sample_years": 10
+  },
+  {
+    "code": "4188",
+    "name": "安克",
+    "market": "otc",
+    "avg_yield": 0.0,
+    "sample_years": 10
+  },
+  {
+    "code": "4192",
+    "name": "杏國",
+    "market": "otc",
+    "avg_yield": 0.0,
+    "sample_years": 9
+  },
+  {
+    "code": "4198",
+    "name": "欣大健康",
+    "market": "otc",
+    "avg_yield": 0.0,
+    "sample_years": 10
+  },
+  {
+    "code": "4304",
+    "name": "勝昱",
+    "market": "otc",
+    "avg_yield": 0.0,
+    "sample_years": 10
+  },
+  {
+    "code": "4402",
+    "name": "郡都開發",
+    "market": "otc",
+    "avg_yield": 0.0,
+    "sample_years": 10
+  },
+  {
+    "code": "4406",
+    "name": "新昕纖",
+    "market": "otc",
+    "avg_yield": 0.0,
+    "sample_years": 10
+  },
+  {
+    "code": "4419",
+    "name": "皇家美食",
+    "market": "otc",
+    "avg_yield": 0.0,
+    "sample_years": 10
+  },
+  {
+    "code": "4529",
+    "name": "淳紳",
+    "market": "otc",
+    "avg_yield": 0.0,
+    "sample_years": 10
+  },
+  {
+    "code": "4530",
+    "name": "宏易",
+    "market": "otc",
+    "avg_yield": 0.0,
+    "sample_years": 10
+  },
+  {
+    "code": "4609",
+    "name": "唐鋒",
+    "market": "otc",
+    "avg_yield": 0.0,
+    "sample_years": 10
+  },
+  {
+    "code": "4702",
+    "name": "中美實",
+    "market": "otc",
+    "avg_yield": 0.0,
+    "sample_years": 10
+  },
+  {
+    "code": "4726",
+    "name": "永昕",
+    "market": "otc",
+    "avg_yield": 0.0,
+    "sample_years": 10
+  },
+  {
+    "code": "4924",
+    "name": "欣厚-KY",
+    "market": "otc",
+    "avg_yield": 0.0,
+    "sample_years": 10
+  },
+  {
+    "code": "5205",
+    "name": "中茂",
+    "market": "otc",
+    "avg_yield": 0.0,
+    "sample_years": 10
+  },
+  {
+    "code": "5210",
+    "name": "寶碩",
+    "market": "otc",
+    "avg_yield": 0.0,
+    "sample_years": 10
+  },
+  {
+    "code": "5227",
+    "name": "立凱-KY",
+    "market": "otc",
+    "avg_yield": 0.0,
+    "sample_years": 10
+  },
+  {
+    "code": "5302",
+    "name": "太欣",
+    "market": "otc",
+    "avg_yield": 0.0,
+    "sample_years": 10
+  },
+  {
+    "code": "5324",
+    "name": "士開",
+    "market": "otc",
+    "avg_yield": 0.0,
+    "sample_years": 10
+  },
+  {
+    "code": "5344",
+    "name": "立衛",
+    "market": "otc",
+    "avg_yield": 0.0,
+    "sample_years": 10
+  },
+  {
+    "code": "5348",
+    "name": "正能量智能",
+    "market": "otc",
+    "avg_yield": 0.0,
+    "sample_years": 10
+  },
+  {
+    "code": "5355",
+    "name": "佳總",
+    "market": "otc",
+    "avg_yield": 0.0,
+    "sample_years": 10
+  },
+  {
+    "code": "5381",
+    "name": "光譜",
+    "market": "otc",
+    "avg_yield": 0.0,
+    "sample_years": 10
+  },
+  {
+    "code": "5455",
+    "name": "昇益",
+    "market": "otc",
+    "avg_yield": 0.0,
+    "sample_years": 10
+  },
+  {
+    "code": "5468",
+    "name": "凱鈺",
+    "market": "otc",
+    "avg_yield": 0.0,
+    "sample_years": 10
+  },
+  {
+    "code": "5475",
+    "name": "德宏",
+    "market": "otc",
+    "avg_yield": 0.0,
+    "sample_years": 10
+  },
+  {
+    "code": "5529",
+    "name": "鉅陞",
+    "market": "otc",
+    "avg_yield": 0.0,
+    "sample_years": 10
+  },
+  {
+    "code": "5701",
+    "name": "劍湖山",
+    "market": "otc",
+    "avg_yield": 0.0,
+    "sample_years": 10
+  },
+  {
+    "code": "6124",
+    "name": "業強",
+    "market": "otc",
+    "avg_yield": 0.0,
+    "sample_years": 10
+  },
+  {
+    "code": "6144",
+    "name": "得利影",
+    "market": "otc",
+    "avg_yield": 0.0,
+    "sample_years": 10
+  },
+  {
+    "code": "6169",
+    "name": "昱泉",
+    "market": "otc",
+    "avg_yield": 0.0,
+    "sample_years": 10
+  },
+  {
+    "code": "6198",
+    "name": "瑞築",
+    "market": "otc",
+    "avg_yield": 0.0,
+    "sample_years": 10
+  },
+  {
+    "code": "6222",
+    "name": "立軒",
+    "market": "otc",
+    "avg_yield": 0.0,
+    "sample_years": 9
+  },
+  {
+    "code": "6228",
+    "name": "全譜",
+    "market": "otc",
+    "avg_yield": 0.0,
+    "sample_years": 10
+  },
+  {
+    "code": "6236",
+    "name": "中湛",
+    "market": "otc",
+    "avg_yield": 0.0,
+    "sample_years": 10
+  },
+  {
+    "code": "6240",
+    "name": "松崗",
+    "market": "otc",
+    "avg_yield": 0.0,
+    "sample_years": 10
+  },
+  {
+    "code": "6241",
+    "name": "鑫永洋",
+    "market": "otc",
+    "avg_yield": 0.0,
+    "sample_years": 10
+  },
+  {
+    "code": "6264",
+    "name": "富裔",
+    "market": "otc",
+    "avg_yield": 0.0,
+    "sample_years": 10
+  },
+  {
+    "code": "6461",
+    "name": "益得",
+    "market": "otc",
+    "avg_yield": 0.0,
+    "sample_years": 8
+  },
+  {
+    "code": "6492",
+    "name": "生華科",
+    "market": "otc",
+    "avg_yield": 0.0,
+    "sample_years": 8
+  },
+  {
+    "code": "6535",
+    "name": "順藥",
+    "market": "otc",
+    "avg_yield": 0.0,
+    "sample_years": 9
+  },
+  {
+    "code": "6576",
+    "name": "逸達",
+    "market": "otc",
+    "avg_yield": 0.0,
+    "sample_years": 8
+  },
+  {
+    "code": "6589",
+    "name": "台康生技",
+    "market": "otc",
+    "avg_yield": 0.0,
+    "sample_years": 7
+  },
+  {
+    "code": "6733",
+    "name": "博晟生醫",
+    "market": "otc",
+    "avg_yield": 0.0,
+    "sample_years": 5
+  },
+  {
+    "code": "6767",
+    "name": "台微醫",
+    "market": "otc",
+    "avg_yield": 0.0,
+    "sample_years": 5
+  },
+  {
+    "code": "8038",
+    "name": "長園科",
+    "market": "otc",
+    "avg_yield": 0.0,
+    "sample_years": 10
+  },
+  {
+    "code": "8067",
+    "name": "志旭",
+    "market": "otc",
+    "avg_yield": 0.0,
+    "sample_years": 10
+  },
+  {
+    "code": "8068",
+    "name": "全達",
+    "market": "otc",
+    "avg_yield": 0.0,
+    "sample_years": 10
+  },
+  {
+    "code": "8080",
+    "name": "泰霖",
+    "market": "otc",
+    "avg_yield": 0.0,
+    "sample_years": 9
+  },
+  {
+    "code": "8092",
+    "name": "建暐",
+    "market": "otc",
+    "avg_yield": 0.0,
+    "sample_years": 10
+  },
+  {
+    "code": "8093",
+    "name": "保銳",
+    "market": "otc",
+    "avg_yield": 0.0,
+    "sample_years": 10
+  },
+  {
+    "code": "8121",
+    "name": "越峰",
+    "market": "otc",
+    "avg_yield": 0.0,
+    "sample_years": 10
+  },
+  {
+    "code": "8277",
+    "name": "商丞",
+    "market": "otc",
+    "avg_yield": 0.0,
+    "sample_years": 10
+  },
+  {
+    "code": "8291",
+    "name": "尚茂",
+    "market": "otc",
+    "avg_yield": 0.0,
+    "sample_years": 10
+  },
+  {
+    "code": "8409",
+    "name": "商之器",
+    "market": "otc",
+    "avg_yield": 0.0,
+    "sample_years": 10
+  },
+  {
+    "code": "9949",
+    "name": "琉園",
+    "market": "otc",
+    "avg_yield": 0.0,
+    "sample_years": 10
+  },
+  {
+    "code": "6287",
+    "name": "元隆",
+    "market": "otc",
+    "avg_yield": 0.0,
+    "sample_years": 9
+  },
+  {
     "code": "2443",
     "name": "昶虹",
     "market": "tse",
@@ -7045,6 +12869,34 @@
     "code": "3682",
     "name": "亞太電",
     "market": "tse",
+    "avg_yield": 0.0,
+    "sample_years": 8
+  },
+  {
+    "code": "3089",
+    "name": "億杰",
+    "market": "otc",
+    "avg_yield": 0.0,
+    "sample_years": 7
+  },
+  {
+    "code": "4712",
+    "name": "南璋",
+    "market": "otc",
+    "avg_yield": 0.0,
+    "sample_years": 8
+  },
+  {
+    "code": "4944",
+    "name": "兆遠",
+    "market": "otc",
+    "avg_yield": 0.0,
+    "sample_years": 8
+  },
+  {
+    "code": "5383",
+    "name": "金利",
+    "market": "otc",
     "avg_yield": 0.0,
     "sample_years": 8
   },
@@ -7070,11 +12922,81 @@
     "sample_years": 7
   },
   {
+    "code": "3642",
+    "name": "駿熠電",
+    "market": "otc",
+    "avg_yield": 0.0,
+    "sample_years": 7
+  },
+  {
+    "code": "4152",
+    "name": "台微體",
+    "market": "otc",
+    "avg_yield": 0.0,
+    "sample_years": 6
+  },
+  {
     "code": "4725",
     "name": "信昌化",
     "market": "tse",
     "avg_yield": 0.0,
     "sample_years": 5
+  },
+  {
+    "code": "5304",
+    "name": "鼎創達",
+    "market": "otc",
+    "avg_yield": 0.0,
+    "sample_years": 5
+  },
+  {
+    "code": "6497",
+    "name": "亞獅康-KY",
+    "market": "otc",
+    "avg_yield": 0.0,
+    "sample_years": 3
+  },
+  {
+    "code": "8934",
+    "name": "衡平",
+    "market": "otc",
+    "avg_yield": 0.0,
+    "sample_years": 5
+  },
+  {
+    "code": "1333",
+    "name": "恩得利",
+    "market": "otc",
+    "avg_yield": 0.0,
+    "sample_years": 4
+  },
+  {
+    "code": "3452",
+    "name": "益通",
+    "market": "otc",
+    "avg_yield": 0.0,
+    "sample_years": 4
+  },
+  {
+    "code": "3562",
+    "name": "頂晶科",
+    "market": "otc",
+    "avg_yield": 0.0,
+    "sample_years": 4
+  },
+  {
+    "code": "4180",
+    "name": "安成藥",
+    "market": "otc",
+    "avg_yield": 0.0,
+    "sample_years": 4
+  },
+  {
+    "code": "4415",
+    "name": "台原藥",
+    "market": "otc",
+    "avg_yield": 0.0,
+    "sample_years": 3
   },
   {
     "code": "1469",
@@ -7122,6 +13044,13 @@
     "code": "5259",
     "name": "奕智博",
     "market": "tse",
+    "avg_yield": 0.0,
+    "sample_years": 3
+  },
+  {
+    "code": "3431",
+    "name": "長天",
+    "market": "otc",
     "avg_yield": 0.0,
     "sample_years": 3
   }
