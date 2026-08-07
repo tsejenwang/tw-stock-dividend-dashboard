@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-06",
+  "generated_at": "2026-08-07",
   "stocks": {
     "1432": {
       "name": "大魯閣",
-      "computed_at": "2026-08-06",
+      "computed_at": "2026-08-07",
       "events": [
         {
           "exDate": "2026-06-23",
@@ -25,7 +25,7 @@
     },
     "1436": {
       "name": "華友聯",
-      "computed_at": "2026-08-06",
+      "computed_at": "2026-08-07",
       "events": [
         {
           "exDate": "2026-07-23",
@@ -127,7 +127,7 @@
     },
     "1446": {
       "name": "宏和",
-      "computed_at": "2026-08-06",
+      "computed_at": "2026-08-07",
       "events": [
         {
           "exDate": "2026-07-09",
@@ -239,7 +239,7 @@
     },
     "2020": {
       "name": "美亞",
-      "computed_at": "2026-08-06",
+      "computed_at": "2026-08-07",
       "events": [
         {
           "exDate": "2026-04-16",
@@ -337,7 +337,7 @@
     },
     "2387": {
       "name": "精元",
-      "computed_at": "2026-08-06",
+      "computed_at": "2026-08-07",
       "events": [
         {
           "exDate": "2026-03-27",
@@ -529,7 +529,7 @@
     },
     "2528": {
       "name": "皇普",
-      "computed_at": "2026-08-06",
+      "computed_at": "2026-08-07",
       "events": [
         {
           "exDate": "2026-03-26",
@@ -581,7 +581,7 @@
     },
     "2536": {
       "name": "宏普",
-      "computed_at": "2026-08-06",
+      "computed_at": "2026-08-07",
       "events": [
         {
           "exDate": "2026-07-07",
@@ -681,7 +681,7 @@
     },
     "2540": {
       "name": "愛山林",
-      "computed_at": "2026-08-06",
+      "computed_at": "2026-08-07",
       "events": [
         {
           "exDate": "2025-09-30",
@@ -731,7 +731,7 @@
     },
     "2545": {
       "name": "皇翔",
-      "computed_at": "2026-08-06",
+      "computed_at": "2026-08-07",
       "events": [
         {
           "exDate": "2026-07-08",
@@ -839,7 +839,7 @@
     },
     "2548": {
       "name": "華固",
-      "computed_at": "2026-08-06",
+      "computed_at": "2026-08-07",
       "events": [
         {
           "exDate": "2026-06-02",
@@ -949,7 +949,7 @@
     },
     "2603": {
       "name": "長榮",
-      "computed_at": "2026-08-06",
+      "computed_at": "2026-08-07",
       "events": [
         {
           "exDate": "2026-06-17",
@@ -1073,7 +1073,7 @@
     },
     "2636": {
       "name": "台驊控股",
-      "computed_at": "2026-08-06",
+      "computed_at": "2026-08-07",
       "events": [
         {
           "exDate": "2026-07-15",
@@ -1299,7 +1299,7 @@
     },
     "3056": {
       "name": "富華新",
-      "computed_at": "2026-08-06",
+      "computed_at": "2026-08-07",
       "events": [
         {
           "exDate": "2026-07-23",
@@ -1313,7 +1313,7 @@
           "exDate": "2025-08-07",
           "preClose": 33.25,
           "type": "權息",
-          "status": "not_filled_yet",
+          "status": "not_filled_overdue",
           "fillDays": null,
           "maintainDays": null
         },
@@ -1409,7 +1409,7 @@
     },
     "3592": {
       "name": "瑞鼎",
-      "computed_at": "2026-08-06",
+      "computed_at": "2026-08-07",
       "events": [
         {
           "exDate": "2026-07-02",
@@ -1459,7 +1459,7 @@
     },
     "3679": {
       "name": "新至陞",
-      "computed_at": "2026-08-06",
+      "computed_at": "2026-08-07",
       "events": [
         {
           "exDate": "2026-06-12",
@@ -1567,7 +1567,7 @@
     },
     "4137": {
       "name": "麗豐-KY",
-      "computed_at": "2026-08-06",
+      "computed_at": "2026-08-07",
       "events": [
         {
           "exDate": "2026-07-02",
@@ -1723,7 +1723,7 @@
     },
     "4930": {
       "name": "燦星網",
-      "computed_at": "2026-08-06",
+      "computed_at": "2026-08-07",
       "events": [
         {
           "exDate": "2026-03-26",
@@ -1801,7 +1801,7 @@
     },
     "5519": {
       "name": "隆大",
-      "computed_at": "2026-08-06",
+      "computed_at": "2026-08-07",
       "events": [
         {
           "exDate": "2026-07-10",
@@ -1915,7 +1915,7 @@
     },
     "5522": {
       "name": "遠雄",
-      "computed_at": "2026-08-06",
+      "computed_at": "2026-08-07",
       "events": [
         {
           "exDate": "2026-06-25",
@@ -2211,7 +2211,7 @@
     },
     "6743": {
       "name": "安普新",
-      "computed_at": "2026-08-06",
+      "computed_at": "2026-08-07",
       "events": [
         {
           "exDate": "2026-08-04",
@@ -2273,7 +2273,7 @@
     },
     "8112": {
       "name": "至上",
-      "computed_at": "2026-08-06",
+      "computed_at": "2026-08-07",
       "events": [
         {
           "exDate": "2026-07-06",
@@ -2290,7 +2290,7 @@
           "status": "filled",
           "fillDate": "2025-10-17",
           "fillDays": 114,
-          "maintainDays": 194,
+          "maintainDays": 195,
           "maintainCapped": null
         },
         {
