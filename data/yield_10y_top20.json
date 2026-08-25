@@ -21,6 +21,13 @@
     "sample_years": 3
   },
   {
+    "code": "5508",
+    "name": "永信建",
+    "market": "otc",
+    "avg_yield": 8.429,
+    "sample_years": 9
+  },
+  {
     "code": "6606",
     "name": "建德工業",
     "market": "tse",
@@ -49,25 +56,18 @@
     "sample_years": 10
   },
   {
-    "code": "5508",
-    "name": "永信建",
-    "market": "otc",
-    "avg_yield": 8.131,
-    "sample_years": 10
-  },
-  {
     "code": "3211",
     "name": "順達",
     "market": "otc",
-    "avg_yield": 8.02,
-    "sample_years": 10
+    "avg_yield": 8.182,
+    "sample_years": 9
   },
   {
     "code": "5015",
     "name": "華祺",
     "market": "otc",
-    "avg_yield": 8.002,
-    "sample_years": 10
+    "avg_yield": 8.139,
+    "sample_years": 9
   },
   {
     "code": "8112",
@@ -75,6 +75,13 @@
     "market": "tse",
     "avg_yield": 7.981,
     "sample_years": 10
+  },
+  {
+    "code": "5609",
+    "name": "中菲行",
+    "market": "otc",
+    "avg_yield": 7.976,
+    "sample_years": 9
   },
   {
     "code": "2545",
@@ -95,13 +102,6 @@
     "name": "華固",
     "market": "tse",
     "avg_yield": 7.744,
-    "sample_years": 10
-  },
-  {
-    "code": "6186",
-    "name": "新潤",
-    "market": "otc",
-    "avg_yield": 7.712,
     "sample_years": 10
   },
   {
@@ -136,7 +136,7 @@
     "code": "2065",
     "name": "世豐",
     "market": "otc",
-    "avg_yield": 7.561,
-    "sample_years": 9
+    "avg_yield": 7.607,
+    "sample_years": 8
   }
 ]
