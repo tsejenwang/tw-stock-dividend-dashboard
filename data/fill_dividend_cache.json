@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-25",
+  "generated_at": "2026-08-26",
   "stocks": {
     "1432": {
       "name": "大魯閣",
-      "computed_at": "2026-08-25",
+      "computed_at": "2026-08-26",
       "events": [
         {
           "exDate": "2026-06-23",
@@ -25,7 +25,7 @@
     },
     "1436": {
       "name": "華友聯",
-      "computed_at": "2026-08-25",
+      "computed_at": "2026-08-26",
       "events": [
         {
           "exDate": "2026-07-23",
@@ -127,7 +127,7 @@
     },
     "1446": {
       "name": "宏和",
-      "computed_at": "2026-08-25",
+      "computed_at": "2026-08-26",
       "events": [
         {
           "exDate": "2026-07-09",
@@ -579,7 +579,7 @@
     },
     "2540": {
       "name": "愛山林",
-      "computed_at": "2026-08-25",
+      "computed_at": "2026-08-26",
       "events": [
         {
           "exDate": "2026-08-10",
@@ -637,7 +637,7 @@
     },
     "2545": {
       "name": "皇翔",
-      "computed_at": "2026-08-25",
+      "computed_at": "2026-08-26",
       "events": [
         {
           "exDate": "2026-07-08",
@@ -745,7 +745,7 @@
     },
     "2548": {
       "name": "華固",
-      "computed_at": "2026-08-25",
+      "computed_at": "2026-08-26",
       "events": [
         {
           "exDate": "2026-06-02",
@@ -855,7 +855,7 @@
     },
     "2603": {
       "name": "長榮",
-      "computed_at": "2026-08-25",
+      "computed_at": "2026-08-26",
       "events": [
         {
           "exDate": "2026-06-17",
@@ -864,7 +864,7 @@
           "status": "filled",
           "fillDate": "2026-08-17",
           "fillDays": 61,
-          "maintainDays": 7,
+          "maintainDays": 8,
           "maintainCapped": null
         },
         {
@@ -981,7 +981,7 @@
     },
     "2636": {
       "name": "台驊控股",
-      "computed_at": "2026-08-25",
+      "computed_at": "2026-08-26",
       "events": [
         {
           "exDate": "2026-07-15",
@@ -990,7 +990,7 @@
           "status": "filled",
           "fillDate": "2026-08-17",
           "fillDays": 33,
-          "maintainDays": 7,
+          "maintainDays": 8,
           "maintainCapped": null
         },
         {
@@ -1209,7 +1209,7 @@
     },
     "3056": {
       "name": "富華新",
-      "computed_at": "2026-08-25",
+      "computed_at": "2026-08-26",
       "events": [
         {
           "exDate": "2026-07-23",
@@ -1843,7 +1843,7 @@
     },
     "6177": {
       "name": "達麗",
-      "computed_at": "2026-08-25",
+      "computed_at": "2026-08-26",
       "events": [
         {
           "exDate": "2026-08-20",
@@ -1987,7 +1987,7 @@
     },
     "6743": {
       "name": "安普新",
-      "computed_at": "2026-08-25",
+      "computed_at": "2026-08-26",
       "events": [
         {
           "exDate": "2026-08-04",
