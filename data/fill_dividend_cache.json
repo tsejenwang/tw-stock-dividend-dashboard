@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-31",
+  "generated_at": "2026-09-01",
   "stocks": {
     "1432": {
       "name": "大魯閣",
-      "computed_at": "2026-08-31",
+      "computed_at": "2026-09-01",
       "events": [
         {
           "exDate": "2026-06-23",
@@ -25,7 +25,7 @@
     },
     "1436": {
       "name": "華友聯",
-      "computed_at": "2026-08-31",
+      "computed_at": "2026-09-01",
       "events": [
         {
           "exDate": "2026-07-23",
@@ -60,50 +60,74 @@
           "status": "filled",
           "fillDate": "2023-11-01",
           "fillDays": 99,
-          "maintainDays": 119,
+          "maintainDays": 223,
           "maintainCapped": false
         },
         {
           "exDate": "2022-07-26",
           "preClose": 61.9,
           "type": "息",
-          "status": "no_data"
+          "status": "filled",
+          "fillDate": "2023-07-03",
+          "fillDays": 342,
+          "maintainDays": 63,
+          "maintainCapped": false
         },
         {
           "exDate": "2021-08-02",
           "preClose": 40.9,
           "type": "息",
-          "status": "no_data"
+          "status": "filled",
+          "fillDate": "2021-08-11",
+          "fillDays": 9,
+          "maintainDays": 246,
+          "maintainCapped": true
         },
         {
           "exDate": "2020-07-20",
           "preClose": 39.9,
           "type": "息",
-          "status": "no_data"
+          "status": "filled",
+          "fillDate": "2020-11-30",
+          "fillDays": 133,
+          "maintainDays": 1,
+          "maintainCapped": false
         },
         {
           "exDate": "2019-08-29",
           "preClose": 41.5,
           "type": "權息",
-          "status": "no_data"
+          "status": "filled",
+          "fillDate": "2020-01-07",
+          "fillDays": 131,
+          "maintainDays": 5,
+          "maintainCapped": false
         },
         {
           "exDate": "2018-09-03",
           "preClose": 41.35,
           "type": "權息",
-          "status": "no_data"
+          "status": "filled",
+          "fillDate": "2019-03-26",
+          "fillDays": 204,
+          "maintainDays": 29,
+          "maintainCapped": false
         },
         {
           "exDate": "2017-08-28",
           "preClose": 38.0,
           "type": "息",
-          "status": "no_data"
+          "status": "filled",
+          "fillDate": "2017-09-07",
+          "fillDays": 10,
+          "maintainDays": 2,
+          "maintainCapped": false
         }
       ]
     },
     "1446": {
       "name": "宏和",
-      "computed_at": "2026-08-31",
+      "computed_at": "2026-09-01",
       "events": [
         {
           "exDate": "2026-07-09",
@@ -117,61 +141,99 @@
           "exDate": "2025-07-21",
           "preClose": 23.05,
           "type": "息",
-          "status": "no_data"
+          "status": "not_filled_overdue",
+          "fillDays": null,
+          "maintainDays": null
         },
         {
           "exDate": "2024-07-16",
           "preClose": 53.3,
           "type": "息",
-          "status": "no_data"
+          "status": "filled",
+          "fillDate": "2024-07-16",
+          "fillDays": 0,
+          "maintainDays": 1,
+          "maintainCapped": false
         },
         {
           "exDate": "2023-07-14",
           "preClose": 37.6,
           "type": "息",
-          "status": "no_data"
+          "status": "filled",
+          "fillDate": "2023-08-01",
+          "fillDays": 18,
+          "maintainDays": 6,
+          "maintainCapped": false
         },
         {
           "exDate": "2022-07-15",
           "preClose": 32.3,
           "type": "息",
-          "status": "no_data"
+          "status": "filled",
+          "fillDate": "2022-08-18",
+          "fillDays": 34,
+          "maintainDays": 31,
+          "maintainCapped": false
         },
         {
           "exDate": "2021-08-13",
           "preClose": 31.1,
           "type": "息",
-          "status": "no_data"
+          "status": "filled",
+          "fillDate": "2021-08-31",
+          "fillDays": 18,
+          "maintainDays": 14,
+          "maintainCapped": false
         },
         {
           "exDate": "2020-07-29",
           "preClose": 27.6,
           "type": "息",
-          "status": "no_data"
+          "status": "filled",
+          "fillDate": "2020-07-30",
+          "fillDays": 1,
+          "maintainDays": 190,
+          "maintainCapped": false
         },
         {
           "exDate": "2019-08-29",
           "preClose": 30.55,
           "type": "息",
-          "status": "no_data"
+          "status": "filled",
+          "fillDate": "2019-08-30",
+          "fillDays": 1,
+          "maintainDays": 117,
+          "maintainCapped": false
         },
         {
           "exDate": "2018-08-30",
           "preClose": 25.8,
           "type": "息",
-          "status": "no_data"
+          "status": "filled",
+          "fillDate": "2018-09-18",
+          "fillDays": 19,
+          "maintainDays": 15,
+          "maintainCapped": false
         },
         {
           "exDate": "2017-08-30",
           "preClose": 22.5,
           "type": "息",
-          "status": "no_data"
+          "status": "filled",
+          "fillDate": "2017-10-13",
+          "fillDays": 44,
+          "maintainDays": 6,
+          "maintainCapped": false
         },
         {
           "exDate": "2016-08-30",
           "preClose": 18.95,
           "type": "息",
-          "status": "no_data"
+          "status": "filled",
+          "fillDate": "2016-11-22",
+          "fillDays": 84,
+          "maintainDays": 1,
+          "maintainCapped": false
         }
       ]
     },
@@ -517,7 +579,7 @@
     },
     "2540": {
       "name": "愛山林",
-      "computed_at": "2026-08-31",
+      "computed_at": "2026-09-01",
       "events": [
         {
           "exDate": "2026-08-10",
@@ -531,31 +593,45 @@
           "exDate": "2025-09-30",
           "preClose": 79.5,
           "type": "權息",
-          "status": "no_data"
+          "status": "not_filled_yet",
+          "fillDays": null,
+          "maintainDays": null
         },
         {
           "exDate": "2024-09-12",
           "preClose": 192.0,
           "type": "權息",
-          "status": "no_data"
+          "status": "not_filled_overdue",
+          "fillDays": null,
+          "maintainDays": null
         },
         {
           "exDate": "2023-09-13",
           "preClose": 98.0,
           "type": "權息",
-          "status": "no_data"
+          "status": "filled",
+          "fillDate": "2024-03-12",
+          "fillDays": 181,
+          "maintainDays": 2,
+          "maintainCapped": false
         },
         {
           "exDate": "2022-09-19",
           "preClose": 150.0,
           "type": "權息",
-          "status": "no_data"
+          "status": "not_filled_overdue",
+          "fillDays": null,
+          "maintainDays": null
         },
         {
           "exDate": "2021-10-26",
           "preClose": 90.0,
           "type": "權息",
-          "status": "no_data"
+          "status": "filled",
+          "fillDate": "2022-03-03",
+          "fillDays": 128,
+          "maintainDays": 137,
+          "maintainCapped": false
         }
       ]
     },
@@ -705,7 +781,7 @@
     },
     "2603": {
       "name": "長榮",
-      "computed_at": "2026-08-31",
+      "computed_at": "2026-09-01",
       "events": [
         {
           "exDate": "2026-06-17",
@@ -714,44 +790,66 @@
           "status": "filled",
           "fillDate": "2026-08-17",
           "fillDays": 61,
-          "maintainDays": 11,
+          "maintainDays": 12,
           "maintainCapped": null
         },
         {
           "exDate": "2025-06-19",
           "preClose": 246.5,
           "type": "息",
-          "status": "no_data"
+          "status": "not_filled_overdue",
+          "fillDays": null,
+          "maintainDays": null
         },
         {
           "exDate": "2024-06-27",
           "preClose": 200.0,
           "type": "息",
-          "status": "no_data"
+          "status": "filled",
+          "fillDate": "2024-09-24",
+          "fillDays": 89,
+          "maintainDays": 6,
+          "maintainCapped": false
         },
         {
           "exDate": "2023-06-30",
           "preClose": 155.0,
           "type": "息",
-          "status": "no_data"
+          "status": "filled",
+          "fillDate": "2024-01-03",
+          "fillDays": 187,
+          "maintainDays": 4,
+          "maintainCapped": false
         },
         {
           "exDate": "2022-06-29",
           "preClose": 108.5,
           "type": "息",
-          "status": "no_data"
+          "status": "filled",
+          "fillDate": "2022-09-19",
+          "fillDays": 82,
+          "maintainDays": 186,
+          "maintainCapped": false
         },
         {
           "exDate": "2021-08-18",
           "preClose": 126.5,
           "type": "息",
-          "status": "no_data"
+          "status": "filled",
+          "fillDate": "2021-08-18",
+          "fillDays": 0,
+          "maintainDays": 12,
+          "maintainCapped": false
         },
         {
           "exDate": "2018-08-29",
           "preClose": 13.55,
           "type": "權息",
-          "status": "no_data"
+          "status": "filled",
+          "fillDate": "2019-04-30",
+          "fillDays": 244,
+          "maintainDays": 3,
+          "maintainCapped": false
         }
       ]
     },
@@ -809,7 +907,7 @@
     },
     "2636": {
       "name": "台驊控股",
-      "computed_at": "2026-08-31",
+      "computed_at": "2026-09-01",
       "events": [
         {
           "exDate": "2026-07-15",
@@ -818,80 +916,118 @@
           "status": "filled",
           "fillDate": "2026-08-17",
           "fillDays": 33,
-          "maintainDays": 11,
+          "maintainDays": 12,
           "maintainCapped": null
         },
         {
           "exDate": "2025-06-10",
           "preClose": 76.0,
           "type": "息",
-          "status": "no_data"
+          "status": "not_filled_overdue",
+          "fillDays": null,
+          "maintainDays": null
         },
         {
           "exDate": "2024-11-25",
           "preClose": 87.2,
           "type": "息",
-          "status": "no_data"
+          "status": "not_filled_overdue",
+          "fillDays": null,
+          "maintainDays": null
         },
         {
           "exDate": "2024-06-11",
           "preClose": 112.5,
           "type": "息",
-          "status": "no_data"
+          "status": "not_filled_overdue",
+          "fillDays": null,
+          "maintainDays": null
         },
         {
           "exDate": "2023-11-23",
           "preClose": 79.2,
           "type": "息",
-          "status": "no_data"
+          "status": "filled",
+          "fillDate": "2023-12-04",
+          "fillDays": 11,
+          "maintainDays": 239,
+          "maintainCapped": false
         },
         {
           "exDate": "2023-05-29",
           "preClose": 76.4,
           "type": "息",
-          "status": "no_data"
+          "status": "filled",
+          "fillDate": "2023-07-03",
+          "fillDays": 35,
+          "maintainDays": 1,
+          "maintainCapped": false
         },
         {
           "exDate": "2023-01-04",
           "preClose": 76.3,
           "type": "息",
-          "status": "no_data"
+          "status": "filled",
+          "fillDate": "2023-03-13",
+          "fillDays": 68,
+          "maintainDays": 2,
+          "maintainCapped": false
         },
         {
           "exDate": "2022-06-10",
           "preClose": 133.0,
           "type": "息",
-          "status": "no_data"
+          "status": "not_filled_overdue",
+          "fillDays": null,
+          "maintainDays": null
         },
         {
           "exDate": "2021-09-03",
           "preClose": 177.0,
           "type": "息",
-          "status": "no_data"
+          "status": "not_filled_overdue",
+          "fillDays": null,
+          "maintainDays": null
         },
         {
           "exDate": "2020-08-03",
           "preClose": 29.1,
           "type": "息",
-          "status": "no_data"
+          "status": "filled",
+          "fillDate": "2020-08-05",
+          "fillDays": 2,
+          "maintainDays": 246,
+          "maintainCapped": true
         },
         {
           "exDate": "2019-07-22",
           "preClose": 26.55,
           "type": "息",
-          "status": "no_data"
+          "status": "filled",
+          "fillDate": "2020-06-10",
+          "fillDays": 324,
+          "maintainDays": 1,
+          "maintainCapped": false
         },
         {
           "exDate": "2018-07-11",
           "preClose": 23.85,
           "type": "息",
-          "status": "no_data"
+          "status": "filled",
+          "fillDate": "2018-07-31",
+          "fillDays": 20,
+          "maintainDays": 9,
+          "maintainCapped": false
         },
         {
           "exDate": "2017-07-14",
           "preClose": 22.5,
           "type": "息",
-          "status": "no_data"
+          "status": "filled",
+          "fillDate": "2017-08-16",
+          "fillDays": 33,
+          "maintainDays": 121,
+          "maintainCapped": false
         }
       ]
     },
@@ -1595,7 +1731,7 @@
     },
     "6177": {
       "name": "達麗",
-      "computed_at": "2026-08-31",
+      "computed_at": "2026-09-01",
       "events": [
         {
           "exDate": "2026-08-20",
@@ -1609,55 +1745,89 @@
           "exDate": "2025-08-05",
           "preClose": 46.8,
           "type": "權息",
-          "status": "no_data"
+          "status": "filled",
+          "fillDate": "2025-09-04",
+          "fillDays": 30,
+          "maintainDays": 25,
+          "maintainCapped": false
         },
         {
           "exDate": "2024-07-30",
           "preClose": 71.0,
           "type": "權息",
-          "status": "no_data"
+          "status": "filled",
+          "fillDate": "2024-08-16",
+          "fillDays": 17,
+          "maintainDays": 2,
+          "maintainCapped": false
         },
         {
           "exDate": "2023-08-23",
           "preClose": 32.05,
           "type": "權息",
-          "status": "no_data"
+          "status": "filled",
+          "fillDate": "2023-10-18",
+          "fillDays": 56,
+          "maintainDays": 1,
+          "maintainCapped": false
         },
         {
           "exDate": "2022-07-27",
           "preClose": 30.85,
           "type": "息",
-          "status": "no_data"
+          "status": "filled",
+          "fillDate": "2023-02-23",
+          "fillDays": 211,
+          "maintainDays": 120,
+          "maintainCapped": false
         },
         {
           "exDate": "2020-07-28",
           "preClose": 32.0,
           "type": "權息",
-          "status": "no_data"
+          "status": "filled",
+          "fillDate": "2021-04-07",
+          "fillDays": 253,
+          "maintainDays": 3,
+          "maintainCapped": false
         },
         {
           "exDate": "2019-08-01",
           "preClose": 29.9,
           "type": "權息",
-          "status": "no_data"
+          "status": "filled",
+          "fillDate": "2020-06-04",
+          "fillDays": 308,
+          "maintainDays": 36,
+          "maintainCapped": false
         },
         {
           "exDate": "2018-08-30",
           "preClose": 34.3,
           "type": "息",
-          "status": "no_data"
+          "status": "not_filled_overdue",
+          "fillDays": null,
+          "maintainDays": null
         },
         {
           "exDate": "2017-07-19",
           "preClose": 25.9,
           "type": "權息",
-          "status": "no_data"
+          "status": "filled",
+          "fillDate": "2017-08-15",
+          "fillDays": 27,
+          "maintainDays": 248,
+          "maintainCapped": true
         },
         {
           "exDate": "2016-08-18",
           "preClose": 24.4,
           "type": "權息",
-          "status": "no_data"
+          "status": "filled",
+          "fillDate": "2017-03-23",
+          "fillDays": 217,
+          "maintainDays": 2,
+          "maintainCapped": false
         }
       ]
     },
