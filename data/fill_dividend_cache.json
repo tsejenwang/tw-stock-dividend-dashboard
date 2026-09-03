@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-02",
+  "generated_at": "2026-09-03",
   "stocks": {
     "1432": {
       "name": "大魯閣",
-      "computed_at": "2026-09-02",
+      "computed_at": "2026-09-03",
       "events": [
         {
           "exDate": "2026-06-23",
@@ -25,7 +25,7 @@
     },
     "1436": {
       "name": "華友聯",
-      "computed_at": "2026-09-02",
+      "computed_at": "2026-09-03",
       "events": [
         {
           "exDate": "2026-07-23",
@@ -127,7 +127,7 @@
     },
     "1446": {
       "name": "宏和",
-      "computed_at": "2026-09-02",
+      "computed_at": "2026-09-03",
       "events": [
         {
           "exDate": "2026-07-09",
@@ -579,7 +579,7 @@
     },
     "2540": {
       "name": "愛山林",
-      "computed_at": "2026-09-02",
+      "computed_at": "2026-09-03",
       "events": [
         {
           "exDate": "2026-08-10",
@@ -781,7 +781,7 @@
     },
     "2603": {
       "name": "長榮",
-      "computed_at": "2026-09-02",
+      "computed_at": "2026-09-03",
       "events": [
         {
           "exDate": "2026-06-17",
@@ -790,7 +790,7 @@
           "status": "filled",
           "fillDate": "2026-08-17",
           "fillDays": 61,
-          "maintainDays": 13,
+          "maintainDays": 14,
           "maintainCapped": null
         },
         {
@@ -907,7 +907,7 @@
     },
     "2636": {
       "name": "台驊控股",
-      "computed_at": "2026-09-02",
+      "computed_at": "2026-09-03",
       "events": [
         {
           "exDate": "2026-07-15",
@@ -916,7 +916,7 @@
           "status": "filled",
           "fillDate": "2026-08-17",
           "fillDays": 33,
-          "maintainDays": 13,
+          "maintainDays": 14,
           "maintainCapped": null
         },
         {
@@ -1731,15 +1731,17 @@
     },
     "6177": {
       "name": "達麗",
-      "computed_at": "2026-09-02",
+      "computed_at": "2026-09-03",
       "events": [
         {
           "exDate": "2026-08-20",
           "preClose": 48.4,
           "type": "息",
-          "status": "not_filled_yet",
-          "fillDays": null,
-          "maintainDays": null
+          "status": "filled",
+          "fillDate": "2026-09-03",
+          "fillDays": 14,
+          "maintainDays": 1,
+          "maintainCapped": null
         },
         {
           "exDate": "2025-08-05",
