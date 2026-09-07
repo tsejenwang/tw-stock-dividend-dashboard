@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-04",
+  "generated_at": "2026-09-07",
   "stocks": {
     "1432": {
       "name": "大魯閣",
-      "computed_at": "2026-09-04",
+      "computed_at": "2026-09-07",
       "events": [
         {
           "exDate": "2026-06-23",
@@ -25,7 +25,7 @@
     },
     "1436": {
       "name": "華友聯",
-      "computed_at": "2026-09-04",
+      "computed_at": "2026-09-07",
       "events": [
         {
           "exDate": "2026-07-23",
@@ -57,31 +57,19 @@
           "exDate": "2023-07-25",
           "preClose": 68.6,
           "type": "息",
-          "status": "filled",
-          "fillDate": "2023-11-01",
-          "fillDays": 99,
-          "maintainDays": 223,
-          "maintainCapped": false
+          "status": "no_data"
         },
         {
           "exDate": "2022-07-26",
           "preClose": 61.9,
           "type": "息",
-          "status": "filled",
-          "fillDate": "2023-07-03",
-          "fillDays": 342,
-          "maintainDays": 63,
-          "maintainCapped": false
+          "status": "no_data"
         },
         {
           "exDate": "2021-08-02",
           "preClose": 40.9,
           "type": "息",
-          "status": "filled",
-          "fillDate": "2021-08-11",
-          "fillDays": 9,
-          "maintainDays": 155,
-          "maintainCapped": false
+          "status": "no_data"
         },
         {
           "exDate": "2020-07-20",
@@ -709,15 +697,17 @@
     },
     "2603": {
       "name": "長榮",
-      "computed_at": "2026-09-04",
+      "computed_at": "2026-09-07",
       "events": [
         {
           "exDate": "2026-06-17",
           "preClose": 220.5,
           "type": "息",
-          "status": "not_filled_yet",
-          "fillDays": null,
-          "maintainDays": null
+          "status": "filled",
+          "fillDate": "2026-08-17",
+          "fillDays": 61,
+          "maintainDays": 16,
+          "maintainCapped": null
         },
         {
           "exDate": "2025-06-19",
@@ -1593,37 +1583,25 @@
     },
     "6177": {
       "name": "達麗",
-      "computed_at": "2026-09-04",
+      "computed_at": "2026-09-07",
       "events": [
         {
           "exDate": "2026-08-20",
           "preClose": 48.4,
           "type": "息",
-          "status": "filled",
-          "fillDate": "2026-09-03",
-          "fillDays": 14,
-          "maintainDays": 2,
-          "maintainCapped": null
+          "status": "no_data"
         },
         {
           "exDate": "2025-08-05",
           "preClose": 46.8,
           "type": "權息",
-          "status": "filled",
-          "fillDate": "2025-09-04",
-          "fillDays": 30,
-          "maintainDays": 25,
-          "maintainCapped": false
+          "status": "no_data"
         },
         {
           "exDate": "2024-07-30",
           "preClose": 71.0,
           "type": "權息",
-          "status": "filled",
-          "fillDate": "2024-08-16",
-          "fillDays": 17,
-          "maintainDays": 2,
-          "maintainCapped": false
+          "status": "no_data"
         },
         {
           "exDate": "2023-08-23",
