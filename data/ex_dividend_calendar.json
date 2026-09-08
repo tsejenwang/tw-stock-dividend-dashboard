@@ -1,69 +1,6 @@
 {
-  "generated_at": "2026-09-07",
+  "generated_at": "2026-09-08",
   "upcoming": [
-    {
-      "code": "00400A",
-      "name": "主動國泰動能高息",
-      "market": "tse",
-      "ex_date": "2026-09-07",
-      "type": "息",
-      "cash_dividend": 0.12,
-      "stock_dividend_ratio": null
-    },
-    {
-      "code": "01010T",
-      "name": "京城樂富R1",
-      "market": "tse",
-      "ex_date": "2026-09-07",
-      "type": "息",
-      "cash_dividend": 0.09872,
-      "stock_dividend_ratio": null
-    },
-    {
-      "code": "1466",
-      "name": "聚隆",
-      "market": "tse",
-      "ex_date": "2026-09-07",
-      "type": "息",
-      "cash_dividend": 0.2,
-      "stock_dividend_ratio": null
-    },
-    {
-      "code": "6533",
-      "name": "晶心科",
-      "market": "tse",
-      "ex_date": "2026-09-07",
-      "type": "權",
-      "cash_dividend": null,
-      "stock_dividend_ratio": null
-    },
-    {
-      "code": "1268",
-      "name": "漢來美食",
-      "market": "otc",
-      "ex_date": "2026-09-07",
-      "type": "除息",
-      "cash_dividend": 8.0,
-      "stock_dividend_ratio": null
-    },
-    {
-      "code": "7738",
-      "name": "東聯互動",
-      "market": "otc",
-      "ex_date": "2026-09-07",
-      "type": "除息",
-      "cash_dividend": 10.0,
-      "stock_dividend_ratio": null
-    },
-    {
-      "code": "8099",
-      "name": "大世科",
-      "market": "otc",
-      "ex_date": "2026-09-07",
-      "type": "除息",
-      "cash_dividend": 2.1,
-      "stock_dividend_ratio": null
-    },
     {
       "code": "00940",
       "name": "元大台灣價值高息",
@@ -1199,6 +1136,33 @@
       "stock_dividend_ratio": null
     },
     {
+      "code": "3260",
+      "name": "威剛",
+      "market": "otc",
+      "ex_date": "2026-09-21",
+      "type": "除權息",
+      "cash_dividend": 18.00773559,
+      "stock_dividend_ratio": null
+    },
+    {
+      "code": "5314",
+      "name": "世紀*",
+      "market": "otc",
+      "ex_date": "2026-09-21",
+      "type": "除息",
+      "cash_dividend": 0.04852674,
+      "stock_dividend_ratio": null
+    },
+    {
+      "code": "8042",
+      "name": "金山電",
+      "market": "otc",
+      "ex_date": "2026-09-22",
+      "type": "除權",
+      "cash_dividend": null,
+      "stock_dividend_ratio": null
+    },
+    {
       "code": "00930",
       "name": "永豐ESG低碳高息",
       "market": "tse",
@@ -1223,6 +1187,15 @@
       "ex_date": "2026-09-23",
       "type": "息",
       "cash_dividend": 4.0,
+      "stock_dividend_ratio": null
+    },
+    {
+      "code": "5258",
+      "name": "虹堡",
+      "market": "tse",
+      "ex_date": "2026-09-23",
+      "type": "息",
+      "cash_dividend": 1.007326,
       "stock_dividend_ratio": null
     },
     {
@@ -1363,39 +1336,66 @@
   ],
   "recent": [
     {
-      "code": "1203",
-      "name": "味王",
+      "code": "00400A",
+      "name": "主動國泰動能高息",
       "market": "tse",
-      "ex_date": "2026-09-03",
+      "ex_date": "2026-09-07",
       "type": "息",
-      "cash_dividend": 1.0,
+      "cash_dividend": 0.12,
       "stock_dividend_ratio": null
     },
     {
-      "code": "3661",
-      "name": "世芯-KY",
+      "code": "01010T",
+      "name": "京城樂富R1",
       "market": "tse",
-      "ex_date": "2026-09-03",
+      "ex_date": "2026-09-07",
       "type": "息",
-      "cash_dividend": 32.551656,
+      "cash_dividend": 0.09872,
       "stock_dividend_ratio": null
     },
     {
-      "code": "7780",
-      "name": "大研生醫*",
+      "code": "1466",
+      "name": "聚隆",
       "market": "tse",
-      "ex_date": "2026-09-03",
+      "ex_date": "2026-09-07",
       "type": "息",
-      "cash_dividend": 0.116588,
+      "cash_dividend": 0.2,
       "stock_dividend_ratio": null
     },
     {
-      "code": "8466",
-      "name": "美吉吉-KY",
+      "code": "6533",
+      "name": "晶心科",
       "market": "tse",
-      "ex_date": "2026-09-03",
-      "type": "息",
-      "cash_dividend": 0.301938,
+      "ex_date": "2026-09-07",
+      "type": "權",
+      "cash_dividend": null,
+      "stock_dividend_ratio": null
+    },
+    {
+      "code": "1268",
+      "name": "漢來美食",
+      "market": "otc",
+      "ex_date": "2026-09-07",
+      "type": "除息",
+      "cash_dividend": 8.0,
+      "stock_dividend_ratio": null
+    },
+    {
+      "code": "7738",
+      "name": "東聯互動",
+      "market": "otc",
+      "ex_date": "2026-09-07",
+      "type": "除息",
+      "cash_dividend": 10.0,
+      "stock_dividend_ratio": null
+    },
+    {
+      "code": "8099",
+      "name": "大世科",
+      "market": "otc",
+      "ex_date": "2026-09-07",
+      "type": "除息",
+      "cash_dividend": 2.1,
       "stock_dividend_ratio": null
     },
     {
