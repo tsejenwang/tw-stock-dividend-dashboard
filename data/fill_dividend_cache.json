@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-09",
+  "generated_at": "2026-09-10",
   "stocks": {
     "1432": {
       "name": "大魯閣",
-      "computed_at": "2026-09-09",
+      "computed_at": "2026-09-10",
       "events": [
         {
           "exDate": "2026-06-23",
@@ -25,7 +25,7 @@
     },
     "1436": {
       "name": "華友聯",
-      "computed_at": "2026-09-09",
+      "computed_at": "2026-09-10",
       "events": [
         {
           "exDate": "2026-07-23",
@@ -57,25 +57,41 @@
           "exDate": "2023-07-25",
           "preClose": 68.6,
           "type": "息",
-          "status": "no_data"
+          "status": "filled",
+          "fillDate": "2023-11-01",
+          "fillDays": 99,
+          "maintainDays": 223,
+          "maintainCapped": false
         },
         {
           "exDate": "2022-07-26",
           "preClose": 61.9,
           "type": "息",
-          "status": "no_data"
+          "status": "filled",
+          "fillDate": "2023-07-03",
+          "fillDays": 342,
+          "maintainDays": 63,
+          "maintainCapped": false
         },
         {
           "exDate": "2021-08-02",
           "preClose": 40.9,
           "type": "息",
-          "status": "no_data"
+          "status": "filled",
+          "fillDate": "2021-08-11",
+          "fillDays": 9,
+          "maintainDays": 246,
+          "maintainCapped": true
         },
         {
           "exDate": "2020-07-20",
           "preClose": 39.9,
           "type": "息",
-          "status": "no_data"
+          "status": "filled",
+          "fillDate": "2020-11-30",
+          "fillDays": 133,
+          "maintainDays": 1,
+          "maintainCapped": false
         },
         {
           "exDate": "2019-08-29",
@@ -675,17 +691,13 @@
     },
     "2603": {
       "name": "長榮",
-      "computed_at": "2026-09-09",
+      "computed_at": "2026-09-10",
       "events": [
         {
           "exDate": "2026-06-17",
           "preClose": 220.5,
           "type": "息",
-          "status": "filled",
-          "fillDate": "2026-08-17",
-          "fillDays": 61,
-          "maintainDays": 18,
-          "maintainCapped": null
+          "status": "no_data"
         },
         {
           "exDate": "2025-06-19",
