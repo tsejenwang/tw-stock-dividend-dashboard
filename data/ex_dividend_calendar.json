@@ -1,15 +1,6 @@
 {
-  "generated_at": "2026-09-24",
+  "generated_at": "2026-09-25",
   "upcoming": [
-    {
-      "code": "1235",
-      "name": "興泰",
-      "market": "tse",
-      "ex_date": "2026-09-24",
-      "type": "權息",
-      "cash_dividend": 0.5,
-      "stock_dividend_ratio": 0.04999999
-    },
     {
       "code": "2109",
       "name": "華豐",
@@ -326,6 +317,15 @@
       "stock_dividend_ratio": null
     },
     {
+      "code": "1727",
+      "name": "中華化",
+      "market": "tse",
+      "ex_date": "2026-10-13",
+      "type": "權",
+      "cash_dividend": null,
+      "stock_dividend_ratio": null
+    },
+    {
       "code": "8102",
       "name": "傑霖科技",
       "market": "otc",
@@ -363,6 +363,15 @@
     }
   ],
   "recent": [
+    {
+      "code": "1235",
+      "name": "興泰",
+      "market": "tse",
+      "ex_date": "2026-09-24",
+      "type": "權息",
+      "cash_dividend": 0.5,
+      "stock_dividend_ratio": 0.04999999
+    },
     {
       "code": "00930",
       "name": "永豐ESG低碳高息",
@@ -478,15 +487,6 @@
       "ex_date": "2026-09-22",
       "type": "除權",
       "cash_dividend": null,
-      "stock_dividend_ratio": null
-    },
-    {
-      "code": "00713",
-      "name": "元大台灣高息低波",
-      "market": "tse",
-      "ex_date": "2026-09-21",
-      "type": "息",
-      "cash_dividend": 1.25,
       "stock_dividend_ratio": null
     },
     {
