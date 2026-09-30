@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-29",
+  "generated_at": "2026-09-30",
   "stocks": {
     "1432": {
       "name": "大魯閣",
-      "computed_at": "2026-09-29",
+      "computed_at": "2026-09-30",
       "events": [
         {
           "exDate": "2026-06-23",
@@ -25,7 +25,7 @@
     },
     "1436": {
       "name": "華友聯",
-      "computed_at": "2026-09-29",
+      "computed_at": "2026-09-30",
       "events": [
         {
           "exDate": "2026-07-23",
@@ -258,6 +258,78 @@
         {
           "exDate": "2017-07-13",
           "preClose": 13.85,
+          "type": "息",
+          "status": "no_data"
+        }
+      ]
+    },
+    "2387": {
+      "name": "精元",
+      "computed_at": "2026-08-21",
+      "events": [
+        {
+          "exDate": "2026-03-27",
+          "preClose": 44.6,
+          "type": "息",
+          "status": "no_data"
+        },
+        {
+          "exDate": "2025-06-24",
+          "preClose": 50.4,
+          "type": "息",
+          "status": "no_data"
+        },
+        {
+          "exDate": "2024-07-09",
+          "preClose": 59.7,
+          "type": "息",
+          "status": "no_data"
+        },
+        {
+          "exDate": "2023-07-11",
+          "preClose": 44.95,
+          "type": "息",
+          "status": "no_data"
+        },
+        {
+          "exDate": "2022-08-11",
+          "preClose": 41.1,
+          "type": "息",
+          "status": "no_data"
+        },
+        {
+          "exDate": "2021-07-23",
+          "preClose": 57.5,
+          "type": "息",
+          "status": "no_data"
+        },
+        {
+          "exDate": "2020-09-17",
+          "preClose": 70.3,
+          "type": "息",
+          "status": "no_data"
+        },
+        {
+          "exDate": "2019-07-22",
+          "preClose": 32.8,
+          "type": "息",
+          "status": "no_data"
+        },
+        {
+          "exDate": "2018-08-31",
+          "preClose": 16.55,
+          "type": "息",
+          "status": "no_data"
+        },
+        {
+          "exDate": "2017-10-11",
+          "preClose": 19.45,
+          "type": "息",
+          "status": "no_data"
+        },
+        {
+          "exDate": "2016-10-05",
+          "preClose": 19.35,
           "type": "息",
           "status": "no_data"
         }
@@ -2230,78 +2302,6 @@
           "fillDays": 179,
           "maintainDays": 151,
           "maintainCapped": false
-        }
-      ]
-    },
-    "2387": {
-      "name": "精元",
-      "computed_at": "2026-08-21",
-      "events": [
-        {
-          "exDate": "2026-03-27",
-          "preClose": 44.6,
-          "type": "息",
-          "status": "no_data"
-        },
-        {
-          "exDate": "2025-06-24",
-          "preClose": 50.4,
-          "type": "息",
-          "status": "no_data"
-        },
-        {
-          "exDate": "2024-07-09",
-          "preClose": 59.7,
-          "type": "息",
-          "status": "no_data"
-        },
-        {
-          "exDate": "2023-07-11",
-          "preClose": 44.95,
-          "type": "息",
-          "status": "no_data"
-        },
-        {
-          "exDate": "2022-08-11",
-          "preClose": 41.1,
-          "type": "息",
-          "status": "no_data"
-        },
-        {
-          "exDate": "2021-07-23",
-          "preClose": 57.5,
-          "type": "息",
-          "status": "no_data"
-        },
-        {
-          "exDate": "2020-09-17",
-          "preClose": 70.3,
-          "type": "息",
-          "status": "no_data"
-        },
-        {
-          "exDate": "2019-07-22",
-          "preClose": 32.8,
-          "type": "息",
-          "status": "no_data"
-        },
-        {
-          "exDate": "2018-08-31",
-          "preClose": 16.55,
-          "type": "息",
-          "status": "no_data"
-        },
-        {
-          "exDate": "2017-10-11",
-          "preClose": 19.45,
-          "type": "息",
-          "status": "no_data"
-        },
-        {
-          "exDate": "2016-10-05",
-          "preClose": 19.35,
-          "type": "息",
-          "status": "no_data"
         }
       ]
     },
