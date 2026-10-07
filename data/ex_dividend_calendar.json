@@ -1,24 +1,6 @@
 {
-  "generated_at": "2026-10-06",
+  "generated_at": "2026-10-07",
   "upcoming": [
-    {
-      "code": "2614",
-      "name": "東森",
-      "market": "tse",
-      "ex_date": "2026-10-06",
-      "type": "權息",
-      "cash_dividend": 0.4,
-      "stock_dividend_ratio": 0.08
-    },
-    {
-      "code": "8021",
-      "name": "尖點",
-      "market": "tse",
-      "ex_date": "2026-10-06",
-      "type": "權",
-      "cash_dividend": null,
-      "stock_dividend_ratio": null
-    },
     {
       "code": "00940",
       "name": "元大台灣價值高息",
@@ -1101,6 +1083,24 @@
     }
   ],
   "recent": [
+    {
+      "code": "2614",
+      "name": "東森",
+      "market": "tse",
+      "ex_date": "2026-10-06",
+      "type": "權息",
+      "cash_dividend": 0.4,
+      "stock_dividend_ratio": 0.08
+    },
+    {
+      "code": "8021",
+      "name": "尖點",
+      "market": "tse",
+      "ex_date": "2026-10-06",
+      "type": "權",
+      "cash_dividend": null,
+      "stock_dividend_ratio": null
+    },
     {
       "code": "00406A",
       "name": "主動中信台灣收益",
