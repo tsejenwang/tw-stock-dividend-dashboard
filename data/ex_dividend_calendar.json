@@ -1,87 +1,6 @@
 {
-  "generated_at": "2026-10-07",
+  "generated_at": "2026-10-08",
   "upcoming": [
-    {
-      "code": "00940",
-      "name": "元大台灣價值高息",
-      "market": "tse",
-      "ex_date": "2026-10-07",
-      "type": "息",
-      "cash_dividend": 0.055,
-      "stock_dividend_ratio": null
-    },
-    {
-      "code": "00946",
-      "name": "群益科技高息成長",
-      "market": "tse",
-      "ex_date": "2026-10-07",
-      "type": "息",
-      "cash_dividend": 0.058,
-      "stock_dividend_ratio": null
-    },
-    {
-      "code": "00953B",
-      "name": "群益優選非投等債",
-      "market": "tse",
-      "ex_date": "2026-10-07",
-      "type": "息",
-      "cash_dividend": 0.067,
-      "stock_dividend_ratio": null
-    },
-    {
-      "code": "00985B",
-      "name": "群益ESG投等債0-5",
-      "market": "tse",
-      "ex_date": "2026-10-07",
-      "type": "息",
-      "cash_dividend": 0.053,
-      "stock_dividend_ratio": null
-    },
-    {
-      "code": "2890",
-      "name": "永豐金",
-      "market": "tse",
-      "ex_date": "2026-10-07",
-      "type": "權",
-      "cash_dividend": null,
-      "stock_dividend_ratio": null
-    },
-    {
-      "code": "6108",
-      "name": "競國",
-      "market": "tse",
-      "ex_date": "2026-10-07",
-      "type": "息",
-      "cash_dividend": 1.0,
-      "stock_dividend_ratio": null
-    },
-    {
-      "code": "6947",
-      "name": "台鎔科技",
-      "market": "tse",
-      "ex_date": "2026-10-07",
-      "type": "息",
-      "cash_dividend": 0.533326,
-      "stock_dividend_ratio": null
-    },
-    {
-      "code": "2947",
-      "name": "振宇五金",
-      "market": "otc",
-      "ex_date": "2026-10-07",
-      "type": "除息",
-      "cash_dividend": 1.0,
-      "stock_dividend_ratio": null
-    },
-    {
-      "code": "6129",
-      "name": "普誠",
-      "market": "otc",
-      "ex_date": "2026-10-07",
-      "type": "除權",
-      "cash_dividend": null,
-      "stock_dividend_ratio": null
-    },
     {
       "code": "00400A",
       "name": "主動國泰動能高息",
@@ -839,15 +758,6 @@
       "stock_dividend_ratio": null
     },
     {
-      "code": "4155",
-      "name": "訊映",
-      "market": "tse",
-      "ex_date": "2026-10-20",
-      "type": "息",
-      "cash_dividend": 0.3,
-      "stock_dividend_ratio": null
-    },
-    {
       "code": "00931B",
       "name": "統一美債20年",
       "market": "otc",
@@ -1010,6 +920,15 @@
       "stock_dividend_ratio": null
     },
     {
+      "code": "2028",
+      "name": "威致",
+      "market": "tse",
+      "ex_date": "2026-10-23",
+      "type": "息",
+      "cash_dividend": 0.2,
+      "stock_dividend_ratio": null
+    },
+    {
       "code": "6931",
       "name": "青松健康",
       "market": "tse",
@@ -1042,6 +961,15 @@
       "market": "otc",
       "ex_date": "2026-10-27",
       "type": "除息",
+      "cash_dividend": null,
+      "stock_dividend_ratio": null
+    },
+    {
+      "code": "3691",
+      "name": "碩禾",
+      "market": "otc",
+      "ex_date": "2026-10-27",
+      "type": "除權",
       "cash_dividend": null,
       "stock_dividend_ratio": null
     },
@@ -1084,6 +1012,87 @@
   ],
   "recent": [
     {
+      "code": "00940",
+      "name": "元大台灣價值高息",
+      "market": "tse",
+      "ex_date": "2026-10-07",
+      "type": "息",
+      "cash_dividend": 0.055,
+      "stock_dividend_ratio": null
+    },
+    {
+      "code": "00946",
+      "name": "群益科技高息成長",
+      "market": "tse",
+      "ex_date": "2026-10-07",
+      "type": "息",
+      "cash_dividend": 0.058,
+      "stock_dividend_ratio": null
+    },
+    {
+      "code": "00953B",
+      "name": "群益優選非投等債",
+      "market": "tse",
+      "ex_date": "2026-10-07",
+      "type": "息",
+      "cash_dividend": 0.067,
+      "stock_dividend_ratio": null
+    },
+    {
+      "code": "00985B",
+      "name": "群益ESG投等債0-5",
+      "market": "tse",
+      "ex_date": "2026-10-07",
+      "type": "息",
+      "cash_dividend": 0.053,
+      "stock_dividend_ratio": null
+    },
+    {
+      "code": "2890",
+      "name": "永豐金",
+      "market": "tse",
+      "ex_date": "2026-10-07",
+      "type": "權",
+      "cash_dividend": null,
+      "stock_dividend_ratio": null
+    },
+    {
+      "code": "6108",
+      "name": "競國",
+      "market": "tse",
+      "ex_date": "2026-10-07",
+      "type": "息",
+      "cash_dividend": 1.0,
+      "stock_dividend_ratio": null
+    },
+    {
+      "code": "6947",
+      "name": "台鎔科技",
+      "market": "tse",
+      "ex_date": "2026-10-07",
+      "type": "息",
+      "cash_dividend": 0.533326,
+      "stock_dividend_ratio": null
+    },
+    {
+      "code": "2947",
+      "name": "振宇五金",
+      "market": "otc",
+      "ex_date": "2026-10-07",
+      "type": "除息",
+      "cash_dividend": 1.0,
+      "stock_dividend_ratio": null
+    },
+    {
+      "code": "6129",
+      "name": "普誠",
+      "market": "otc",
+      "ex_date": "2026-10-07",
+      "type": "除權",
+      "cash_dividend": null,
+      "stock_dividend_ratio": null
+    },
+    {
       "code": "2614",
       "name": "東森",
       "market": "tse",
@@ -1099,33 +1108,6 @@
       "ex_date": "2026-10-06",
       "type": "權",
       "cash_dividend": null,
-      "stock_dividend_ratio": null
-    },
-    {
-      "code": "00406A",
-      "name": "主動中信台灣收益",
-      "market": "tse",
-      "ex_date": "2026-10-05",
-      "type": "息",
-      "cash_dividend": 0.138,
-      "stock_dividend_ratio": null
-    },
-    {
-      "code": "00939",
-      "name": "統一台灣高息動能",
-      "market": "tse",
-      "ex_date": "2026-10-05",
-      "type": "息",
-      "cash_dividend": 0.125,
-      "stock_dividend_ratio": null
-    },
-    {
-      "code": "00984D",
-      "name": "主動聯博全球非投",
-      "market": "tse",
-      "ex_date": "2026-10-05",
-      "type": "息",
-      "cash_dividend": 0.085,
       "stock_dividend_ratio": null
     },
     {
@@ -1198,15 +1180,6 @@
       "ex_date": "2026-10-05",
       "type": "除息",
       "cash_dividend": 0.1,
-      "stock_dividend_ratio": null
-    },
-    {
-      "code": "6834",
-      "name": "天二科技",
-      "market": "tse",
-      "ex_date": "2026-10-02",
-      "type": "權",
-      "cash_dividend": null,
       "stock_dividend_ratio": null
     },
     {
