@@ -1,15 +1,6 @@
 {
-  "generated_at": "2026-10-08",
+  "generated_at": "2026-10-09",
   "upcoming": [
-    {
-      "code": "00400A",
-      "name": "主動國泰動能高息",
-      "market": "tse",
-      "ex_date": "2026-10-08",
-      "type": "息",
-      "cash_dividend": 0.12,
-      "stock_dividend_ratio": null
-    },
     {
       "code": "1449",
       "name": "佳和",
@@ -1011,6 +1002,15 @@
     }
   ],
   "recent": [
+    {
+      "code": "00400A",
+      "name": "主動國泰動能高息",
+      "market": "tse",
+      "ex_date": "2026-10-08",
+      "type": "息",
+      "cash_dividend": 0.12,
+      "stock_dividend_ratio": null
+    },
     {
       "code": "00940",
       "name": "元大台灣價值高息",
