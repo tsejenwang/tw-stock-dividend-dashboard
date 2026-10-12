@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09",
+  "generated_at": "2026-10-12",
   "upcoming": [
     {
       "code": "1449",
@@ -1180,42 +1180,6 @@
       "ex_date": "2026-10-05",
       "type": "除息",
       "cash_dividend": 0.1,
-      "stock_dividend_ratio": null
-    },
-    {
-      "code": "6171",
-      "name": "大城地產",
-      "market": "otc",
-      "ex_date": "2026-10-02",
-      "type": "除息",
-      "cash_dividend": 2.0,
-      "stock_dividend_ratio": null
-    },
-    {
-      "code": "1784",
-      "name": "訊聯",
-      "market": "otc",
-      "ex_date": "2026-10-01",
-      "type": "除息",
-      "cash_dividend": 0.880964,
-      "stock_dividend_ratio": null
-    },
-    {
-      "code": "6523",
-      "name": "達爾膚",
-      "market": "otc",
-      "ex_date": "2026-10-01",
-      "type": "除息",
-      "cash_dividend": 2.0,
-      "stock_dividend_ratio": null
-    },
-    {
-      "code": "8440",
-      "name": "綠電",
-      "market": "otc",
-      "ex_date": "2026-09-30",
-      "type": "除息",
-      "cash_dividend": 0.35,
       "stock_dividend_ratio": null
     }
   ]

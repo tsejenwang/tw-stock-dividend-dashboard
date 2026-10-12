@@ -14,23 +14,23 @@
     "code": "6596",
     "name": "寬宏藝術",
     "market": "otc",
-    "yield": 19.32,
-    "pe_ratio": 4.84,
-    "pb_ratio": 2.99,
+    "yield": 19.42,
+    "pe_ratio": 4.82,
+    "pb_ratio": 2.97,
     "cash_dividend": 18.7,
-    "close": 96.8,
-    "date": "2026-10-08"
+    "close": 96.3,
+    "date": "2026-10-12"
   },
   {
     "code": "6186",
     "name": "新潤",
     "market": "otc",
-    "yield": 17.33,
-    "pe_ratio": 5.7,
+    "yield": 17.27,
+    "pe_ratio": 5.72,
     "pb_ratio": 1.23,
     "cash_dividend": 5.00793304,
-    "close": 28.9,
-    "date": "2026-10-08"
+    "close": 29.0,
+    "date": "2026-10-12"
   },
   {
     "code": "2528",
@@ -47,12 +47,12 @@
     "code": "4303",
     "name": "信立",
     "market": "otc",
-    "yield": 15.8,
-    "pe_ratio": 3.41,
-    "pb_ratio": 0.89,
+    "yield": 15.6,
+    "pe_ratio": 3.45,
+    "pb_ratio": 0.9,
     "cash_dividend": 5.00000002,
-    "close": 31.65,
-    "date": "2026-10-08"
+    "close": 32.05,
+    "date": "2026-10-12"
   },
   {
     "code": "5519",
@@ -66,6 +66,17 @@
     "date": "2026-10-08"
   },
   {
+    "code": "2718",
+    "name": "全心投控",
+    "market": "otc",
+    "yield": 14.05,
+    "pe_ratio": 3.81,
+    "pb_ratio": 0.56,
+    "cash_dividend": 5.57001412,
+    "close": null,
+    "date": "2026-10-12"
+  },
+  {
     "code": "1436",
     "name": "華友聯",
     "market": "tse",
@@ -77,28 +88,6 @@
     "date": "2026-10-08"
   },
   {
-    "code": "2718",
-    "name": "全心投控",
-    "market": "otc",
-    "yield": 14.03,
-    "pe_ratio": 3.81,
-    "pb_ratio": 0.56,
-    "cash_dividend": 5.57001412,
-    "close": null,
-    "date": "2026-10-08"
-  },
-  {
-    "code": "3188",
-    "name": "鑫龍騰",
-    "market": "otc",
-    "yield": 13.98,
-    "pe_ratio": 3.23,
-    "pb_ratio": 1.28,
-    "cash_dividend": 3.19551547,
-    "close": 22.85,
-    "date": "2026-10-08"
-  },
-  {
     "code": "5213",
     "name": "亞昕",
     "market": "otc",
@@ -107,7 +96,18 @@
     "pb_ratio": 1.0,
     "cash_dividend": 2.8,
     "close": 20.05,
-    "date": "2026-10-08"
+    "date": "2026-10-12"
+  },
+  {
+    "code": "3188",
+    "name": "鑫龍騰",
+    "market": "otc",
+    "yield": 13.89,
+    "pe_ratio": 3.25,
+    "pb_ratio": 1.29,
+    "cash_dividend": 3.19551547,
+    "close": 23.0,
+    "date": "2026-10-12"
   },
   {
     "code": "1432",
@@ -124,12 +124,12 @@
     "code": "3489",
     "name": "森寶",
     "market": "otc",
-    "yield": 13.25,
+    "yield": 13.16,
     "pe_ratio": null,
-    "pb_ratio": 2.19,
+    "pb_ratio": 2.2,
     "cash_dividend": 3.0,
-    "close": 22.65,
-    "date": "2026-10-08"
+    "close": 22.8,
+    "date": "2026-10-12"
   },
   {
     "code": "4137",
@@ -179,12 +179,12 @@
     "code": "6523",
     "name": "達爾膚",
     "market": "otc",
-    "yield": 11.25,
-    "pe_ratio": 13.45,
-    "pb_ratio": 3.14,
+    "yield": 11.33,
+    "pe_ratio": 13.36,
+    "pb_ratio": 3.12,
     "cash_dividend": 10.0,
-    "close": 88.9,
-    "date": "2026-10-08"
+    "close": 88.3,
+    "date": "2026-10-12"
   },
   {
     "code": "1446",
@@ -209,14 +209,14 @@
     "date": "2026-10-08"
   },
   {
-    "code": "4523",
-    "name": "永彰",
+    "code": "6961",
+    "name": "旅天下",
     "market": "otc",
-    "yield": 11.01,
-    "pe_ratio": 0.9,
-    "pb_ratio": 0.86,
-    "cash_dividend": 2.64194037,
-    "close": 24.0,
-    "date": "2026-10-08"
+    "yield": 10.99,
+    "pe_ratio": 17.7,
+    "pb_ratio": 1.33,
+    "cash_dividend": 5.0,
+    "close": 45.5,
+    "date": "2026-10-12"
   }
 ]
