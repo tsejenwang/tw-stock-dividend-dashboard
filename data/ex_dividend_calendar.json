@@ -1,24 +1,6 @@
 {
-  "generated_at": "2026-10-12",
+  "generated_at": "2026-10-13",
   "upcoming": [
-    {
-      "code": "1449",
-      "name": "佳和",
-      "market": "tse",
-      "ex_date": "2026-10-12",
-      "type": "權",
-      "cash_dividend": null,
-      "stock_dividend_ratio": 0.00999999
-    },
-    {
-      "code": "1565",
-      "name": "精華",
-      "market": "otc",
-      "ex_date": "2026-10-12",
-      "type": "除息",
-      "cash_dividend": 5.8,
-      "stock_dividend_ratio": null
-    },
     {
       "code": "1727",
       "name": "中華化",
@@ -295,7 +277,7 @@
       "market": "tse",
       "ex_date": "2026-10-19",
       "type": "息",
-      "cash_dividend": null,
+      "cash_dividend": 0.36,
       "stock_dividend_ratio": null
     },
     {
@@ -439,7 +421,7 @@
       "market": "tse",
       "ex_date": "2026-10-19",
       "type": "息",
-      "cash_dividend": null,
+      "cash_dividend": 0.73,
       "stock_dividend_ratio": null
     },
     {
@@ -691,7 +673,7 @@
       "market": "otc",
       "ex_date": "2026-10-19",
       "type": "除息",
-      "cash_dividend": null,
+      "cash_dividend": 0.064,
       "stock_dividend_ratio": null
     },
     {
@@ -974,6 +956,15 @@
       "stock_dividend_ratio": null
     },
     {
+      "code": "00726B",
+      "name": "國泰新興投等債",
+      "market": "otc",
+      "ex_date": "2026-10-28",
+      "type": "除息",
+      "cash_dividend": null,
+      "stock_dividend_ratio": null
+    },
+    {
       "code": "00990B",
       "name": "國泰收益非投等債",
       "market": "otc",
@@ -1003,75 +994,30 @@
   ],
   "recent": [
     {
+      "code": "1449",
+      "name": "佳和",
+      "market": "tse",
+      "ex_date": "2026-10-12",
+      "type": "權",
+      "cash_dividend": null,
+      "stock_dividend_ratio": 0.00999999
+    },
+    {
+      "code": "1565",
+      "name": "精華",
+      "market": "otc",
+      "ex_date": "2026-10-12",
+      "type": "除息",
+      "cash_dividend": 5.8,
+      "stock_dividend_ratio": null
+    },
+    {
       "code": "00400A",
       "name": "主動國泰動能高息",
       "market": "tse",
       "ex_date": "2026-10-08",
       "type": "息",
       "cash_dividend": 0.12,
-      "stock_dividend_ratio": null
-    },
-    {
-      "code": "00940",
-      "name": "元大台灣價值高息",
-      "market": "tse",
-      "ex_date": "2026-10-07",
-      "type": "息",
-      "cash_dividend": 0.055,
-      "stock_dividend_ratio": null
-    },
-    {
-      "code": "00946",
-      "name": "群益科技高息成長",
-      "market": "tse",
-      "ex_date": "2026-10-07",
-      "type": "息",
-      "cash_dividend": 0.058,
-      "stock_dividend_ratio": null
-    },
-    {
-      "code": "00953B",
-      "name": "群益優選非投等債",
-      "market": "tse",
-      "ex_date": "2026-10-07",
-      "type": "息",
-      "cash_dividend": 0.067,
-      "stock_dividend_ratio": null
-    },
-    {
-      "code": "00985B",
-      "name": "群益ESG投等債0-5",
-      "market": "tse",
-      "ex_date": "2026-10-07",
-      "type": "息",
-      "cash_dividend": 0.053,
-      "stock_dividend_ratio": null
-    },
-    {
-      "code": "2890",
-      "name": "永豐金",
-      "market": "tse",
-      "ex_date": "2026-10-07",
-      "type": "權",
-      "cash_dividend": null,
-      "stock_dividend_ratio": null
-    },
-    {
-      "code": "6108",
-      "name": "競國",
-      "market": "tse",
-      "ex_date": "2026-10-07",
-      "type": "息",
-      "cash_dividend": 1.0,
-      "stock_dividend_ratio": null
-    },
-    {
-      "code": "6947",
-      "name": "台鎔科技",
-      "market": "tse",
-      "ex_date": "2026-10-07",
-      "type": "息",
-      "cash_dividend": 0.533326,
       "stock_dividend_ratio": null
     },
     {
@@ -1089,24 +1035,6 @@
       "market": "otc",
       "ex_date": "2026-10-07",
       "type": "除權",
-      "cash_dividend": null,
-      "stock_dividend_ratio": null
-    },
-    {
-      "code": "2614",
-      "name": "東森",
-      "market": "tse",
-      "ex_date": "2026-10-06",
-      "type": "權息",
-      "cash_dividend": 0.4,
-      "stock_dividend_ratio": 0.08
-    },
-    {
-      "code": "8021",
-      "name": "尖點",
-      "market": "tse",
-      "ex_date": "2026-10-06",
-      "type": "權",
       "cash_dividend": null,
       "stock_dividend_ratio": null
     },
