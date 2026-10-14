@@ -1,24 +1,6 @@
 {
-  "generated_at": "2026-10-13",
+  "generated_at": "2026-10-14",
   "upcoming": [
-    {
-      "code": "1727",
-      "name": "中華化",
-      "market": "tse",
-      "ex_date": "2026-10-13",
-      "type": "權",
-      "cash_dividend": null,
-      "stock_dividend_ratio": null
-    },
-    {
-      "code": "2938",
-      "name": "床的世界",
-      "market": "otc",
-      "ex_date": "2026-10-13",
-      "type": "除息",
-      "cash_dividend": 0.61725044,
-      "stock_dividend_ratio": null
-    },
     {
       "code": "4903",
       "name": "聯光通",
@@ -34,7 +16,7 @@
       "market": "tse",
       "ex_date": "2026-10-15",
       "type": "息",
-      "cash_dividend": null,
+      "cash_dividend": 0.131,
       "stock_dividend_ratio": null
     },
     {
@@ -947,6 +929,15 @@
       "stock_dividend_ratio": null
     },
     {
+      "code": "2025",
+      "name": "千興",
+      "market": "tse",
+      "ex_date": "2026-10-28",
+      "type": "權",
+      "cash_dividend": null,
+      "stock_dividend_ratio": null
+    },
+    {
       "code": "4552",
       "name": "力達-KY",
       "market": "tse",
@@ -974,6 +965,24 @@
       "stock_dividend_ratio": null
     },
     {
+      "code": "2762",
+      "name": "世界健身-KY",
+      "market": "tse",
+      "ex_date": "2026-10-29",
+      "type": "息",
+      "cash_dividend": 1.807197,
+      "stock_dividend_ratio": null
+    },
+    {
+      "code": "3563",
+      "name": "牧德",
+      "market": "tse",
+      "ex_date": "2026-10-29",
+      "type": "息",
+      "cash_dividend": 1.0,
+      "stock_dividend_ratio": null
+    },
+    {
       "code": "5522",
       "name": "遠雄",
       "market": "tse",
@@ -994,6 +1003,24 @@
   ],
   "recent": [
     {
+      "code": "1727",
+      "name": "中華化",
+      "market": "tse",
+      "ex_date": "2026-10-13",
+      "type": "權",
+      "cash_dividend": null,
+      "stock_dividend_ratio": null
+    },
+    {
+      "code": "2938",
+      "name": "床的世界",
+      "market": "otc",
+      "ex_date": "2026-10-13",
+      "type": "除息",
+      "cash_dividend": 0.61725044,
+      "stock_dividend_ratio": null
+    },
+    {
       "code": "1449",
       "name": "佳和",
       "market": "tse",
@@ -1009,15 +1036,6 @@
       "ex_date": "2026-10-12",
       "type": "除息",
       "cash_dividend": 5.8,
-      "stock_dividend_ratio": null
-    },
-    {
-      "code": "00400A",
-      "name": "主動國泰動能高息",
-      "market": "tse",
-      "ex_date": "2026-10-08",
-      "type": "息",
-      "cash_dividend": 0.12,
       "stock_dividend_ratio": null
     },
     {
