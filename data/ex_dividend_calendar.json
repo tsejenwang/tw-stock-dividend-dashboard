@@ -1,33 +1,6 @@
 {
-  "generated_at": "2026-10-15",
+  "generated_at": "2026-10-16",
   "upcoming": [
-    {
-      "code": "00401A",
-      "name": "主動摩根台灣鑫收",
-      "market": "tse",
-      "ex_date": "2026-10-15",
-      "type": "息",
-      "cash_dividend": 0.131,
-      "stock_dividend_ratio": null
-    },
-    {
-      "code": "1463",
-      "name": "強盛新",
-      "market": "tse",
-      "ex_date": "2026-10-15",
-      "type": "息",
-      "cash_dividend": 0.1273,
-      "stock_dividend_ratio": null
-    },
-    {
-      "code": "6548",
-      "name": "長科*",
-      "market": "otc",
-      "ex_date": "2026-10-15",
-      "type": "除息",
-      "cash_dividend": 0.45105516,
-      "stock_dividend_ratio": null
-    },
     {
       "code": "00851",
       "name": "台新全球AI",
@@ -151,7 +124,7 @@
       "market": "tse",
       "ex_date": "2026-10-19",
       "type": "息",
-      "cash_dividend": null,
+      "cash_dividend": 0.123,
       "stock_dividend_ratio": null
     },
     {
@@ -160,7 +133,7 @@
       "market": "tse",
       "ex_date": "2026-10-19",
       "type": "息",
-      "cash_dividend": null,
+      "cash_dividend": 0.141,
       "stock_dividend_ratio": null
     },
     {
@@ -169,7 +142,7 @@
       "market": "tse",
       "ex_date": "2026-10-19",
       "type": "息",
-      "cash_dividend": null,
+      "cash_dividend": 0.11,
       "stock_dividend_ratio": null
     },
     {
@@ -178,7 +151,7 @@
       "market": "tse",
       "ex_date": "2026-10-19",
       "type": "息",
-      "cash_dividend": null,
+      "cash_dividend": 1.487,
       "stock_dividend_ratio": null
     },
     {
@@ -187,7 +160,7 @@
       "market": "tse",
       "ex_date": "2026-10-19",
       "type": "息",
-      "cash_dividend": null,
+      "cash_dividend": 0.075,
       "stock_dividend_ratio": null
     },
     {
@@ -196,7 +169,7 @@
       "market": "tse",
       "ex_date": "2026-10-19",
       "type": "息",
-      "cash_dividend": null,
+      "cash_dividend": 0.6,
       "stock_dividend_ratio": null
     },
     {
@@ -205,7 +178,7 @@
       "market": "tse",
       "ex_date": "2026-10-19",
       "type": "息",
-      "cash_dividend": null,
+      "cash_dividend": 0.145,
       "stock_dividend_ratio": null
     },
     {
@@ -214,7 +187,7 @@
       "market": "tse",
       "ex_date": "2026-10-19",
       "type": "息",
-      "cash_dividend": null,
+      "cash_dividend": 1.8,
       "stock_dividend_ratio": null
     },
     {
@@ -223,7 +196,7 @@
       "market": "tse",
       "ex_date": "2026-10-19",
       "type": "息",
-      "cash_dividend": null,
+      "cash_dividend": 2.1,
       "stock_dividend_ratio": null
     },
     {
@@ -232,7 +205,7 @@
       "market": "tse",
       "ex_date": "2026-10-19",
       "type": "息",
-      "cash_dividend": null,
+      "cash_dividend": 2.0,
       "stock_dividend_ratio": null
     },
     {
@@ -241,7 +214,7 @@
       "market": "tse",
       "ex_date": "2026-10-19",
       "type": "息",
-      "cash_dividend": null,
+      "cash_dividend": 0.5,
       "stock_dividend_ratio": null
     },
     {
@@ -259,7 +232,7 @@
       "market": "tse",
       "ex_date": "2026-10-19",
       "type": "息",
-      "cash_dividend": null,
+      "cash_dividend": 0.109,
       "stock_dividend_ratio": null
     },
     {
@@ -268,7 +241,7 @@
       "market": "tse",
       "ex_date": "2026-10-19",
       "type": "息",
-      "cash_dividend": null,
+      "cash_dividend": 0.097,
       "stock_dividend_ratio": null
     },
     {
@@ -277,7 +250,7 @@
       "market": "tse",
       "ex_date": "2026-10-19",
       "type": "息",
-      "cash_dividend": null,
+      "cash_dividend": 0.12,
       "stock_dividend_ratio": null
     },
     {
@@ -286,7 +259,7 @@
       "market": "tse",
       "ex_date": "2026-10-19",
       "type": "息",
-      "cash_dividend": null,
+      "cash_dividend": 0.3,
       "stock_dividend_ratio": null
     },
     {
@@ -295,7 +268,7 @@
       "market": "tse",
       "ex_date": "2026-10-19",
       "type": "息",
-      "cash_dividend": null,
+      "cash_dividend": 0.28,
       "stock_dividend_ratio": null
     },
     {
@@ -304,7 +277,7 @@
       "market": "tse",
       "ex_date": "2026-10-19",
       "type": "息",
-      "cash_dividend": null,
+      "cash_dividend": 0.09,
       "stock_dividend_ratio": null
     },
     {
@@ -313,7 +286,7 @@
       "market": "tse",
       "ex_date": "2026-10-19",
       "type": "息",
-      "cash_dividend": null,
+      "cash_dividend": 0.1,
       "stock_dividend_ratio": null
     },
     {
@@ -322,7 +295,7 @@
       "market": "tse",
       "ex_date": "2026-10-19",
       "type": "息",
-      "cash_dividend": null,
+      "cash_dividend": 0.2,
       "stock_dividend_ratio": null
     },
     {
@@ -331,7 +304,7 @@
       "market": "tse",
       "ex_date": "2026-10-19",
       "type": "息",
-      "cash_dividend": null,
+      "cash_dividend": 0.082,
       "stock_dividend_ratio": null
     },
     {
@@ -340,7 +313,7 @@
       "market": "tse",
       "ex_date": "2026-10-19",
       "type": "息",
-      "cash_dividend": null,
+      "cash_dividend": 0.052,
       "stock_dividend_ratio": null
     },
     {
@@ -349,7 +322,7 @@
       "market": "tse",
       "ex_date": "2026-10-19",
       "type": "息",
-      "cash_dividend": null,
+      "cash_dividend": 0.061,
       "stock_dividend_ratio": null
     },
     {
@@ -358,7 +331,7 @@
       "market": "tse",
       "ex_date": "2026-10-19",
       "type": "息",
-      "cash_dividend": null,
+      "cash_dividend": 0.473,
       "stock_dividend_ratio": null
     },
     {
@@ -367,7 +340,7 @@
       "market": "tse",
       "ex_date": "2026-10-19",
       "type": "息",
-      "cash_dividend": null,
+      "cash_dividend": 2.15,
       "stock_dividend_ratio": null
     },
     {
@@ -376,7 +349,7 @@
       "market": "tse",
       "ex_date": "2026-10-19",
       "type": "息",
-      "cash_dividend": null,
+      "cash_dividend": 0.85,
       "stock_dividend_ratio": null
     },
     {
@@ -385,7 +358,7 @@
       "market": "tse",
       "ex_date": "2026-10-19",
       "type": "息",
-      "cash_dividend": null,
+      "cash_dividend": 0.5,
       "stock_dividend_ratio": null
     },
     {
@@ -403,7 +376,7 @@
       "market": "otc",
       "ex_date": "2026-10-19",
       "type": "除息",
-      "cash_dividend": null,
+      "cash_dividend": 0.399,
       "stock_dividend_ratio": null
     },
     {
@@ -412,7 +385,7 @@
       "market": "otc",
       "ex_date": "2026-10-19",
       "type": "除息",
-      "cash_dividend": null,
+      "cash_dividend": 0.328,
       "stock_dividend_ratio": null
     },
     {
@@ -421,7 +394,7 @@
       "market": "otc",
       "ex_date": "2026-10-19",
       "type": "除息",
-      "cash_dividend": null,
+      "cash_dividend": 0.33,
       "stock_dividend_ratio": null
     },
     {
@@ -430,7 +403,7 @@
       "market": "otc",
       "ex_date": "2026-10-19",
       "type": "除息",
-      "cash_dividend": null,
+      "cash_dividend": 0.514,
       "stock_dividend_ratio": null
     },
     {
@@ -439,7 +412,7 @@
       "market": "otc",
       "ex_date": "2026-10-19",
       "type": "除息",
-      "cash_dividend": null,
+      "cash_dividend": 0.436,
       "stock_dividend_ratio": null
     },
     {
@@ -448,7 +421,7 @@
       "market": "otc",
       "ex_date": "2026-10-19",
       "type": "除息",
-      "cash_dividend": null,
+      "cash_dividend": 0.488,
       "stock_dividend_ratio": null
     },
     {
@@ -457,7 +430,7 @@
       "market": "otc",
       "ex_date": "2026-10-19",
       "type": "除息",
-      "cash_dividend": null,
+      "cash_dividend": 0.49,
       "stock_dividend_ratio": null
     },
     {
@@ -466,7 +439,7 @@
       "market": "otc",
       "ex_date": "2026-10-19",
       "type": "除息",
-      "cash_dividend": null,
+      "cash_dividend": 0.85,
       "stock_dividend_ratio": null
     },
     {
@@ -475,7 +448,7 @@
       "market": "otc",
       "ex_date": "2026-10-19",
       "type": "除息",
-      "cash_dividend": null,
+      "cash_dividend": 0.185,
       "stock_dividend_ratio": null
     },
     {
@@ -484,7 +457,7 @@
       "market": "otc",
       "ex_date": "2026-10-19",
       "type": "除息",
-      "cash_dividend": null,
+      "cash_dividend": 0.199,
       "stock_dividend_ratio": null
     },
     {
@@ -493,7 +466,7 @@
       "market": "otc",
       "ex_date": "2026-10-19",
       "type": "除息",
-      "cash_dividend": null,
+      "cash_dividend": 0.468,
       "stock_dividend_ratio": null
     },
     {
@@ -502,7 +475,7 @@
       "market": "otc",
       "ex_date": "2026-10-19",
       "type": "除息",
-      "cash_dividend": null,
+      "cash_dividend": 0.43,
       "stock_dividend_ratio": null
     },
     {
@@ -511,7 +484,7 @@
       "market": "otc",
       "ex_date": "2026-10-19",
       "type": "除息",
-      "cash_dividend": null,
+      "cash_dividend": 0.42,
       "stock_dividend_ratio": null
     },
     {
@@ -520,7 +493,7 @@
       "market": "otc",
       "ex_date": "2026-10-19",
       "type": "除息",
-      "cash_dividend": null,
+      "cash_dividend": 0.14,
       "stock_dividend_ratio": null
     },
     {
@@ -529,7 +502,7 @@
       "market": "otc",
       "ex_date": "2026-10-19",
       "type": "除息",
-      "cash_dividend": null,
+      "cash_dividend": 0.145,
       "stock_dividend_ratio": null
     },
     {
@@ -538,7 +511,7 @@
       "market": "otc",
       "ex_date": "2026-10-19",
       "type": "除息",
-      "cash_dividend": null,
+      "cash_dividend": 0.14,
       "stock_dividend_ratio": null
     },
     {
@@ -547,7 +520,7 @@
       "market": "otc",
       "ex_date": "2026-10-19",
       "type": "除息",
-      "cash_dividend": null,
+      "cash_dividend": 0.145,
       "stock_dividend_ratio": null
     },
     {
@@ -556,7 +529,7 @@
       "market": "otc",
       "ex_date": "2026-10-19",
       "type": "除息",
-      "cash_dividend": null,
+      "cash_dividend": 0.5,
       "stock_dividend_ratio": null
     },
     {
@@ -565,7 +538,7 @@
       "market": "otc",
       "ex_date": "2026-10-19",
       "type": "除息",
-      "cash_dividend": null,
+      "cash_dividend": 0.508,
       "stock_dividend_ratio": null
     },
     {
@@ -574,7 +547,7 @@
       "market": "otc",
       "ex_date": "2026-10-19",
       "type": "除息",
-      "cash_dividend": null,
+      "cash_dividend": 0.125,
       "stock_dividend_ratio": null
     },
     {
@@ -583,7 +556,7 @@
       "market": "otc",
       "ex_date": "2026-10-19",
       "type": "除息",
-      "cash_dividend": null,
+      "cash_dividend": 0.37,
       "stock_dividend_ratio": null
     },
     {
@@ -592,7 +565,7 @@
       "market": "otc",
       "ex_date": "2026-10-19",
       "type": "除息",
-      "cash_dividend": null,
+      "cash_dividend": 0.33,
       "stock_dividend_ratio": null
     },
     {
@@ -601,7 +574,7 @@
       "market": "otc",
       "ex_date": "2026-10-19",
       "type": "除息",
-      "cash_dividend": null,
+      "cash_dividend": 0.36,
       "stock_dividend_ratio": null
     },
     {
@@ -610,7 +583,7 @@
       "market": "otc",
       "ex_date": "2026-10-19",
       "type": "除息",
-      "cash_dividend": null,
+      "cash_dividend": 0.145,
       "stock_dividend_ratio": null
     },
     {
@@ -619,7 +592,7 @@
       "market": "otc",
       "ex_date": "2026-10-19",
       "type": "除息",
-      "cash_dividend": null,
+      "cash_dividend": 0.073,
       "stock_dividend_ratio": null
     },
     {
@@ -628,7 +601,7 @@
       "market": "otc",
       "ex_date": "2026-10-19",
       "type": "除息",
-      "cash_dividend": null,
+      "cash_dividend": 0.072,
       "stock_dividend_ratio": null
     },
     {
@@ -637,7 +610,7 @@
       "market": "otc",
       "ex_date": "2026-10-19",
       "type": "除息",
-      "cash_dividend": null,
+      "cash_dividend": 0.045,
       "stock_dividend_ratio": null
     },
     {
@@ -655,7 +628,7 @@
       "market": "otc",
       "ex_date": "2026-10-19",
       "type": "除息",
-      "cash_dividend": null,
+      "cash_dividend": 0.114,
       "stock_dividend_ratio": null
     },
     {
@@ -664,7 +637,7 @@
       "market": "otc",
       "ex_date": "2026-10-19",
       "type": "除息",
-      "cash_dividend": null,
+      "cash_dividend": 0.043,
       "stock_dividend_ratio": null
     },
     {
@@ -673,7 +646,7 @@
       "market": "otc",
       "ex_date": "2026-10-19",
       "type": "除息",
-      "cash_dividend": null,
+      "cash_dividend": 0.07,
       "stock_dividend_ratio": null
     },
     {
@@ -682,7 +655,7 @@
       "market": "otc",
       "ex_date": "2026-10-19",
       "type": "除息",
-      "cash_dividend": null,
+      "cash_dividend": 0.045,
       "stock_dividend_ratio": null
     },
     {
@@ -839,15 +812,6 @@
       "stock_dividend_ratio": null
     },
     {
-      "code": "00981B",
-      "name": "第一金優選非投債",
-      "market": "otc",
-      "ex_date": "2026-10-22",
-      "type": "除息",
-      "cash_dividend": null,
-      "stock_dividend_ratio": null
-    },
-    {
       "code": "8102",
       "name": "傑霖科技",
       "market": "otc",
@@ -992,6 +956,33 @@
       "stock_dividend_ratio": null
     },
     {
+      "code": "6165",
+      "name": "浪凡",
+      "market": "tse",
+      "ex_date": "2026-11-02",
+      "type": "息",
+      "cash_dividend": 5.0,
+      "stock_dividend_ratio": null
+    },
+    {
+      "code": "00406A",
+      "name": "主動中信台灣收益",
+      "market": "tse",
+      "ex_date": "2026-11-03",
+      "type": "息",
+      "cash_dividend": null,
+      "stock_dividend_ratio": null
+    },
+    {
+      "code": "020036",
+      "name": "元大金融配息N",
+      "market": "tse",
+      "ex_date": "2026-11-04",
+      "type": "息",
+      "cash_dividend": 0.4,
+      "stock_dividend_ratio": null
+    },
+    {
       "code": "5523",
       "name": "豐謙",
       "market": "otc",
@@ -1003,21 +994,39 @@
   ],
   "recent": [
     {
+      "code": "00401A",
+      "name": "主動摩根台灣鑫收",
+      "market": "tse",
+      "ex_date": "2026-10-15",
+      "type": "息",
+      "cash_dividend": 0.131,
+      "stock_dividend_ratio": null
+    },
+    {
+      "code": "1463",
+      "name": "強盛新",
+      "market": "tse",
+      "ex_date": "2026-10-15",
+      "type": "息",
+      "cash_dividend": 0.1273,
+      "stock_dividend_ratio": null
+    },
+    {
+      "code": "6548",
+      "name": "長科*",
+      "market": "otc",
+      "ex_date": "2026-10-15",
+      "type": "除息",
+      "cash_dividend": 0.45105516,
+      "stock_dividend_ratio": null
+    },
+    {
       "code": "4903",
       "name": "聯光通",
       "market": "otc",
       "ex_date": "2026-10-14",
       "type": "除息",
       "cash_dividend": 0.3,
-      "stock_dividend_ratio": null
-    },
-    {
-      "code": "1727",
-      "name": "中華化",
-      "market": "tse",
-      "ex_date": "2026-10-13",
-      "type": "權",
-      "cash_dividend": null,
       "stock_dividend_ratio": null
     },
     {
