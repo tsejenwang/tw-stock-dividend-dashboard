@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-21",
+  "generated_at": "2026-10-22",
   "stocks": {
     "1432": {
       "name": "大魯閣",
-      "computed_at": "2026-10-21",
+      "computed_at": "2026-10-22",
       "events": [
         {
           "exDate": "2026-06-23",
@@ -25,7 +25,7 @@
     },
     "1436": {
       "name": "華友聯",
-      "computed_at": "2026-10-21",
+      "computed_at": "2026-10-22",
       "events": [
         {
           "exDate": "2026-07-23",
@@ -122,78 +122,6 @@
           "fillDays": 10,
           "maintainDays": 2,
           "maintainCapped": false
-        }
-      ]
-    },
-    "1446": {
-      "name": "宏和",
-      "computed_at": "2026-09-04",
-      "events": [
-        {
-          "exDate": "2026-07-09",
-          "preClose": 17.2,
-          "type": "息",
-          "status": "no_data"
-        },
-        {
-          "exDate": "2025-07-21",
-          "preClose": 23.05,
-          "type": "息",
-          "status": "no_data"
-        },
-        {
-          "exDate": "2024-07-16",
-          "preClose": 53.3,
-          "type": "息",
-          "status": "no_data"
-        },
-        {
-          "exDate": "2023-07-14",
-          "preClose": 37.6,
-          "type": "息",
-          "status": "no_data"
-        },
-        {
-          "exDate": "2022-07-15",
-          "preClose": 32.3,
-          "type": "息",
-          "status": "no_data"
-        },
-        {
-          "exDate": "2021-08-13",
-          "preClose": 31.1,
-          "type": "息",
-          "status": "no_data"
-        },
-        {
-          "exDate": "2020-07-29",
-          "preClose": 27.6,
-          "type": "息",
-          "status": "no_data"
-        },
-        {
-          "exDate": "2019-08-29",
-          "preClose": 30.55,
-          "type": "息",
-          "status": "no_data"
-        },
-        {
-          "exDate": "2018-08-30",
-          "preClose": 25.8,
-          "type": "息",
-          "status": "no_data"
-        },
-        {
-          "exDate": "2017-08-30",
-          "preClose": 22.5,
-          "type": "息",
-          "status": "no_data"
-        },
-        {
-          "exDate": "2016-08-30",
-          "preClose": 18.95,
-          "type": "息",
-          "status": "no_data"
         }
       ]
     },
@@ -1697,6 +1625,22 @@
         }
       ]
     },
+    "6994": {
+      "name": "富威電力",
+      "computed_at": "2026-09-15",
+      "events": [
+        {
+          "exDate": "2025-08-21",
+          "preClose": 90.9,
+          "type": "息",
+          "status": "filled",
+          "fillDate": "2025-08-21",
+          "fillDays": 0,
+          "maintainDays": 6,
+          "maintainCapped": false
+        }
+      ]
+    },
     "8112": {
       "name": "至上",
       "computed_at": "2026-08-21",
@@ -1768,6 +1712,78 @@
         {
           "exDate": "2016-09-05",
           "preClose": 19.9,
+          "type": "息",
+          "status": "no_data"
+        }
+      ]
+    },
+    "1446": {
+      "name": "宏和",
+      "computed_at": "2026-09-04",
+      "events": [
+        {
+          "exDate": "2026-07-09",
+          "preClose": 17.2,
+          "type": "息",
+          "status": "no_data"
+        },
+        {
+          "exDate": "2025-07-21",
+          "preClose": 23.05,
+          "type": "息",
+          "status": "no_data"
+        },
+        {
+          "exDate": "2024-07-16",
+          "preClose": 53.3,
+          "type": "息",
+          "status": "no_data"
+        },
+        {
+          "exDate": "2023-07-14",
+          "preClose": 37.6,
+          "type": "息",
+          "status": "no_data"
+        },
+        {
+          "exDate": "2022-07-15",
+          "preClose": 32.3,
+          "type": "息",
+          "status": "no_data"
+        },
+        {
+          "exDate": "2021-08-13",
+          "preClose": 31.1,
+          "type": "息",
+          "status": "no_data"
+        },
+        {
+          "exDate": "2020-07-29",
+          "preClose": 27.6,
+          "type": "息",
+          "status": "no_data"
+        },
+        {
+          "exDate": "2019-08-29",
+          "preClose": 30.55,
+          "type": "息",
+          "status": "no_data"
+        },
+        {
+          "exDate": "2018-08-30",
+          "preClose": 25.8,
+          "type": "息",
+          "status": "no_data"
+        },
+        {
+          "exDate": "2017-08-30",
+          "preClose": 22.5,
+          "type": "息",
+          "status": "no_data"
+        },
+        {
+          "exDate": "2016-08-30",
+          "preClose": 18.95,
           "type": "息",
           "status": "no_data"
         }
@@ -3472,22 +3488,6 @@
           "status": "not_filled_overdue",
           "fillDays": null,
           "maintainDays": null
-        }
-      ]
-    },
-    "6994": {
-      "name": "富威電力",
-      "computed_at": "2026-09-15",
-      "events": [
-        {
-          "exDate": "2025-08-21",
-          "preClose": 90.9,
-          "type": "息",
-          "status": "filled",
-          "fillDate": "2025-08-21",
-          "fillDays": 0,
-          "maintainDays": 6,
-          "maintainCapped": false
         }
       ]
     },
