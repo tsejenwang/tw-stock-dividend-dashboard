@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-02",
+  "generated_at": "2026-11-03",
   "stocks": {
     "1432": {
       "name": "大魯閣",
-      "computed_at": "2026-11-02",
+      "computed_at": "2026-11-03",
       "events": [
         {
           "exDate": "2026-06-23",
@@ -25,7 +25,7 @@
     },
     "1436": {
       "name": "華友聯",
-      "computed_at": "2026-11-02",
+      "computed_at": "2026-11-03",
       "events": [
         {
           "exDate": "2026-07-23",
@@ -1417,7 +1417,7 @@
     },
     "5522": {
       "name": "遠雄",
-      "computed_at": "2026-11-02",
+      "computed_at": "2026-11-03",
       "events": [
         {
           "exDate": "2026-10-29",
@@ -1579,6 +1579,40 @@
           "fillDate": "2016-09-08",
           "fillDays": 41,
           "maintainDays": 2,
+          "maintainCapped": false
+        }
+      ]
+    },
+    "6165": {
+      "name": "浪凡",
+      "computed_at": "2026-11-03",
+      "events": [
+        {
+          "exDate": "2026-11-02",
+          "preClose": 47.9,
+          "type": "息",
+          "status": "not_filled_yet",
+          "fillDays": null,
+          "maintainDays": null
+        },
+        {
+          "exDate": "2025-07-25",
+          "preClose": 52.6,
+          "type": "息",
+          "status": "filled",
+          "fillDate": "2025-08-01",
+          "fillDays": 7,
+          "maintainDays": 1,
+          "maintainCapped": false
+        },
+        {
+          "exDate": "2024-06-25",
+          "preClose": 40.45,
+          "type": "息",
+          "status": "filled",
+          "fillDate": "2024-10-18",
+          "fillDays": 115,
+          "maintainDays": 111,
           "maintainCapped": false
         }
       ]
@@ -3262,32 +3296,6 @@
           "status": "not_filled_overdue",
           "fillDays": null,
           "maintainDays": null
-        }
-      ]
-    },
-    "6165": {
-      "name": "浪凡",
-      "computed_at": "2026-07-30",
-      "events": [
-        {
-          "exDate": "2025-07-25",
-          "preClose": 52.6,
-          "type": "息",
-          "status": "filled",
-          "fillDate": "2025-08-01",
-          "fillDays": 7,
-          "maintainDays": 1,
-          "maintainCapped": false
-        },
-        {
-          "exDate": "2024-06-25",
-          "preClose": 40.45,
-          "type": "息",
-          "status": "filled",
-          "fillDate": "2024-10-18",
-          "fillDays": 115,
-          "maintainDays": 111,
-          "maintainCapped": false
         }
       ]
     },
