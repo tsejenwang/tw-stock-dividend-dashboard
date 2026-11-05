@@ -1,60 +1,6 @@
 {
-  "generated_at": "2026-11-04",
+  "generated_at": "2026-11-05",
   "upcoming": [
-    {
-      "code": "00946",
-      "name": "群益科技高息成長",
-      "market": "tse",
-      "ex_date": "2026-11-04",
-      "type": "息",
-      "cash_dividend": 0.058,
-      "stock_dividend_ratio": null
-    },
-    {
-      "code": "00953B",
-      "name": "群益優選非投等債",
-      "market": "tse",
-      "ex_date": "2026-11-04",
-      "type": "息",
-      "cash_dividend": 0.067,
-      "stock_dividend_ratio": null
-    },
-    {
-      "code": "00985B",
-      "name": "群益ESG投等債0-5",
-      "market": "tse",
-      "ex_date": "2026-11-04",
-      "type": "息",
-      "cash_dividend": 0.053,
-      "stock_dividend_ratio": null
-    },
-    {
-      "code": "020036",
-      "name": "元大金融配息N",
-      "market": "tse",
-      "ex_date": "2026-11-04",
-      "type": "息",
-      "cash_dividend": 0.4,
-      "stock_dividend_ratio": null
-    },
-    {
-      "code": "8467",
-      "name": "波力-KY",
-      "market": "tse",
-      "ex_date": "2026-11-04",
-      "type": "息",
-      "cash_dividend": 2.0,
-      "stock_dividend_ratio": null
-    },
-    {
-      "code": "009823",
-      "name": "群益S&P500",
-      "market": "otc",
-      "ex_date": "2026-11-04",
-      "type": "除息",
-      "cash_dividend": 0.054,
-      "stock_dividend_ratio": null
-    },
     {
       "code": "3289",
       "name": "宜特",
@@ -79,7 +25,7 @@
       "market": "tse",
       "ex_date": "2026-11-06",
       "type": "息",
-      "cash_dividend": null,
+      "cash_dividend": 0.12,
       "stock_dividend_ratio": null
     },
     {
@@ -241,6 +187,15 @@
       "market": "otc",
       "ex_date": "2026-11-16",
       "type": "除息",
+      "cash_dividend": null,
+      "stock_dividend_ratio": null
+    },
+    {
+      "code": "5475",
+      "name": "德宏",
+      "market": "otc",
+      "ex_date": "2026-11-16",
+      "type": "除權",
       "cash_dividend": null,
       "stock_dividend_ratio": null
     },
@@ -758,6 +713,24 @@
       "stock_dividend_ratio": null
     },
     {
+      "code": "2344",
+      "name": "華邦電",
+      "market": "tse",
+      "ex_date": "2026-11-18",
+      "type": "息",
+      "cash_dividend": 2.0,
+      "stock_dividend_ratio": null
+    },
+    {
+      "code": "5434",
+      "name": "崇越",
+      "market": "tse",
+      "ex_date": "2026-11-18",
+      "type": "權",
+      "cash_dividend": null,
+      "stock_dividend_ratio": null
+    },
+    {
       "code": "00758B",
       "name": "復華能源債",
       "market": "otc",
@@ -958,6 +931,60 @@
   ],
   "recent": [
     {
+      "code": "00946",
+      "name": "群益科技高息成長",
+      "market": "tse",
+      "ex_date": "2026-11-04",
+      "type": "息",
+      "cash_dividend": 0.058,
+      "stock_dividend_ratio": null
+    },
+    {
+      "code": "00953B",
+      "name": "群益優選非投等債",
+      "market": "tse",
+      "ex_date": "2026-11-04",
+      "type": "息",
+      "cash_dividend": 0.067,
+      "stock_dividend_ratio": null
+    },
+    {
+      "code": "00985B",
+      "name": "群益ESG投等債0-5",
+      "market": "tse",
+      "ex_date": "2026-11-04",
+      "type": "息",
+      "cash_dividend": 0.053,
+      "stock_dividend_ratio": null
+    },
+    {
+      "code": "020036",
+      "name": "元大金融配息N",
+      "market": "tse",
+      "ex_date": "2026-11-04",
+      "type": "息",
+      "cash_dividend": 0.4,
+      "stock_dividend_ratio": null
+    },
+    {
+      "code": "8467",
+      "name": "波力-KY",
+      "market": "tse",
+      "ex_date": "2026-11-04",
+      "type": "息",
+      "cash_dividend": 2.0,
+      "stock_dividend_ratio": null
+    },
+    {
+      "code": "009823",
+      "name": "群益S&P500",
+      "market": "otc",
+      "ex_date": "2026-11-04",
+      "type": "除息",
+      "cash_dividend": 0.054,
+      "stock_dividend_ratio": null
+    },
+    {
       "code": "00406A",
       "name": "主動中信台灣收益",
       "market": "tse",
@@ -1036,15 +1063,6 @@
       "ex_date": "2026-11-03",
       "type": "除息",
       "cash_dividend": 0.022,
-      "stock_dividend_ratio": null
-    },
-    {
-      "code": "6165",
-      "name": "浪凡",
-      "market": "tse",
-      "ex_date": "2026-11-02",
-      "type": "息",
-      "cash_dividend": 5.0,
       "stock_dividend_ratio": null
     },
     {
