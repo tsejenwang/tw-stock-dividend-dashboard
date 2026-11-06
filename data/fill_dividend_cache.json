@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-05",
+  "generated_at": "2026-11-06",
   "stocks": {
     "1432": {
       "name": "大魯閣",
-      "computed_at": "2026-11-05",
+      "computed_at": "2026-11-06",
       "events": [
         {
           "exDate": "2026-06-23",
@@ -25,7 +25,7 @@
     },
     "1436": {
       "name": "華友聯",
-      "computed_at": "2026-11-05",
+      "computed_at": "2026-11-06",
       "events": [
         {
           "exDate": "2026-07-23",
@@ -354,96 +354,6 @@
         {
           "exDate": "2022-04-14",
           "preClose": 20.05,
-          "type": "息",
-          "status": "no_data"
-        }
-      ]
-    },
-    "2530": {
-      "name": "華建",
-      "computed_at": "2026-09-14",
-      "events": [
-        {
-          "exDate": "2026-09-14",
-          "preClose": 20.1,
-          "type": "息",
-          "status": "no_data"
-        },
-        {
-          "exDate": "2025-12-09",
-          "preClose": 28.55,
-          "type": "息",
-          "status": "no_data"
-        },
-        {
-          "exDate": "2025-09-08",
-          "preClose": 32.65,
-          "type": "息",
-          "status": "no_data"
-        },
-        {
-          "exDate": "2025-07-23",
-          "preClose": 30.0,
-          "type": "息",
-          "status": "no_data"
-        },
-        {
-          "exDate": "2025-04-24",
-          "preClose": 34.15,
-          "type": "息",
-          "status": "no_data"
-        },
-        {
-          "exDate": "2024-11-28",
-          "preClose": 42.7,
-          "type": "息",
-          "status": "no_data"
-        },
-        {
-          "exDate": "2024-08-29",
-          "preClose": 47.25,
-          "type": "息",
-          "status": "no_data"
-        },
-        {
-          "exDate": "2024-06-27",
-          "preClose": 48.0,
-          "type": "息",
-          "status": "no_data"
-        },
-        {
-          "exDate": "2024-04-25",
-          "preClose": 52.2,
-          "type": "息",
-          "status": "no_data"
-        },
-        {
-          "exDate": "2023-03-30",
-          "preClose": 18.35,
-          "type": "息",
-          "status": "no_data"
-        },
-        {
-          "exDate": "2020-07-31",
-          "preClose": 16.2,
-          "type": "息",
-          "status": "no_data"
-        },
-        {
-          "exDate": "2019-08-28",
-          "preClose": 16.2,
-          "type": "息",
-          "status": "no_data"
-        },
-        {
-          "exDate": "2017-08-25",
-          "preClose": 14.3,
-          "type": "息",
-          "status": "no_data"
-        },
-        {
-          "exDate": "2016-06-27",
-          "preClose": 15.8,
           "type": "息",
           "status": "no_data"
         }
@@ -1417,7 +1327,7 @@
     },
     "5522": {
       "name": "遠雄",
-      "computed_at": "2026-11-05",
+      "computed_at": "2026-11-06",
       "events": [
         {
           "exDate": "2026-10-29",
@@ -1585,7 +1495,7 @@
     },
     "6165": {
       "name": "浪凡",
-      "computed_at": "2026-11-05",
+      "computed_at": "2026-11-06",
       "events": [
         {
           "exDate": "2026-11-02",
@@ -1812,6 +1722,96 @@
         {
           "exDate": "2016-09-05",
           "preClose": 19.9,
+          "type": "息",
+          "status": "no_data"
+        }
+      ]
+    },
+    "2530": {
+      "name": "華建",
+      "computed_at": "2026-09-14",
+      "events": [
+        {
+          "exDate": "2026-09-14",
+          "preClose": 20.1,
+          "type": "息",
+          "status": "no_data"
+        },
+        {
+          "exDate": "2025-12-09",
+          "preClose": 28.55,
+          "type": "息",
+          "status": "no_data"
+        },
+        {
+          "exDate": "2025-09-08",
+          "preClose": 32.65,
+          "type": "息",
+          "status": "no_data"
+        },
+        {
+          "exDate": "2025-07-23",
+          "preClose": 30.0,
+          "type": "息",
+          "status": "no_data"
+        },
+        {
+          "exDate": "2025-04-24",
+          "preClose": 34.15,
+          "type": "息",
+          "status": "no_data"
+        },
+        {
+          "exDate": "2024-11-28",
+          "preClose": 42.7,
+          "type": "息",
+          "status": "no_data"
+        },
+        {
+          "exDate": "2024-08-29",
+          "preClose": 47.25,
+          "type": "息",
+          "status": "no_data"
+        },
+        {
+          "exDate": "2024-06-27",
+          "preClose": 48.0,
+          "type": "息",
+          "status": "no_data"
+        },
+        {
+          "exDate": "2024-04-25",
+          "preClose": 52.2,
+          "type": "息",
+          "status": "no_data"
+        },
+        {
+          "exDate": "2023-03-30",
+          "preClose": 18.35,
+          "type": "息",
+          "status": "no_data"
+        },
+        {
+          "exDate": "2020-07-31",
+          "preClose": 16.2,
+          "type": "息",
+          "status": "no_data"
+        },
+        {
+          "exDate": "2019-08-28",
+          "preClose": 16.2,
+          "type": "息",
+          "status": "no_data"
+        },
+        {
+          "exDate": "2017-08-25",
+          "preClose": 14.3,
+          "type": "息",
+          "status": "no_data"
+        },
+        {
+          "exDate": "2016-06-27",
+          "preClose": 15.8,
           "type": "息",
           "status": "no_data"
         }

@@ -1,24 +1,6 @@
 {
-  "generated_at": "2026-11-05",
+  "generated_at": "2026-11-06",
   "upcoming": [
-    {
-      "code": "3289",
-      "name": "宜特",
-      "market": "otc",
-      "ex_date": "2026-11-05",
-      "type": "除息",
-      "cash_dividend": 1.6,
-      "stock_dividend_ratio": null
-    },
-    {
-      "code": "5523",
-      "name": "豐謙",
-      "market": "otc",
-      "ex_date": "2026-11-05",
-      "type": "除息",
-      "cash_dividend": 0.5,
-      "stock_dividend_ratio": null
-    },
     {
       "code": "00400A",
       "name": "主動國泰動能高息",
@@ -794,6 +776,15 @@
       "stock_dividend_ratio": null
     },
     {
+      "code": "6924",
+      "name": "榮惠-KY創",
+      "market": "tse",
+      "ex_date": "2026-11-19",
+      "type": "權",
+      "cash_dividend": null,
+      "stock_dividend_ratio": null
+    },
+    {
       "code": "0051",
       "name": "元大中型100",
       "market": "tse",
@@ -930,6 +921,24 @@
     }
   ],
   "recent": [
+    {
+      "code": "3289",
+      "name": "宜特",
+      "market": "otc",
+      "ex_date": "2026-11-05",
+      "type": "除息",
+      "cash_dividend": 1.6,
+      "stock_dividend_ratio": null
+    },
+    {
+      "code": "5523",
+      "name": "豐謙",
+      "market": "otc",
+      "ex_date": "2026-11-05",
+      "type": "除息",
+      "cash_dividend": 0.5,
+      "stock_dividend_ratio": null
+    },
     {
       "code": "00946",
       "name": "群益科技高息成長",
@@ -1091,33 +1100,6 @@
       "type": "除權息",
       "cash_dividend": 0.5000208,
       "stock_dividend_ratio": 0.09999999
-    },
-    {
-      "code": "00888",
-      "name": "永豐台灣ESG",
-      "market": "otc",
-      "ex_date": "2026-10-27",
-      "type": "除息",
-      "cash_dividend": 1.5,
-      "stock_dividend_ratio": null
-    },
-    {
-      "code": "00958B",
-      "name": "永豐ESG銀行債15+",
-      "market": "otc",
-      "ex_date": "2026-10-27",
-      "type": "除息",
-      "cash_dividend": 0.041,
-      "stock_dividend_ratio": null
-    },
-    {
-      "code": "3691",
-      "name": "碩禾",
-      "market": "otc",
-      "ex_date": "2026-10-27",
-      "type": "除權",
-      "cash_dividend": null,
-      "stock_dividend_ratio": null
     }
   ]
 }
