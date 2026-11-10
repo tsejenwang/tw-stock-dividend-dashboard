@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09",
+  "generated_at": "2026-11-10",
   "upcoming": [
     {
       "code": "00940",
@@ -908,6 +908,24 @@
       "ex_date": "2026-12-29",
       "type": "除息",
       "cash_dividend": 6.0,
+      "stock_dividend_ratio": null
+    },
+    {
+      "code": "1707",
+      "name": "葡萄王",
+      "market": "tse",
+      "ex_date": "2026-12-30",
+      "type": "息",
+      "cash_dividend": 1.9,
+      "stock_dividend_ratio": null
+    },
+    {
+      "code": "5483",
+      "name": "中美晶",
+      "market": "otc",
+      "ex_date": "2027-01-05",
+      "type": "除息",
+      "cash_dividend": 2.8,
       "stock_dividend_ratio": null
     }
   ],
