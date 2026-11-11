@@ -1,15 +1,6 @@
 {
-  "generated_at": "2026-11-10",
+  "generated_at": "2026-11-11",
   "upcoming": [
-    {
-      "code": "00940",
-      "name": "元大台灣價值高息",
-      "market": "tse",
-      "ex_date": "2026-11-10",
-      "type": "息",
-      "cash_dividend": 0.06,
-      "stock_dividend_ratio": null
-    },
     {
       "code": "8390",
       "name": "金益鼎",
@@ -178,7 +169,7 @@
       "market": "tse",
       "ex_date": "2026-11-17",
       "type": "息",
-      "cash_dividend": null,
+      "cash_dividend": 2.0,
       "stock_dividend_ratio": null
     },
     {
@@ -250,7 +241,7 @@
       "market": "tse",
       "ex_date": "2026-11-17",
       "type": "息",
-      "cash_dividend": null,
+      "cash_dividend": 0.23,
       "stock_dividend_ratio": null
     },
     {
@@ -277,7 +268,7 @@
       "market": "tse",
       "ex_date": "2026-11-17",
       "type": "息",
-      "cash_dividend": null,
+      "cash_dividend": 0.35,
       "stock_dividend_ratio": null
     },
     {
@@ -601,7 +592,7 @@
       "market": "otc",
       "ex_date": "2026-11-17",
       "type": "除息",
-      "cash_dividend": null,
+      "cash_dividend": 0.065,
       "stock_dividend_ratio": null
     },
     {
@@ -884,6 +875,15 @@
       "stock_dividend_ratio": null
     },
     {
+      "code": "6655",
+      "name": "科定",
+      "market": "tse",
+      "ex_date": "2026-11-24",
+      "type": "息",
+      "cash_dividend": 2.6,
+      "stock_dividend_ratio": null
+    },
+    {
       "code": "00958B",
       "name": "永豐ESG銀行債15+",
       "market": "otc",
@@ -931,21 +931,12 @@
   ],
   "recent": [
     {
-      "code": "00400A",
-      "name": "主動國泰動能高息",
+      "code": "00940",
+      "name": "元大台灣價值高息",
       "market": "tse",
-      "ex_date": "2026-11-06",
+      "ex_date": "2026-11-10",
       "type": "息",
-      "cash_dividend": 0.12,
-      "stock_dividend_ratio": null
-    },
-    {
-      "code": "2414",
-      "name": "精技",
-      "market": "tse",
-      "ex_date": "2026-11-06",
-      "type": "權",
-      "cash_dividend": null,
+      "cash_dividend": 0.06,
       "stock_dividend_ratio": null
     },
     {
