@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23",
+  "generated_at": "2026-11-24",
   "upcoming": [
     {
       "code": "00901",
@@ -272,12 +272,48 @@
       "stock_dividend_ratio": null
     },
     {
+      "code": "00400A",
+      "name": "主動國泰動能高息",
+      "market": "tse",
+      "ex_date": "2026-12-08",
+      "type": "息",
+      "cash_dividend": null,
+      "stock_dividend_ratio": null
+    },
+    {
+      "code": "4414",
+      "name": "如興",
+      "market": "tse",
+      "ex_date": "2026-12-08",
+      "type": "息",
+      "cash_dividend": 0.00915,
+      "stock_dividend_ratio": null
+    },
+    {
+      "code": "6277",
+      "name": "宏正",
+      "market": "tse",
+      "ex_date": "2026-12-08",
+      "type": "息",
+      "cash_dividend": 2.3,
+      "stock_dividend_ratio": null
+    },
+    {
       "code": "8942",
       "name": "森鉅",
       "market": "otc",
       "ex_date": "2026-12-10",
       "type": "除息",
       "cash_dividend": 1.0,
+      "stock_dividend_ratio": null
+    },
+    {
+      "code": "5278",
+      "name": "尚凡*",
+      "market": "otc",
+      "ex_date": "2026-12-18",
+      "type": "除息",
+      "cash_dividend": 0.30810707,
       "stock_dividend_ratio": null
     },
     {
@@ -415,24 +451,6 @@
       "ex_date": "2026-11-20",
       "type": "除息",
       "cash_dividend": 0.064,
-      "stock_dividend_ratio": null
-    },
-    {
-      "code": "01007T",
-      "name": "兆豐國泰R2",
-      "market": "tse",
-      "ex_date": "2026-11-19",
-      "type": "息",
-      "cash_dividend": 0.215313,
-      "stock_dividend_ratio": null
-    },
-    {
-      "code": "6924",
-      "name": "榮惠-KY創",
-      "market": "tse",
-      "ex_date": "2026-11-19",
-      "type": "權",
-      "cash_dividend": null,
       "stock_dividend_ratio": null
     },
     {
