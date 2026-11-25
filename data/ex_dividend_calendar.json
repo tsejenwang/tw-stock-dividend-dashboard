@@ -1,58 +1,13 @@
 {
-  "generated_at": "2026-11-24",
+  "generated_at": "2026-11-25",
   "upcoming": [
-    {
-      "code": "00901",
-      "name": "永豐智能車供應鏈",
-      "market": "tse",
-      "ex_date": "2026-11-24",
-      "type": "息",
-      "cash_dividend": 7.0,
-      "stock_dividend_ratio": null
-    },
-    {
-      "code": "00930",
-      "name": "永豐ESG低碳高息",
-      "market": "tse",
-      "ex_date": "2026-11-24",
-      "type": "息",
-      "cash_dividend": 0.75,
-      "stock_dividend_ratio": null
-    },
-    {
-      "code": "6655",
-      "name": "科定",
-      "market": "tse",
-      "ex_date": "2026-11-24",
-      "type": "息",
-      "cash_dividend": 2.6,
-      "stock_dividend_ratio": null
-    },
-    {
-      "code": "00958B",
-      "name": "永豐ESG銀行債15+",
-      "market": "otc",
-      "ex_date": "2026-11-24",
-      "type": "除息",
-      "cash_dividend": 0.042,
-      "stock_dividend_ratio": null
-    },
-    {
-      "code": "00990B",
-      "name": "國泰收益非投等債",
-      "market": "otc",
-      "ex_date": "2026-11-24",
-      "type": "除息",
-      "cash_dividend": 0.077,
-      "stock_dividend_ratio": null
-    },
     {
       "code": "009817",
       "name": "國泰日本不動產",
       "market": "tse",
       "ex_date": "2026-11-26",
       "type": "息",
-      "cash_dividend": null,
+      "cash_dividend": 0.33,
       "stock_dividend_ratio": null
     },
     {
@@ -355,48 +310,48 @@
   ],
   "recent": [
     {
-      "code": "0051",
-      "name": "元大中型100",
+      "code": "00901",
+      "name": "永豐智能車供應鏈",
       "market": "tse",
-      "ex_date": "2026-11-20",
+      "ex_date": "2026-11-24",
       "type": "息",
-      "cash_dividend": 4.5,
+      "cash_dividend": 7.0,
       "stock_dividend_ratio": null
     },
     {
-      "code": "0055",
-      "name": "元大MSCI金融",
+      "code": "00930",
+      "name": "永豐ESG低碳高息",
       "market": "tse",
-      "ex_date": "2026-11-20",
+      "ex_date": "2026-11-24",
       "type": "息",
-      "cash_dividend": 2.7,
+      "cash_dividend": 0.75,
       "stock_dividend_ratio": null
     },
     {
-      "code": "00771",
-      "name": "元大US高息特別股",
+      "code": "6655",
+      "name": "科定",
       "market": "tse",
-      "ex_date": "2026-11-20",
+      "ex_date": "2026-11-24",
       "type": "息",
-      "cash_dividend": 0.21,
+      "cash_dividend": 2.6,
       "stock_dividend_ratio": null
     },
     {
-      "code": "00850",
-      "name": "元大臺灣ESG永續",
-      "market": "tse",
-      "ex_date": "2026-11-20",
-      "type": "息",
-      "cash_dividend": 1.0,
+      "code": "00958B",
+      "name": "永豐ESG銀行債15+",
+      "market": "otc",
+      "ex_date": "2026-11-24",
+      "type": "除息",
+      "cash_dividend": 0.042,
       "stock_dividend_ratio": null
     },
     {
-      "code": "4562",
-      "name": "穎漢",
-      "market": "tse",
-      "ex_date": "2026-11-20",
-      "type": "權",
-      "cash_dividend": null,
+      "code": "00990B",
+      "name": "國泰收益非投等債",
+      "market": "otc",
+      "ex_date": "2026-11-24",
+      "type": "除息",
+      "cash_dividend": 0.077,
       "stock_dividend_ratio": null
     },
     {
