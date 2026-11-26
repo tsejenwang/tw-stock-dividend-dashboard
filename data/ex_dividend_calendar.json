@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25",
+  "generated_at": "2026-11-26",
   "upcoming": [
     {
       "code": "009817",
@@ -245,12 +245,48 @@
       "stock_dividend_ratio": null
     },
     {
+      "code": "4912",
+      "name": "聯德控股-KY",
+      "market": "tse",
+      "ex_date": "2026-12-08",
+      "type": "息",
+      "cash_dividend": 1.0,
+      "stock_dividend_ratio": null
+    },
+    {
       "code": "6277",
       "name": "宏正",
       "market": "tse",
       "ex_date": "2026-12-08",
       "type": "息",
       "cash_dividend": 2.3,
+      "stock_dividend_ratio": null
+    },
+    {
+      "code": "00940",
+      "name": "元大台灣價值高息",
+      "market": "tse",
+      "ex_date": "2026-12-10",
+      "type": "息",
+      "cash_dividend": null,
+      "stock_dividend_ratio": null
+    },
+    {
+      "code": "6438",
+      "name": "迅得",
+      "market": "tse",
+      "ex_date": "2026-12-10",
+      "type": "息",
+      "cash_dividend": 3.0,
+      "stock_dividend_ratio": null
+    },
+    {
+      "code": "7715",
+      "name": "裕山",
+      "market": "otc",
+      "ex_date": "2026-12-10",
+      "type": "除權",
+      "cash_dividend": null,
       "stock_dividend_ratio": null
     },
     {
@@ -712,96 +748,6 @@
       "ex_date": "2026-11-17",
       "type": "除息",
       "cash_dividend": 0.202,
-      "stock_dividend_ratio": null
-    },
-    {
-      "code": "00844B",
-      "name": "台新15年IG金融債",
-      "market": "otc",
-      "ex_date": "2026-11-16",
-      "type": "除息",
-      "cash_dividend": 0.41,
-      "stock_dividend_ratio": null
-    },
-    {
-      "code": "00867B",
-      "name": "台新A-BBB電信債",
-      "market": "otc",
-      "ex_date": "2026-11-16",
-      "type": "除息",
-      "cash_dividend": 0.41,
-      "stock_dividend_ratio": null
-    },
-    {
-      "code": "00942B",
-      "name": "台新美A公司債20+",
-      "market": "otc",
-      "ex_date": "2026-11-16",
-      "type": "除息",
-      "cash_dividend": 0.062,
-      "stock_dividend_ratio": null
-    },
-    {
-      "code": "00970B",
-      "name": "台新BBB投等債20+",
-      "market": "otc",
-      "ex_date": "2026-11-16",
-      "type": "除息",
-      "cash_dividend": 0.05,
-      "stock_dividend_ratio": null
-    },
-    {
-      "code": "009806",
-      "name": "台新標普500",
-      "market": "otc",
-      "ex_date": "2026-11-16",
-      "type": "除息",
-      "cash_dividend": 0.4,
-      "stock_dividend_ratio": null
-    },
-    {
-      "code": "009807",
-      "name": "台新標普科技精選",
-      "market": "otc",
-      "ex_date": "2026-11-16",
-      "type": "除息",
-      "cash_dividend": 0.6,
-      "stock_dividend_ratio": null
-    },
-    {
-      "code": "00980B",
-      "name": "台新特選IG債10+",
-      "market": "otc",
-      "ex_date": "2026-11-16",
-      "type": "除息",
-      "cash_dividend": 0.047,
-      "stock_dividend_ratio": null
-    },
-    {
-      "code": "00988B",
-      "name": "玉山嚴選非投債",
-      "market": "otc",
-      "ex_date": "2026-11-16",
-      "type": "除息",
-      "cash_dividend": 0.148,
-      "stock_dividend_ratio": null
-    },
-    {
-      "code": "00989B",
-      "name": "台新美國非投等債",
-      "market": "otc",
-      "ex_date": "2026-11-16",
-      "type": "除息",
-      "cash_dividend": 0.066,
-      "stock_dividend_ratio": null
-    },
-    {
-      "code": "5475",
-      "name": "德宏",
-      "market": "otc",
-      "ex_date": "2026-11-16",
-      "type": "除權",
-      "cash_dividend": null,
       "stock_dividend_ratio": null
     }
   ]
